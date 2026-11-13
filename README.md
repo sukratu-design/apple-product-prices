@@ -1,6 +1,6 @@
 # Apple Product Prices
 
-A single-page site that shows the price range of every current Apple product, from the entry configuration to the fully loaded one, for the **United States** and **India**.
+A single-page site, developed by [Anand Bongir](https://x.com/anand_bongir), that shows the price range of every current Apple product, from the entry configuration to the fully loaded one, in **six countries**: the United States, India, the United Kingdom, the United Arab Emirates, Canada and Australia.
 
 Each row is one product. Dots mark every configuration on a shared price scale. Click a row to see the price ladder: storage tiers for iPhone and iPad, memory and storage upgrades for Mac, and size and connectivity for Apple Watch.
 
@@ -19,10 +19,18 @@ Each row is one product. Dots mark every configuration on a shared price scale. 
 
 All prices are read from Apple's own online stores:
 
-- US: `apple.com/shop` list prices, before sales tax.
-- India: `apple.com/in/shop` MRP, including GST.
+| Country | Store | Prices |
+|---|---|---|
+| United States | `apple.com/shop` | list prices, before sales tax |
+| India | `apple.com/in/shop` | MRP, including GST |
+| United Kingdom | `apple.com/uk/shop` | including VAT |
+| United Arab Emirates | `apple.com/ae/shop` | including VAT |
+| Canada | `apple.com/ca/shop` | before sales tax |
+| Australia | `apple.com/au/shop` | including GST |
 
-iPad prices are entered in `scripts/build_prices.py` from the same stores. Hermès Apple Watch prices are US starting prices from press coverage, because they are sold on a separate store.
+The only hand-entered prices are the Hermès Apple Watch rows (US starting prices from press coverage), because Hermès models are sold on a separate store.
+
+To add a country, add its store URL to `BASE` and its currency marker to `CUR` in `scripts/scrape.js`, add it to `COUNTRIES` and `CUR` in `scripts/build_prices.py`, then scrape it with `COUNTRIES=xx node scripts/scrape.js all`.
 
 ## Updating prices
 
@@ -40,10 +48,16 @@ python3 scripts/build_prices.py
 
 The build script rewrites `prices.js` and lists every price that changed, every configuration that disappeared and any configuration it could not read. Check that list, then commit.
 
+To scrape only some countries or pages:
+
+```bash
+COUNTRIES=uk,ae PAGES=imac,mac-mini node scripts/scrape.js all
+```
+
 To scrape one page while debugging:
 
 ```bash
-node scripts/scrape.js in macbook-pro
+node scripts/scrape.js uk macbook-pro
 ```
 
 When Apple launches or retires a product, add or remove its page in `scripts/configs.json` and its row in `scripts/build_prices.py`.

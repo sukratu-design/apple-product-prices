@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-13T11:13:38.643Z",
+ "configs": {
+  "default": {
+   "total": 549,
+   "totalFrom": "page-first",
+   "totalText": "",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-13T11:10:57.544Z",
+ "configs": {
+  "default": {
+   "total": 199,
+   "totalFrom": "summary",
+   "totalText": "$199.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

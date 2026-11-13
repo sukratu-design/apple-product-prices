@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-13T10:59:55.267Z",
+ "configs": {
+  "default": {
+   "total": 1549,
+   "totalFrom": "summary",
+   "totalText": "A$1,549.00 or A$64.54/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 A$1,549.00 or A$64.54/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 A$1,549.00 or A$64.54/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+     "512GB Footnote 1 A$1,949.00 or A$81.21/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

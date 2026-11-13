@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-13T10:59:52.449Z",
+ "configs": {
+  "default": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "£899.00 or £29.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 £899.00 or £29.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 £899.00 or £29.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
+     "512GB Footnote 1 £1,099.00 or £36.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

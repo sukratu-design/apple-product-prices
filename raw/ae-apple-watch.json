@@ -1,0 +1,370 @@
+{
+ "page": "apple-watch",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-13T11:09:27.392Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 1599,
+   "totalFrom": "summary",
+   "totalText": "AED 1,599.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From AED 1,599",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From AED 1,599",
+    "style": "New colors Sport Band AED 1,599.00 Durable, pin-and-tuck closure, adjustable",
+    "sport-color": "Olive",
+    "watch_bands-dimensionbandsize": "S/M Band fits 130–180mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 1,599",
+     "46mm From AED 1,799"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 1,599",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 1,999"
+    ],
+    "style": [
+     "New colors Sport Band AED 1,599.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Milanese Loop AED 1,799.00 Smooth mesh design, magnetic closure, infinitely adjustable"
+    ],
+    "sport-color": [
+     "Olive"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 130–180mm wrists.",
+     "M/L Band fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 1799,
+   "totalFrom": "summary",
+   "totalText": "AED 1,799.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From AED 1,799",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From AED 1,799",
+    "style": "New colors Sport Band AED 1,799.00 Durable, pin-and-tuck closure, adjustable",
+    "sport-color": "Olive",
+    "watch_bands-dimensionbandsize": "S/M Band fits 140–190mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 1,599",
+     "46mm From AED 1,799"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 1,799",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,199"
+    ],
+    "style": [
+     "New colors Sport Band AED 1,799.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Milanese Loop AED 1,999.00 Smooth mesh design, magnetic closure, infinitely adjustable"
+    ],
+    "sport-color": [
+     "Olive"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 140–190mm wrists.",
+     "M/L Band fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 1999,
+   "totalFrom": "summary",
+   "totalText": "AED 1,999.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From AED 1,599",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 1,999",
+    "style": "New colors Sport Band AED 1,999.00 Durable, pin-and-tuck closure, adjustable",
+    "sport-color": "Olive",
+    "watch_bands-dimensionbandsize": "S/M Band fits 130–180mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 1,599",
+     "46mm From AED 1,799"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 1,599",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 1,999"
+    ],
+    "style": [
+     "New colors Sport Band AED 1,999.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Milanese Loop AED 2,199.00 Smooth mesh design, magnetic closure, infinitely adjustable"
+    ],
+    "sport-color": [
+     "Olive"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 130–180mm wrists.",
+     "M/L Band fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 2199,
+   "totalFrom": "summary",
+   "totalText": "AED 2,199.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From AED 1,799",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,199",
+    "style": "New colors Sport Band AED 2,199.00 Durable, pin-and-tuck closure, adjustable",
+    "sport-color": "Olive",
+    "watch_bands-dimensionbandsize": "S/M Band fits 140–190mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 1,599",
+     "46mm From AED 1,799"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 1,799",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,199"
+    ],
+    "style": [
+     "New colors Sport Band AED 2,199.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Milanese Loop AED 2,399.00 Smooth mesh design, magnetic closure, infinitely adjustable"
+    ],
+    "sport-color": [
+     "Olive"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 140–190mm wrists.",
+     "M/L Band fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 2799,
+   "totalFrom": "summary",
+   "totalText": "AED 2,799.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "42mm From AED 2,799",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,799",
+    "style": "New colors Sport Band AED 2,799.00 Durable, pin-and-tuck closure, adjustable",
+    "sport-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "S/M Band fits 130–180mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 2,799",
+     "46mm From AED 2,999"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,799"
+    ],
+    "style": [
+     "New colors Sport Band AED 2,799.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Milanese Loop AED 2,999.00 Smooth mesh design, magnetic closure, infinitely adjustable"
+    ],
+    "sport-color": [
+     "Burgundy"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 130–180mm wrists.",
+     "M/L Band fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "AED 2,999.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "46mm From AED 2,999",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,999",
+    "style": "New colors Sport Band AED 2,999.00 Durable, pin-and-tuck closure, adjustable",
+    "sport-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "S/M Band fits 140–190mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 2,799",
+     "46mm From AED 2,999"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 2,999"
+    ],
+    "style": [
+     "New colors Sport Band AED 2,999.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Milanese Loop AED 3,199.00 Smooth mesh design, magnetic closure, infinitely adjustable"
+    ],
+    "sport-color": [
+     "Burgundy"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 140–190mm wrists.",
+     "M/L Band fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 3799,
+   "totalFrom": "summary",
+   "totalText": "AED 3,799.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "42mm From AED 3,799",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 3,799",
+    "watch_bands-dimensionbandsize": "S/M Band fits 130–180mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 3,799",
+     "46mm From AED 3,999"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 3,799"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 130–180mm wrists.",
+     "M/L Band fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 3999,
+   "totalFrom": "summary",
+   "totalText": "AED 3,999.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "46mm From AED 3,999",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 3,999",
+    "watch_bands-dimensionbandsize": "S/M Band fits 140–190mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From AED 1,599 Matte finish and a durable display with Ceramic Shield 2. Footnote §",
+     "New finish Titanium Comes with GPS + Cellular From AED 2,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From AED 3,799 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From AED 3,799",
+     "46mm From AED 3,999"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From AED 3,999"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 140–190mm wrists.",
+     "M/L Band fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send messages with your iPhone nearby."
+    ]
+   }
+  }
+ }
+}

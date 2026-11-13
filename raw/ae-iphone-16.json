@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-13T11:00:02.356Z",
+ "configs": {
+  "default": {
+   "total": 3399,
+   "totalFrom": "summary",
+   "totalText": "AED 3,399.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From AED 3,399",
+    "dimensionColor": "Ultramarine"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From AED 3,399"
+    ],
+    "dimensionColor": [
+     "Ultramarine",
+     "Teal",
+     "White",
+     "Pink",
+     "Black"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

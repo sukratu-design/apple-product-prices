@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-13T11:13:39.127Z",
+ "configs": {
+  "default": {
+   "total": 229,
+   "totalFrom": "page-first",
+   "totalText": "",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

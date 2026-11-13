@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-13T10:59:40.126Z",
+ "configs": {
+  "pro": {
+   "total": 1749,
+   "totalFrom": "summary",
+   "totalText": "$1,749.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From $1749 or $72.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 $1,749.00 or $72.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From $1749 or $72.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From $1899 or $79.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 $1,749.00 or $72.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "512GB Footnote 1 $2,049.00 or $85.37/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "1TB Footnote 1 $2,649.00 or $110.37/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "2TB Footnote 1 $3,549.00 or $147.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1899,
+   "totalFrom": "summary",
+   "totalText": "$1,899.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From $1899 or $79.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 $1,899.00 or $79.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From $1749 or $72.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From $1899 or $79.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 $1,899.00 or $79.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "512GB Footnote 1 $2,199.00 or $91.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "1TB Footnote 1 $2,799.00 or $116.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "2TB Footnote 1 $3,699.00 or $154.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

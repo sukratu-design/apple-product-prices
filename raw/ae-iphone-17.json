@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-13T10:59:53.678Z",
+ "configs": {
+  "default": {
+   "total": 3799,
+   "totalFrom": "summary",
+   "totalText": "AED 3,799.00",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 AED 3,799.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 AED 3,799.00",
+     "512GB Footnote 1 AED 4,649.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

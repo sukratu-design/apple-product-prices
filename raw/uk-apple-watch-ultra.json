@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-13T11:09:26.675Z",
+ "configs": {
+  "band": {
+   "total": 749,
+   "totalFrom": "summary",
+   "totalText": "£749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "New colours Trail Loop For all sports and workouts. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "New colours Ocean Band For water sports and recreational diving. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Strap fits 130–160mm wrists.",
+     "Medium Strap fits 145–190mm wrists.",
+     "Large Strap fits 165–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "£849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "New colours Trail Loop For all sports and workouts. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "New colours Ocean Band For water sports and recreational diving. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Strap fits 130–160mm wrists.",
+     "Medium Strap fits 155–185mm wrists.",
+     "Large Strap fits 180–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

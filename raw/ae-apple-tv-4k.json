@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-13T11:11:21.938Z",
+ "configs": {
+  "default": {
+   "total": 179,
+   "totalFrom": "summary",
+   "totalText": "AED 179.00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

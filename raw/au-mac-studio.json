@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-13T11:08:08.993Z",
+ "configs": {
+  "m5max-32": {
+   "total": 4299,
+   "totalFrom": "summary",
+   "totalText": "A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Included",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + A$450.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + A$450.00",
+     "2TB + A$1,200.00",
+     "4TB + A$2,700.00",
+     "8TB + A$5,700.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 5199,
+   "totalFrom": "summary",
+   "totalText": "A$5,199.00 or A$433.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − A$450.00",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Included",
+     "64GB + A$600.00",
+     "128GB + A$3,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + A$450.00",
+     "2TB + A$1,200.00",
+     "4TB + A$2,700.00",
+     "8TB + A$5,700.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 9499,
+   "totalFrom": "summary",
+   "totalText": "A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Included",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film. + A$1,950.00"
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + A$6,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + A$750.00",
+     "4TB + A$2,250.00",
+     "8TB + A$5,250.00",
+     "16TB + A$11,250.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 11449,
+   "totalFrom": "summary",
+   "totalText": "A$11,449.00 or A$954.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film.",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From A$4,299.00 or A$358.25/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From A$9,499.00 or A$791.58/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − A$1,950.00",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film."
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + A$6,000.00",
+     "512GB + A$23,250.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + A$750.00",
+     "4TB + A$2,250.00",
+     "8TB + A$5,250.00",
+     "16TB + A$11,250.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

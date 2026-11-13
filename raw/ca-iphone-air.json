@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-13T10:59:43.575Z",
+ "configs": {
+  "default": {
+   "total": 1599,
+   "totalFrom": "summary",
+   "totalText": "$1,599.00",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 $1,599.00 or $66.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 $1,599.00 or $66.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "512GB Footnote 1 $1,899.00 or $79.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "1TB Footnote 1 $2,499.00 or $104.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

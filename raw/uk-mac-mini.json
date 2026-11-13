@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-13T11:07:08.238Z",
+ "configs": {
+  "m6": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "£899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "selected": {
+    "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + £200.00",
+     "32GB + £400.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + £200.00",
+     "1TB + £500.00",
+     "2TB + £1,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + £100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 1699,
+   "totalFrom": "summary",
+   "totalText": "£1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + £200.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + £600.00",
+     "64GB + £1,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + £300.00",
+     "2TB + £800.00",
+     "4TB + £1,800.00",
+     "8TB + £3,800.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + £100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 1899,
+   "totalFrom": "summary",
+   "totalText": "£1,899 or £58.36/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − £200.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + £600.00",
+     "64GB + £1,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + £300.00",
+     "2TB + £800.00",
+     "4TB + £1,800.00",
+     "8TB + £3,800.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + £100.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

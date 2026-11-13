@@ -135,10 +135,38 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 .step .cfg i.sto{background:transparent;border:2px solid var(--c)}
 .group-h{font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);grid-column:1/-1;margin-top:4px}
 .missing{font-size:14px;color:var(--muted)}
+
+/* site header and footer */
+.site-head{display:flex;justify-content:space-between;align-items:flex-end;gap:12px 24px;flex-wrap:wrap;padding-block:4px 6px}
+.brand{display:flex;align-items:center;gap:14px;min-width:0}
+.mark{display:grid;grid-template-columns:repeat(3,10px);gap:4px;align-items:end;flex:none}
+.mark i{display:block;width:10px;border-radius:5px;background:var(--t1)}
+.mark i:nth-child(1){height:14px}.mark i:nth-child(2){height:22px;background:var(--t2)}.mark i:nth-child(3){height:30px;background:var(--t4)}
+.site-name{font-family:var(--display);font-weight:700;font-size:22px;letter-spacing:-.015em;line-height:1.1}
+.site-sub{color:var(--muted);font-size:14px;margin-top:2px;text-wrap:balance}
+.checked{font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.04em}
+.site-foot{display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;padding-block:18px 8px;border-top:1px solid var(--line);margin-top:8px}
+.site-foot p{margin:0}
+.credit{font-size:15px;color:var(--fg)}
+.site-foot a{color:var(--fg);font-weight:600;text-decoration:underline;text-decoration-color:color-mix(in srgb,var(--t1) 60%,transparent);text-underline-offset:3px;text-decoration-thickness:2px}
+.site-foot a:hover{text-decoration-color:var(--t1)}
+.fine{font-size:12.5px;color:var(--muted)}
+.fine a{font-weight:500;color:var(--muted)}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <header class="site-head">
+    <div class="brand">
+      <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <div>
+        <div class="site-name">Apple Product Prices</div>
+        <div class="site-sub" id="site-sub">Every current Apple product, from entry configuration to fully loaded.</div>
+      </div>
+    </div>
+    <div class="checked" id="checked"></div>
+  </header>
+
   <div class="topbar">
     <div class="seg" role="tablist" aria-label="Product family" id="tabs"></div>
     <div class="seg country" role="tablist" aria-label="Country" id="country"></div>
@@ -163,25 +191,34 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
       <div class="src" id="src"></div>
     </div>
   </section>
+
+  <footer class="site-foot">
+    <p class="credit">Developed by <a href="https://x.com/anand_bongir" target="_blank" rel="noopener">Anand Bongir</a></p>
+    <p class="fine" id="fine">Prices are read from Apple's online stores and checked monthly. Not affiliated with Apple.</p>
+    <p class="fine"><a href="https://github.com/sukratu-design/apple-product-prices" target="_blank" rel="noopener">Source on GitHub</a></p>
+  </footer>
 </div>
 
 <script src="prices.js"></script>
 <script>
 // ---------- builders: turn the compact data in prices.js into rows ----------
-// A tier is [label, usd, inr, meta]. A missing price is null and the tier is skipped in that country.
+// Data rows are [label, price per country in P.countryOrder]. Built tiers are [label, [prices], meta];
+// a missing price is null and that tier is skipped in that country.
 const P = window.PRICES;
+const ORDER = P.countryOrder;
 let country = "us", variant = "wifi", cat = "iphone", selected = null;
-const CI = () => country === "us" ? 1 : 2;
+const CI = () => ORDER.indexOf(country);
+const add = (a, b) => a.map((x, i) => x == null || b[i] == null ? null : x + b[i]);
+const zero = () => ORDER.map(() => 0);
 
 function buildIpad(p){ // Wi-Fi tiers, + cellular, + nano-texture glass on some sizes
   return () => {
-    const out = [];
-    p.wifi.forEach(([label, us, inr], si) => {
-      const add = variant === "cellular" ? p.cell : [0, 0];
-      const base = [label, us + add[0], inr + add[1], {s:si, n:p.wifi.length}];
-      out.push(base);
-      if ((p.nano || []).includes(label))
-        out.push([label + " · Nano-texture", base[1] + p.nanoAdd[0], base[2] + p.nanoAdd[1], {s:si, n:p.wifi.length, ring:true}]);
+    const out = [], n = p.wifi.length;
+    p.wifi.forEach((row, si) => {
+      const prices = add(row.slice(1), variant === "cellular" ? p.cell : zero());
+      out.push([row[0], prices, {s:si, n}]);
+      if ((p.nano || []).includes(row[0]))
+        out.push([row[0] + " · Nano-texture", add(prices, p.nanoAdd.map(x => x || null)), {s:si, n, ring:true}]);
     });
     return out;
   };
@@ -189,41 +226,42 @@ function buildIpad(p){ // Wi-Fi tiers, + cellular, + nano-texture glass on some 
 function buildMac(p){ // base configuration, each memory step, each storage step, then fully loaded
   const name = (l, kind) => l.replace(/^(\S+)/, "$1 " + kind); // "512GB (needs …)" -> "512GB memory (needs …)"
   return () => {
-    const [bl, bu, bi] = p.base, out = [[bl, bu, bi, {k:"base"}]];
-    const add = (a, d) => a == null || d == null ? null : a + d;
-    p.mem.filter(m => m[1] || m[2]).forEach(([l, du, di]) => out.push([name(l, "memory"), add(bu, du), add(bi, di), {k:"mem"}]));
-    p.sto.filter(s => s[1] || s[2]).forEach(([l, du, di]) => out.push([name(l, "storage"), add(bu, du), add(bi, di), {k:"sto", ring:true}]));
-    if (p.max) out.push([p.max[0], p.max[1], p.max[2], {k:"max"}]);
+    const base = p.base.slice(1), out = [[p.base[0], base, {k:"base"}]];
+    const upgrade = r => r.slice(1).some(x => x);
+    p.mem.filter(upgrade).forEach(r => out.push([name(r[0], "memory"), add(base, r.slice(1)), {k:"mem"}]));
+    p.sto.filter(upgrade).forEach(r => out.push([name(r[0], "storage"), add(base, r.slice(1)), {k:"sto", ring:true}]));
+    if (p.max) out.push([p.max[0], p.max.slice(1), {k:"max"}]);
     return out;
   };
 }
 Object.values(P.categories).forEach(c => c.products.forEach(p => {
-  p.build = p.wifi ? buildIpad(p) : p.base ? buildMac(p) : () => p.tiers;
+  p.build = p.wifi ? buildIpad(p) : p.base ? buildMac(p) : () => p.tiers.map(t => [t[0], t.slice(1), null]);
 }));
 // tiers for the current country and variant: [label, price, meta]
-const T = p => p.build().filter(t => t[CI()] != null).map(t => [t[0], t[CI()], t[3]]);
+const T = p => p.build().filter(t => t[1][CI()] != null).map(t => [t[0], t[1][CI()], t[2]]);
 
 // ---------- formatting ----------
 const C = () => P.countries[country];
 const fmt = n => C().symbol + Math.round(n).toLocaleString(C().locale);
 const fmtAxis = n => {
-  if (n === 0) return C().symbol + "0";
-  if (country === "in") {
-    if (n >= 100000) return "₹" + +(n / 100000).toFixed(2) + "L";
-    return "₹" + +(n / 1000).toFixed(1) + "k";
-  }
-  if (n < 1000) return "$" + n;
-  return "$" + +(n / 1000).toFixed(1) + "k";
+  const sym = C().symbol;
+  if (n === 0) return sym + "0";
+  if (country === "in" && n >= 100000) return sym + +(n / 100000).toFixed(2) + "L";
+  if (n < 1000) return sym + n;
+  return sym + +(n / 1000).toFixed(1) + "k";
 };
-function niceStep(range){
-  const raw = range / 5, mag = Math.pow(10, Math.floor(Math.log10(raw)));
+const noteText = n => Array.isArray(n) ? (n[1 + CI()] ? `${n[0]} ${fmt(n[1 + CI()])}` : "") : n;
+function niceStep(range, ticks = 5){
+  const raw = range / ticks, mag = Math.pow(10, Math.floor(Math.log10(raw)));
   for (const m of [1, 2, 2.5, 5, 10]) if (m * mag >= raw) return m * mag;
 }
-function axisFor(c){ // auto scale per country; a category can cap outliers or start above zero
-  const cfg = (c.axis || {})[country] || {};
-  const all = c.products.flatMap(p => T(p).map(t => t[1]));
-  let lo = cfg.min || 0, hi = Math.min(Math.max(...all), cfg.cap || Infinity);
-  const step = cfg.step || niceStep(hi - lo);
+function axisFor(c){ // auto scale per country; outlier rows don't stretch it, zoom starts it near the cheapest model
+  const cfg = c.axis || {}, out = cfg.outliers || [];
+  const ps = c.products.filter(p => !out.includes(p.id));
+  const all = (ps.length ? ps : c.products).flatMap(p => T(p).map(t => t[1]));
+  if (!all.length) return {min: 0, max: 1, step: 1};
+  let lo = cfg.zoom ? Math.min(...all) * 0.8 : 0, hi = Math.max(...all);
+  const step = niceStep(hi - lo, cfg.zoom ? 7 : 5);
   lo = Math.floor(lo / step) * step;
   hi = Math.ceil(hi / step) * step;
   return {min: lo, max: hi, step};
@@ -243,9 +281,10 @@ function readHash(){
   cat = P.categories[tok[0]] ? tok[0] : "iphone";
   const c = P.categories[cat];
   variant = c.variants && c.variants.some(v => tok.includes(v[0])) ? c.variants.find(v => tok.includes(v[0]))[0] : "wifi";
-  if (tok.includes("in")) country = "in";
-  else if (tok.includes("us")) country = "us";
+  const fromHash = ORDER.find(k => tok.includes(k));
+  if (fromHash) country = fromHash;
   else { try { country = localStorage.getItem("country") || "us"; } catch (e) { country = "us"; } }
+  if (!P.countries[country]) country = "us";
 }
 function go(nextCat = cat, nextVariant = variant, nextCountry = country){
   const parts = [nextCat];
@@ -261,8 +300,8 @@ function renderTabs(){
   $("tabs").innerHTML = P.order.map(k =>
     `<button role="tab" aria-selected="${k===cat}" data-k="${k}">${P.categories[k].name}</button>`).join("");
   $("tabs").querySelectorAll("button").forEach(b => b.onclick = () => go(b.dataset.k, "wifi"));
-  $("country").innerHTML = Object.entries(P.countries).map(([k, v]) =>
-    `<button role="tab" aria-selected="${k===country}" data-k="${k}">${v.label} <span class="cur">${v.symbol}</span></button>`).join("");
+  $("country").innerHTML = ORDER.map(k => { const v = P.countries[k];
+    return `<button role="tab" aria-selected="${k===country}" data-k="${k}" title="${v.label} · ${v.symbol.trim()}">${v.short}</button>`; }).join("");
   $("country").querySelectorAll("button").forEach(b => b.onclick = () => go(cat, variant, b.dataset.k));
 }
 
@@ -314,18 +353,18 @@ function renderChart(c){
         ${dots}${off}
       </div>
       <div class="top" style="--hi:var(${hiVar})">
-        <div class="p">${len > 1 ? fmt(lo) + "–" + fmt(hi).slice(1) : fmt(lo)}</div>
+        <div class="p">${len > 1 ? fmt(lo) + "–" + fmt(hi).slice(C().symbol.length) : fmt(lo)}</div>
         <div class="l"><i></i>${len > 1 ? len + " configs" : "starting price"}</div>
       </div>
     </div>`;
   }).join("");
   const hidden = c.products.length - ps.length;
   if (!ps.length) {
-    $("chart").innerHTML = `<div class="missing">${c.title || c.name} is not sold in the ${C().label} Apple Store. Switch to ${Object.values(P.countries).filter(x => x !== C()).map(x => x.label).join(" or ")} to see its prices.</div>`;
+    $("chart").innerHTML = `<div class="missing">${c.title || c.name} is not sold in the ${C().label} Apple Store. Pick another country to see its prices.</div>`;
     return;
   }
   $("chart").innerHTML = rows
-    + (hidden ? `<div class="missing">${hidden} product${hidden > 1 ? "s are" : " is"} not listed in the ${C().label} store.</div>` : "")
+    + (hidden ? `<div class="missing">${hidden} product${hidden > 1 ? "s have" : " has"} no listed price in ${C().label}.</div>` : "")
     + `<div class="axis"><div class="pad"></div><div class="ticks">${ticks.map(v => `<span style="left:${pct(v)}%">${fmtAxis(v)}</span>`).join("")}</div><div class="lab">${ax.min ? "axis starts at " + fmt(ax.min) : "price range"}</div></div><div class="tip" id="tip" hidden></div>`;
 
   $("chart").querySelectorAll(".row").forEach(r => r.onclick = e => { if (!e.target.closest(".dot")) select(r.dataset.p); });
@@ -366,7 +405,7 @@ function renderLadder(c){
       return items.length ? `<div class="group-h">${h}</div>` + items.map(([x, i]) => stepCard(x, i, t, true)).join("") : ""; };
     steps = grp("base", "Base configuration") + grp("mem", "Memory upgrades") + grp("sto", "Storage upgrades") + grp("max", "Fully loaded");
   } else steps = t.map((x, i) => stepCard(x, i, t, false)).join("");
-  const notes = (p.notes || []).map(e => `<span>${e}</span>`).join("");
+  const notes = (p.notes || []).map(noteText).filter(Boolean).map(e => `<span>${e}</span>`).join("");
   $("ladder").innerHTML = `
     <div class="ladder-h">
       <h2>${p.n} <span style="color:var(--muted);font-weight:500">${p.s}</span>
@@ -402,6 +441,13 @@ function render(){
   $("h1").textContent = c.title || c.name + " lineup";
   document.title = `${c.name} prices (${C().short}) · Apple Product Prices`;
   renderTabs(); renderVariants(c); renderStats(c); renderChart(c); renderLadder(c); renderLegend(c);
+}
+{
+  const names = ORDER.map(k => P.countries[k].short);
+  const d = new Date(P.updated + "T00:00:00");
+  $("site-sub").textContent = `Every current Apple product, from entry configuration to fully loaded, in ${names.slice(0, -1).join(", ")} and ${names[names.length - 1]}.`;
+  $("checked").textContent = "Prices checked " + d.toLocaleDateString("en-GB", {day:"numeric", month:"short", year:"numeric"});
+  $("fine").textContent = `Prices are read from Apple's online stores (${ORDER.map(k => P.countries[k].store).join(", ")}) and checked monthly. Not affiliated with Apple.`;
 }
 window.addEventListener("hashchange", render);
 render();

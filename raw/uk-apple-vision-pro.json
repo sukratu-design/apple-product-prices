@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-13T11:09:37.181Z",
+ "configs": {
+  "default": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "From £3,499 or £291.58/mo. per month for 12 mo. months at 0% interest Footnote ※",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB Footnote 2 From £3,499 or £291.58/mo. per month for 12 mo. months at 0% interest Footnote ※",
+     "512GB Footnote 2 From £3,699 or £308.25/mo. per month for 12 mo. months at 0% interest Footnote ※",
+     "1TB Footnote 2 From £3,999 or £333.25/mo. per month for 12 mo. months at 0% interest Footnote ※"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-13T10:59:54.225Z",
+ "configs": {
+  "default": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "$1,299.00",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 $1,299.00 or $54.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 $1,299.00 or $54.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "512GB Footnote 1 $1,599.00 or $66.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

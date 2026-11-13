@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-13T11:13:44.274Z",
+ "configs": {
+  "default": {
+   "total": 449,
+   "totalFrom": "page-first",
+   "totalText": "",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

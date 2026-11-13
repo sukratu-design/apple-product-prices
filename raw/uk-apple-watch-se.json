@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-13T11:08:56.923Z",
+ "configs": {
+  "40-gps": {
+   "total": 219,
+   "totalFrom": "summary",
+   "totalText": "£219.00 or £18.25/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "category": "Rubber Flexible, comfortable, swimproof straps. £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "rubber-style": "New colours Solo Loop £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "44mm From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Textile Soft, lightweight materials. Great for everyday wear. From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From £269 or £22.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+     "New colours Sport Band £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 249,
+   "totalFrom": "summary",
+   "totalText": "£249.00 or £20.75/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "category": "Rubber Flexible, comfortable, swimproof straps. £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "rubber-style": "New colours Solo Loop £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "44mm From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Textile Soft, lightweight materials. Great for everyday wear. From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From £299 or £24.91/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+     "New colours Sport Band £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 289,
+   "totalFrom": "summary",
+   "totalText": "£289.00 or £24.08/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "category": "Rubber Flexible, comfortable, swimproof straps. £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "rubber-style": "New colours Solo Loop £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "44mm From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Textile Soft, lightweight materials. Great for everyday wear. From £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From £339 or £28.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+     "New colours Sport Band £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band £289 or £24.08/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 319,
+   "totalFrom": "summary",
+   "totalText": "£319.00 or £26.58/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "category": "Rubber Flexible, comfortable, swimproof straps. £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "rubber-style": "New colours Solo Loop £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From £219 or £18.25/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "44mm From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From £249 or £20.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Textile Soft, lightweight materials. Great for everyday wear. From £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From £369 or £30.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Stretchable, closure-free, precise fit",
+     "New colours Sport Band £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band £319 or £26.58/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆ Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

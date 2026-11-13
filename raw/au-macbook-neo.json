@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-13T11:05:28.626Z",
+ "configs": {
+  "256": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+     "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 1249,
+   "totalFrom": "summary",
+   "totalText": "A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+     "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "page": "apple-watch-se",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-13T11:08:58.625Z",
+ "configs": {
+  "40-gps": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "AED 999.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From AED 999",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From AED 999",
+    "watch_bands-dimensionbandsize": "S/M Band fits 130–180mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From AED 999",
+     "44mm From AED 1,119"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 999",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From AED 1,199"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 130–180mm wrists.",
+     "M/L Band fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 1119,
+   "totalFrom": "summary",
+   "totalText": "AED 1,119.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From AED 1,119",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From AED 1,119",
+    "watch_bands-dimensionbandsize": "S/M Band fits 140–190mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From AED 999",
+     "44mm From AED 1,119"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 1,119",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From AED 1,319"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 140–190mm wrists.",
+     "M/L Band fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 1199,
+   "totalFrom": "summary",
+   "totalText": "AED 1,199.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From AED 999",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From AED 1,199",
+    "watch_bands-dimensionbandsize": "S/M Band fits 130–180mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From AED 999",
+     "44mm From AED 1,119"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 999",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From AED 1,199"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 130–180mm wrists.",
+     "M/L Band fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 1319,
+   "totalFrom": "summary",
+   "totalText": "AED 1,319.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From AED 1,119",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From AED 1,319",
+    "watch_bands-dimensionbandsize": "S/M Band fits 140–190mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From AED 999",
+     "44mm From AED 1,119"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From AED 1,119",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote § From AED 1,319"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M Band fits 140–190mm wrists.",
+     "M/L Band fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

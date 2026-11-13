@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-13T11:00:04.171Z",
+ "configs": {
+  "default": {
+   "total": 1149,
+   "totalFrom": "summary",
+   "totalText": "A$1,149.00 or A$47.88/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 A$1,149.00 or A$47.88/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 A$1,149.00 or A$47.88/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+     "512GB Footnote 1 A$1,549.00 or A$64.54/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

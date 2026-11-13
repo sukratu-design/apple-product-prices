@@ -10,10 +10,24 @@
     "iphone-17e":    {"url": "buy-iphone/iphone-17e"},
     "iphone-16":     {"url": "buy-iphone/iphone-16"},
 
-    "ipad-pro":  {"url": "buy-ipad/ipad-pro"},
-    "ipad-air":  {"url": "buy-ipad/ipad-air"},
-    "ipad-mini": {"url": "buy-ipad/ipad-mini"},
-    "ipad":      {"url": "buy-ipad/ipad"},
+    "ipad-pro":  {"url": "buy-ipad/ipad-pro", "paths": {
+      "11-wifi": [["dimensionScreensize", "11inch"], ["dimensionConnection", "wifi"]],
+      "11-cell": [["dimensionScreensize", "11inch"], ["dimensionConnection", "wificell"]],
+      "13-wifi": [["dimensionScreensize", "13inch"], ["dimensionConnection", "wifi"]],
+      "13-cell": [["dimensionScreensize", "13inch"], ["dimensionConnection", "wificell"]],
+      "nano":    [["dimensionScreensize", "11inch"], ["dimensionCapacity", "1tb"], ["dimensionConnection", "wifi"]]}},
+    "ipad-air":  {"url": "buy-ipad/ipad-air", "paths": {
+      "11-wifi": [["dimensionScreensize", "11inch"], ["dimensionConnection", "wifi"]],
+      "11-cell": [["dimensionScreensize", "11inch"], ["dimensionConnection", "wificell"]],
+      "13-wifi": [["dimensionScreensize", "13inch"], ["dimensionConnection", "wifi"]],
+      "13-cell": [["dimensionScreensize", "13inch"], ["dimensionConnection", "wificell"]]}},
+    "ipad-mini": {"url": "buy-ipad/ipad-mini", "paths": {
+      "wifi": [["dimensionConnection", "wifi"]],
+      "cell": [["dimensionConnection", "wificell"]],
+      "nano": [["dimensionCapacity", "256gb"], ["dimensionConnection", "wifi"]]}},
+    "ipad":      {"url": "buy-ipad/ipad", "paths": {
+      "wifi": [["dimensionConnection", "wifi"]],
+      "cell": [["dimensionConnection", "wificell"]]}},
 
     "macbook-neo": {"url": "buy-mac/macbook-neo", "paths": {
       "256": [["storage-dimensionCapacity", "256gb"]],

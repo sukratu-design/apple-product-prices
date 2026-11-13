@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-13T11:00:02.673Z",
+ "configs": {
+  "default": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "$999.00",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 $999.00 or $41.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 $999.00 or $41.62/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+     "512GB Footnote 1 $1,299.00 or $54.12/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

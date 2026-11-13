@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-13T11:10:06.491Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 549,
+   "totalFrom": "summary",
+   "totalText": "$549.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 619,
+   "totalFrom": "summary",
+   "totalText": "$619.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $689 or $58.98/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 679,
+   "totalFrom": "summary",
+   "totalText": "$679.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $679 or $58.12/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 749,
+   "totalFrom": "summary",
+   "totalText": "$749.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "Light Gold",
+     "Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From $619 or $52.98/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $819 or $70.10/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $749 or $64.11/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "$999.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "42mm From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $999 or $85.51/mo. per month for 12 mo.months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $999 or $85.51/mo. per month for 12 mo.months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send texts with your iPhone nearby."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 1069,
+   "totalFrom": "summary",
+   "totalText": "$1,069.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "46mm From $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $1069 or $91.50/mo. per month for 12 mo.months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $1069 or $91.50/mo. per month for 12 mo.months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $1139 or $97.49/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $1069 or $91.50/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send texts with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "$1,299.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "42mm From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $1299 or $111.19/mo. per month for 12 mo.months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $1299 or $111.19/mo. per month for 12 mo.months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send texts with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1369,
+   "totalFrom": "summary",
+   "totalText": "$1,369.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "46mm From $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $1369 or $117.18/mo. per month for 12 mo.months at 4.99% APR Footnote §",
+    "category": "Rubber Flexible, comfortable, swimproof bands. $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "rubber-style": "New colours Solo Loop $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From $549 or $46.99/mo. per month for 12 mo. months at 4.99% APR Footnote § Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finish Titanium Comes with GPS + Cellular From $999 or $85.51/mo. per month for 12 mo. months at 4.99% APR Footnote § Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote § Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From $1299 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "46mm From $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From $1369 or $117.18/mo. per month for 12 mo.months at 4.99% APR Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From $1439 or $123.17/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band $1369 or $117.18/mo. per month for 12 mo. months at 4.99% APR Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPSMake calls and send texts with your iPhone nearby."
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-13T10:59:40.796Z",
+ "configs": {
+  "pro": {
+   "total": 5099,
+   "totalFrom": "summary",
+   "totalText": "AED 5,099.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From AED 5,099",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 AED 5,099.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From AED 5,099",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From AED 5,499"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 AED 5,099.00",
+     "512GB Footnote 1 AED 5,949.00",
+     "1TB Footnote 1 AED 7,649.00",
+     "2TB Footnote 1 AED 10,199.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "AED 5,499.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From AED 5,499",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 AED 5,499.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From AED 5,099",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From AED 5,499"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 AED 5,499.00",
+     "512GB Footnote 1 AED 6,349.00",
+     "1TB Footnote 1 AED 8,049.00",
+     "2TB Footnote 1 AED 10,599.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

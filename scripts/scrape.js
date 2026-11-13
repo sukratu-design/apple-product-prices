@@ -1,8 +1,9 @@
-// Scrape Apple Store buy pages (US and India) for every configuration listed in scripts/configs.json.
+// Scrape Apple Store buy pages (US, India, UK, UAE, Canada, Australia) for every configuration listed in scripts/configs.json.
 //
 // Usage:
 //   node scripts/scrape.js us mac-mini        one page, one country -> prints JSON
-//   node scripts/scrape.js all                every page, both countries -> raw/<country>-<page>.json
+//   node scripts/scrape.js all                every page, every country -> raw/<country>-<page>.json
+//   COUNTRIES=uk,ae PAGES=imac node scripts/scrape.js all   limit the run
 //
 // For each configuration path the script loads the page, clicks the listed options in order (filling any
 // other required choice, such as colour, with its first enabled value), then records:
@@ -17,24 +18,33 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const CONFIGS = JSON.parse(fs.readFileSync(path.join(__dirname, 'configs.json'), 'utf8'));
 const SKIP = /trade|purchase|Payment|applecare|carrier|software/i;
-const BASE = { us: 'https://www.apple.com/shop/', in: 'https://www.apple.com/in/shop/' };
-
-function parseTotal(text, country) {
-  if (!text) return null;
+// Store URL per country. Add a country here and in COUNTRIES in scripts/build_prices.py.
+const BASE = {
+  us: 'https://www.apple.com/shop/', in: 'https://www.apple.com/in/shop/', uk: 'https://www.apple.com/uk/shop/',
+  ae: 'https://www.apple.com/ae/shop/', ca: 'https://www.apple.com/ca/shop/', au: 'https://www.apple.com/au/shop/',
+};
+// Currency marker in front of prices on each store
+const CUR = { us: '\\$', ca: '\\$', au: 'A\\$', uk: '£', ae: 'AED\\s?', in: '₹' };
+const NUM = '([\\d,]+(?:\\.\\d\\d)?)';
+function firstPrice(text, country) { // first full price that is not a monthly instalment
   const t = text.replace(/\s+/g, ' ');
-  const m = country === 'in'
-    ? t.match(/MRP\s*₹\s?([\d,]+(?:\.\d\d)?)/) || t.match(/(?:^|or\s)₹\s?([\d,]+(?:\.\d\d)?)(?!\/mo|\.\d*\/mo)(?:\s|$)/)
-    : t.match(/(?:Buy (?:for|from)\s*)?\$([\d,]+(?:\.\d\d)?)(?!\/mo)(?:\s|$)/);
-  return m ? Math.round(parseFloat(m[1].replace(/,/g, ''))) : null;
+  if (country === 'in') { const m = t.match(new RegExp('MRP\\s*₹\\s?' + NUM)); if (m) return num(m[1]); }
+  const re = new RegExp('(?:^|[^A-Za-z])' + CUR[country] + '\\s?' + NUM + '(?![\\d.,]*\\/mo)', 'g');
+  let m;
+  while ((m = re.exec(t))) {
+    if (country === 'us' || country === 'ca') { // "$" also appears inside "A$"; skip if preceded by A or C
+      const before = t[m.index + (m[0].startsWith('$') ? 0 : 1) - 1];
+      if (before === 'A') continue;
+    }
+    return num(m[1]);
+  }
+  return null;
 }
+const num = s => Math.round(parseFloat(s.replace(/,/g, '')));
 
-function parseLabel(text, country) { // full price printed inside an option label
-  const t = text.replace(/\s+/g, ' ');
-  const m = country === 'in'
-    ? t.match(/MRP\s*₹\s?([\d,]+(?:\.\d\d)?)/) || t.match(/or ₹\s?([\d,]+(?:\.\d\d)?)(?![\d.,]*\/mo)/) || t.match(/₹\s?([\d,]+\.\d\d)\s*$/)
-    : t.match(/Buy (?:from|for)\s*\$([\d,]+(?:\.\d\d)?)/) || t.match(/(?:^|\s)\$([\d,]+(?:\.\d\d)?)(?![\d.,]*\/mo)(?:\s|$)/);
-  return m ? Math.round(parseFloat(m[1].replace(/,/g, ''))) : null;
-}
+function parseTotal(text, country) { return text ? firstPrice(text, country) : null; }
+
+function parseLabel(text, country) { return firstPrice(text || '', country); }
 
 async function scrapePage(browser, country, page) {
   const cfg = CONFIGS.pages[page];
@@ -105,16 +115,20 @@ async function scrapePage(browser, country, page) {
           // Pages without options: the product's own price follows its monthly-instalment line. Smaller
           // add-ons (AppleCare) are listed first with their own, smaller instalments, so take the price
           // that follows the largest instalment.
-          const lines = await p.evaluate(() => document.body.innerText.split('\n').map(s => s.trim()).filter(s => /[₹$]\s?[\d,]/.test(s) && s.length < 140).slice(0, 12));
+          const lines = await p.evaluate(() => document.body.innerText.split('\n').map(s => s.trim()).filter(s => /(₹|\$|£|AED)\s?[\d,]/.test(s) && s.length < 140).slice(0, 12));
           let best = -1;
           lines.forEach((l, i) => {
-            const mo = l.match(/[₹$]\s?([\d,]+(?:\.\d\d)?)\/mo/);
+            const mo = l.match(/(?:₹|\$|£|AED\s?)([\d,]+(?:\.\d\d)?)\/mo/);
             if (!mo) return;
             const m = parseFloat(mo[1].replace(/,/g, ''));
-            const sameLine = parseLabel(l.replace(/[₹$]\s?[\d,.]+\/mo\.?/, ''), country);
+            const sameLine = parseLabel(l.replace(/(?:₹|A?\$|£|AED\s?)[\d,.]+\/mo\.?/, ''), country);
             const next = sameLine != null ? sameLine : parseLabel(lines[i + 1] || '', country);
             if (next != null && m > best) { best = m; total = next; from = 'page'; }
           });
+          if (total == null) { // no instalment lines: the first price that is not a subscription
+            const l = lines.find(l => !/\/(mo|yr)/.test(l) && parseLabel(l, country) != null);
+            if (l) { total = parseLabel(l, country); from = 'page-first'; }
+          }
         }
         out[id] = {
           total, totalFrom: from,
@@ -133,12 +147,15 @@ async function scrapePage(browser, country, page) {
   return { page, country, url, scrapedAt: new Date().toISOString(), configs: out };
 }
 
-(async () => {
+module.exports = { firstPrice };
+if (require.main === module) (async () => {
   const [mode, page] = process.argv.slice(2);
   const browser = await chromium.launch();
   if (mode === 'all') {
     fs.mkdirSync(path.join(ROOT, 'raw'), { recursive: true });
-    const jobs = Object.keys(CONFIGS.pages).flatMap(pg => ['us', 'in'].map(c => [c, pg]));
+    const countries = (process.env.COUNTRIES || Object.keys(BASE).join(',')).split(',');
+    const pages = process.env.PAGES ? process.env.PAGES.split(',') : Object.keys(CONFIGS.pages);
+    const jobs = pages.flatMap(pg => countries.map(c => [c, pg]));
     const workers = Number(process.env.JOBS || 4);
     let next = 0;
     await Promise.all(Array.from({ length: workers }, async () => {

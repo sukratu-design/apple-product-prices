@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-13T11:09:53.613Z",
+ "configs": {
+  "40-gps": {
+   "total": 399,
+   "totalFrom": "summary",
+   "totalText": "A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40-mm From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "rubber-style": "New colours Solo Loop A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "44-mm From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44-mm From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "rubber-style": "New colours Solo Loop A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "44-mm From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 489,
+   "totalFrom": "summary",
+   "totalText": "A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40-mm From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "rubber-style": "New colours Solo Loop A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "44-mm From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From A$579.00 or A$48.25/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band A$489.00 or A$40.75/mo. per month for 12 mo. months at 0% p.a. Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 539,
+   "totalFrom": "summary",
+   "totalText": "A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44-mm From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "rubber-style": "New colours Solo Loop A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From A$399.00 or A$33.25/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "44-mm From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From A$449.00 or A$37.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Textile Soft, lightweight materials. Great for everyday wear. From A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From A$629.00 or A$52.42/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote § Stretchable, closure-free, precise fit",
+     "New colours Sport Band A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote § Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band A$539.00 or A$44.92/mo. per month for 12 mo. months at 0% p.a. Footnote § Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

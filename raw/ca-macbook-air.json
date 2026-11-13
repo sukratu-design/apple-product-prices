@@ -1,0 +1,144 @@
+{
+ "page": "macbook-air",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-13T11:05:46.710Z",
+ "configs": {
+  "15": {
+   "total": 2099,
+   "totalFrom": "summary",
+   "totalText": "$2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch Footnote 1 From $2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From $2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "memory-dimensionMemory": "16GB",
+    "storage-dimensionCapacity": "512GB",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost."
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch Footnote 1 From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+     "15-inch Footnote 1 From $2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From $2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    ],
+    "memory-dimensionMemory": [],
+    "storage-dimensionCapacity": [],
+    "power_adapter-wattage": []
+   },
+   "disabledOptions": {
+    "memory-dimensionMemory": [
+     "16GB",
+     "24GB",
+     "32GB"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB",
+     "1TB",
+     "2TB",
+     "4TB"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.",
+     "35W Dual USB-C PortCompact size with two ports to charge two devices at once.",
+     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ±"
+    ]
+   }
+  },
+  "13-8gpu": {
+   "total": 1799,
+   "totalFrom": "summary",
+   "totalText": "$1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch Footnote 1 From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "memory-dimensionMemory": "16GBIncluded",
+    "storage-dimensionCapacity": "512GBIncluded",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch Footnote 1 From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+     "15-inch Footnote 1 From $2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From $1949 or $88.13/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded"
+    ],
+    "storage-dimensionCapacity": [
+     "512GBIncluded"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
+     "35W Dual USB-C PortCompact size with two ports to charge two devices at once.+ $30.00",
+     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ±+ $30.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 2249,
+   "totalFrom": "summary",
+   "totalText": "$2249 or $101.70/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch Footnote 1 From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From $1949 or $88.13/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "memory-dimensionMemory": "16GBIncluded",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch Footnote 1 From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+     "15-inch Footnote 1 From $2099 or $94.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From $1799 or $81.35/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From $1949 or $88.13/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ $300.00",
+     "32GB+ $600.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB− $450.00",
+     "1TB",
+     "2TB+ $750.00",
+     "4TB+ $2,250.00"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
+     "35W Dual USB-C PortCompact size with two ports to charge two devices at once.+ $30.00",
+     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ±+ $30.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

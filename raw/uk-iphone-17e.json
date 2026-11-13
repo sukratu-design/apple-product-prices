@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-13T10:59:55.145Z",
+ "configs": {
+  "default": {
+   "total": 699,
+   "totalFrom": "summary",
+   "totalText": "£699.00 or £29.12/mo. per month for 24 mo. months at 0% interest Footnote ∆",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 £699.00 or £29.12/mo. per month for 24 mo. months at 0% interest Footnote ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 £699.00 or £29.12/mo. per month for 24 mo. months at 0% interest Footnote ∆",
+     "512GB Footnote 1 £899.00 or £37.45/mo. per month for 24 mo. months at 0% interest Footnote ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

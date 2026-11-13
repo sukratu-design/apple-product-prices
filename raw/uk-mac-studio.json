@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-13T11:07:54.145Z",
+ "configs": {
+  "m5max-32": {
+   "total": 2499,
+   "totalFrom": "summary",
+   "totalText": "£2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From £2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From £2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From £5,499"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Included",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + £300.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + £300.00",
+     "2TB + £800.00",
+     "4TB + £1,800.00",
+     "8TB + £3,800.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3099,
+   "totalFrom": "summary",
+   "totalText": "£3,099 or £95.25/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From £2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From £2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From £5,499"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − £300.00",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Included",
+     "64GB + £400.00",
+     "128GB + £2,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + £300.00",
+     "2TB + £800.00",
+     "4TB + £1,800.00",
+     "8TB + £3,800.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "£5,499.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From £5,499",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From £2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From £5,499"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Included",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film. + £1,300.00"
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + £4,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + £500.00",
+     "4TB + £1,500.00",
+     "8TB + £3,500.00",
+     "16TB + £7,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 6799,
+   "totalFrom": "summary",
+   "totalText": "£6,799.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From £5,499",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film.",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From £2,499 or £76.80/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From £5,499"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − £1,300.00",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film."
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + £4,000.00",
+     "512GB + £15,500.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + £500.00",
+     "4TB + £1,500.00",
+     "8TB + £3,500.00",
+     "16TB + £7,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-13T11:05:08.923Z",
+ "configs": {
+  "256": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "AED 2,999.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From AED 2,999"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From AED 2,999",
+     "512 GB Magic Keyboard with Touch ID From AED 3,499"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "AED 3,499.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From AED 3,499"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From AED 2,999",
+     "512 GB Magic Keyboard with Touch ID From AED 3,499"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

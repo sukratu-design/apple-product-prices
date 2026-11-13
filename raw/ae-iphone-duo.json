@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-13T10:59:31.082Z",
+ "configs": {
+  "default": {
+   "total": 8499,
+   "totalFrom": "summary",
+   "totalText": "AED 8,499.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 AED 8,499.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 AED 8,499.00",
+     "512GB Footnote 1 AED 9,349.00",
+     "1TB Footnote 1 AED 11,049.00",
+     "2TB Footnote 1 AED 13,599.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

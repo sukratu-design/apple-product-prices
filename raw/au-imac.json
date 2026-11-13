@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-13T11:06:46.376Z",
+ "configs": {
+  "2port": {
+   "total": 2399,
+   "totalFrom": "summary",
+   "totalText": "A$2,399.00 or A$199.92/mo. per month for 12 mo. months at 0% p.a. Footnote †",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with two Thunderbolt ports 10-core CPU, 10-core GPU, Dual 16-core Neural Engine From A$2,399.00 or A$199.92/mo. per month for 12 mo. months at 0% p.a. Footnote †",
+    "memory-dimensionMemory": "16GBIncluded",
+    "storage-dimensionCapacity": "256GBIncluded",
+    "chassis-dimensionStandType": "StandSet up on your desk, adjust with upward and downward tilt.Included",
+    "ethernet_adapter-ethernetPortCount": "No EthernetConnect only through a Wi‑Fi network.Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultracompact, edge-to-edge design. Included"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blue",
+     "Purple",
+     "Pink",
+     "Orange",
+     "Yellow",
+     "Green",
+     "Silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip with two Thunderbolt ports 10-core CPU, 10-core GPU, Dual 16-core Neural Engine From A$2,399.00 or A$199.92/mo. per month for 12 mo. months at 0% p.a. Footnote †",
+     "M6 chip with four Thunderbolt ports 12-core CPU, 12-core GPU, Dual 16-core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote †"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ A$300.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GBIncluded",
+     "512GB+ A$300.00",
+     "1TB+ A$750.00"
+    ],
+    "chassis-dimensionStandType": [
+     "StandSet up on your desk, adjust with upward and downward tilt.Included",
+     "VESA Mount AdapterBuilt in so you can mount to a wall or an adjustable arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "No EthernetConnect only through a Wi‑Fi network.Included",
+     "2.5 Gigabit Ethernet portStandard networking, up to 2.5Gb link speeds.+ A$40.00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+     "Magic Trackpad Supports full range of Multi-Touch gestures and Force Touch technology. + A$60.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultracompact, edge-to-edge design. Included",
+     "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + A$100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote †",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with four Thunderbolt ports 12-core CPU, 12-core GPU, Dual 16-core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote †",
+    "memory-dimensionMemory": "16GBIncluded",
+    "storage-dimensionCapacity": "256GBIncluded",
+    "display-dimensionFinish": "Standard glassEngineered for low reflectivity to reduce glare in your environment.Included",
+    "chassis-dimensionStandType": "StandSet up on your desk, adjust with upward and downward tilt.Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blue",
+     "Purple",
+     "Pink",
+     "Orange",
+     "Yellow",
+     "Green",
+     "Silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip with two Thunderbolt ports 10-core CPU, 10-core GPU, Dual 16-core Neural Engine From A$2,399.00 or A$199.92/mo. per month for 12 mo. months at 0% p.a. Footnote †",
+     "M6 chip with four Thunderbolt ports 12-core CPU, 12-core GPU, Dual 16-core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote †"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ A$300.00",
+     "32GB+ A$600.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GBIncluded",
+     "512GB+ A$300.00",
+     "1TB+ A$750.00",
+     "2TB+ A$1,500.00"
+    ],
+    "display-dimensionFinish": [
+     "Standard glassEngineered for low reflectivity to reduce glare in your environment.Included",
+     "Nano-texture glassFurther reduces reflections and glare in bright lighting conditions. Available with four-port model only.+ A$300.00"
+    ],
+    "chassis-dimensionStandType": [
+     "StandSet up on your desk, adjust with upward and downward tilt.Included",
+     "VESA Mount AdapterBuilt in so you can mount to a wall or an adjustable arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+     "Magic Trackpad Supports full range of Multi-Touch gestures and Force Touch technology. + A$60.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included",
+     "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + A$40.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

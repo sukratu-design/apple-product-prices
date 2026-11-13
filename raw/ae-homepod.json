@@ -1,0 +1,11 @@
+{
+ "page": "homepod",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-13T11:11:07.833Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/ae/)"
+  }
+ }
+}

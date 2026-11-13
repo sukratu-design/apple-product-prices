@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "au",
+ "url": "https://www.apple.com/au/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-13T11:09:53.503Z",
+ "configs": {
+  "band": {
+   "total": 1349,
+   "totalFrom": "summary",
+   "totalText": "A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Band fits 130- to 160-millimetre wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "New colours Trail Loop For all sports and workouts. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "New colours Ocean Band For water sports and recreational diving. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. A$1,499.00 or A$124.92/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130- to 160-millimetre wrists.",
+     "Medium Band fits 145- to 190-millimetre wrists.",
+     "Large Band fits 165- to 210-millimetre wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1499,
+   "totalFrom": "summary",
+   "totalText": "A$1,499.00 or A$124.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. A$1,499.00 or A$124.92/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Band fits 130- to 160-millimetre wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "New colours Trail Loop For all sports and workouts. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "New colours Ocean Band For water sports and recreational diving. A$1,349.00 or A$112.42/mo. per month for 12 mo. months at 0% p.a. Footnote §",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. A$1,499.00 or A$124.92/mo. per month for 12 mo. months at 0% p.a. Footnote §"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130- to 160-millimetre wrists.",
+     "Medium Band fits 155- to 185-millimetre wrists.",
+     "Large Band fits 180- to 210-millimetre wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "uk",
+ "url": "https://www.apple.com/uk/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-13T11:13:27.520Z",
+ "configs": {
+  "default": {
+   "total": 299,
+   "totalFrom": "page",
+   "totalText": "",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

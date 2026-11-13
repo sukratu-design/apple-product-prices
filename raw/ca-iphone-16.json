@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "ca",
+ "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-13T11:00:04.513Z",
+ "configs": {
+  "default": {
+   "total": 1149,
+   "totalFrom": "summary",
+   "totalText": "$1,149.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From $1149 or $47.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆",
+    "dimensionColor": "Ultramarine"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From $1149 or $47.87/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"
+    ],
+    "dimensionColor": [
+     "Ultramarine",
+     "Teal",
+     "White",
+     "Pink",
+     "Black"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

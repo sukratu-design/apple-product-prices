@@ -1,0 +1,26 @@
+{
+ "page": "airpods-max-2",
+ "country": "ae",
+ "url": "https://www.apple.com/ae/shop/buy-airpods/airpods-max-2",
+ "scrapedAt": "2026-11-13T11:10:35.615Z",
+ "configs": {
+  "default": {
+   "total": 249,
+   "totalFrom": "summary",
+   "totalText": "AED 249.00",
+   "selected": {
+    "dimensionColor": "Purple"
+   },
+   "options": {
+    "dimensionColor": [
+     "Purple",
+     "Blue",
+     "Midnight",
+     "Starlight",
+     "Orange"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}
