@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apple Product Prices</title>
+<meta name="description" content="Price range of every current Apple product, from entry configuration to fully loaded, in the US and India.">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+[hidden]{display:none!important}
+/* Layout: segmented tabs on top, one framed panel; model tiles at left, a linear $ track per row, top config on the right; tier ladder below. */
+:root{
+  --bg:#f3f4f7; --panel:#ffffff; --panel-2:#eef0f4; --line:#dfe2e9; --fg:#14161b; --muted:#646b7a; --faint:#9aa1ae;
+  --track:#e7eaf0; --tile:#f7f8fa; --tile-edge:#e1e4ea;
+  --t1:#2f7bf0; --t2:#ec6a3d; --t3:#18a979; --t4:#e3a20c; --t5:#9b5cf0;
+  --pill:#14161b; --pill-fg:#ffffff;
+  --display:"Inter Tight","Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0b0c0f; --panel:#13151a; --panel-2:#1a1d23; --line:#252932; --fg:#f2f3f6; --muted:#9097a5; --faint:#626978;
+  --track:#1d2129; --tile:#181b21; --tile-edge:#272b34;
+  --t1:#4b92ff; --t2:#ff7b4d; --t3:#2fd39a; --t4:#ffc23d; --t5:#b48bff;
+  --pill:#f2f3f6; --pill-fg:#0b0c0f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0b0c0f; --panel:#13151a; --panel-2:#1a1d23; --line:#252932; --fg:#f2f3f6; --muted:#9097a5; --faint:#626978;
+  --track:#1d2129; --tile:#181b21; --tile-edge:#272b34;
+  --t1:#4b92ff; --t2:#ff7b4d; --t3:#2fd39a; --t4:#ffc23d; --t5:#b48bff;
+  --pill:#f2f3f6; --pill-fg:#0b0c0f; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 48px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--t1);outline-offset:2px}
+
+.seg{display:inline-flex;gap:4px;padding:5px;border:1px solid var(--line);border-radius:999px;background:var(--panel);overflow-x:auto;max-width:100%}
+.seg button{border:0;background:transparent;padding:9px 20px;border-radius:999px;font-weight:500;cursor:pointer;white-space:nowrap;color:var(--muted)}
+.seg button:hover{color:var(--fg)}
+.seg button[aria-selected="true"]{background:var(--pill);color:var(--pill-fg)}
+
+.seg.small{align-self:flex-start;margin-bottom:-8px;background:var(--panel-2)}
+.seg.small button{padding:6px 14px;font-size:13.5px}
+.dot.nano{background:var(--panel);border:4px solid var(--c)}
+.step .cfg i{background:var(--c)}
+.step .cfg i.nano{background:transparent;border:2px solid var(--c)}
+.legend i.ring{background:transparent;border:2px solid var(--muted)}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:28px;padding:clamp(20px,3.5vw,44px);display:flex;flex-direction:column;gap:28px;min-width:0}
+.head{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);line-height:1.05;letter-spacing:-.02em;margin:6px 0 0;text-wrap:balance}
+.stats{display:flex;gap:clamp(20px,3.5vw,48px);flex-wrap:wrap}
+.stat .k{font-size:13px;color:var(--muted)}
+.stat .v{font-family:var(--mono);font-size:clamp(22px,2.6vw,30px);font-weight:500;letter-spacing:-.02em;font-variant-numeric:tabular-nums;line-height:1.3}
+.stat .v small{font-family:var(--body);font-size:13px;color:var(--muted);letter-spacing:0;margin-left:6px;font-weight:400}
+
+.chart{display:flex;flex-direction:column;gap:6px;position:relative}
+.row{display:grid;grid-template-columns:150px minmax(0,1fr) 196px;align-items:center;gap:18px;padding:6px 0;border-radius:18px;cursor:pointer}
+.tile{background:var(--tile);border:1px solid var(--tile-edge);border-radius:16px;padding:10px 12px;min-height:66px;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;text-align:left;width:100%;cursor:pointer}
+.tile::after{content:"";position:absolute;inset:auto 0 0 0;height:3px;background:var(--accent,var(--t1));opacity:.85}
+.tile .n{font-family:var(--display);font-weight:600;font-size:17px;line-height:1.15;letter-spacing:-.01em}
+.tile .s{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+.row[aria-current="true"] .tile{border-color:var(--fg)}
+.row:hover .tile{border-color:var(--faint)}
+.track{position:relative;height:56px;min-width:0}
+.grid-line{position:absolute;top:-6px;bottom:-6px;width:1px;background:var(--line)}
+.range{position:absolute;top:50%;height:46px;transform:translateY(-50%);border-radius:999px;
+  background:linear-gradient(90deg,color-mix(in srgb,var(--t1) 16%,var(--track)),color-mix(in srgb,var(--hi,var(--t4)) 18%,var(--track)))}
+.dot{position:absolute;top:50%;width:22px;height:22px;margin-left:-11px;transform:translateY(-50%);border-radius:50%;border:3px solid var(--panel);background:var(--c);padding:0;cursor:pointer;
+  box-shadow:0 0 0 5px color-mix(in srgb,var(--c) 22%,transparent);transition:transform .15s}
+.dot:hover,.dot:focus-visible{transform:translateY(-50%) scale(1.2)}
+.offscale{position:absolute;top:50%;right:0;transform:translateY(-50%);font-family:var(--mono);font-size:11px;color:var(--muted);background:var(--panel-2);border:1px solid var(--line);border-radius:999px;padding:2px 8px;white-space:nowrap}
+.top{text-align:right}
+.top .p{white-space:nowrap;font-family:var(--mono);font-size:18px;font-weight:500;font-variant-numeric:tabular-nums}
+.top .l{font-size:12.5px;color:var(--muted);display:flex;justify-content:flex-end;align-items:center;gap:6px}
+.top .l i{width:7px;height:7px;border-radius:50%;background:var(--hi,var(--t4));display:inline-block;flex:none}
+.axis{display:grid;grid-template-columns:150px minmax(0,1fr) 196px;gap:18px;margin-top:6px}
+.axis .ticks{position:relative;height:18px}
+.axis .ticks span{position:absolute;transform:translateX(-50%);font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap}
+.axis .lab{text-align:right;font-size:12.5px;color:var(--muted)}
+
+.tip{position:absolute;z-index:5;pointer-events:none;background:var(--pill);color:var(--pill-fg);border-radius:12px;padding:8px 12px;font-size:13px;line-height:1.35;white-space:nowrap;transform:translate(-50%,-100%);box-shadow:0 8px 24px rgba(0,0,0,.25)}
+.tip b{font-family:var(--mono);font-weight:500}
+
+.ladder{border-top:1px solid var(--line);padding-top:24px;display:flex;flex-direction:column;gap:14px}
+.ladder-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.ladder-h h2{font-family:var(--display);font-size:22px;font-weight:600;margin:0;letter-spacing:-.01em}
+.ladder-h p{margin:0;color:var(--muted);font-size:13.5px;max-width:62ch}
+.steps{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px}
+.step{background:var(--panel-2);border:1px solid var(--line);border-radius:16px;padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.step .cfg{font-size:13px;color:var(--muted);display:flex;align-items:center;gap:7px}
+.step .cfg i{width:9px;height:9px;border-radius:50%;flex:none}
+.step .pr{font-family:var(--mono);font-size:21px;font-weight:500;font-variant-numeric:tabular-nums}
+.step .d{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.extras{display:flex;flex-wrap:wrap;gap:8px}
+.extras span{font-size:12.5px;border:1px dashed var(--line);border-radius:999px;padding:4px 10px;color:var(--muted)}
+.badge{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);vertical-align:middle;margin-left:8px}
+.badge.ok{color:var(--t3);border-color:color-mix(in srgb,var(--t3) 40%,var(--line))}
+
+.foot{border-top:1px solid var(--line);padding-top:18px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;align-items:center}
+.legend{display:flex;gap:18px;flex-wrap:wrap;font-size:14px}
+.legend span{display:flex;align-items:center;gap:7px}
+.legend i{width:10px;height:10px;border-radius:50%}
+.src{font-family:var(--mono);font-size:12px;color:var(--muted)}
+
+@media (max-width:760px){
+  .axis .ticks span:last-child{transform:translateX(-100%)}
+  .row{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"tile top" "track track";gap:8px 12px;padding:10px 0;border-bottom:1px solid var(--line);border-radius:0}
+  .row .tile{grid-area:tile;min-height:0}
+  .row .track{grid-area:track;height:44px}
+  .row .range{height:36px}
+  .row .top{grid-area:top}
+  .row .top .p{font-size:clamp(13px,3.6vw,16px);white-space:nowrap}
+  .row .tile .n{font-size:15px}
+  .axis{grid-template-columns:minmax(0,1fr)}
+  .axis .pad,.axis .lab{display:none}
+  .grid-line{top:0;bottom:0}
+  .dot{width:20px;height:20px;margin-left:-10px}
+}
+@media (prefers-reduced-motion:reduce){.dot{transition:none}}
+
+/* country selector + Mac kinds */
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.topbar .seg{min-width:0}
+.country button{display:flex;align-items:center;gap:8px}
+.country .cur{font-family:var(--mono);font-size:12px;opacity:.7}
+.dot.sto{background:var(--panel);border:4px solid var(--c)}
+.step .cfg i.sto{background:transparent;border:2px solid var(--c)}
+.group-h{font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);grid-column:1/-1;margin-top:4px}
+.missing{font-size:14px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <div class="seg" role="tablist" aria-label="Product family" id="tabs"></div>
+    <div class="seg country" role="tablist" aria-label="Country" id="country"></div>
+  </div>
+
+  <section class="panel">
+    <div class="head">
+      <div>
+        <div class="eyebrow" id="eyebrow">Apple lineup · list prices</div>
+        <h1 id="h1">iPhone lineup</h1>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+
+    <div class="seg small" role="tablist" aria-label="Connectivity" id="variant" hidden></div>
+    <div class="chart" id="chart"></div>
+
+    <div class="ladder" id="ladder"></div>
+
+    <div class="foot">
+      <div class="legend" id="legend"></div>
+      <div class="src" id="src"></div>
+    </div>
+  </section>
+</div>
+
+<script src="prices.js"></script>
+<script>
+// ---------- builders: turn the compact data in prices.js into rows ----------
+// A tier is [label, usd, inr, meta]. A missing price is null and the tier is skipped in that country.
+const P = window.PRICES;
+let country = "us", variant = "wifi", cat = "iphone", selected = null;
+const CI = () => country === "us" ? 1 : 2;
+
+function buildIpad(p){ // Wi-Fi tiers, + cellular, + nano-texture glass on some sizes
+  return () => {
+    const out = [];
+    p.wifi.forEach(([label, us, inr], si) => {
+      const add = variant === "cellular" ? p.cell : [0, 0];
+      const base = [label, us + add[0], inr + add[1], {s:si, n:p.wifi.length}];
+      out.push(base);
+      if ((p.nano || []).includes(label))
+        out.push([label + " · Nano-texture", base[1] + p.nanoAdd[0], base[2] + p.nanoAdd[1], {s:si, n:p.wifi.length, ring:true}]);
+    });
+    return out;
+  };
+}
+function buildMac(p){ // base configuration, each memory step, each storage step, then fully loaded
+  const name = (l, kind) => l.replace(/^(\S+)/, "$1 " + kind); // "512GB (needs …)" -> "512GB memory (needs …)"
+  return () => {
+    const [bl, bu, bi] = p.base, out = [[bl, bu, bi, {k:"base"}]];
+    const add = (a, d) => a == null || d == null ? null : a + d;
+    p.mem.filter(m => m[1] || m[2]).forEach(([l, du, di]) => out.push([name(l, "memory"), add(bu, du), add(bi, di), {k:"mem"}]));
+    p.sto.filter(s => s[1] || s[2]).forEach(([l, du, di]) => out.push([name(l, "storage"), add(bu, du), add(bi, di), {k:"sto", ring:true}]));
+    if (p.max) out.push([p.max[0], p.max[1], p.max[2], {k:"max"}]);
+    return out;
+  };
+}
+Object.values(P.categories).forEach(c => c.products.forEach(p => {
+  p.build = p.wifi ? buildIpad(p) : p.base ? buildMac(p) : () => p.tiers;
+}));
+// tiers for the current country and variant: [label, price, meta]
+const T = p => p.build().filter(t => t[CI()] != null).map(t => [t[0], t[CI()], t[3]]);
+
+// ---------- formatting ----------
+const C = () => P.countries[country];
+const fmt = n => C().symbol + Math.round(n).toLocaleString(C().locale);
+const fmtAxis = n => {
+  if (n === 0) return C().symbol + "0";
+  if (country === "in") {
+    if (n >= 100000) return "₹" + +(n / 100000).toFixed(2) + "L";
+    return "₹" + +(n / 1000).toFixed(1) + "k";
+  }
+  if (n < 1000) return "$" + n;
+  return "$" + +(n / 1000).toFixed(1) + "k";
+};
+function niceStep(range){
+  const raw = range / 5, mag = Math.pow(10, Math.floor(Math.log10(raw)));
+  for (const m of [1, 2, 2.5, 5, 10]) if (m * mag >= raw) return m * mag;
+}
+function axisFor(c){ // auto scale per country; a category can cap outliers or start above zero
+  const cfg = (c.axis || {})[country] || {};
+  const all = c.products.flatMap(p => T(p).map(t => t[1]));
+  let lo = cfg.min || 0, hi = Math.min(Math.max(...all), cfg.cap || Infinity);
+  const step = cfg.step || niceStep(hi - lo);
+  lo = Math.floor(lo / step) * step;
+  hi = Math.ceil(hi / step) * step;
+  return {min: lo, max: hi, step};
+}
+
+// ---------- colours by tier position or Mac upgrade kind ----------
+const tierVar = (i, len) => i === 0 ? "--t1" : i === len - 1 ? "--t4" : ["--t2","--t3","--t5","--t2","--t3"][i - 1];
+const KIND = {base:"--t1", mem:"--t2", sto:"--t3", max:"--t4"};
+const colorOf = (t, i, len) => t[2] && t[2].k ? KIND[t[2].k] : t[2] && t[2].n ? tierVar(t[2].s, t[2].n) : tierVar(i, len);
+const ringOf = t => !!(t[2] && t[2].ring);
+
+const $ = id => document.getElementById(id);
+
+// ---------- routing: #<category>[-<variant>][-in] ----------
+function readHash(){
+  const tok = location.hash.slice(1).split("-").filter(Boolean);
+  cat = P.categories[tok[0]] ? tok[0] : "iphone";
+  const c = P.categories[cat];
+  variant = c.variants && c.variants.some(v => tok.includes(v[0])) ? c.variants.find(v => tok.includes(v[0]))[0] : "wifi";
+  if (tok.includes("in")) country = "in";
+  else if (tok.includes("us")) country = "us";
+  else { try { country = localStorage.getItem("country") || "us"; } catch (e) { country = "us"; } }
+}
+function go(nextCat = cat, nextVariant = variant, nextCountry = country){
+  const parts = [nextCat];
+  if (P.categories[nextCat].variants && nextVariant !== "wifi") parts.push(nextVariant);
+  if (nextCountry !== "us") parts.push(nextCountry);
+  try { localStorage.setItem("country", nextCountry); } catch (e) {}
+  const h = "#" + parts.join("-");
+  if (location.hash === h) render(); else location.hash = h;
+}
+
+// ---------- render ----------
+function renderTabs(){
+  $("tabs").innerHTML = P.order.map(k =>
+    `<button role="tab" aria-selected="${k===cat}" data-k="${k}">${P.categories[k].name}</button>`).join("");
+  $("tabs").querySelectorAll("button").forEach(b => b.onclick = () => go(b.dataset.k, "wifi"));
+  $("country").innerHTML = Object.entries(P.countries).map(([k, v]) =>
+    `<button role="tab" aria-selected="${k===country}" data-k="${k}">${v.label} <span class="cur">${v.symbol}</span></button>`).join("");
+  $("country").querySelectorAll("button").forEach(b => b.onclick = () => go(cat, variant, b.dataset.k));
+}
+
+function renderVariants(c){
+  const el = $("variant");
+  el.hidden = !c.variants;
+  if (!c.variants) return;
+  el.innerHTML = c.variants.map(([k, l]) => `<button role="tab" aria-selected="${k===variant}" data-k="${k}">${l}</button>`).join("");
+  el.querySelectorAll("button").forEach(b => b.onclick = () => go(cat, b.dataset.k));
+}
+
+const visible = c => c.products.filter(p => T(p).length);
+const topOf = p => { const t = T(p); return Math.max(...t.map(x => x[1])); };
+const loOf = p => Math.min(...T(p).map(x => x[1]));
+
+function renderStats(c){
+  const ps = visible(c);
+  if (!ps.length) { $("stats").innerHTML = ""; return; }
+  const entry = ps.reduce((a, p) => loOf(p) < loOf(a) ? p : a);
+  const top = ps.reduce((a, p) => topOf(p) > topOf(a) ? p : a);
+  let jump = {d:0};
+  ps.forEach(p => { const t = T(p), base = t[0][1];
+    t.forEach((x, i) => { if (!i || (x[2] && x[2].k === "max")) return;
+      const d = x[2] && x[2].k ? x[1] - base : x[1] - t[i-1][1];
+      if (d > jump.d) jump = {d, p, to:x[0]}; }); });
+  const name = p => p.n + (p.s && !/^iPhone$/.test(p.s) && !p.n.includes(p.s) ? " " + p.s.split(" · ")[0] : "");
+  $("stats").innerHTML = `
+    <div class="stat"><div class="k">Lowest entry</div><div class="v">${fmt(loOf(entry))}<small>${entry.n}</small></div></div>
+    <div class="stat"><div class="k">Priciest config</div><div class="v">${fmt(topOf(top))}<small>${name(top)}</small></div></div>
+    ${jump.p ? `<div class="stat"><div class="k">${c.mac ? "Biggest single upgrade" : "Biggest single step"}</div><div class="v">+${fmt(jump.d)}<small>${jump.p.n} → ${jump.to}</small></div></div>` : ""}`;
+}
+
+function renderChart(c){
+  const ax = axisFor(c), span = ax.max - ax.min;
+  const pct = v => (Math.min(Math.max(v, ax.min), ax.max) - ax.min) / span * 100;
+  const ticks = []; for (let v = ax.min; v <= ax.max + 1e-6; v += ax.step) ticks.push(v);
+  const grid = ticks.map(v => `<div class="grid-line" style="left:${pct(v)}%"></div>`).join("");
+  const ps = visible(c);
+  const rows = ps.map(p => {
+    const t = T(p), len = t.length, lo = loOf(p), hi = topOf(p);
+    const pad = 2.2, hiVar = colorOf(t[len-1], len-1, len);
+    const dots = t.map((x, i) => x[1] > ax.max ? "" :
+      `<button class="dot${ringOf(x) ? " sto" : ""}" style="left:${pct(x[1])}%;--c:var(${colorOf(x,i,len)})" data-p="${p.id}" data-i="${i}" aria-label="${p.n} ${p.s}, ${x[0]}: ${fmt(x[1])}"></button>`).join("");
+    const off = hi > ax.max ? `<span class="offscale">→ ${fmt(hi)}</span>` : "";
+    return `<div class="row" data-p="${p.id}" aria-current="${p.id===selected}">
+      <button class="tile" style="--accent:var(${hiVar})" aria-label="Show prices for ${p.n} ${p.s}"><span class="n">${p.n}</span><span class="s">${p.s}</span></button>
+      <div class="track">${grid}
+        ${lo > ax.max ? "" : `<div class="range" style="left:calc(${pct(lo)}% - ${pad}%);width:calc(${Math.max(pct(hi)-pct(lo),0)}% + ${hi > ax.max ? pad : pad*2}%);--hi:var(${hiVar})"></div>`}
+        ${dots}${off}
+      </div>
+      <div class="top" style="--hi:var(${hiVar})">
+        <div class="p">${len > 1 ? fmt(lo) + "–" + fmt(hi).slice(1) : fmt(lo)}</div>
+        <div class="l"><i></i>${len > 1 ? len + " configs" : "starting price"}</div>
+      </div>
+    </div>`;
+  }).join("");
+  const hidden = c.products.length - ps.length;
+  if (!ps.length) {
+    $("chart").innerHTML = `<div class="missing">${c.title || c.name} is not sold in the ${C().label} Apple Store. Switch to ${Object.values(P.countries).filter(x => x !== C()).map(x => x.label).join(" or ")} to see its prices.</div>`;
+    return;
+  }
+  $("chart").innerHTML = rows
+    + (hidden ? `<div class="missing">${hidden} product${hidden > 1 ? "s are" : " is"} not listed in the ${C().label} store.</div>` : "")
+    + `<div class="axis"><div class="pad"></div><div class="ticks">${ticks.map(v => `<span style="left:${pct(v)}%">${fmtAxis(v)}</span>`).join("")}</div><div class="lab">${ax.min ? "axis starts at " + fmt(ax.min) : "price range"}</div></div><div class="tip" id="tip" hidden></div>`;
+
+  $("chart").querySelectorAll(".row").forEach(r => r.onclick = e => { if (!e.target.closest(".dot")) select(r.dataset.p); });
+  $("chart").querySelectorAll(".dot").forEach(d => {
+    const show = () => {
+      const p = c.products.find(x => x.id === d.dataset.p), t = T(p), i = +d.dataset.i, x = t[i];
+      const tip = $("tip"), box = $("chart").getBoundingClientRect(), b = d.getBoundingClientRect();
+      tip.innerHTML = `${p.n} · ${x[0]}<br><b>${fmt(x[1])}</b>${i ? ` &nbsp;+${fmt(x[1] - t[0][1])} over base` : " &nbsp;base price"}`;
+      tip.hidden = false;
+      const xpos = Math.max(120, Math.min(box.width - 120, b.left - box.left + b.width / 2));
+      tip.style.left = xpos + "px"; tip.style.top = (b.top - box.top - 8) + "px";
+    };
+    const hide = () => { $("tip").hidden = true; };
+    d.addEventListener("mouseenter", show); d.addEventListener("focus", show);
+    d.addEventListener("mouseleave", hide); d.addEventListener("blur", hide);
+    d.addEventListener("click", () => select(d.dataset.p));
+  });
+}
+
+function stepCard(x, i, t, macMode){
+  const base = t[0][1], len = t.length;
+  const diff = !i ? "starting price"
+    : macMode ? "+" + fmt(x[1] - base) + " over base"
+    : "+" + fmt(x[1] - t[i-1][1]) + " vs previous · +" + fmt(x[1] - base) + " total";
+  return `<div class="step"><div class="cfg"><i class="${ringOf(x) ? "sto" : ""}" style="--c:var(${colorOf(x,i,len)})"></i>${x[0]}</div>
+    <div class="pr">${fmt(x[1])}</div><div class="d">${diff}</div></div>`;
+}
+
+function renderLadder(c){
+  const ps = visible(c);
+  $("ladder").hidden = !ps.length;
+  if (!ps.length) return;
+  const p = ps.find(x => x.id === selected) || ps[0];
+  const t = T(p), len = t.length, base = t[0][1], hi = topOf(p);
+  let steps;
+  if (c.mac) {
+    const grp = (k, h) => { const items = t.map((x, i) => [x, i]).filter(([x]) => x[2] && x[2].k === k);
+      return items.length ? `<div class="group-h">${h}</div>` + items.map(([x, i]) => stepCard(x, i, t, true)).join("") : ""; };
+    steps = grp("base", "Base configuration") + grp("mem", "Memory upgrades") + grp("sto", "Storage upgrades") + grp("max", "Fully loaded");
+  } else steps = t.map((x, i) => stepCard(x, i, t, false)).join("");
+  const notes = (p.notes || []).map(e => `<span>${e}</span>`).join("");
+  $("ladder").innerHTML = `
+    <div class="ladder-h">
+      <h2>${p.n} <span style="color:var(--muted);font-weight:500">${p.s}</span>
+        <span class="badge ${p.src === "apple" ? "ok" : ""}">${p.src === "apple" ? "Apple Store" : "Reported"}</span></h2>
+      <p>${len > 1 ? `From ${fmt(base)} to ${fmt(hi)}: the top configuration costs ${(hi / base).toFixed(2)}× the entry price.` : (p.notes ? "Only the starting price is listed." : "Sold in one listed configuration.")}</p>
+    </div>
+    <div class="steps">${steps}</div>
+    ${notes ? `<div class="extras">${notes}</div>` : ""}`;
+}
+
+function renderLegend(c){
+  const items = c.mac
+    ? [["--t1","Base"],["--t2","+ Memory"],["--t3","+ Storage", true],["--t4","Fully loaded"]]
+    : [["--t1","Entry"],["--t2","2nd tier"],["--t3","3rd tier"],["--t4","Top tier"]].concat(c.nano ? [["--muted","Nano-texture glass", true]] : []);
+  $("legend").innerHTML = items.map(([v, l, ring]) =>
+    `<span><i style="${ring ? `background:transparent;border:2px solid var(${v})` : `background:var(${v})`}"></i>${l}</span>`).join("");
+  $("src").textContent = `${C().note} · checked ${P.updated}`;
+}
+
+function select(id){
+  selected = id;
+  document.querySelectorAll(".row").forEach(r => r.setAttribute("aria-current", r.dataset.p === id));
+  renderLadder(P.categories[cat]);
+}
+
+function render(){
+  readHash();
+  const c = P.categories[cat];
+  const ps = visible(c);
+  if (!ps.some(p => p.id === selected)) selected = (ps.find(p => p.id === c.def) || ps[0] || {}).id;
+  const vLabel = c.variants ? " · " + c.variants.find(x => x[0] === variant)[1] : "";
+  $("eyebrow").textContent = `${C().label} · Apple ${c.name} · by ${c.unit.toLowerCase()}${vLabel}`;
+  $("h1").textContent = c.title || c.name + " lineup";
+  document.title = `${c.name} prices (${C().short}) · Apple Product Prices`;
+  renderTabs(); renderVariants(c); renderStats(c); renderChart(c); renderLadder(c); renderLegend(c);
+}
+window.addEventListener("hashchange", render);
+render();
+</script>
+</body>
+</html>

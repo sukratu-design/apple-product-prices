@@ -1,0 +1,26 @@
+{
+ "page": "airpods-max-2",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-airpods/airpods-max-2",
+ "scrapedAt": "2026-11-13T05:04:47.009Z",
+ "configs": {
+  "default": {
+   "total": 74900,
+   "totalFrom": "page",
+   "totalText": "From ₹1148.00/mo. Per Month Footnote §",
+   "selected": {
+    "dimensionColor": "Purple"
+   },
+   "options": {
+    "dimensionColor": [
+     "Purple",
+     "Blue",
+     "Midnight",
+     "Starlight",
+     "Orange"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

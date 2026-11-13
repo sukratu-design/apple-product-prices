@@ -1,0 +1,25 @@
+{
+ "page": "iphone-air",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-13T04:50:09.712Z",
+ "configs": {
+  "default": {
+   "total": null,
+   "totalText": "From ₹23817.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆",
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 From ₹23817.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹149900.00 Footnote ‡ (Incl. of all taxes)",
+     "512GB Footnote 1 From ₹27983.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹174900.00 Footnote ‡ (Incl. of all taxes)",
+     "1TB Footnote 1 From ₹36317.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹224900.00 Footnote ‡ (Incl. of all taxes)"
+    ]
+   }
+  }
+ }
+}

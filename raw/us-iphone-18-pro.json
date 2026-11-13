@@ -1,0 +1,52 @@
+{
+ "page": "iphone-18-pro",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-13T04:49:59.406Z",
+ "configs": {
+  "pro": {
+   "total": 1199,
+   "totalText": "Buy from $1199 or $49.95/mo. per month for 24 mo. months Footnote ※ Lease from $34.99/mo. per month for 24 mo. months Footnote #",
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 Buy from $1199 or $49.95/mo. per month for 24 mo. months Footnote ※ Lease from $34.99/mo. per month for 24 mo. months Footnote #",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 Buy from $1299 or $54.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $37.99/mo. per month for 24 mo. months Footnote #"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 Buy from $1199 or $49.95/mo. per month for 24 mo. months Footnote ※ Lease from $34.99/mo. per month for 24 mo. months Footnote #",
+     "512GB Footnote 1 Buy from $1399 or $58.29/mo. per month for 24 mo. months Footnote ※ Lease from $40.83/mo. per month for 24 mo. months Footnote #",
+     "1TB Footnote 1 Buy from $1799 or $74.95/mo. per month for 24 mo. months Footnote ※ Lease from $52.50/mo. per month for 24 mo. months Footnote #",
+     "2TB Footnote 1 Buy from $2399 or $99.95/mo. per month for 24 mo. months Footnote ※ Lease from $70.01/mo. per month for 24 mo. months Footnote #"
+    ]
+   }
+  },
+  "promax": {
+   "total": 1299,
+   "totalText": "Buy from $1299 or $54.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $37.99/mo. per month for 24 mo. months Footnote #",
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 Buy from $1199 or $49.95/mo. per month for 24 mo. months Footnote ※ Lease from $34.99/mo. per month for 24 mo. months Footnote #",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 Buy from $1299 or $54.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $37.99/mo. per month for 24 mo. months Footnote #"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 Buy from $1299 or $54.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $37.99/mo. per month for 24 mo. months Footnote #",
+     "512GB Footnote 1 Buy from $1499 or $62.45/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $43.84/mo. per month for 24 mo. months Footnote #",
+     "1TB Footnote 1 Buy from $1899 or $79.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $55.54/mo. per month for 24 mo. months Footnote #",
+     "2TB Footnote 1 Buy from $2499 or $104.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $73.09/mo. per month for 24 mo. months Footnote #"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "page": "mac-mini",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-13T04:53:34.920Z",
+ "configs": {
+  "m6": {
+   "total": 99900,
+   "totalText": "From ₹15817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote †",
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From ₹15817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From ₹34150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹209900.00 Footnote †"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + ₹24000.00",
+     "32GB + ₹48000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + ₹24000.00",
+     "1TB + ₹60000.00",
+     "2TB + ₹120000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + ₹12000.00"
+    ]
+   }
+  },
+  "m5pro-15": {
+   "total": 209900,
+   "totalText": "From ₹34150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹209900.00 Footnote †",
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From ₹15817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From ₹34150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹209900.00 Footnote †"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + ₹24000.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + ₹72000.00",
+     "64GB + ₹120000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + ₹36000.00",
+     "2TB + ₹96000.00",
+     "4TB + ₹216000.00",
+     "8TB + ₹456000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + ₹12000.00"
+    ]
+   }
+  },
+  "m5pro-18": {
+   "total": 233900,
+   "totalText": "From ₹38150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹233900.00 Footnote †",
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From ₹15817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From ₹34150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹209900.00 Footnote †"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − ₹24000.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + ₹72000.00",
+     "64GB + ₹120000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + ₹36000.00",
+     "2TB + ₹96000.00",
+     "4TB + ₹216000.00",
+     "8TB + ₹456000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + ₹12000.00"
+    ]
+   }
+  }
+ }
+}

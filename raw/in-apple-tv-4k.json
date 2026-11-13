@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-13T05:04:53.270Z",
+ "configs": {
+  "default": {
+   "total": 39900,
+   "totalFrom": "page",
+   "totalText": "From ₹888.00/mo. Per Month Footnote ∆",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

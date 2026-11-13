@@ -1,0 +1,24 @@
+{
+ "page": "iphone-duo",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-13T04:49:50.391Z",
+ "configs": {
+  "default": {
+   "total": 1999,
+   "totalText": "Buy from $1999 or $83.29/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $57.99/mo. per month for 24 mo. months Footnote #",
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 Buy from $1999 or $83.29/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $57.99/mo. per month for 24 mo. months Footnote #",
+     "512GB Footnote 1 Buy from $2199 or $91.62/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $63.80/mo. per month for 24 mo. months Footnote #",
+     "1TB Footnote 1 Buy from $2599 or $108.29/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $75.40/mo. per month for 24 mo. months Footnote #",
+     "2TB Footnote 1 Buy from $3199 or $133.29/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $92.81/mo. per month for 24 mo. months Footnote #"
+    ]
+   }
+  }
+ }
+}

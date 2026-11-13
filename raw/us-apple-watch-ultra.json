@@ -1,0 +1,58 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-13T04:54:38.342Z",
+ "configs": {
+  "band": {
+   "total": 799,
+   "totalText": "Buy for $799.00 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colors Alpine Loop For outdoor adventure and hiking. Buy for $799 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+     "New colors Trail Loop For all sports and workouts. Buy for $799 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+     "New colors Ocean Band For water sports and recreational diving. Buy for $799 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. Buy for $899 or $74.91/mo. per month for 12 mo. months Footnote † Lease from $29.16/mo. per month for 24 mo. months Footnote ‡"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130–160mm wrists.",
+     "Medium Band fits 145–190mm wrists.",
+     "Large Band fits 165–210mm wrists."
+    ]
+   }
+  },
+  "milanese": {
+   "total": 899,
+   "totalText": "Buy for $899.00 or $74.91/mo. per month for 12 mo. months Footnote † Lease from $29.16/mo. per month for 24 mo. months Footnote ‡",
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colors Alpine Loop For outdoor adventure and hiking. Buy for $799 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+     "New colors Trail Loop For all sports and workouts. Buy for $799 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+     "New colors Ocean Band For water sports and recreational diving. Buy for $799 or $66.58/mo. per month for 12 mo. months Footnote † Lease from $24.99/mo. per month for 24 mo. months Footnote ‡",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. Buy for $899 or $74.91/mo. per month for 12 mo. months Footnote † Lease from $29.16/mo. per month for 24 mo. months Footnote ‡"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130–160mm wrists.",
+     "Medium Band fits 155–185mm wrists.",
+     "Large Band fits 180–210mm wrists."
+    ]
+   }
+  }
+ }
+}

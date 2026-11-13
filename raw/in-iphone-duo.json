@@ -1,0 +1,24 @@
+{
+ "page": "iphone-duo",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-13T04:49:59.598Z",
+ "configs": {
+  "default": {
+   "total": null,
+   "totalText": "From ₹48817.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆",
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 From ₹48817.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹299900.00 Footnote ‡ (Incl. of all taxes)",
+     "512GB Footnote 1 From ₹52983.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹324900.00 Footnote ‡ (Incl. of all taxes)",
+     "1TB Footnote 1 From ₹61317.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹374900.00 Footnote ‡ (Incl. of all taxes)",
+     "2TB Footnote 1 From ₹73817.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹449900.00 Footnote ‡ (Incl. of all taxes)"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "page": "macbook-pro",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-13T04:54:12.967Z",
+ "configs": {
+  "14-m6": {
+   "total": 239900,
+   "totalText": "From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From ₹47483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹299900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹80817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹499900.00 Footnote †"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ ₹24000.00",
+     "32GB+ ₹48000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ ₹60000.00",
+     "4TB+ ₹180000.00"
+    ],
+    "power_adapter-wattage": [
+     "70WCompact size, efficient charging.Included",
+     "96WFast charging, supports High Power Mode with the M5 Pro and M5 Max chip.+ ₹3100.00"
+    ]
+   }
+  },
+  "14-m5pro-15": {
+   "total": 299900,
+   "totalText": "From ₹47483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹299900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From ₹47483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹299900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹80817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹499900.00 Footnote †"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work. + ₹40000.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GBIncluded",
+     "48GB+ ₹72000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ ₹60000.00",
+     "4TB+ ₹180000.00"
+    ],
+    "power_adapter-wattage": [
+     "70WCompact size, efficient charging.Included",
+     "96WFast charging, supports High Power Mode with the M5 Pro and M5 Max chip.+ ₹3100.00"
+    ]
+   }
+  },
+  "14-m5pro-18": {
+   "total": 339900,
+   "totalText": "From ₹54150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹339900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From ₹47483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹299900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹80817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹499900.00 Footnote †"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − ₹40000.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work."
+    ],
+    "memory-dimensionMemory": [
+     "24GBIncluded",
+     "48GB+ ₹72000.00",
+     "64GB+ ₹120000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ ₹60000.00",
+     "4TB+ ₹180000.00"
+    ]
+   }
+  },
+  "14-m5max-32": {
+   "total": 499900,
+   "totalText": "From ₹80817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹499900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From ₹47483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹299900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹80817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹499900.00 Footnote †"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Included",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + ₹36000.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GBIncluded"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ ₹120000.00",
+     "8TB+ ₹360000.00"
+    ]
+   }
+  },
+  "14-m5max-40": {
+   "total": 571900,
+   "totalText": "From ₹92817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹571900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From ₹47483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹299900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹80817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹499900.00 Footnote †"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − ₹36000.00",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GBIncluded",
+     "64GB+ ₹48000.00",
+     "128GB+ ₹240000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ ₹120000.00",
+     "8TB+ ₹360000.00"
+    ]
+   }
+  },
+  "16-m5pro-18": {
+   "total": 359900,
+   "totalText": "From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹87483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹539900.00 Footnote †"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work. Included"
+    ],
+    "memory-dimensionMemory": [
+     "24GBIncluded",
+     "48GB+ ₹72000.00",
+     "64GB+ ₹120000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ ₹60000.00",
+     "4TB+ ₹180000.00"
+    ]
+   }
+  },
+  "16-m5max-32": {
+   "total": 539900,
+   "totalText": "From ₹87483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹539900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹87483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹539900.00 Footnote †"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Included",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + ₹44000.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GBIncluded"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ ₹120000.00",
+     "8TB+ ₹360000.00"
+    ]
+   }
+  },
+  "16-m5max-40": {
+   "total": 619900,
+   "totalText": "From ₹100817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹619900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "35.97cm - 14” Footnote 1 Available with M6, M5 Pro or M5 Max chip. From ₹37483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹239900.00 Footnote †",
+     "41.05cm - 16” Footnote 1 Available with M5 Pro or M5 Max chip. From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + ₹18000.00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From ₹57483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹359900.00 Footnote †",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From ₹87483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹539900.00 Footnote †"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − ₹44000.00",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GBIncluded",
+     "64GB+ ₹48000.00",
+     "128GB+ ₹240000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ ₹120000.00",
+     "8TB+ ₹360000.00"
+    ]
+   }
+  }
+ }
+}

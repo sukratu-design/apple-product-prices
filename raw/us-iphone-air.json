@@ -1,0 +1,25 @@
+{
+ "page": "iphone-air",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-13T04:49:51.486Z",
+ "configs": {
+  "default": {
+   "total": 1099,
+   "totalText": "Buy from $1099 or $45.79/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $31.99/mo. per month for 24 mo. months Footnote #",
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 Buy from $1099 or $45.79/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $31.99/mo. per month for 24 mo. months Footnote #",
+     "512GB Footnote 1 Buy from $1299 or $54.12/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $37.82/mo. per month for 24 mo. months Footnote #",
+     "1TB Footnote 1 Buy from $1699 or $70.79/mo. per month for 24 mo. months Footnote Footnote ※ Lease from $49.46/mo. per month for 24 mo. months Footnote #"
+    ]
+   }
+  }
+ }
+}

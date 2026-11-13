@@ -1,0 +1,108 @@
+{
+ "page": "macbook-air",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-13T04:52:28.614Z",
+ "configs": {
+  "15": {
+   "total": 179900,
+   "totalText": "From ₹28317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹179900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "34.46cm - 13” Footnote 1 From ₹23317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹149900.00 Footnote †",
+     "38.91cm - 15” Footnote 1 From ₹28317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹179900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₹28317.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹179900.00 Footnote †"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ ₹24000.00",
+     "32GB+ ₹48000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GBIncluded",
+     "1TB+ ₹36000.00",
+     "2TB+ ₹96000.00",
+     "4TB+ ₹216000.00"
+    ],
+    "power_adapter-wattage": [
+     "35W Dual USB-C PortTwo ports to charge two devices at once.Included",
+     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ‡"
+    ]
+   }
+  },
+  "13-8gpu": {
+   "total": 149900,
+   "totalText": "From ₹23317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹149900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "34.46cm - 13” Footnote 1 From ₹23317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹149900.00 Footnote †",
+     "38.91cm - 15” Footnote 1 From ₹28317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹179900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From ₹23317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹149900.00 Footnote †",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₹25317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹161900.00 Footnote †"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded"
+    ],
+    "storage-dimensionCapacity": [
+     "512GBIncluded"
+    ],
+    "power_adapter-wattage": [
+     "30W USB-CQuick, efficient charging.Included",
+     "35W Dual USB-C PortTwo ports to charge two devices at once.+ ₹900.00",
+     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ‡+ ₹900.00"
+    ]
+   }
+  },
+  "13-10gpu": {
+   "total": 185900,
+   "totalText": "From ₹29317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹185900.00 Footnote †",
+   "options": {
+    "chassis-dimensionScreensize": [
+     "34.46cm - 13” Footnote 1 From ₹23317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹149900.00 Footnote †",
+     "38.91cm - 15” Footnote 1 From ₹28317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹179900.00 Footnote †"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From ₹23317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹149900.00 Footnote †",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₹25317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹161900.00 Footnote †"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ ₹24000.00",
+     "32GB+ ₹48000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB− ₹36000.00",
+     "1TB",
+     "2TB+ ₹60000.00",
+     "4TB+ ₹180000.00"
+    ],
+    "power_adapter-wattage": [
+     "35W Dual USB-C PortTwo ports to charge two devices at once.Included",
+     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ‡"
+    ]
+   }
+  }
+ }
+}

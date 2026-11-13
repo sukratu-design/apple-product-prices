@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-13T05:04:53.745Z",
+ "configs": {
+  "default": {
+   "total": 3699,
+   "totalFrom": "summary",
+   "totalText": "From $3699 or $308.25/mo. per month for 12 mo. months footnote *",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB Footnote 2 From $3699 or $308.25/mo. per month for 12 mo. months footnote *",
+     "512GB Footnote 2 From $3899 or $324.91/mo. per month for 12 mo. months footnote *",
+     "1TB Footnote 2 From $4199 or $349.91/mo. per month for 12 mo. months footnote *"
+    ]
+   }
+  }
+ }
+}

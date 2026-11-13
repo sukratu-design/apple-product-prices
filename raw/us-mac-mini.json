@@ -1,0 +1,96 @@
+{
+ "page": "mac-mini",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-13T04:53:13.589Z",
+ "configs": {
+  "m6": {
+   "total": 899,
+   "totalText": "$899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡",
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ‡"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + $200.00",
+     "32GB + $400.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + $200.00",
+     "1TB + $500.00",
+     "2TB + $1,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + $100.00"
+    ]
+   }
+  },
+  "m5pro-15": {
+   "total": 1699,
+   "totalText": "$1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡",
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ‡"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + $200.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + $600.00",
+     "64GB + $1,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + $300.00",
+     "2TB + $800.00",
+     "4TB + $1,800.00",
+     "8TB + $3,800.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + $100.00"
+    ]
+   }
+  },
+  "m5pro-18": {
+   "total": 1899,
+   "totalText": "$1,899.00 or $158.25/mo. per month for 12 mo. months Footnote ‡",
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ‡"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − $200.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + $600.00",
+     "64GB + $1,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + $300.00",
+     "2TB + $800.00",
+     "4TB + $1,800.00",
+     "8TB + $3,800.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + $100.00"
+    ]
+   }
+  }
+ }
+}

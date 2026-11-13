@@ -1,0 +1,50 @@
+{
+ "page": "macbook-neo",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-13T05:01:02.792Z",
+ "configs": {
+  "256": {
+   "total": 79900,
+   "totalFrom": "label:storage-dimensionCapacity",
+   "totalText": "From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †",
+     "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †"
+    ]
+   }
+  },
+  "512": {
+   "total": 89900,
+   "totalFrom": "label:storage-dimensionCapacity",
+   "totalText": "From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †",
+     "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †"
+    ]
+   }
+  }
+ }
+}

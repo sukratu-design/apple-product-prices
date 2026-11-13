@@ -1,0 +1,74 @@
+{
+  "_about": "Apple Store buy pages to scrape. Each path is the list of [option group, value] clicks that selects one configuration. Pages without paths are read once with default choices; their option labels carry the prices.",
+  "pages": {
+    "iphone-duo":    {"url": "buy-iphone/iphone-duo"},
+    "iphone-18-pro": {"url": "buy-iphone/iphone-18-pro", "paths": {
+      "pro":    [["dimensionScreensize", "6_3inch"]],
+      "promax": [["dimensionScreensize", "6_9inch"]]}},
+    "iphone-air":    {"url": "buy-iphone/iphone-air"},
+    "iphone-17":     {"url": "buy-iphone/iphone-17"},
+    "iphone-17e":    {"url": "buy-iphone/iphone-17e"},
+    "iphone-16":     {"url": "buy-iphone/iphone-16"},
+
+    "ipad-pro":  {"url": "buy-ipad/ipad-pro"},
+    "ipad-air":  {"url": "buy-ipad/ipad-air"},
+    "ipad-mini": {"url": "buy-ipad/ipad-mini"},
+    "ipad":      {"url": "buy-ipad/ipad"},
+
+    "macbook-neo": {"url": "buy-mac/macbook-neo", "paths": {
+      "256": [["storage-dimensionCapacity", "256gb"]],
+      "512": [["storage-dimensionCapacity", "512gb"]]}},
+    "macbook-air": {"url": "buy-mac/macbook-air", "paths": {
+      "13-8gpu":  [["chassis-dimensionScreensize", "13inch"], ["processor-cpuCoreCount-gpuCoreCount", "10-8"]],
+      "13-10gpu": [["chassis-dimensionScreensize", "13inch"], ["processor-cpuCoreCount-gpuCoreCount", "10-10"]],
+      "15":       [["chassis-dimensionScreensize", "15inch"]]}},
+    "macbook-pro": {"url": "buy-mac/macbook-pro", "paths": {
+      "14-m6":       [["chassis-dimensionScreensize", "14inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m6"]],
+      "14-m5pro-15": [["chassis-dimensionScreensize", "14inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5pro"], ["m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5pro-15-16"]],
+      "14-m5pro-18": [["chassis-dimensionScreensize", "14inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5pro"], ["m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5pro-18-20"]],
+      "14-m5max-32": [["chassis-dimensionScreensize", "14inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5max"], ["m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5max-18-32"]],
+      "14-m5max-40": [["chassis-dimensionScreensize", "14inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5max"], ["m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5max-18-40"]],
+      "16-m5pro-18": [["chassis-dimensionScreensize", "16inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5pro"]],
+      "16-m5max-32": [["chassis-dimensionScreensize", "16inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5max"], ["m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5max-18-32"]],
+      "16-m5max-40": [["chassis-dimensionScreensize", "16inch"], ["display-dimensionFinish", "standard"], ["processor-dimensionChip", "m5max"], ["m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5max-18-40"]]}},
+    "imac": {"url": "buy-mac/imac", "paths": {
+      "2port": [["processor-cpuCoreCount-gpuCoreCount", "10-10"]],
+      "4port": [["processor-cpuCoreCount-gpuCoreCount", "12-12"]]}},
+    "mac-mini": {"url": "buy-mac/mac-mini", "paths": {
+      "m6":       [["processor-dimensionChip", "m6"]],
+      "m5pro-15": [["processor-dimensionChip", "m5pro"], ["m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5pro-15-16"]],
+      "m5pro-18": [["processor-dimensionChip", "m5pro"], ["m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5pro-18-20"]]}},
+    "mac-studio": {"url": "buy-mac/mac-studio", "paths": {
+      "m5max-32":   [["processor-dimensionChip", "m5max"], ["m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5max-18-32"]],
+      "m5max-40":   [["processor-dimensionChip", "m5max"], ["m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5max-18-40"]],
+      "m5ultra-64": [["processor-dimensionChip", "m5ultra"], ["m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5ultra-30-64"]],
+      "m5ultra-80": [["processor-dimensionChip", "m5ultra"], ["m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount", "m5ultra-36-80"]]}},
+
+    "apple-watch": {"url": "buy-watch/apple-watch", "paths": {
+      "al-42-gps":  [["watch_cases-dimensionCaseMaterial", "aluminum"], ["watch_cases-dimensionCaseSize", "42mm"], ["watch_cases-dimensionConnection", "gps"]],
+      "al-46-gps":  [["watch_cases-dimensionCaseMaterial", "aluminum"], ["watch_cases-dimensionCaseSize", "46mm"], ["watch_cases-dimensionConnection", "gps"]],
+      "al-42-cell": [["watch_cases-dimensionCaseMaterial", "aluminum"], ["watch_cases-dimensionCaseSize", "42mm"], ["watch_cases-dimensionConnection", "gpscell"]],
+      "al-46-cell": [["watch_cases-dimensionCaseMaterial", "aluminum"], ["watch_cases-dimensionCaseSize", "46mm"], ["watch_cases-dimensionConnection", "gpscell"]],
+      "ti-42":      [["watch_cases-dimensionCaseMaterial", "titanium"], ["watch_cases-dimensionCaseSize", "42mm"]],
+      "ti-46":      [["watch_cases-dimensionCaseMaterial", "titanium"], ["watch_cases-dimensionCaseSize", "46mm"]],
+      "ce-42":      [["watch_cases-dimensionCaseMaterial", "ceramic"], ["watch_cases-dimensionCaseSize", "42mm"]],
+      "ce-46":      [["watch_cases-dimensionCaseMaterial", "ceramic"], ["watch_cases-dimensionCaseSize", "46mm"]]}},
+    "apple-watch-se": {"url": "buy-watch/apple-watch-se", "paths": {
+      "40-gps":  [["watch_cases-dimensionCaseSize", "40mm"], ["watch_cases-dimensionConnection", "gps"]],
+      "44-gps":  [["watch_cases-dimensionCaseSize", "44mm"], ["watch_cases-dimensionConnection", "gps"]],
+      "40-cell": [["watch_cases-dimensionCaseSize", "40mm"], ["watch_cases-dimensionConnection", "gpscell"]],
+      "44-cell": [["watch_cases-dimensionCaseSize", "44mm"], ["watch_cases-dimensionConnection", "gpscell"]]}},
+    "apple-watch-ultra": {"url": "buy-watch/apple-watch-ultra", "paths": {
+      "band":     [["style", "alpineloop"]],
+      "milanese": [["style", "ti_milaneseloop"]]}},
+
+    "apple-vision-pro": {"url": "buy-vision/apple-vision-pro"},
+
+    "airpods-5":     {"url": "buy-airpods/airpods-5"},
+    "airpods-pro-3": {"url": "buy-airpods/airpods-pro-3"},
+    "airpods-max-2": {"url": "buy-airpods/airpods-max-2"},
+    "homepod-mini":  {"url": "buy-homepod/homepod-mini"},
+    "homepod":       {"url": "buy-homepod/homepod"},
+    "apple-tv-4k":   {"url": "buy-tv/apple-tv-4k"}
+  }
+}

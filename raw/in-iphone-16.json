@@ -1,0 +1,29 @@
+{
+ "page": "iphone-16",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-13T05:01:31.572Z",
+ "configs": {
+  "default": {
+   "total": 89900,
+   "totalFrom": "label:dimensionScreensize",
+   "totalText": "From ₹15690.00/mo. Per Month with EMI Footnote ‡",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 15.5 cm (6.1″) display Footnote 1Comes with 128GB storage From ₹15690.00/mo. per month with EMI Footnote ‡, or ₹89900.00 Footnote ±",
+    "dimensionColor": "Ultramarine"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 15.5 cm (6.1″) display Footnote 1Comes with 128GB storage From ₹15690.00/mo. per month with EMI Footnote ‡, or ₹89900.00 Footnote ±"
+    ],
+    "dimensionColor": [
+     "Ultramarine",
+     "Teal",
+     "White",
+     "Pink",
+     "Black"
+    ]
+   }
+  }
+ }
+}

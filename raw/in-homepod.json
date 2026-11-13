@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "in",
+ "url": "https://www.apple.com/in/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-13T05:04:46.789Z",
+ "configs": {
+  "default": {
+   "total": 44900,
+   "totalFrom": "page",
+   "totalText": "From ₹696.00/mo. Per Month Footnote ◊◊",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

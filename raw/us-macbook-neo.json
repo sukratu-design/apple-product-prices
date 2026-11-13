@@ -1,0 +1,40 @@
+{
+ "page": "macbook-neo",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-13T04:51:45.905Z",
+ "configs": {
+  "256": {
+   "total": 699,
+   "totalText": "$699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡",
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡",
+     "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡"
+    ]
+   }
+  },
+  "512": {
+   "total": 799,
+   "totalText": "$799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡",
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡",
+     "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡"
+    ]
+   }
+  }
+ }
+}

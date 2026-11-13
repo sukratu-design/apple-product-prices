@@ -1,0 +1,23 @@
+{
+ "page": "iphone-17e",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-13T04:50:10.511Z",
+ "configs": {
+  "default": {
+   "total": 699,
+   "totalText": "Buy from $699 or $29.12/mo. per month for 24 mo. months Footnote ※ Lease $19.99/mo. per month for 24 mo. months Footnote #",
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 Buy from $699 or $29.12/mo. per month for 24 mo. months Footnote ※ Lease $19.99/mo. per month for 24 mo. months Footnote #",
+     "512GB Footnote 1 Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote ※ Lease $25.71/mo. per month for 24 mo. months Footnote #"
+    ]
+   }
+  }
+ }
+}

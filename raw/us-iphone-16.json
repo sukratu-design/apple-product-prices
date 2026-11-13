@@ -1,0 +1,24 @@
+{
+ "page": "iphone-16",
+ "country": "us",
+ "url": "https://www.apple.com/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-13T04:50:19.074Z",
+ "configs": {
+  "default": {
+   "total": 799,
+   "totalText": "Buy from $799 or $33.29/mo. per month for 24 mo. months Footnote ±",
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage Buy from $799 or $33.29/mo. per month for 24 mo.months Footnote ±"
+    ],
+    "dimensionColor": [
+     "Ultramarine",
+     "Teal",
+     "White",
+     "Pink",
+     "Black"
+    ]
+   }
+  }
+ }
+}
