@@ -1,0 +1,56 @@
+<!doctype html>
+<!-- Share image template (1200×630). Rendered to assets/og.png by scripts/make-images.js. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@600;700&family=Inter:wght@400;500&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+  :root{--bg:#0b0c0f;--panel:#13151a;--line:#252932;--fg:#f2f3f6;--muted:#9097a5;--track:#1d2129;
+    --t1:#4b92ff;--t2:#ff7b4d;--t3:#2fd39a;--t4:#ffc23d}
+  *{box-sizing:border-box;margin:0}
+  body{width:1200px;height:630px;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,sans-serif;
+    padding:64px 72px;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden}
+  .brand{display:flex;align-items:center;gap:18px}
+  .mark{display:grid;grid-template-columns:repeat(3,16px);gap:6px;align-items:end}
+  .mark i{display:block;width:16px;border-radius:8px}
+  .mark i:nth-child(1){height:24px;background:var(--t1)}.mark i:nth-child(2){height:38px;background:var(--t2)}.mark i:nth-child(3){height:52px;background:var(--t4)}
+  .name{font-family:"Inter Tight";font-weight:700;font-size:34px;letter-spacing:-.015em}
+  h1{font-family:"Inter Tight";font-weight:700;font-size:62px;line-height:1.04;letter-spacing:-.025em;max-width:900px;margin-top:34px}
+  .rows{display:flex;flex-direction:column;gap:16px;margin-top:30px}
+  .row{display:grid;grid-template-columns:230px 1fr 210px;align-items:center;gap:24px}
+  .row .n{font-family:"Inter Tight";font-weight:600;font-size:23px}
+  .track{position:relative;height:40px}
+  .range{position:absolute;top:0;height:40px;border-radius:20px;background:linear-gradient(90deg,#1c2a44,#3a3220)}
+  .dot{position:absolute;top:50%;width:22px;height:22px;margin:-11px 0 0 -11px;border-radius:50%;border:3px solid var(--bg);background:var(--c)}
+  .dot.ring{background:var(--bg);border:4px solid var(--c)}
+  .p{font-family:"JetBrains Mono";font-weight:500;font-size:23px;text-align:right}
+  .foot{display:flex;justify-content:space-between;align-items:flex-end;border-top:1px solid var(--line);padding-top:22px}
+  .countries{font-size:20px;color:var(--muted)}
+  .countries b{color:var(--fg);font-weight:500}
+  .url{font-family:"JetBrains Mono";font-size:20px;color:var(--fg)}
+</style>
+</head>
+<body>
+  <div>
+    <div class="brand"><span class="mark"><i></i><i></i><i></i></span><span class="name">Apple Product Prices</span></div>
+    <h1>Every Apple product, from entry model to fully loaded.</h1>
+    <div class="rows" id="rows"></div>
+  </div>
+  <div class="foot">
+    <div class="countries"><b>8 countries</b> · US · India · UK · UAE · Canada · Australia · Japan · Singapore</div>
+    <div class="url">apple-product-prices.com</div>
+  </div>
+<script>
+  // US prices from prices.js: [name, [[price, colour, ring?]...]]
+  const ROWS = window.OG_ROWS || [];
+  const max = 4000, pct = v => v / max * 100;
+  document.getElementById('rows').innerHTML = ROWS.map(([n, dots]) => {
+    const lo = Math.min(...dots.map(d => d[0])), hi = Math.max(...dots.map(d => d[0]));
+    return `<div class="row"><div class="n">${n}</div><div class="track">
+      <div class="range" style="left:calc(${pct(lo)}% - 20px);width:calc(${pct(hi) - pct(lo)}% + 40px)"></div>
+      ${dots.map(([v, c, r]) => `<span class="dot${r ? ' ring' : ''}" style="left:${pct(v)}%;--c:var(${c})"></span>`).join('')}
+    </div><div class="p">$${lo.toLocaleString('en-US')}–${hi.toLocaleString('en-US')}</div></div>`;
+  }).join('');
+</script>
+</body>
+</html>

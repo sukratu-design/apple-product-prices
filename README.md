@@ -14,6 +14,7 @@ Each row is one product. Dots mark every configuration on a shared price scale. 
 | `scripts/scrape.js` | Opens each buy page in headless Chromium and records the configured total and every option label (Apple prints the price difference on each label). |
 | `scripts/build_prices.py` | Turns `raw/*.json` into `prices.js`, and prints what changed since the last run. |
 | `raw/` | Latest scrape output, kept so each monthly update shows a diff. |
+| `assets/` | Favicons and the share image (`og.png`). Regenerate with `node scripts/make-images.js` after editing `assets/favicon.svg` or `scripts/og.html`. |
 
 ## Where the prices come from
 
