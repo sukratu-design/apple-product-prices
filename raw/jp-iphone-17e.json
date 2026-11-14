@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-14T03:46:04.608Z",
+ "configs": {
+  "default": {
+   "total": 124800,
+   "totalFrom": "summary",
+   "totalText": "124,800円から 、または5,200円/月 月額 の24回払いから 脚注 ◊ | 124,800円から 、または5,200円/月 月額 の24回払いから 脚注 ◊",
+   "selected": {
+    "dimensionColor": "ソフトピンク",
+    "dimensionCapacity": "256GB 脚注 1 124,800円から 、または5,200円/月 月額 の24回払いから 脚注 ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "ソフトピンク",
+     "ホワイト",
+     "ブラック"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 124,800円から 、または5,200円/月 月額 の24回払いから 脚注 ◊",
+     "512GB 脚注 1 159,800円から 、または6,658円/月 月額 の24回払いから 脚注 ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

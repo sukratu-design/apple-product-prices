@@ -1,6 +1,6 @@
 # Apple Product Prices
 
-A single-page site, developed by [Anand Bongir](https://x.com/anand_bongir), that shows the price range of every current Apple product, from the entry configuration to the fully loaded one, in **six countries**: the United States, India, the United Kingdom, the United Arab Emirates, Canada and Australia.
+A single-page site, developed by [Anand Bongir](https://x.com/anand_bongir), that shows the price range of every current Apple product, from the entry configuration to the fully loaded one, in **eight countries**: the United States, India, the United Kingdom, the United Arab Emirates, Canada, Australia, Japan and Singapore.
 
 Each row is one product. Dots mark every configuration on a shared price scale. Click a row to see the price ladder: storage tiers for iPhone and iPad, memory and storage upgrades for Mac, and size and connectivity for Apple Watch.
 
@@ -27,6 +27,8 @@ All prices are read from Apple's own online stores:
 | United Arab Emirates | `apple.com/ae/shop` | including VAT |
 | Canada | `apple.com/ca/shop` | before sales tax |
 | Australia | `apple.com/au/shop` | including GST |
+| Japan | `apple.com/jp/shop` | including consumption tax |
+| Singapore | `apple.com/sg/shop` | including GST |
 
 The only hand-entered prices are the Hermès Apple Watch rows (US starting prices from press coverage), because Hermès models are sold on a separate store.
 
@@ -64,4 +66,4 @@ When Apple launches or retires a product, add or remove its page in `scripts/con
 
 ## Hosting
 
-The site is static and is served by GitHub Pages from the `main` branch root.
+The site is static and is served by GitHub Pages from the `main` branch root at [apple-product-prices.com](https://apple-product-prices.com) (DNS on Cloudflare, `CNAME` file in the repo).

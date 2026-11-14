@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-14T03:51:07.534Z",
+ "configs": {
+  "40-gps": {
+   "total": 349,
+   "totalFrom": "summary",
+   "totalText": "S$349.00 | S$349.00 | S$349.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From S$349",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From S$349",
+    "category": "Rubber Flexible, comfortable, swimproof straps. S$349.00",
+    "rubber-style": "New colours Solo Loop S$349.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From S$349",
+     "44mm From S$389"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From S$349",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From S$419"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. S$349.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From S$349",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From S$419"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop S$349.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band S$349.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band S$349.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 389,
+   "totalFrom": "summary",
+   "totalText": "S$389.00 | S$389.00 | S$389.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From S$389",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From S$389",
+    "category": "Rubber Flexible, comfortable, swimproof straps. S$389.00",
+    "rubber-style": "New colours Solo Loop S$389.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From S$349",
+     "44mm From S$389"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From S$389",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From S$459"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. S$389.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From S$389",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From S$459"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop S$389.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band S$389.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band S$389.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 419,
+   "totalFrom": "summary",
+   "totalText": "S$419.00 | S$419.00 | S$419.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From S$349",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From S$419",
+    "category": "Rubber Flexible, comfortable, swimproof straps. S$419.00",
+    "rubber-style": "New colours Solo Loop S$419.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From S$349",
+     "44mm From S$389"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From S$349",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From S$419"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. S$419.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From S$419",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From S$489"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop S$419.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band S$419.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band S$419.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 459,
+   "totalFrom": "summary",
+   "totalText": "S$459.00 | S$459.00 | S$459.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From S$389",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From S$459",
+    "category": "Rubber Flexible, comfortable, swimproof straps. S$459.00",
+    "rubber-style": "New colours Solo Loop S$459.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From S$349",
+     "44mm From S$389"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From S$389",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ± From S$459"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. S$459.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From S$459",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From S$529"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop S$459.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band S$459.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band S$459.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

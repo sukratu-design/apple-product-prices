@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-14T03:46:00.448Z",
+ "configs": {
+  "pro": {
+   "total": 1899,
+   "totalFrom": "summary",
+   "totalText": "S$1,899.00 | S$1,899.00 | S$1,899.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From S$1,899",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 S$1,899.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From S$1,899",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From S$2,099"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 S$1,899.00",
+     "512GB Footnote 1 S$2,199.00",
+     "1TB Footnote 1 S$2,799.00",
+     "2TB Footnote 1 S$3,699.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 2099,
+   "totalFrom": "summary",
+   "totalText": "S$2,099.00 | S$2,099.00 | S$2,099.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From S$2,099",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 S$2,099.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From S$1,899",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From S$2,099"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 S$2,099.00",
+     "512GB Footnote 1 S$2,399.00",
+     "1TB Footnote 1 S$2,999.00",
+     "2TB Footnote 1 S$3,899.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

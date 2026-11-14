@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-14T03:45:50.931Z",
+ "configs": {
+  "default": {
+   "total": 159800,
+   "totalFrom": "summary",
+   "totalText": "159,800円から 、または4,438円/月 月額 の36回払いから 脚注 † | 159,800円から 、または4,438円/月 月額 の36回払いから 脚注 †",
+   "selected": {
+    "dimensionColor": "ラベンダー",
+    "dimensionCapacity": "256GB 脚注 1 159,800円から 、または4,438円/月 月額 の36回払いから 脚注 †"
+   },
+   "options": {
+    "dimensionColor": [
+     "ラベンダー",
+     "ミストブルー",
+     "ホワイト",
+     "セージ",
+     "ブラック"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 159,800円から 、または4,438円/月 月額 の36回払いから 脚注 †",
+     "512GB 脚注 1 194,800円から 、または5,411円/月 月額 の36回払いから 脚注 †"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

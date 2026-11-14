@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-14T03:48:28.385Z",
+ "configs": {
+  "256": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "S$999.00 | S$999.00 | S$999.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From S$999"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From S$999",
+     "512 GB Magic Keyboard with Touch ID From S$1,149"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 1149,
+   "totalFrom": "summary",
+   "totalText": "S$1,149.00 | S$1,149.00 | S$1,149.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From S$1,149"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From S$999",
+     "512 GB Magic Keyboard with Touch ID From S$1,149"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

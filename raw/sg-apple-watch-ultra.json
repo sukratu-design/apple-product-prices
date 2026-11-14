@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-14T03:51:01.429Z",
+ "configs": {
+  "band": {
+   "total": 1199,
+   "totalFrom": "summary",
+   "totalText": "S$1,199.00 | S$1,199.00 | S$1,199.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. S$1,199.00",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. S$1,199.00",
+     "New colours Trail Loop For all sports and workouts. S$1,199.00",
+     "New colours Ocean Band For water sports and recreational diving. S$1,199.00",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. S$1,339.00"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Strap fits 130–160mm wrists.",
+     "Medium Strap fits 145–190mm wrists.",
+     "Large Strap fits 165–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1339,
+   "totalFrom": "summary",
+   "totalText": "S$1,339.00 | S$1,339.00 | S$1,339.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. S$1,339.00",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. S$1,199.00",
+     "New colours Trail Loop For all sports and workouts. S$1,199.00",
+     "New colours Ocean Band For water sports and recreational diving. S$1,199.00",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. S$1,339.00"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Strap fits 130–160mm wrists.",
+     "Medium Strap fits 155–185mm wrists.",
+     "Large Strap fits 180–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

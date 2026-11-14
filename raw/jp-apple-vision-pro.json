@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-14T03:50:42.287Z",
+ "configs": {
+  "default": {
+   "total": 649800,
+   "totalFrom": "summary",
+   "totalText": "649,800円から 、または27,075円/月 月額 の24回払いから 脚注 ‡ | 649,800円から 、または27,075円/月 月額 の24回払いから 脚注 ‡",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB 脚注 2 649,800円から 、または27,075円/月 月額 の24回払いから 脚注 ‡",
+     "512GB 脚注 2 685,800円から 、または28,575円/月 月額 の24回払いから 脚注 ‡",
+     "1TB 脚注 2 739,800円から 、または30,825円/月 月額 の24回払いから 脚注 ‡"
+    ]
+   }
+  }
+ }
+}

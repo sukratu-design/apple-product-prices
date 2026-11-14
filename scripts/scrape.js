@@ -1,4 +1,4 @@
-// Scrape Apple Store buy pages (US, India, UK, UAE, Canada, Australia) for every configuration listed in scripts/configs.json.
+// Scrape Apple Store buy pages (US, India, UK, UAE, Canada, Australia, Japan, Singapore) for every configuration listed in scripts/configs.json.
 //
 // Usage:
 //   node scripts/scrape.js us mac-mini        one page, one country -> prints JSON
@@ -22,13 +22,18 @@ const SKIP = /trade|purchase|Payment|applecare|carrier|software/i;
 const BASE = {
   us: 'https://www.apple.com/shop/', in: 'https://www.apple.com/in/shop/', uk: 'https://www.apple.com/uk/shop/',
   ae: 'https://www.apple.com/ae/shop/', ca: 'https://www.apple.com/ca/shop/', au: 'https://www.apple.com/au/shop/',
+  jp: 'https://www.apple.com/jp/shop/', sg: 'https://www.apple.com/sg/shop/',
 };
 // Currency marker in front of prices on each store
-const CUR = { us: '\\$', ca: '\\$', au: 'A\\$', uk: '£', ae: 'AED\\s?', in: '₹' };
+const CUR = { us: '\\$', ca: '\\$', au: 'A\\$', uk: '£', ae: 'AED\\s?', in: '₹', sg: 'S\\$' };
 const NUM = '([\\d,]+(?:\\.\\d\\d)?)';
 function firstPrice(text, country) { // first full price that is not a monthly instalment
   const t = text.replace(/\s+/g, ' ');
   if (country === 'in') { const m = t.match(new RegExp('MRP\\s*₹\\s?' + NUM)); if (m) return num(m[1]); }
+  if (country === 'jp') { // Japan writes the currency after the number: 219,800円, instalments as 6,105円/月
+    const m = t.match(/(?:^|[^\d,.])([\d,]+)\s?円(?!\s?\/月)/);
+    return m ? num(m[1]) : null;
+  }
   const re = new RegExp('(?:^|[^A-Za-z])' + CUR[country] + '\\s?' + NUM + '(?![\\d.,]*\\/mo)', 'g');
   let m;
   while ((m = re.exec(t))) {
@@ -80,9 +85,12 @@ async function scrapePage(browser, country, page) {
     }
     return false;
   };
-  const totalText = () => p.evaluate(() => {
-    const e = document.querySelector('[data-autom="full-price"]') || document.querySelector('.rc-prices-currentprice');
-    return e ? e.innerText : '';
+  // Some pages show an AppleCare price box before the product's own; AppleCare is always cheaper,
+  // so the summary price is the largest one on the page.
+  const totalTexts = () => p.evaluate(() => {
+    const els = [...document.querySelectorAll('[data-autom="full-price"]')];
+    if (!els.length) { const e = document.querySelector('.rc-prices-currentprice'); if (e) els.push(e); }
+    return els.map(e => e.innerText);
   });
 
   const out = {};
@@ -103,10 +111,12 @@ async function scrapePage(browser, country, page) {
         if (missing) { out[id] = { error: 'option not available: ' + missing }; break; }
         for (let k = 0; k < 12; k++) if (!(await fillOne())) break;
         const g = await groups();
-        const text = await totalText();
+        const texts = await totalTexts();
+        const parsed = texts.map(t => parseTotal(t, country)).filter(v => v != null);
+        const text = texts.join(' | ');
         const selected = Object.fromEntries(Object.entries(g).map(([n, vs]) => [n, (vs.find(x => x.chk) || {}).lab || null]));
         // India shows only the EMI in the summary; the MRP is printed on the selected option's label
-        let total = parseTotal(text, country), from = 'summary';
+        let total = parsed.length ? Math.max(...parsed) : null, from = 'summary';
         if (total == null) {
           const order = [...steps.map(s => s[0]).reverse(), ...Object.keys(selected)];
           for (const n of order) { const v = parseLabel(selected[n] || '', country); if (v != null) { total = v; from = 'label:' + n; break; } }
@@ -115,18 +125,18 @@ async function scrapePage(browser, country, page) {
           // Pages without options: the product's own price follows its monthly-instalment line. Smaller
           // add-ons (AppleCare) are listed first with their own, smaller instalments, so take the price
           // that follows the largest instalment.
-          const lines = await p.evaluate(() => document.body.innerText.split('\n').map(s => s.trim()).filter(s => /(₹|\$|£|AED)\s?[\d,]/.test(s) && s.length < 140).slice(0, 12));
+          const lines = await p.evaluate(() => document.body.innerText.split('\n').map(s => s.trim()).filter(s => /(₹|\$|£|AED)\s?[\d,]|[\d,]+円/.test(s) && s.length < 140).slice(0, 12));
           let best = -1;
           lines.forEach((l, i) => {
-            const mo = l.match(/(?:₹|\$|£|AED\s?)([\d,]+(?:\.\d\d)?)\/mo/);
+            const mo = l.match(/(?:₹|\$|£|AED\s?)([\d,]+(?:\.\d\d)?)\/mo/) || l.match(/([\d,]+)円\/月/);
             if (!mo) return;
             const m = parseFloat(mo[1].replace(/,/g, ''));
-            const sameLine = parseLabel(l.replace(/(?:₹|A?\$|£|AED\s?)[\d,.]+\/mo\.?/, ''), country);
+            const sameLine = parseLabel(l.replace(/(?:₹|[AS]?\$|£|AED\s?)[\d,.]+\/mo\.?/, '').replace(/[\d,]+円\/月/, ''), country);
             const next = sameLine != null ? sameLine : parseLabel(lines[i + 1] || '', country);
             if (next != null && m > best) { best = m; total = next; from = 'page'; }
           });
           if (total == null) { // no instalment lines: the first price that is not a subscription
-            const l = lines.find(l => !/\/(mo|yr)/.test(l) && parseLabel(l, country) != null);
+            const l = lines.find(l => !/\/(mo|yr|月|年)/.test(l) && parseLabel(l, country) != null);
             if (l) { total = parseLabel(l, country); from = 'page-first'; }
           }
         }

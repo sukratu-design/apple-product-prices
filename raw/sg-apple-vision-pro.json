@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-14T03:50:46.638Z",
+ "configs": {
+  "default": {
+   "total": 5299,
+   "totalFrom": "summary",
+   "totalText": "From S$5,299 | From S$5,299",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB Footnote 2 From S$5,299",
+     "512GB Footnote 2 From S$5,599",
+     "1TB Footnote 2 From S$6,049"
+    ]
+   }
+  }
+ }
+}

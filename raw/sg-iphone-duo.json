@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-14T03:45:50.695Z",
+ "configs": {
+  "default": {
+   "total": 3099,
+   "totalFrom": "summary",
+   "totalText": "S$3,099.00 | S$3,099.00 | S$3,099.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 S$3,099.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 S$3,099.00",
+     "512GB Footnote 1 S$3,399.00",
+     "1TB Footnote 1 S$3,999.00",
+     "2TB Footnote 1 S$4,899.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

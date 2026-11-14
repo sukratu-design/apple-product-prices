@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-14T03:49:36.109Z",
+ "configs": {
+  "m6": {
+   "total": 149800,
+   "totalFrom": "summary",
+   "totalText": "149,800円 、または6,241円/月 月額 の24回払いから 脚注 ※ | 149,800円 、または6,241円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "processor-dimensionChip": "M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU デュアル16コアNeural Engine 149,800円から 、または6,241円/月 月額 の24回払いから 脚注 ※",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "搭載",
+    "memory-dimensionMemory": "16GB 搭載",
+    "storage-dimensionCapacity": "256GB 搭載",
+    "ethernet_adapter-ethernetBandwidth": "2.5ギガビットEthernet 最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。 搭載"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU デュアル16コアNeural Engine 149,800円から 、または6,241円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ 負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを備えています。 16コアNeural Engineを搭載した2のオプション 299,800円から 、または12,491円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "搭載"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 搭載",
+     "24GB + 36,000円",
+     "32GB + 72,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 搭載",
+     "512GB + 36,000円",
+     "1TB + 90,000円",
+     "2TB + 180,000円"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5ギガビットEthernet 最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。 搭載",
+     "10ギガビットEthernet 最大10Gbのリンク速度に対応し、さらに高い接続帯域幅を提供します。 + 18,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 299800,
+   "totalFrom": "summary",
+   "totalText": "299,800円 、または12,491円/月 月額 の24回払いから 脚注 ※ | 299,800円 、または12,491円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "processor-dimensionChip": "M5 Proチップ 負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを備えています。 16コアNeural Engineを搭載した2のオプション 299,800円から 、または12,491円/月 月額 の24回払いから 脚注 ※",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15コアCPU、16コアGPU 搭載",
+    "memory-dimensionMemory": "24GB 搭載",
+    "storage-dimensionCapacity": "512GB 搭載",
+    "ethernet_adapter-ethernetBandwidth": "2.5ギガビットEthernet 最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。 搭載"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU デュアル16コアNeural Engine 149,800円から 、または6,241円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ 負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを備えています。 16コアNeural Engineを搭載した2のオプション 299,800円から 、または12,491円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15コアCPU、16コアGPU 搭載",
+     "18コアCPU、20コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 + 36,000円"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 搭載",
+     "48GB + 108,000円",
+     "64GB + 180,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 搭載",
+     "1TB + 54,000円",
+     "2TB + 144,000円",
+     "4TB + 324,000円",
+     "8TB + 684,000円"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5ギガビットEthernet 最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。 搭載",
+     "10ギガビットEthernet 最大10Gbのリンク速度に対応し、さらに高い接続帯域幅を提供します。 + 18,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 335800,
+   "totalFrom": "summary",
+   "totalText": "335,800円 、または13,991円/月 月額 の24回払いから 脚注 ※ | 335,800円 、または13,991円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "processor-dimensionChip": "M5 Proチップ 負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを備えています。 16コアNeural Engineを搭載した2のオプション 299,800円から 、または12,491円/月 月額 の24回払いから 脚注 ※",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、20コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。",
+    "memory-dimensionMemory": "24GB 搭載",
+    "storage-dimensionCapacity": "512GB 搭載",
+    "ethernet_adapter-ethernetBandwidth": "2.5ギガビットEthernet 最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。 搭載"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU デュアル16コアNeural Engine 149,800円から 、または6,241円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ 負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを備えています。 16コアNeural Engineを搭載した2のオプション 299,800円から 、または12,491円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15コアCPU、16コアGPU − 36,000円",
+     "18コアCPU、20コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 搭載",
+     "48GB + 108,000円",
+     "64GB + 180,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 搭載",
+     "1TB + 54,000円",
+     "2TB + 144,000円",
+     "4TB + 324,000円",
+     "8TB + 684,000円"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5ギガビットEthernet 最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。 搭載",
+     "10ギガビットEthernet 最大10Gbのリンク速度に対応し、さらに高い接続帯域幅を提供します。 + 18,000円"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

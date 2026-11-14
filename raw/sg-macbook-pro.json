@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-14T03:50:35.406Z",
+ "configs": {
+  "14-m6": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "S$2,699.00 | S$2,699.00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From S$2,699",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
+    "memory-dimensionMemory": "16GBIncluded",
+    "storage-dimensionCapacity": "1TBIncluded",
+    "power_adapter-wattage": "70WCompact size, efficient charging.Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From S$2,699",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GBIncluded",
+     "24GB+ S$300.00",
+     "32GB+ S$600.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ S$750.00",
+     "4TB+ S$2,250.00"
+    ],
+    "power_adapter-wattage": [
+     "70WCompact size, efficient charging.Included",
+     "96WFast charging, supports High Power Mode with the M5 Pro and M5 Max chip.+ S$20.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "S$3,499.00 | S$3,499.00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
+    "memory-dimensionMemory": "24GBIncluded",
+    "storage-dimensionCapacity": "1TBIncluded",
+    "power_adapter-wattage": "70WCompact size, efficient charging.Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From S$2,699",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work. + S$250.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GBIncluded",
+     "48GB+ S$900.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ S$750.00",
+     "4TB+ S$2,250.00"
+    ],
+    "power_adapter-wattage": [
+     "70WCompact size, efficient charging.Included",
+     "96WFast charging, supports High Power Mode with the M5 Pro and M5 Max chip.+ S$20.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3749,
+   "totalFrom": "summary",
+   "totalText": "S$3,749.00 | S$3,749.00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work.",
+    "memory-dimensionMemory": "24GBIncluded",
+    "storage-dimensionCapacity": "1TBIncluded"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From S$2,699",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − S$250.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work."
+    ],
+    "memory-dimensionMemory": [
+     "24GBIncluded",
+     "48GB+ S$900.00",
+     "64GB+ S$1,500.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ S$750.00",
+     "4TB+ S$2,250.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 5799,
+   "totalFrom": "summary",
+   "totalText": "S$5,799.00 | S$5,799.00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GBIncluded",
+    "storage-dimensionCapacity": "2TBIncluded"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From S$2,699",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Included",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + S$450.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GBIncluded"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ S$1,500.00",
+     "8TB+ S$4,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 6699,
+   "totalFrom": "summary",
+   "totalText": "S$6,699.00 | S$6,699.00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GBIncluded",
+    "storage-dimensionCapacity": "2TBIncluded"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From S$2,699",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine From S$3,499",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,799"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − S$450.00",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GBIncluded",
+     "64GB+ S$600.00",
+     "128GB+ S$3,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ S$1,500.00",
+     "8TB+ S$4,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3999,
+   "totalFrom": "summary",
+   "totalText": "S$3,999.00 | S$3,999.00",
+   "selected": {
+    "chassis-dimensionScreensize": "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From S$3,999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work. Included",
+    "memory-dimensionMemory": "24GBIncluded",
+    "storage-dimensionCapacity": "1TBIncluded"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From S$3,999",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding and creative work. Included"
+    ],
+    "memory-dimensionMemory": [
+     "24GBIncluded",
+     "48GB+ S$900.00",
+     "64GB+ S$1,500.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TBIncluded",
+     "2TB+ S$750.00",
+     "4TB+ S$2,250.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5999,
+   "totalFrom": "summary",
+   "totalText": "S$5,999.00 | S$5,999.00",
+   "selected": {
+    "chassis-dimensionScreensize": "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GBIncluded",
+    "storage-dimensionCapacity": "2TBIncluded"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From S$3,999",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Included",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + S$550.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GBIncluded"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ S$1,500.00",
+     "8TB+ S$4,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 6999,
+   "totalFrom": "summary",
+   "totalText": "S$6,999.00 | S$6,999.00",
+   "selected": {
+    "chassis-dimensionScreensize": "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999",
+    "chassis-dimensionColor": "Space Black",
+    "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GBIncluded",
+    "storage-dimensionCapacity": "2TBIncluded"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Footnote 1 Available with M6, M5 Pro or M5 Max chip. From S$2,699",
+     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. From S$3,999"
+    ],
+    "chassis-dimensionColor": [
+     "Space Black",
+     "Silver"
+    ],
+    "display-dimensionFinish": [
+     "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + S$225.00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine From S$3,999",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine From S$5,999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − S$550.00",
+     "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GBIncluded",
+     "64GB+ S$600.00",
+     "128GB+ S$3,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "2TBIncluded",
+     "4TB+ S$1,500.00",
+     "8TB+ S$4,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

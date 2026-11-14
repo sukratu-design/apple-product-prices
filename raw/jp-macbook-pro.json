@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-14T03:50:34.899Z",
+ "configs": {
+  "14-m6": {
+   "total": 339800,
+   "totalFrom": "summary",
+   "totalText": "339,800円 、または14,158円/月 月額 の24回払いから 脚注 ※ | 339,800円 、または14,158円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "New M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU、デュアル16コアNeural Engine 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "搭載",
+    "memory-dimensionMemory": "16GB搭載",
+    "storage-dimensionCapacity": "1TB搭載",
+    "power_adapter-wattage": "70Wコンパクトなサイズ。効率的に充電します。搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "New M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU、デュアル16コアNeural Engine 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "搭載"
+    ],
+    "memory-dimensionMemory": [
+     "16GB搭載",
+     "24GB+ 36,000円",
+     "32GB+ 72,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB搭載",
+     "2TB+ 90,000円",
+     "4TB+ 270,000円"
+    ],
+    "power_adapter-wattage": [
+     "70Wコンパクトなサイズ。効率的に充電します。搭載",
+     "96W高速充電。M5 ProまたはM5 Maxチップと組み合わせると高出力モードに対応します。+ 2,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 429800,
+   "totalFrom": "summary",
+   "totalText": "429,800円 、または17,908円/月 月額 の24回払いから 脚注 ※ | 429,800円 、または17,908円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15コアCPU、16コアGPU 搭載",
+    "memory-dimensionMemory": "24GB搭載",
+    "storage-dimensionCapacity": "1TB搭載",
+    "power_adapter-wattage": "70Wコンパクトなサイズ。効率的に充電します。搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "New M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU、デュアル16コアNeural Engine 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15コアCPU、16コアGPU 搭載",
+     "18コアCPU、20コアGPU ゲームプレイ、コーディング、クリエイティブな作業などの負荷の高いタスクにおいて、処理能力とグラフィックレンダリングの速度を引き上げます。 + 30,000円"
+    ],
+    "memory-dimensionMemory": [
+     "24GB搭載",
+     "48GB+ 108,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB搭載",
+     "2TB+ 90,000円",
+     "4TB+ 270,000円"
+    ],
+    "power_adapter-wattage": [
+     "70Wコンパクトなサイズ。効率的に充電します。搭載",
+     "96W高速充電。M5 ProまたはM5 Maxチップと組み合わせると高出力モードに対応します。+ 2,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 459800,
+   "totalFrom": "summary",
+   "totalText": "459,800円 、または19,158円/月 月額 の24回払いから 脚注 ※ | 459,800円 、または19,158円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、20コアGPU ゲームプレイ、コーディング、クリエイティブな作業などの負荷の高いタスクにおいて、処理能力とグラフィックレンダリングの速度を引き上げます。",
+    "memory-dimensionMemory": "24GB搭載",
+    "storage-dimensionCapacity": "1TB搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "New M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU、デュアル16コアNeural Engine 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15コアCPU、16コアGPU − 30,000円",
+     "18コアCPU、20コアGPU ゲームプレイ、コーディング、クリエイティブな作業などの負荷の高いタスクにおいて、処理能力とグラフィックレンダリングの速度を引き上げます。"
+    ],
+    "memory-dimensionMemory": [
+     "24GB搭載",
+     "48GB+ 108,000円",
+     "64GB+ 180,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB搭載",
+     "2TB+ 90,000円",
+     "4TB+ 270,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 699800,
+   "totalFrom": "summary",
+   "totalText": "699,800円 、または29,158円/月 月額 の24回払いから 脚注 ※ | 699,800円 、または29,158円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、32コアGPU 搭載",
+    "memory-dimensionMemory": "36GB搭載",
+    "storage-dimensionCapacity": "2TB搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "New M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU、デュアル16コアNeural Engine 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18コアCPU、32コアGPU 搭載",
+     "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 + 54,000円 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB搭載"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB搭載",
+     "4TB+ 180,000円",
+     "8TB+ 540,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 807800,
+   "totalFrom": "summary",
+   "totalText": "807,800円 、または33,658円/月 月額 の24回払いから 脚注 ※ | 807,800円 、または33,658円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。",
+    "memory-dimensionMemory": "48GB搭載",
+    "storage-dimensionCapacity": "2TB搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "New M6チップ 並外れたスピードと次世代のパフォーマンスにより、毎日のパーソナルなタスクも、プロフェッショナルやクリエイティブなタスクも思いのままです 12コアCPU、12コアGPU、デュアル16コアNeural Engine 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 16コアNeural Engineを搭載した2のオプション 429,800円から 、または17,908円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 699,800円から 、または29,158円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18コアCPU、32コアGPU − 54,000円",
+     "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB搭載",
+     "64GB+ 72,000円",
+     "128GB+ 360,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB搭載",
+     "4TB+ 180,000円",
+     "8TB+ 540,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 519800,
+   "totalFrom": "summary",
+   "totalText": "519,800円 、または21,658円/月 月額 の24回払いから 脚注 ※ | 519,800円 、または21,658円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 18コアCPU、20コアGPU、16コアNeural Engine 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、20コアGPU ゲームプレイ、コーディング、クリエイティブな作業などの負荷の高いタスクにおいて、処理能力とグラフィックレンダリングの速度を引き上げます。 搭載",
+    "memory-dimensionMemory": "24GB搭載",
+    "storage-dimensionCapacity": "1TB搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 18コアCPU、20コアGPU、16コアNeural Engine 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 749,800円から 、または31,241円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18コアCPU、20コアGPU ゲームプレイ、コーディング、クリエイティブな作業などの負荷の高いタスクにおいて、処理能力とグラフィックレンダリングの速度を引き上げます。 搭載"
+    ],
+    "memory-dimensionMemory": [
+     "24GB搭載",
+     "48GB+ 108,000円",
+     "64GB+ 180,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB搭載",
+     "2TB+ 90,000円",
+     "4TB+ 270,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 749800,
+   "totalFrom": "summary",
+   "totalText": "749,800円 、または31,241円/月 月額 の24回払いから 脚注 ※ | 749,800円 、または31,241円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 749,800円から 、または31,241円/月 月額 の24回払いから 脚注 ※",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、32コアGPU 搭載",
+    "memory-dimensionMemory": "36GB搭載",
+    "storage-dimensionCapacity": "2TB搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 18コアCPU、20コアGPU、16コアNeural Engine 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 749,800円から 、または31,241円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18コアCPU、32コアGPU 搭載",
+     "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 + 46,000円 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB搭載"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB搭載",
+     "4TB+ 180,000円",
+     "8TB+ 540,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 849800,
+   "totalFrom": "summary",
+   "totalText": "849,800円 、または35,408円/月 月額 の24回払いから 脚注 ※ | 849,800円 、または35,408円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionScreensize": "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+    "chassis-dimensionColor": "スペースブラック",
+    "display-dimensionFinish": "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+    "processor-dimensionChip": "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 749,800円から 、または31,241円/月 月額 の24回払いから 脚注 ※",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。",
+    "memory-dimensionMemory": "48GB搭載",
+    "storage-dimensionCapacity": "2TB搭載"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14インチ 脚注 1 M6、M5 Pro、またはM5 Maxチップから選べます。 339,800円から 、または14,158円/月 月額 の24回払いから 脚注 ※",
+     "16インチ 脚注 1 M5 ProまたはM5 Maxチップとの組み合わせで選択できます。 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "chassis-dimensionColor": [
+     "スペースブラック",
+     "シルバー"
+    ],
+    "display-dimensionFinish": [
+     "標準ディスプレイ 反射率が低くなるように設計。設置された環境で映り込みを抑えます。 搭載",
+     "Nano-textureディスプレイ 明るい環境でも反射や映り込みをさらに抑えます。 + 27,000円"
+    ],
+    "processor-dimensionChip": [
+     "M5 Proチップ より負荷の高いワークフローをこなすための一段と優れたパフォーマンスと、さらに大きなメモリのオプションを提供。 18コアCPU、20コアGPU、16コアNeural Engine 519,800円から 、または21,658円/月 月額 の24回払いから 脚注 ※",
+     "M5 Maxチップ Appleが生み出した、プロ向けノートブックのための最もパワフルなチップ。極めてヘビーなワークフローにパワーを発揮。 16コアNeural Engineを搭載した2のオプション 749,800円から 、または31,241円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18コアCPU、32コアGPU − 46,000円",
+     "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB搭載",
+     "64GB+ 72,000円",
+     "128GB+ 360,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB搭載",
+     "4TB+ 180,000円",
+     "8TB+ 540,000円"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

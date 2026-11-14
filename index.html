@@ -129,8 +129,15 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 /* country selector + Mac kinds */
 .topbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
 .topbar .seg{min-width:0}
-.country button{display:flex;align-items:center;gap:8px}
-.country .cur{font-family:var(--mono);font-size:12px;opacity:.7}
+/* country dropdown: a pill-shaped native select so it works with keyboard and on phones */
+.country-pick{display:flex;align-items:center;gap:10px;padding:5px 5px 5px 16px;border:1px solid var(--line);border-radius:999px;background:var(--panel)}
+.country-pick span{font-size:13px;color:var(--muted);white-space:nowrap}
+.country-pick select{appearance:none;-webkit-appearance:none;font:inherit;font-weight:500;color:var(--pill-fg);background:var(--pill);border:0;border-radius:999px;
+  padding:9px 38px 9px 18px;cursor:pointer;max-width:100%;
+  background-image:linear-gradient(45deg,transparent 50%,var(--pill-fg) 50%),linear-gradient(135deg,var(--pill-fg) 50%,transparent 50%);
+  background-position:calc(100% - 20px) 52%,calc(100% - 15px) 52%;background-size:5px 5px,5px 5px;background-repeat:no-repeat}
+.country-pick select:focus-visible{outline:2px solid var(--t1);outline-offset:2px}
+.country-pick option{color:var(--fg);background:var(--panel)}
 .dot.sto{background:var(--panel);border:4px solid var(--c)}
 .step .cfg i.sto{background:transparent;border:2px solid var(--c)}
 .group-h{font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);grid-column:1/-1;margin-top:4px}
@@ -169,7 +176,7 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 
   <div class="topbar">
     <div class="seg" role="tablist" aria-label="Product family" id="tabs"></div>
-    <div class="seg country" role="tablist" aria-label="Country" id="country"></div>
+    <label class="country-pick" for="country"><span>Prices in</span><select id="country"></select></label>
   </div>
 
   <section class="panel">
@@ -248,6 +255,7 @@ const fmtAxis = n => {
   if (n === 0) return sym + "0";
   if (country === "in" && n >= 100000) return sym + +(n / 100000).toFixed(2) + "L";
   if (n < 1000) return sym + n;
+  if (n >= 1000000) return sym + +(n / 1000000).toFixed(2) + "M";
   return sym + +(n / 1000).toFixed(1) + "k";
 };
 const noteText = n => Array.isArray(n) ? (n[1 + CI()] ? `${n[0]} ${fmt(n[1 + CI()])}` : "") : n;
@@ -301,8 +309,9 @@ function renderTabs(){
     `<button role="tab" aria-selected="${k===cat}" data-k="${k}">${P.categories[k].name}</button>`).join("");
   $("tabs").querySelectorAll("button").forEach(b => b.onclick = () => go(b.dataset.k, "wifi"));
   $("country").innerHTML = ORDER.map(k => { const v = P.countries[k];
-    return `<button role="tab" aria-selected="${k===country}" data-k="${k}" title="${v.label} · ${v.symbol.trim()}">${v.short}</button>`; }).join("");
-  $("country").querySelectorAll("button").forEach(b => b.onclick = () => go(cat, variant, b.dataset.k));
+    return `<option value="${k}"${k === country ? " selected" : ""}>${v.label} (${v.symbol.trim()})</option>`; }).join("");
+  $("country").value = country;
+  $("country").onchange = e => go(cat, variant, e.target.value);
 }
 
 function renderVariants(c){

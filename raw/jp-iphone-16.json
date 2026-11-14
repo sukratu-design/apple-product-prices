@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-14T03:46:02.856Z",
+ "configs": {
+  "default": {
+   "total": 139800,
+   "totalFrom": "summary",
+   "totalText": "139,800円から 、または5,825円/月 月額 の24回払いから 脚注 ◊ | 139,800円から 、または5,825円/月 月額 の24回払いから 脚注 ◊",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1インチディスプレイ 脚注 1128GBストレージ搭載 139,800円から 、または5,825円/月月額の24回払いから 脚注 ◊",
+    "dimensionColor": "ウルトラマリン"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1インチディスプレイ 脚注 1128GBストレージ搭載 139,800円から 、または5,825円/月月額の24回払いから 脚注 ◊"
+    ],
+    "dimensionColor": [
+     "ウルトラマリン",
+     "ティール",
+     "ホワイト",
+     "ピンク",
+     "ブラック"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

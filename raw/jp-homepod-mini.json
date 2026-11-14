@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-14T03:51:28.069Z",
+ "configs": {
+  "default": {
+   "total": 24800,
+   "totalFrom": "summary",
+   "totalText": "24,800円",
+   "selected": {
+    "dimensionColor": "ホワイト"
+   },
+   "options": {
+    "dimensionColor": [
+     "ホワイト",
+     "ピンク",
+     "ブルー",
+     "グリーン",
+     "ミッドナイト"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

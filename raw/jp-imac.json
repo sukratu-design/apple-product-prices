@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-14T03:49:19.104Z",
+ "configs": {
+  "2port": {
+   "total": 249800,
+   "totalFrom": "summary",
+   "totalText": "249,800円 、または10,408円/月 月額 の24回払いから 脚注 ※ | 249,800円 、または10,408円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionColor": "ブルー",
+    "processor-cpuCoreCount-gpuCoreCount": "M6チップ、Thunderboltポート x 2 10コアCPU、10コアGPU、デュアル16コアNeural Engine 249,800円から 、または10,408円/月 月額 の24回払いから 脚注 ※",
+    "memory-dimensionMemory": "16GB搭載",
+    "storage-dimensionCapacity": "256GB搭載",
+    "chassis-dimensionStandType": "スタンドデスクに置いて、上下に傾けて調整できます。搭載",
+    "ethernet_adapter-ethernetPortCount": "EthernetなしWi-Fiネットワーク経由での接続のみに対応します。搭載",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse スワイプやスクロールなどの様々なMulti-Touchジェスチャーに対応します。 搭載",
+    "keyboard-keyboardFormFactor": "Magic Keyboard エッジぎりぎりまで使った超コンパクトなデザインです。 搭載"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "ブルー",
+     "パープル",
+     "ピンク",
+     "オレンジ",
+     "イエロー",
+     "グリーン",
+     "シルバー"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6チップ、Thunderboltポート x 2 10コアCPU、10コアGPU、デュアル16コアNeural Engine 249,800円から 、または10,408円/月 月額 の24回払いから 脚注 ※",
+     "M6チップ、Thunderboltポート x 4 12コアCPU、12コアGPU、デュアル16コアNeural Engine 289,800円から 、または12,075円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "memory-dimensionMemory": [
+     "16GB搭載",
+     "24GB+ 36,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB搭載",
+     "512GB+ 36,000円",
+     "1TB+ 90,000円"
+    ],
+    "chassis-dimensionStandType": [
+     "スタンドデスクに置いて、上下に傾けて調整できます。搭載",
+     "VESAマウントアダプタアダプタ搭載で、壁や調節式アームに取りつけられます。"
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "EthernetなしWi-Fiネットワーク経由での接続のみに対応します。搭載",
+     "2.5ギガビットEthernetポート最大2.5Gbのリンク速度による標準ネットワーク接続に対応します。+ 4,000円"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse スワイプやスクロールなどの様々なMulti-Touchジェスチャーに対応します。 搭載",
+     "Magic Trackpad 様々なMulti-Touchジェスチャーと感圧タッチテクノロジーに対応します。 + 8,000円"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard エッジぎりぎりまで使った超コンパクトなデザインです。 搭載",
+     "Touch ID搭載Magic Keyboard（テンキー付き） より広いレイアウト。操作キーも使えます。指先だけですばやく簡単に認証できます。 + 11,000円"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 289800,
+   "totalFrom": "summary",
+   "totalText": "289,800円 、または12,075円/月 月額 の24回払いから 脚注 ※ | 289,800円 、または12,075円/月 月額 の24回払いから 脚注 ※",
+   "selected": {
+    "chassis-dimensionColor": "ブルー",
+    "processor-cpuCoreCount-gpuCoreCount": "M6チップ、Thunderboltポート x 4 12コアCPU、12コアGPU、デュアル16コアNeural Engine 289,800円から 、または12,075円/月 月額 の24回払いから 脚注 ※",
+    "memory-dimensionMemory": "16GB搭載",
+    "storage-dimensionCapacity": "256GB搭載",
+    "display-dimensionFinish": "標準ガラス反射率が低くなるように設計。設置された環境で映り込みを抑えます。搭載",
+    "chassis-dimensionStandType": "スタンドデスクに置いて、上下に傾けて調整できます。搭載",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse スワイプやスクロールなどの様々なMulti-Touchジェスチャーに対応します。 搭載",
+    "keyboard-keyboardFormFactor": "Touch ID搭載Magic Keyboard 指先だけですばやく簡単に認証できます。 搭載"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "ブルー",
+     "パープル",
+     "ピンク",
+     "オレンジ",
+     "イエロー",
+     "グリーン",
+     "シルバー"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6チップ、Thunderboltポート x 2 10コアCPU、10コアGPU、デュアル16コアNeural Engine 249,800円から 、または10,408円/月 月額 の24回払いから 脚注 ※",
+     "M6チップ、Thunderboltポート x 4 12コアCPU、12コアGPU、デュアル16コアNeural Engine 289,800円から 、または12,075円/月 月額 の24回払いから 脚注 ※"
+    ],
+    "memory-dimensionMemory": [
+     "16GB搭載",
+     "24GB+ 36,000円",
+     "32GB+ 72,000円"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB搭載",
+     "512GB+ 36,000円",
+     "1TB+ 90,000円",
+     "2TB+ 180,000円"
+    ],
+    "display-dimensionFinish": [
+     "標準ガラス反射率が低くなるように設計。設置された環境で映り込みを抑えます。搭載",
+     "Nano-textureガラス明るい環境でも反射や映り込みをさらに抑えます。4ポートモデルでのみ選択できます。+ 36,000円"
+    ],
+    "chassis-dimensionStandType": [
+     "スタンドデスクに置いて、上下に傾けて調整できます。搭載",
+     "VESAマウントアダプタアダプタ搭載で、壁や調節式アームに取りつけられます。"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse スワイプやスクロールなどの様々なMulti-Touchジェスチャーに対応します。 搭載",
+     "Magic Trackpad 様々なMulti-Touchジェスチャーと感圧タッチテクノロジーに対応します。 + 8,000円"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Touch ID搭載Magic Keyboard 指先だけですばやく簡単に認証できます。 搭載",
+     "Touch ID搭載Magic Keyboard（テンキー付き） より広いレイアウト。操作キーも使えます。指先だけですばやく簡単に認証できます。 + 4,000円"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

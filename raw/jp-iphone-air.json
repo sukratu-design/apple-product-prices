@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "jp",
+ "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-14T03:45:50.647Z",
+ "configs": {
+  "default": {
+   "total": 189800,
+   "totalFrom": "summary",
+   "totalText": "189,800円から 、または5,272円/月 月額 の36回払いから 脚注 ‡ | 189,800円から 、または5,272円/月 月額 の36回払いから 脚注 ‡",
+   "selected": {
+    "dimensionColor": "スカイブルー",
+    "dimensionCapacity": "256GB 脚注 1 189,800円から 、または5,272円/月 月額 の36回払いから 脚注 ‡"
+   },
+   "options": {
+    "dimensionColor": [
+     "スカイブルー",
+     "クラウドホワイト",
+     "スペースブラック",
+     "ライトゴールド"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 189,800円から 、または5,272円/月 月額 の36回払いから 脚注 ‡",
+     "512GB 脚注 1 224,800円から 、または6,244円/月 月額 の36回払いから 脚注 ‡",
+     "1TB 脚注 1 294,800円から 、または8,188円/月 月額 の36回払いから 脚注 ‡"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

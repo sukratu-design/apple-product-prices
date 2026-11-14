@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "sg",
+ "url": "https://www.apple.com/sg/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-14T03:51:37.804Z",
+ "configs": {
+  "default": {
+   "total": 199,
+   "totalFrom": "summary",
+   "totalText": "S$29.00 | S$199.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

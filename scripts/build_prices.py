@@ -28,9 +28,13 @@ COUNTRIES = {
            "note": "Apple Store Canada prices, before sales tax"},
     "au": {"label": "Australia", "short": "Australia", "symbol": "A$", "locale": "en-AU", "store": "apple.com/au/shop",
            "note": "Apple Store Australia prices, including GST"},
+    "jp": {"label": "Japan", "short": "Japan", "symbol": "¥", "locale": "ja-JP", "store": "apple.com/jp/shop",
+           "note": "Apple Store Japan prices, including consumption tax"},
+    "sg": {"label": "Singapore", "short": "Singapore", "symbol": "S$", "locale": "en-SG", "store": "apple.com/sg/shop",
+           "note": "Apple Store Singapore prices, including GST"},
 }
 CC = list(COUNTRIES)
-CUR = {"us": r"\$", "ca": r"\$", "au": r"A\$", "uk": "£", "ae": r"AED\s?", "in": "₹"}
+CUR = {"us": r"\$", "ca": r"\$", "au": r"A\$", "uk": "£", "ae": r"AED\s?", "in": "₹", "sg": r"S\$"}
 NUM = r"([\d,]+(?:\.\d\d)?)"
 
 
@@ -53,14 +57,17 @@ def money(text, c):
         m = re.search(r"MRP\s*₹\s?" + NUM, t)
         if m:
             return num(m.group(1))
+    if c == "jp":  # Japan writes the currency after the number: 219,800円; instalments are 6,105円/月
+        m = re.search(r"(?:^|[^\d,.])([\d,]+)\s?円(?!\s?/月)", t)
+        return num(m.group(1)) if m else None
     for m in re.finditer(r"(?:^|[^A-Za-z])" + CUR[c] + r"\s?" + NUM + r"(?![\d.,]*/mo)", t):
         return num(m.group(1))
     return None
 
 
 def delta(label):
-    """'24GB + $200.00' -> 200, '512GB− £300.00' -> -300, '1TB' or 'Included' -> 0."""
-    m = re.search(r"([+−-])\s?(?:A\$|\$|£|₹|AED)\s?" + NUM, label)
+    """'24GB + $200.00' -> 200, '512GB− £300.00' -> -300, '24GB + 36,000円' -> 36000, '1TB' or 'Included' -> 0."""
+    m = re.search(r"([+−-])\s?(?:[AS]\$|\$|£|₹|AED)\s?" + NUM, label) or re.search(r"([+−-])\s?([\d,]+)\s?円", label)
     if not m:
         return 0
     v = num(m.group(2))
