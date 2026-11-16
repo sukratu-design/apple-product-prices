@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apple Prices Around the World</title>
+<meta name="description" content="Pick an Apple product and configuration and see what it costs in the US, India, UK, UAE, Canada, Australia, Japan and Singapore, converted to one currency.">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="canonical" href="https://apple-product-prices.com/world/">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<meta name="theme-color" content="#f3f4f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b0c0f" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Apple Product Prices">
+<meta property="og:title" content="Apple prices around the world">
+<meta property="og:description" content="What every Apple product costs in 8 countries, side by side in one currency. Prices from Apple's own stores, checked monthly.">
+<meta property="og:url" content="https://apple-product-prices.com/world/">
+<meta property="og:image" content="https://apple-product-prices.com/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@anand_bongir">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: site header + page nav, a control bar (product, configuration, currency), then one panel:
+   map on the left, cheapest-to-priciest ranking on the right; stacks on phones. */
+:root{
+  --bg:#f3f4f7; --panel:#ffffff; --panel-2:#eef0f4; --line:#dfe2e9; --fg:#14161b; --muted:#646b7a; --faint:#9aa1ae;
+  --land:#e3e6ec; --sea:#f7f8fa;
+  --lo:#18a979; --hi:#e8552a; --t1:#2f7bf0; --t2:#ec6a3d; --t4:#e3a20c;
+  --pill:#14161b; --pill-fg:#ffffff;
+  --display:"Inter Tight","Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --body:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0b0c0f; --panel:#13151a; --panel-2:#1a1d23; --line:#252932; --fg:#f2f3f6; --muted:#9097a5; --faint:#626978;
+  --land:#23272f; --sea:#161920;
+  --lo:#2fd39a; --hi:#ff7b4d; --t1:#4b92ff; --t2:#ff7b4d; --t4:#ffc23d;
+  --pill:#f2f3f6; --pill-fg:#0b0c0f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0b0c0f; --panel:#13151a; --panel-2:#1a1d23; --line:#252932; --fg:#f2f3f6; --muted:#9097a5; --faint:#626978;
+  --land:#23272f; --sea:#161920;
+  --lo:#2fd39a; --hi:#ff7b4d; --t1:#4b92ff; --t2:#ff7b4d; --t4:#ffc23d;
+  --pill:#f2f3f6; --pill-fg:#0b0c0f; color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 40px}
+.wrap{max-width:1180px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+:focus-visible{outline:2px solid var(--t1);outline-offset:2px}
+a{color:inherit}
+
+/* site header (same as the price-ranges page) */
+.site-head{display:flex;justify-content:space-between;align-items:center;gap:12px 24px;flex-wrap:wrap;padding-block:4px 6px}
+.brand{display:flex;align-items:center;gap:14px;min-width:0;text-decoration:none}
+.mark{display:grid;grid-template-columns:repeat(3,10px);gap:4px;align-items:end;flex:none}
+.mark i{display:block;width:10px;border-radius:5px;background:var(--t1)}
+.mark i:nth-child(1){height:14px}.mark i:nth-child(2){height:22px;background:var(--t2)}.mark i:nth-child(3){height:30px;background:var(--t4)}
+.site-name{font-family:var(--display);font-weight:700;font-size:22px;letter-spacing:-.015em;line-height:1.1}
+.site-sub{color:var(--muted);font-size:14px;margin-top:2px}
+.pages{display:inline-flex;gap:4px;padding:5px;border:1px solid var(--line);border-radius:999px;background:var(--panel)}
+.pages a{padding:8px 16px;border-radius:999px;text-decoration:none;font-weight:500;color:var(--muted);white-space:nowrap}
+.pages a:hover{color:var(--fg)}
+.pages a[aria-current="page"]{background:var(--pill);color:var(--pill-fg)}
+
+/* controls */
+.controls{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1.3fr) minmax(0,.9fr);gap:12px}
+.field{display:flex;flex-direction:column;gap:6px;min-width:0}
+.field span{font-size:12.5px;color:var(--muted);font-family:var(--mono);letter-spacing:.06em;text-transform:uppercase}
+.field select{appearance:none;-webkit-appearance:none;width:100%;font:inherit;font-weight:500;color:var(--fg);background:var(--panel);
+  border:1px solid var(--line);border-radius:14px;padding:12px 40px 12px 14px;cursor:pointer;
+  background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);
+  background-position:calc(100% - 20px) 52%,calc(100% - 15px) 52%;background-size:5px 5px;background-repeat:no-repeat}
+.field select:hover{border-color:var(--faint)}
+
+/* panel */
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:28px;padding:clamp(20px,3.5vw,40px);display:flex;flex-direction:column;gap:24px;min-width:0}
+.head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px 32px;flex-wrap:wrap}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,4vw,42px);line-height:1.08;letter-spacing:-.02em;margin:6px 0 0;text-wrap:balance}
+.stats{display:flex;gap:clamp(18px,3vw,40px);flex-wrap:wrap}
+.stat .k{font-size:13px;color:var(--muted)}
+.stat .v{font-family:var(--mono);font-size:clamp(20px,2.4vw,26px);font-weight:500;letter-spacing:-.02em;font-variant-numeric:tabular-nums;line-height:1.3}
+.stat .v small{font-family:var(--body);font-size:13px;color:var(--muted);letter-spacing:0;margin-left:6px;font-weight:400}
+
+.body{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(0,1fr);gap:28px;align-items:start}
+.mapcol{position:sticky;top:16px}
+.map{width:100%;height:auto;display:block;border-radius:18px;background:var(--sea)}
+.map .land{fill:var(--land)}
+.map .country{stroke:var(--panel);stroke-width:.6;transition:fill .3s}
+.map .country.none{fill:var(--land)}
+.map .pin{cursor:pointer}
+.map .pin circle{stroke:var(--panel);stroke-width:3}
+.map .pin text{font-family:var(--mono);font-weight:500;font-size:17px;fill:var(--fg);paint-order:stroke;stroke:var(--sea);stroke-width:5px;stroke-linejoin:round}
+.map .pin text.cc{font-family:var(--body);font-weight:600;font-size:14px;fill:var(--muted)}
+.map .pin.sel circle{stroke:var(--fg)}
+
+.scale{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);margin-top:10px}
+.scale i{flex:0 0 140px;height:8px;border-radius:4px;background:linear-gradient(90deg,var(--lo),var(--hi))}
+
+.rank{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none}
+.rank li{display:grid;grid-template-columns:22px minmax(0,1fr) auto;gap:4px 10px;align-items:center;padding:10px 12px;border-radius:14px;border:1px solid transparent;cursor:pointer}
+.rank li:hover{background:var(--panel-2)}
+.rank li[aria-current="true"]{border-color:var(--line);background:var(--panel-2)}
+.rank .pos{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.rank .cn{font-weight:600;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rank .cv{font-family:var(--mono);font-weight:500;font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.rank .bar{grid-column:2/4;height:6px;border-radius:3px;background:var(--panel-2);overflow:hidden}
+.rank .bar i{display:block;height:100%;border-radius:3px}
+.rank .sub{grid-column:2/4;display:flex;justify-content:space-between;gap:8px;font-size:12.5px;color:var(--muted);font-family:var(--mono)}
+.rank li.none{cursor:default;opacity:.65}
+.rank li.none .cv{font-family:var(--body);font-weight:400;color:var(--muted)}
+
+.note{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px;margin:0;max-width:90ch}
+
+.site-foot{display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;padding-block:18px 8px;border-top:1px solid var(--line);margin-top:8px}
+.site-foot p{margin:0}
+.credit{font-size:15px}
+.site-foot a{font-weight:600;text-decoration:underline;text-decoration-color:color-mix(in srgb,var(--t1) 60%,transparent);text-underline-offset:3px;text-decoration-thickness:2px}
+.fine{font-size:12.5px;color:var(--muted)}
+.fine a{font-weight:500}
+
+@media (max-width:860px){
+  .controls{grid-template-columns:1fr 1fr}
+  .controls .field:last-child{grid-column:1/-1}
+  .body{grid-template-columns:1fr}
+  .mapcol{position:static}
+}
+@media (max-width:520px){ .controls{grid-template-columns:1fr} .map .pin text{display:none} }
+@media (prefers-reduced-motion:reduce){ .map .country{transition:none} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="site-head">
+    <a class="brand" href="../">
+      <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <div>
+        <div class="site-name">Apple Product Prices</div>
+        <div class="site-sub">What one product costs in each country, side by side.</div>
+      </div>
+    </a>
+    <nav class="pages" aria-label="Pages">
+      <a href="../">Price ranges</a>
+      <a href="./" aria-current="page">World map</a>
+    </nav>
+  </header>
+
+  <div class="controls">
+    <label class="field"><span>Product</span><select id="product"></select></label>
+    <label class="field"><span>Configuration</span><select id="config"></select></label>
+    <label class="field"><span>Compare in</span><select id="currency"></select></label>
+  </div>
+
+  <section class="panel">
+    <div class="head">
+      <div>
+        <div class="eyebrow" id="eyebrow"></div>
+        <h1 id="title"></h1>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+
+    <div class="body">
+      <div class="mapcol">
+        <svg class="map" id="map" role="img" aria-label="World map of prices"></svg>
+        <div class="scale"><span>Cheapest</span><i></i><span>Most expensive</span></div>
+      </div>
+      <ol class="rank" id="rank"></ol>
+    </div>
+
+    <p class="note" id="note"></p>
+  </section>
+
+  <footer class="site-foot">
+    <p class="credit">Developed by <a href="https://x.com/anand_bongir" target="_blank" rel="noopener">Anand Bongir</a></p>
+    <p class="fine">Prices are read from Apple's online stores and checked monthly. Not affiliated with Apple.</p>
+    <p class="fine"><a href="https://github.com/sukratu-design/apple-product-prices" target="_blank" rel="noopener">Source on GitHub</a></p>
+  </footer>
+</div>
+
+<script src="../prices.js"></script>
+<script src="../assets/core.js"></script>
+<script src="../assets/world-map.js"></script>
+<script>
+const { P, ORDER, configs, fmt } = APP, M = window.WORLD_MAP;
+const $ = id => document.getElementById(id);
+const SVGNS = "http://www.w3.org/2000/svg";
+
+// ---------- products and their configurations ----------
+// iPads list Wi-Fi and Wi-Fi + Cellular configurations together.
+const PRODUCTS = [];
+P.order.forEach(ck => {
+  const c = P.categories[ck];
+  c.products.forEach(p => {
+    let list = configs(p, "wifi");
+    if (p.wifi) list = list.map(x => ["Wi-Fi · " + x[0], x[1]]).concat(configs(p, "cellular").map(x => ["Wi-Fi + Cellular · " + x[0], x[1]]));
+    list = list.filter(x => x[1].some(v => v != null));
+    if (!list.length) return;
+    const name = p.n.includes(p.s) || /^iPhone$/.test(p.s) ? p.n : `${p.n} ${p.s}`;
+    PRODUCTS.push({ key: ck + "-" + p.id, cat: ck, catName: c.name, name, list });
+  });
+});
+
+// ---------- state, kept in the link: #<category>-<product id>-<configuration number>-<currency country> ----------
+let prod = PRODUCTS.find(x => x.key === "iphone-18p") || PRODUCTS[0], cfg = 0, cur = "us";
+function readHash(){
+  const tok = location.hash.slice(1).split("-");
+  if (tok.length >= 4) {
+    const c = tok.pop(), i = +tok.pop(), key = tok.join("-");
+    const p = PRODUCTS.find(x => x.key === key);
+    if (p) { prod = p; cfg = Math.min(Math.max(i || 0, 0), p.list.length - 1); }
+    if (P.countries[c]) cur = c;
+  } else {
+    try { const saved = localStorage.getItem("country"); if (P.countries[saved]) cur = saved; } catch (e) {}
+  }
+}
+function writeHash(){
+  const h = `#${prod.key}-${cfg}-${cur}`;
+  if (location.hash !== h) history.replaceState(null, "", h);
+  try { localStorage.setItem("country", cur); } catch (e) {}
+}
+
+// ---------- controls ----------
+function fillControls(){
+  const groups = {};
+  PRODUCTS.forEach(p => (groups[p.catName] = groups[p.catName] || []).push(p));
+  $("product").innerHTML = Object.entries(groups).map(([g, ps]) =>
+    `<optgroup label="${g}">${ps.map(p => `<option value="${p.key}">${p.name}</option>`).join("")}</optgroup>`).join("");
+  $("currency").innerHTML = ORDER.map(k =>
+    `<option value="${k}">${P.countries[k].currency} · ${P.countries[k].label}</option>`).join("");
+  $("product").onchange = e => { prod = PRODUCTS.find(x => x.key === e.target.value); cfg = 0; render(); };
+  $("config").onchange = e => { cfg = +e.target.value; render(); };
+  $("currency").onchange = e => { cur = e.target.value; render(); };
+}
+
+// ---------- map ----------
+function drawMap(){
+  const svg = $("map");
+  svg.setAttribute("viewBox", `0 0 ${M.width} ${M.height}`);
+  svg.innerHTML = `<path class="land" d="${M.land}"/>`
+    + ORDER.map(k => M.countries[k] ? `<path class="country" id="shape-${k}" d="${M.countries[k].path}"/>` : "").join("")
+    + `<g id="pins"></g>`;
+  // crop to the countries we cover, with room for labels, instead of the whole globe
+  let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+  ORDER.forEach(k => { const el = document.getElementById("shape-" + k); if (!el) return;
+    const b = el.getBBox(); x0 = Math.min(x0, b.x); y0 = Math.min(y0, b.y); x1 = Math.max(x1, b.x + b.width); y1 = Math.max(y1, b.y + b.height); });
+  if (isFinite(x0)) {
+    x0 = Math.max(0, x0 - 40); y0 = Math.max(0, y0 - 30); x1 = Math.min(M.width, x1 + 60); y1 = Math.min(M.height, y1 + 30);
+    svg.setAttribute("viewBox", `${x0.toFixed(0)} ${y0.toFixed(0)} ${(x1 - x0).toFixed(0)} ${(y1 - y0).toFixed(0)}`);
+  }
+}
+const rate = k => P.fx ? P.fx.perUSD[k] : null;
+const convert = (from, n) => rate(from) && rate(cur) ? n / rate(from) * rate(cur) : null;
+const mix = t => `color-mix(in oklab, var(--hi) ${Math.round(t * 100)}%, var(--lo))`;
+
+function render(){
+  writeHash();
+  $("product").value = prod.key;
+  $("config").innerHTML = prod.list.map((x, i) => `<option value="${i}">${x[0]}</option>`).join("");
+  $("config").value = cfg;
+  $("currency").value = cur;
+
+  const [label, prices] = prod.list[cfg];
+  const rows = ORDER.map((k, i) => {
+    const local = prices[i];
+    return { k, c: P.countries[k], local, conv: local == null ? null : convert(k, local) };
+  });
+  const sold = rows.filter(r => r.conv != null).sort((a, b) => a.conv - b.conv);
+  const missing = rows.filter(r => r.conv == null);
+  const lo = sold.length ? sold[0].conv : 0, hi = sold.length ? sold[sold.length - 1].conv : 0;
+  const t = r => hi > lo ? (r.conv - lo) / (hi - lo) : 0;
+
+  $("eyebrow").textContent = `${prod.catName} · ${sold.length} of ${ORDER.length} countries · in ${P.countries[cur].currency}`;
+  $("title").textContent = `${prod.name} · ${label}`;
+  document.title = `${prod.name} ${label} prices around the world · Apple Product Prices`;
+
+  if (sold.length) {
+    const gap = (hi / lo - 1) * 100;
+    $("stats").innerHTML = `
+      <div class="stat"><div class="k">Cheapest</div><div class="v">${fmt(cur, lo)}<small>${sold[0].c.label}</small></div></div>
+      <div class="stat"><div class="k">Most expensive</div><div class="v">${fmt(cur, hi)}<small>${sold[sold.length - 1].c.label}</small></div></div>
+      <div class="stat"><div class="k">Difference</div><div class="v">+${gap.toFixed(0)}%<small>${fmt(cur, hi - lo)} more</small></div></div>`;
+  } else $("stats").innerHTML = "";
+
+  // country fills and pins
+  rows.forEach(r => {
+    const shape = document.getElementById("shape-" + r.k);
+    if (!shape) return;
+    shape.classList.toggle("none", r.conv == null);
+    shape.style.fill = r.conv == null ? "" : mix(t(r));
+  });
+  const pins = $("pins");
+  pins.innerHTML = "";
+  rows.forEach(r => {
+    const m = M.countries[r.k];
+    if (!m) return;
+    const g = document.createElementNS(SVGNS, "g");
+    g.setAttribute("class", "pin");
+    g.setAttribute("tabindex", "0");
+    const dx = m.label === "left" ? -14 : m.label === "right" ? 14 : 0, dy = m.label === "below" ? 34 : 6;
+    const anchor = m.label === "left" ? "end" : m.label === "right" ? "start" : "middle";
+    const value = r.conv == null ? "Not sold" : fmt(cur, r.conv);
+    g.innerHTML = `<circle cx="${m.x}" cy="${m.y}" r="9" style="fill:${r.conv == null ? "var(--faint)" : mix(t(r))}"/>
+      <text class="cc" x="${m.x + dx}" y="${m.y + dy - 18}" text-anchor="${anchor}">${r.c.short}</text>
+      <text x="${m.x + dx}" y="${m.y + dy}" text-anchor="${anchor}">${value}</text>
+      <title>${r.c.label}: ${r.local == null ? "not sold" : fmt(r.k, r.local) + (r.k !== cur ? " ≈ " + fmt(cur, r.conv) : "")}</title>`;
+    g.addEventListener("click", () => highlight(r.k));
+    g.addEventListener("keydown", e => { if (e.key === "Enter") highlight(r.k); });
+    g.dataset.k = r.k;
+    pins.appendChild(g);
+  });
+
+  // ranking, cheapest first
+  $("rank").innerHTML = sold.map((r, i) => `
+    <li data-k="${r.k}">
+      <span class="pos">${i + 1}</span>
+      <span class="cn">${r.c.label}</span>
+      <span class="cv">${fmt(cur, r.conv)}</span>
+      <span class="bar"><i style="width:${hi ? Math.max(4, r.conv / hi * 100) : 0}%;background:${mix(t(r))}"></i></span>
+      <span class="sub"><span>${r.k === cur ? "local price" : fmt(r.k, r.local) + " local"}</span><span>${!i ? "cheapest" : r.conv / lo - 1 < 0.005 ? "about the same" : "+" + ((r.conv / lo - 1) * 100).toFixed(0) + "%"}</span></span>
+    </li>`).join("")
+    + missing.map(r => `<li class="none"><span class="pos">–</span><span class="cn">${r.c.label}</span><span class="cv">Not sold</span></li>`).join("");
+  $("rank").querySelectorAll("li[data-k]").forEach(li => li.onclick = () => highlight(li.dataset.k));
+
+  const fxDate = P.fx ? new Date(P.fx.date + "T00:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"}) : "";
+  $("note").textContent = (P.fx ? `Converted from each local Apple Store price at exchange rates from ${fxDate} (${P.fx.source}). ` : "")
+    + "US and Canada prices exclude sales tax; the other six include VAT, GST or consumption tax, so they look higher than the price before tax. "
+    + `Prices checked ${new Date(P.updated + "T00:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"})}.`;
+}
+
+function highlight(k){
+  document.querySelectorAll("#pins .pin").forEach(g => g.classList.toggle("sel", g.dataset.k === k));
+  document.querySelectorAll("#rank li").forEach(li => li.setAttribute("aria-current", li.dataset.k === k));
+}
+
+readHash();
+fillControls();
+drawMap();
+render();
+window.addEventListener("hashchange", () => { readHash(); render(); });
+</script>
+</body>
+</html>

@@ -163,13 +163,19 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 
 /* site header and footer */
 .site-head{display:flex;justify-content:space-between;align-items:flex-end;gap:12px 24px;flex-wrap:wrap;padding-block:4px 6px}
-.brand{display:flex;align-items:center;gap:14px;min-width:0}
+.brand{display:flex;align-items:center;gap:14px;min-width:0;flex:1 1 420px}
 .mark{display:grid;grid-template-columns:repeat(3,10px);gap:4px;align-items:end;flex:none}
 .mark i{display:block;width:10px;border-radius:5px;background:var(--t1)}
 .mark i:nth-child(1){height:14px}.mark i:nth-child(2){height:22px;background:var(--t2)}.mark i:nth-child(3){height:30px;background:var(--t4)}
 .site-name{font-family:var(--display);font-weight:700;font-size:22px;letter-spacing:-.015em;line-height:1.1}
 .site-sub{color:var(--muted);font-size:14px;margin-top:2px;text-wrap:balance}
 .checked{font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.04em}
+.head-right{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.pages{display:inline-flex;gap:4px;padding:5px;border:1px solid var(--line);border-radius:999px;background:var(--panel)}
+.pages a{padding:7px 15px;border-radius:999px;text-decoration:none;font-weight:500;color:var(--muted);white-space:nowrap}
+.pages a:hover{color:var(--fg)}
+.pages a[aria-current="page"]{background:var(--pill);color:var(--pill-fg)}
+@media (max-width:760px){.head-right{align-items:flex-start}}
 .site-foot{display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;padding-block:18px 8px;border-top:1px solid var(--line);margin-top:8px}
 .site-foot p{margin:0}
 .credit{font-size:15px;color:var(--fg)}
@@ -189,7 +195,13 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
         <div class="site-sub" id="site-sub">Every current Apple product, from entry configuration to fully loaded.</div>
       </div>
     </div>
-    <div class="checked" id="checked"></div>
+    <div class="head-right">
+      <nav class="pages" aria-label="Pages">
+        <a href="./" aria-current="page">Price ranges</a>
+        <a href="world/">World map</a>
+      </nav>
+      <div class="checked" id="checked"></div>
+    </div>
   </header>
 
   <div class="topbar">
@@ -225,6 +237,7 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 </div>
 
 <script src="prices.js"></script>
+<script src="assets/core.js"></script>
 <script>
 // ---------- builders: turn the compact data in prices.js into rows ----------
 // Data rows are [label, price per country in P.countryOrder]. Built tiers are [label, [prices], meta];
@@ -233,35 +246,7 @@ const P = window.PRICES;
 const ORDER = P.countryOrder;
 let country = "us", variant = "wifi", cat = "iphone", selected = null;
 const CI = () => ORDER.indexOf(country);
-const add = (a, b) => a.map((x, i) => x == null || b[i] == null ? null : x + b[i]);
-const zero = () => ORDER.map(() => 0);
-
-function buildIpad(p){ // Wi-Fi tiers, + cellular, + nano-texture glass on some sizes
-  return () => {
-    const out = [], n = p.wifi.length;
-    p.wifi.forEach((row, si) => {
-      const prices = add(row.slice(1), variant === "cellular" ? p.cell : zero());
-      out.push([row[0], prices, {s:si, n}]);
-      if ((p.nano || []).includes(row[0]))
-        out.push([row[0] + " · Nano-texture", add(prices, p.nanoAdd.map(x => x || null)), {s:si, n, ring:true}]);
-    });
-    return out;
-  };
-}
-function buildMac(p){ // base configuration, each memory step, each storage step, then fully loaded
-  const name = (l, kind) => l.replace(/^(\S+)/, "$1 " + kind); // "512GB (needs …)" -> "512GB memory (needs …)"
-  return () => {
-    const base = p.base.slice(1), out = [[p.base[0], base, {k:"base"}]];
-    const upgrade = r => r.slice(1).some(x => x);
-    p.mem.filter(upgrade).forEach(r => out.push([name(r[0], "memory"), add(base, r.slice(1)), {k:"mem"}]));
-    p.sto.filter(upgrade).forEach(r => out.push([name(r[0], "storage"), add(base, r.slice(1)), {k:"sto", ring:true}]));
-    if (p.max) out.push([p.max[0], p.max.slice(1), {k:"max"}]);
-    return out;
-  };
-}
-Object.values(P.categories).forEach(c => c.products.forEach(p => {
-  p.build = p.wifi ? buildIpad(p) : p.base ? buildMac(p) : () => p.tiers.map(t => [t[0], t.slice(1), null]);
-}));
+Object.values(P.categories).forEach(c => c.products.forEach(p => { p.build = () => APP.configs(p, variant); }));
 // tiers for the current country and variant: [label, price, meta]
 const T = p => p.build().filter(t => t[1][CI()] != null).map(t => [t[0], t[1][CI()], t[2]]);
 

@@ -16,21 +16,21 @@ problems = []
 
 # Order matters: it is the order of prices in every row and of the country buttons on the page.
 COUNTRIES = {
-    "us": {"label": "United States", "short": "US", "symbol": "$", "locale": "en-US", "store": "apple.com/shop",
+    "us": {"currency": "USD", "label": "United States", "short": "US", "symbol": "$", "locale": "en-US", "store": "apple.com/shop",
            "note": "Apple Store US list prices, before sales tax"},
-    "in": {"label": "India", "short": "India", "symbol": "₹", "locale": "en-IN", "store": "apple.com/in/shop",
+    "in": {"currency": "INR", "label": "India", "short": "India", "symbol": "₹", "locale": "en-IN", "store": "apple.com/in/shop",
            "note": "Apple Store India MRP, including GST"},
-    "uk": {"label": "United Kingdom", "short": "UK", "symbol": "£", "locale": "en-GB", "store": "apple.com/uk/shop",
+    "uk": {"currency": "GBP", "label": "United Kingdom", "short": "UK", "symbol": "£", "locale": "en-GB", "store": "apple.com/uk/shop",
            "note": "Apple Store UK prices, including VAT"},
-    "ae": {"label": "United Arab Emirates", "short": "UAE", "symbol": "AED ", "locale": "en-AE", "store": "apple.com/ae/shop",
+    "ae": {"currency": "AED", "label": "United Arab Emirates", "short": "UAE", "symbol": "AED ", "locale": "en-AE", "store": "apple.com/ae/shop",
            "note": "Apple Store UAE prices, including VAT"},
-    "ca": {"label": "Canada", "short": "Canada", "symbol": "CA$", "locale": "en-CA", "store": "apple.com/ca/shop",
+    "ca": {"currency": "CAD", "label": "Canada", "short": "Canada", "symbol": "CA$", "locale": "en-CA", "store": "apple.com/ca/shop",
            "note": "Apple Store Canada prices, before sales tax"},
-    "au": {"label": "Australia", "short": "Australia", "symbol": "A$", "locale": "en-AU", "store": "apple.com/au/shop",
+    "au": {"currency": "AUD", "label": "Australia", "short": "Australia", "symbol": "A$", "locale": "en-AU", "store": "apple.com/au/shop",
            "note": "Apple Store Australia prices, including GST"},
-    "jp": {"label": "Japan", "short": "Japan", "symbol": "¥", "locale": "ja-JP", "store": "apple.com/jp/shop",
+    "jp": {"currency": "JPY", "label": "Japan", "short": "Japan", "symbol": "¥", "locale": "ja-JP", "store": "apple.com/jp/shop",
            "note": "Apple Store Japan prices, including consumption tax"},
-    "sg": {"label": "Singapore", "short": "Singapore", "symbol": "S$", "locale": "en-SG", "store": "apple.com/sg/shop",
+    "sg": {"currency": "SGD", "label": "Singapore", "short": "Singapore", "symbol": "S$", "locale": "en-SG", "store": "apple.com/sg/shop",
            "note": "Apple Store Singapore prices, including GST"},
 }
 CC = list(COUNTRIES)
@@ -360,8 +360,33 @@ CATEGORIES = {
     ]},
 }
 
+# ---------------- exchange rates, for the world comparison page ----------------
+def exchange_rates():
+    """Units of each country's currency per 1 USD, from open.er-api.com (daily rates, no key needed).
+    If the service is down, keep the rates already in prices.js and report it."""
+    import urllib.request
+    try:
+        with urllib.request.urlopen("https://open.er-api.com/v6/latest/USD", timeout=30) as r:
+            d = json.load(r)
+        if d.get("result") != "success":
+            raise ValueError(d.get("error-type", "bad response"))
+        per = {c: d["rates"][COUNTRIES[c]["currency"]] for c in CC}
+        day = datetime.datetime.fromtimestamp(d["time_last_update_unix"], datetime.timezone.utc).date().isoformat()
+        return {"date": day, "source": "open.er-api.com", "perUSD": per}
+    except Exception as e:
+        problems.append(f"exchange rates not refreshed ({e}); keeping the previous ones")
+        try:
+            prev = json.loads(OUT.read_text().split("=", 1)[1].rstrip().rstrip(";")).get("fx")
+            if prev and all(c in prev["perUSD"] for c in CC):
+                return prev
+        except Exception:
+            pass
+        return None
+
+
 DATA = {
     "updated": datetime.date.today().isoformat(),
+    "fx": exchange_rates(),
     "countryOrder": CC,
     "countries": COUNTRIES,
     "order": list(CATEGORIES),
