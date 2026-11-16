@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "be",
+ "url": "https://www.apple.com/be-fr/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:49.418Z",
+ "configs": {
+  "m6": {
+   "total": 1069,
+   "totalFrom": "summary",
+   "totalText": "1 069,00 € | 1 069,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs avec double Neural Engine 16 cœurs À partir de 1 069 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Inclus",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "256 Go Inclus",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Technologie réseau standard, vitesses de connexion jusqu’à 2,5 Gbit. Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs avec double Neural Engine 16 cœurs À partir de 1 069 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 019 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Inclus"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Go Inclus",
+     "512 Go + 220,00 €",
+     "1 To + 550,00 €",
+     "2 To + 1 100,00 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Technologie réseau standard, vitesses de connexion jusqu’à 2,5 Gbit. Inclus",
+     "10 Gigabit Ethernet Bande passante de connectivité plus élevée, avec des vitesses de liaison pouvant atteindre 10 Gb. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2019,
+   "totalFrom": "summary",
+   "totalText": "2 019,00 € | 2 019,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 019 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15 cœurs, GPU 16 cœurs Inclus",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Technologie réseau standard, vitesses de connexion jusqu’à 2,5 Gbit. Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs avec double Neural Engine 16 cœurs À partir de 1 069 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 019 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 cœurs, GPU 16 cœurs Inclus",
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. + 220,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 660,00 €",
+     "64 Go + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus",
+     "1 To + 330,00 €",
+     "2 To + 880,00 €",
+     "4 To + 1 980,00 €",
+     "8 To + 4 180,00 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Technologie réseau standard, vitesses de connexion jusqu’à 2,5 Gbit. Inclus",
+     "10 Gigabit Ethernet Bande passante de connectivité plus élevée, avec des vitesses de liaison pouvant atteindre 10 Gb. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 2239,
+   "totalFrom": "summary",
+   "totalText": "2 239,00 € | 2 239,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 019 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K.",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Technologie réseau standard, vitesses de connexion jusqu’à 2,5 Gbit. Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs avec double Neural Engine 16 cœurs À partir de 1 069 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 019 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 cœurs, GPU 16 cœurs − 220,00 €",
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 660,00 €",
+     "64 Go + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus",
+     "1 To + 330,00 €",
+     "2 To + 880,00 €",
+     "4 To + 1 980,00 €",
+     "8 To + 4 180,00 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Technologie réseau standard, vitesses de connexion jusqu’à 2,5 Gbit. Inclus",
+     "10 Gigabit Ethernet Bande passante de connectivité plus élevée, avec des vitesses de liaison pouvant atteindre 10 Gb. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

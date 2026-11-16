@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:06.319Z",
+ "configs": {
+  "default": {
+   "total": 879,
+   "totalFrom": "summary",
+   "totalText": "€ 879,00 o € 36,63 al mese per 24 mesi, TAN fisso 0% Nota ① | € 879,00 o € 36,63 al mese per 24 mesi, TAN fisso 0% Nota ①",
+   "selected": {
+    "dimensionColor": "Rosa chiaro",
+    "dimensionCapacity": "256GB Nota 1 € 879,00 o € 36,63 al mese per 24 mesi, TAN fisso 0% Nota ①"
+   },
+   "options": {
+    "dimensionColor": [
+     "Rosa chiaro",
+     "Bianco",
+     "Nero"
+    ],
+    "dimensionCapacity": [
+     "256GB Nota 1 € 879,00 o € 36,63 al mese per 24 mesi, TAN fisso 0% Nota ①",
+     "512GB Nota 1 € 1.129,00 o € 47,04 al mese per 24 mesi, TAN fisso 0% Nota ①"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

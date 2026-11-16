@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:17.934Z",
+ "configs": {
+  "band": {
+   "total": 9995,
+   "totalFrom": "summary",
+   "totalText": "9 995,00 kr | 9 995,00 kr | 9 995,00 kr",
+   "selected": {
+    "watch_cases-dimensionColor": "svart",
+    "style": "Nya färger Bergsloop För vildmarksutmaningar och vandring. 9 995,00 kr",
+    "alpineloop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "Small Passar handleder som är 130–160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "svart",
+     "naturlig"
+    ],
+    "style": [
+     "Nya färger Bergsloop För vildmarksutmaningar och vandring. 9 995,00 kr",
+     "Nya färger Terrängloop För alla sporter och träningsformer. 9 995,00 kr",
+     "Nya färger Havsband För vattensporter och sportdykning. 9 995,00 kr",
+     "Milanesisk loop i titan Utformad för att användas i vatten men är tillräckligt elegant för alla tillfällen. 11 195,00 kr"
+    ],
+    "alpineloop-color": [
+     "bourgogne",
+     "mörk oliv",
+     "ökensand"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Passar handleder som är 130–160 mm.",
+     "Medium Armbandet passar handleder som är 145–190 mm.",
+     "Large Armbandet passar handleder som är 165–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 11195,
+   "totalFrom": "summary",
+   "totalText": "11 195,00 kr | 11 195,00 kr | 11 195,00 kr",
+   "selected": {
+    "watch_cases-dimensionColor": "svart",
+    "style": "Milanesisk loop i titan Utformad för att användas i vatten men är tillräckligt elegant för alla tillfällen. 11 195,00 kr",
+    "ti_milaneseloop-color": "svart",
+    "watch_bands-dimensionbandsize": "Small Passar handleder som är 130–160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "svart",
+     "naturlig"
+    ],
+    "style": [
+     "Nya färger Bergsloop För vildmarksutmaningar och vandring. 9 995,00 kr",
+     "Nya färger Terrängloop För alla sporter och träningsformer. 9 995,00 kr",
+     "Nya färger Havsband För vattensporter och sportdykning. 9 995,00 kr",
+     "Milanesisk loop i titan Utformad för att användas i vatten men är tillräckligt elegant för alla tillfällen. 11 195,00 kr"
+    ],
+    "ti_milaneseloop-color": [
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Passar handleder som är 130–160 mm.",
+     "Medium Armbandet passar handleder som är 155–185 mm.",
+     "Large Armbandet passar handleder som är 180–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

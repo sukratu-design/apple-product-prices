@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:53.602Z",
+ "configs": {
+  "pro": {
+   "total": 1199,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 199.00 | CHF 1 199.00 | CHF 1 199.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab CHF 1199.–",
+    "dimensionColor": "Burgunder",
+    "dimensionCapacity": "256 GB Fußnote 1 CHF 1 199.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab CHF 1199.–",
+     "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab CHF 1299.–"
+    ],
+    "dimensionColor": [
+     "Burgunder",
+     "Polar",
+     "Silber",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 CHF 1 199.00",
+     "512 GB Fußnote 1 CHF 1 399.00",
+     "1TB Fußnote 1 CHF 1 799.00",
+     "2TB Fußnote 1 CHF 2 399.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 299.00 | CHF 1 299.00 | CHF 1 299.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab CHF 1299.–",
+    "dimensionColor": "Burgunder",
+    "dimensionCapacity": "256 GB Fußnote 1 CHF 1 299.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab CHF 1199.–",
+     "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab CHF 1299.–"
+    ],
+    "dimensionColor": [
+     "Burgunder",
+     "Polar",
+     "Silber",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 CHF 1 299.00",
+     "512 GB Fußnote 1 CHF 1 499.00",
+     "1TB Fußnote 1 CHF 1 899.00",
+     "2TB Fußnote 1 CHF 2 499.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

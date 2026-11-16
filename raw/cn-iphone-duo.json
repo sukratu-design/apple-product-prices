@@ -1,0 +1,35 @@
+{
+ "page": "iphone-duo",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:30.988Z",
+ "configs": {
+  "default": {
+   "total": 15999,
+   "totalFrom": "summary",
+   "totalText": "RMB 15,999",
+   "selected": {
+    "dimensionColor": "星光白色",
+    "dimensionCapacity": "256GB 脚注 1 RMB 15,999 或 RMB 667/月 (24 期) 起",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionColor": [
+     "星光白色",
+     "夜空色"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 RMB 15,999 或 RMB 667/月 (24 期) 起",
+     "512GB 脚注 1 RMB 17,999 或 RMB 750/月 (24 期) 起",
+     "1TB 脚注 1 RMB 21,499 或 RMB 896/月 (24 期) 起",
+     "2TB 脚注 1 RMB 26,499 或 RMB 1105/月 (24 期) 起"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

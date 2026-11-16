@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-16T13:11:25.687Z",
+ "configs": {
+  "default": {
+   "total": 5790000,
+   "totalFrom": "summary",
+   "totalText": "₩5,790,000부터 | ₩5,790,000부터",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB ₩5,790,000부터",
+     "512GB ₩6,140,000부터",
+     "1TB ₩6,665,000부터"
+    ]
+   }
+  }
+ }
+}

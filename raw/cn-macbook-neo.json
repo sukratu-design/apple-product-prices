@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:37.017Z",
+ "configs": {
+  "256": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "RMB 5,499",
+   "selected": {
+    "chassis-dimensionColor": "银色",
+    "storage-dimensionCapacity": "256GB 妙控键盘 RMB 5499 起 或 RMB 230/月 (24 期) 起"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "银色",
+     "桃粉色",
+     "柑橘黄色",
+     "靛蓝色"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 妙控键盘 RMB 5499 起 或 RMB 230/月 (24 期) 起",
+     "512GB 妙控键盘 (带有触控 ID) RMB 6299 起 或 RMB 263/月 (24 期) 起"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 6299,
+   "totalFrom": "summary",
+   "totalText": "RMB 6,299",
+   "selected": {
+    "chassis-dimensionColor": "银色",
+    "storage-dimensionCapacity": "512GB 妙控键盘 (带有触控 ID) RMB 6299 起 或 RMB 263/月 (24 期) 起"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "银色",
+     "桃粉色",
+     "柑橘黄色",
+     "靛蓝色"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 妙控键盘 RMB 5499 起 或 RMB 230/月 (24 期) 起",
+     "512GB 妙控键盘 (带有触控 ID) RMB 6299 起 或 RMB 263/月 (24 期) 起"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

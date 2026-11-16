@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:30.939Z",
+ "configs": {
+  "default": {
+   "total": 29900,
+   "totalFrom": "summary",
+   "totalText": "NT$29,900 | NT$29,900 | NT$29,900",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1 吋顯示器 註腳 1配備 128GB 儲存空間 NT$29,900 起",
+    "dimensionColor": "湛海藍色"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1 吋顯示器 註腳 1配備 128GB 儲存空間 NT$29,900 起"
+    ],
+    "dimensionColor": [
+     "湛海藍色",
+     "湖水綠色",
+     "白色",
+     "粉紅色",
+     "黑色"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

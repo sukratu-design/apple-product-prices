@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:31.226Z",
+ "configs": {
+  "default": {
+   "total": 3299,
+   "totalFrom": "summary",
+   "totalText": "SAR 3,299.00 | SAR 3,299.00",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 SAR 3,299.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 SAR 3,299.00",
+     "512GB Footnote 1 SAR 4,299.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

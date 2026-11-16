@@ -2,11 +2,11 @@
  "page": "ipad-pro",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-ipad/ipad-pro",
- "scrapedAt": "2026-11-13T10:57:57.610Z",
+ "scrapedAt": "2026-11-16T12:16:51.163Z",
  "configs": {
   "11-wifi": {
-   "total": 139900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 22483,
+   "totalFrom": "summary",
    "totalText": "From ₹22483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionScreensize": "28.22 cm-11″ iPad Pro Ultra Retina XDR display From ₹22483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹139900.00 Footnote †",
@@ -302,8 +302,8 @@
    }
   },
   "11-cell": {
-   "total": 163900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 26483,
+   "totalFrom": "summary",
    "totalText": "From ₹26483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionScreensize": "28.22 cm-11″ iPad Pro Ultra Retina XDR display From ₹22483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹139900.00 Footnote †",
@@ -599,8 +599,8 @@
    }
   },
   "13-wifi": {
-   "total": 199900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 32483,
+   "totalFrom": "summary",
    "totalText": "From ₹32483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionScreensize": "33.02 cm-13″ iPad Pro Ultra Retina XDR display From ₹32483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹199900.00 Footnote †",
@@ -897,8 +897,8 @@
    }
   },
   "13-cell": {
-   "total": 223900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 36483,
+   "totalFrom": "summary",
    "totalText": "From ₹36483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionScreensize": "33.02 cm-13″ iPad Pro Ultra Retina XDR display From ₹32483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹199900.00 Footnote †",
@@ -1195,8 +1195,8 @@
    }
   },
   "nano": {
-   "total": 211900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 34483,
+   "totalFrom": "summary",
    "totalText": "From ₹34483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionScreensize": "28.22 cm-11″ iPad Pro Ultra Retina XDR display From ₹22483.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹139900.00 Footnote †",

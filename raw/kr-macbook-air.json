@@ -1,0 +1,138 @@
+{
+ "page": "macbook-air",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T13:24:12.515Z",
+ "configs": {
+  "15": {
+   "total": 2490000,
+   "totalFrom": "summary",
+   "totalText": "₩2,490,000 | ₩2,490,000",
+   "selected": {
+    "chassis-dimensionScreensize": "15 모델 ₩2,490,000부터",
+    "chassis-dimensionColor": "스카이 블루",
+    "processor-cpuCoreCount-gpuCoreCount": "10코어 CPU, 10코어 GPU, 16코어 Neural Engine 더 빠른 프로세싱 및 그래픽 렌더링 속도로 게임과 창작 작업 같은 고사양이 필요한 작업도 척척. ₩2,490,000부터",
+    "memory-dimensionMemory": "16GB 포함",
+    "storage-dimensionCapacity": "512GB 포함",
+    "power_adapter-wattage": "35W 듀얼 USB-C 포트 포트 2개로 기기 2대를 동시에 충전. 포함"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 모델 ₩2,190,000부터",
+     "15 모델 ₩2,490,000부터"
+    ],
+    "chassis-dimensionColor": [
+     "스카이 블루",
+     "실버",
+     "스타라이트",
+     "미드나이트"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10코어 CPU, 10코어 GPU, 16코어 Neural Engine 더 빠른 프로세싱 및 그래픽 렌더링 속도로 게임과 창작 작업 같은 고사양이 필요한 작업도 척척. ₩2,490,000부터"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 포함",
+     "24GB ₩340,000 +",
+     "32GB ₩680,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 포함",
+     "1TB ₩510,000 +",
+     "2TB ₩1,360,000 +",
+     "4 TB ₩3,060,000 +"
+    ],
+    "power_adapter-wattage": [
+     "35W 듀얼 USB-C 포트 포트 2개로 기기 2대를 동시에 충전. 포함",
+     "70W USB-C 약 30분 만에 최대 50%까지 급속 충전 지원."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 2190000,
+   "totalFrom": "summary",
+   "totalText": "₩2,190,000 | ₩2,190,000",
+   "selected": {
+    "chassis-dimensionScreensize": "13 모델 ₩2,190,000부터",
+    "chassis-dimensionColor": "스카이 블루",
+    "processor-cpuCoreCount-gpuCoreCount": "10코어 CPU, 8코어 GPU, 16코어 Neural Engine 모든 일에서 느껴지는 놀라운 속도와 부드러움. ₩2,190,000부터",
+    "memory-dimensionMemory": "16GB 포함",
+    "storage-dimensionCapacity": "512GB 포함",
+    "power_adapter-wattage": "30W USB-C 빠르고 효율적인 충전. 포함"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 모델 ₩2,190,000부터",
+     "15 모델 ₩2,490,000부터"
+    ],
+    "chassis-dimensionColor": [
+     "스카이 블루",
+     "실버",
+     "스타라이트",
+     "미드나이트"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10코어 CPU, 8코어 GPU, 16코어 Neural Engine 모든 일에서 느껴지는 놀라운 속도와 부드러움. ₩2,190,000부터",
+     "10코어 CPU, 10코어 GPU, 16코어 Neural Engine 더 빠른 프로세싱 및 그래픽 렌더링 속도로 게임과 창작 작업 같은 고사양이 필요한 작업도 척척. ₩2,360,000부터"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 포함"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 포함"
+    ],
+    "power_adapter-wattage": [
+     "30W USB-C 빠르고 효율적인 충전. 포함",
+     "35W 듀얼 USB-C 포트 포트 2개로 기기 2대를 동시에 충전. ₩30,000 +",
+     "70W USB-C 약 30분 만에 최대 50%까지 급속 충전 지원. ₩30,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 2700000,
+   "totalFrom": "summary",
+   "totalText": "₩2,700,000 | ₩2,700,000",
+   "selected": {
+    "chassis-dimensionScreensize": "13 모델 ₩2,190,000부터",
+    "chassis-dimensionColor": "스카이 블루",
+    "processor-cpuCoreCount-gpuCoreCount": "10코어 CPU, 10코어 GPU, 16코어 Neural Engine 더 빠른 프로세싱 및 그래픽 렌더링 속도로 게임과 창작 작업 같은 고사양이 필요한 작업도 척척. ₩2,360,000부터",
+    "memory-dimensionMemory": "16GB 포함",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "35W 듀얼 USB-C 포트 포트 2개로 기기 2대를 동시에 충전. 포함"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 모델 ₩2,190,000부터",
+     "15 모델 ₩2,490,000부터"
+    ],
+    "chassis-dimensionColor": [
+     "스카이 블루",
+     "실버",
+     "스타라이트",
+     "미드나이트"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10코어 CPU, 8코어 GPU, 16코어 Neural Engine 모든 일에서 느껴지는 놀라운 속도와 부드러움. ₩2,190,000부터",
+     "10코어 CPU, 10코어 GPU, 16코어 Neural Engine 더 빠른 프로세싱 및 그래픽 렌더링 속도로 게임과 창작 작업 같은 고사양이 필요한 작업도 척척. ₩2,360,000부터"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 포함",
+     "24GB ₩340,000 +",
+     "32GB ₩680,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB ₩510,000 −",
+     "1TB",
+     "2TB ₩850,000 +",
+     "4 TB ₩2,550,000 +"
+    ],
+    "power_adapter-wattage": [
+     "35W 듀얼 USB-C 포트 포트 2개로 기기 2대를 동시에 충전. 포함",
+     "70W USB-C 약 30분 만에 최대 50%까지 급속 충전 지원."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

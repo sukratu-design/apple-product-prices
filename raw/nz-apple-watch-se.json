@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:09:52.873Z",
+ "configs": {
+  "40-gps": {
+   "total": 469,
+   "totalFrom": "summary",
+   "totalText": "NZ$469.00 | NZ$469.00 | NZ$469.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40-mm From NZ$469",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From NZ$469",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$469.00",
+    "rubber-style": "New colours Solo Loop NZ$469.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From NZ$469",
+     "44-mm From NZ$529"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$469",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$569"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$469.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$469",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$569"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$469.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$469.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$469.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 529,
+   "totalFrom": "summary",
+   "totalText": "NZ$529.00 | NZ$529.00 | NZ$529.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44-mm From NZ$529",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From NZ$529",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$529.00",
+    "rubber-style": "New colours Solo Loop NZ$529.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From NZ$469",
+     "44-mm From NZ$529"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$529",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$629"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$529.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$529",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$629"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$529.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$529.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$529.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 469,
+   "totalFrom": "summary",
+   "totalText": "NZ$469.00 | NZ$469.00 | NZ$469.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40-mm From NZ$469",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$569",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$569.00",
+    "rubber-style": "New colours Solo Loop NZ$569.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From NZ$469",
+     "44-mm From NZ$529"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$469",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$569"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$569.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$569",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$669"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$569.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$569.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$569.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 629,
+   "totalFrom": "summary",
+   "totalText": "NZ$629.00 | NZ$629.00 | NZ$629.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44-mm From NZ$529",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$629",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$629.00",
+    "rubber-style": "New colours Solo Loop NZ$629.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40-mm From NZ$469",
+     "44-mm From NZ$529"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$529",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$629"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$629.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$629",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$729"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$629.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$629.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$629.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

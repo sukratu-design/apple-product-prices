@@ -2,11 +2,16 @@
  "page": "iphone-17",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-iphone/iphone-17",
- "scrapedAt": "2026-11-13T04:50:01.931Z",
+ "scrapedAt": "2026-11-16T11:59:52.098Z",
  "configs": {
   "default": {
    "total": 899,
-   "totalText": "Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote Footnote ‡ Lease from $25.99/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote ‡ Lease from $25.99/mo. per month for 24 mo. months Footnote ※ | Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote ‡ Lease from $25.99/mo. per month for 24 mo. months with Apple Upgrade Footnote ※",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote ‡ Lease from $25.99/mo. per month for 24 mo. months Footnote ※"
+   },
    "options": {
     "dimensionColor": [
      "Lavender",
@@ -16,10 +21,11 @@
      "Black"
     ],
     "dimensionCapacity": [
-     "256GB Footnote 1 Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote Footnote ‡ Lease from $25.99/mo. per month for 24 mo. months Footnote ※",
-     "512GB Footnote 1 Buy from $1099 or $45.79/mo. per month for 24 mo. months Footnote Footnote ‡ Lease from $31.86/mo. per month for 24 mo. months Footnote ※"
+     "256GB Footnote 1 Buy from $899 or $37.45/mo. per month for 24 mo. months Footnote ‡ Lease from $25.99/mo. per month for 24 mo. months Footnote ※",
+     "512GB Footnote 1 Buy from $1099 or $45.79/mo. per month for 24 mo. months Footnote ‡ Lease from $31.86/mo. per month for 24 mo. months Footnote ※"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

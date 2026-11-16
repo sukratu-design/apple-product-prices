@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:10.328Z",
+ "configs": {
+  "m5max-32": {
+   "total": 21999,
+   "totalFrom": "summary",
+   "totalText": "21.999,00 kr. | 21.999,00 kr.",
+   "selected": {
+    "processor-dimensionChip": "M5 Max-chip Seriøs hastighed og funktionalitet til kreative projekter og professionelle arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 21.999 kr.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Inkluderet",
+    "memory-dimensionMemory": "36 GB Inkluderet",
+    "storage-dimensionCapacity": "512 GB Inkluderet"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighed og funktionalitet til kreative projekter og professionelle arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 21.999 kr.",
+     "M5 Ultra-chip Vores mest højtydende chip med en uovertruffen power til de mest krævende professionelle arbejdsgange. 2 muligheder med 32-core Neural Engine Fra 49.999 kr."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Inkluderet",
+     "18-core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. + 3.000,00 kr. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Inkluderet"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkluderet",
+     "1 TB + 3.000,00 kr.",
+     "2 TB + 8.000,00 kr.",
+     "4 TB + 18.000,00 kr.",
+     "8 TB + 38.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 27999,
+   "totalFrom": "summary",
+   "totalText": "27.999,00 kr. | 27.999,00 kr.",
+   "selected": {
+    "processor-dimensionChip": "M5 Max-chip Seriøs hastighed og funktionalitet til kreative projekter og professionelle arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 21.999 kr.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac.",
+    "memory-dimensionMemory": "48 GB Inkluderet",
+    "storage-dimensionCapacity": "512 GB Inkluderet"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighed og funktionalitet til kreative projekter og professionelle arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 21.999 kr.",
+     "M5 Ultra-chip Vores mest højtydende chip med en uovertruffen power til de mest krævende professionelle arbejdsgange. 2 muligheder med 32-core Neural Engine Fra 49.999 kr."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − 3.000,00 kr.",
+     "18-core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Inkluderet",
+     "64 GB + 4.000,00 kr.",
+     "128 GB + 20.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkluderet",
+     "1 TB + 3.000,00 kr.",
+     "2 TB + 8.000,00 kr.",
+     "4 TB + 18.000,00 kr.",
+     "8 TB + 38.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 49999,
+   "totalFrom": "summary",
+   "totalText": "49.999,00 kr. | 49.999,00 kr.",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra-chip Vores mest højtydende chip med en uovertruffen power til de mest krævende professionelle arbejdsgange. 2 muligheder med 32-core Neural Engine Fra 49.999 kr.",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Inkluderet",
+    "memory-dimensionMemory": "96 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB Inkluderet"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighed og funktionalitet til kreative projekter og professionelle arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 21.999 kr.",
+     "M5 Ultra-chip Vores mest højtydende chip med en uovertruffen power til de mest krævende professionelle arbejdsgange. 2 muligheder med 32-core Neural Engine Fra 49.999 kr."
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Inkluderet",
+     "36-core CPU, 80‑core GPU Optimer din processorkraft, grafiske ydeevne og beregningskraft til AI, så du kan håndtere krævende arbejdsgange som at køre store sprogmodeller, anvende visuelle effekter og farvegradere film. + 13.000,00 kr."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Inkluderet",
+     "256 GB + 40.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkluderet",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr.",
+     "8 TB + 35.000,00 kr.",
+     "16 TB + 75.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 62999,
+   "totalFrom": "summary",
+   "totalText": "62.999,00 kr. | 62.999,00 kr.",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra-chip Vores mest højtydende chip med en uovertruffen power til de mest krævende professionelle arbejdsgange. 2 muligheder med 32-core Neural Engine Fra 49.999 kr.",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Optimer din processorkraft, grafiske ydeevne og beregningskraft til AI, så du kan håndtere krævende arbejdsgange som at køre store sprogmodeller, anvende visuelle effekter og farvegradere film.",
+    "memory-dimensionMemory": "96 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB Inkluderet"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighed og funktionalitet til kreative projekter og professionelle arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 21.999 kr.",
+     "M5 Ultra-chip Vores mest højtydende chip med en uovertruffen power til de mest krævende professionelle arbejdsgange. 2 muligheder med 32-core Neural Engine Fra 49.999 kr."
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − 13.000,00 kr.",
+     "36-core CPU, 80‑core GPU Optimer din processorkraft, grafiske ydeevne og beregningskraft til AI, så du kan håndtere krævende arbejdsgange som at køre store sprogmodeller, anvende visuelle effekter og farvegradere film."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Inkluderet",
+     "256 GB + 40.000,00 kr.",
+     "512 GB + 155.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkluderet",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr.",
+     "8 TB + 35.000,00 kr.",
+     "16 TB + 75.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

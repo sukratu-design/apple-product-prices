@@ -2,33 +2,43 @@
  "page": "apple-watch-se",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-watch/apple-watch-se",
- "scrapedAt": "2026-11-13T04:54:52.881Z",
+ "scrapedAt": "2026-11-16T13:04:55.110Z",
  "configs": {
   "40-gps": {
    "total": 249,
-   "totalText": "$249.00 or $20.75/mo. per month for 12 mo. months Footnote ±",
+   "totalFrom": "summary",
+   "totalText": "$249.00 or $20.75/mo. per month for 12 mo. months Footnote ± | $249.00 or $20.75/mo. per month for 12 mo. months Footnote ±",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. Buy from $249 or $20.75/mo. per month for 12 mo. months",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $249 or $20.75/mo. per month for 12 mo. months",
+    "rubber-style": "New colors Solo Loop Buy for $249 or $20.75/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionColor": [
      "Midnight",
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±"
+     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † Buy from $299 or $24.91/mo. per month for 12 mo. months Footnote ±"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $299 or $24.91/mo. per month for 12 mo. months"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $299 or $24.91/mo. per month for 12 mo. months Footnote ±"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $249 or $20.75/mo. per month for 12 mo. months",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $299 or $24.91/mo. per month for 12 mo. months"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $249 or $20.75/mo. per month for 12 mo. months Footnote ± Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $249 or $20.75/mo. per month for 12 mo. months Footnote ± Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $249 or $20.75/mo. per month for 12 mo. months Footnote ± Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $249 or $20.75/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $249 or $20.75/mo. per month for 12 mo. months Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $249 or $20.75/mo. per month for 12 mo. months Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -48,33 +58,44 @@
      "8",
      "9"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "44-gps": {
    "total": 279,
-   "totalText": "$279.00 or $23.25/mo. per month for 12 mo. months Footnote ±",
+   "totalFrom": "summary",
+   "totalText": "$279.00 or $23.25/mo. per month for 12 mo. months Footnote ± | $279.00 or $23.25/mo. per month for 12 mo. months Footnote ±",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. Buy from $279 or $23.25/mo. per month for 12 mo. months",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $279 or $23.25/mo. per month for 12 mo. months",
+    "rubber-style": "New colors Solo Loop Buy for $279 or $23.25/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionColor": [
      "Midnight",
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±"
+     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † Buy from $329 or $27.41/mo. per month for 12 mo. months Footnote ±"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $279 or $23.25/mo. per month for 12 mo. months",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $329 or $27.41/mo. per month for 12 mo. months"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $279 or $23.25/mo. per month for 12 mo. months Footnote ±",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $329 or $27.41/mo. per month for 12 mo. months Footnote ±"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $279 or $23.25/mo. per month for 12 mo. months",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $279 or $23.25/mo. per month for 12 mo. months",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $329 or $27.41/mo. per month for 12 mo. months"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $279 or $23.25/mo. per month for 12 mo. months Footnote ± Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $279 or $23.25/mo. per month for 12 mo. months Footnote ± Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $279 or $23.25/mo. per month for 12 mo. months Footnote ± Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $279 or $23.25/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $279 or $23.25/mo. per month for 12 mo. months Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $279 or $23.25/mo. per month for 12 mo. months Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -98,33 +119,44 @@
      "11",
      "12"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "40-cell": {
    "total": 299,
-   "totalText": "$299.00 or $24.91/mo. per month for 12 mo. months Footnote ±",
+   "totalFrom": "summary",
+   "totalText": "$299.00 or $24.91/mo. per month for 12 mo. months Footnote ± | $299.00 or $24.91/mo. per month for 12 mo. months Footnote ±",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $299 or $24.91/mo. per month for 12 mo. months",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $299 or $24.91/mo. per month for 12 mo. months",
+    "rubber-style": "New colors Solo Loop Buy for $299 or $24.91/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionColor": [
      "Midnight",
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±"
+     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † Buy from $299 or $24.91/mo. per month for 12 mo. months Footnote ±"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $299 or $24.91/mo. per month for 12 mo. months"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $299 or $24.91/mo. per month for 12 mo. months Footnote ±",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $299 or $24.91/mo. per month for 12 mo. months Footnote ±",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $349 or $29.08/mo. per month for 12 mo. months Footnote ±"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $299 or $24.91/mo. per month for 12 mo. months",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $299 or $24.91/mo. per month for 12 mo. months",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $349 or $29.08/mo. per month for 12 mo. months"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $299 or $24.91/mo. per month for 12 mo. months Footnote ± Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $299 or $24.91/mo. per month for 12 mo. months Footnote ± Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $299 or $24.91/mo. per month for 12 mo. months Footnote ± Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $299 or $24.91/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $299 or $24.91/mo. per month for 12 mo. months Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $299 or $24.91/mo. per month for 12 mo. months Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -144,33 +176,44 @@
      "8",
      "9"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "44-cell": {
    "total": 329,
-   "totalText": "$329.00 or $27.41/mo. per month for 12 mo. months Footnote ±",
+   "totalFrom": "summary",
+   "totalText": "$329.00 or $27.41/mo. per month for 12 mo. months Footnote ± | $329.00 or $27.41/mo. per month for 12 mo. months Footnote ±",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $329 or $27.41/mo. per month for 12 mo. months",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $329 or $27.41/mo. per month for 12 mo. months",
+    "rubber-style": "New colors Solo Loop Buy for $329 or $27.41/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionColor": [
      "Midnight",
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months Footnote ±",
-     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±"
+     "40mm Buy from $249 or $20.75/mo. per month for 12 mo. months",
+     "44mm Buy from $279 or $23.25/mo. per month for 12 mo. months"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $279 or $23.25/mo. per month for 12 mo. months Footnote ±",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † Buy from $329 or $27.41/mo. per month for 12 mo. months Footnote ±"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $279 or $23.25/mo. per month for 12 mo. months",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $329 or $27.41/mo. per month for 12 mo. months"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $329 or $27.41/mo. per month for 12 mo. months Footnote ±",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $329 or $27.41/mo. per month for 12 mo. months Footnote ±",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $379 or $31.58/mo. per month for 12 mo. months Footnote ±"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $329 or $27.41/mo. per month for 12 mo. months",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $329 or $27.41/mo. per month for 12 mo. months",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $379 or $31.58/mo. per month for 12 mo. months"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $329 or $27.41/mo. per month for 12 mo. months Footnote ± Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $329 or $27.41/mo. per month for 12 mo. months Footnote ± Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $329 or $27.41/mo. per month for 12 mo. months Footnote ± Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $329 or $27.41/mo. per month for 12 mo. months Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $329 or $27.41/mo. per month for 12 mo. months Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $329 or $27.41/mo. per month for 12 mo. months Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -194,7 +237,8 @@
      "11",
      "12"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

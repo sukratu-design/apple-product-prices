@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:47.678Z",
+ "configs": {
+  "40-gps": {
+   "total": 2995,
+   "totalFrom": "summary",
+   "totalText": "2 995,00 kr | 2 995,00 kr | 2 995,00 kr",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "40 mm Från 2 995 kr",
+    "watch_cases-dimensionConnection": "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 2 995 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 2 995,00 kr",
+    "rubber-style": "Nya färger Sololoop 2 995,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjärnglans"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Från 2 995 kr",
+     "44 mm Från 3 395 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 2 995 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 3 595 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 2 995,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 2 995 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 3 595 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 2 995,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 2 995,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 2 995,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 3395,
+   "totalFrom": "summary",
+   "totalText": "3 395,00 kr | 3 395,00 kr | 3 395,00 kr",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "44 mm Från 3 395 kr",
+    "watch_cases-dimensionConnection": "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 3 395 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 3 395,00 kr",
+    "rubber-style": "Nya färger Sololoop 3 395,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjärnglans"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Från 2 995 kr",
+     "44 mm Från 3 395 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 3 395 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 3 995 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 3 395,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 3 395 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 3 995 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 3 395,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 3 395,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 3 395,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 3595,
+   "totalFrom": "summary",
+   "totalText": "3 595,00 kr | 3 595,00 kr | 3 595,00 kr",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "40 mm Från 2 995 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 3 595 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 3 595,00 kr",
+    "rubber-style": "Nya färger Sololoop 3 595,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjärnglans"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Från 2 995 kr",
+     "44 mm Från 3 395 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 2 995 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 3 595 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 3 595,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 3 595 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 4 195 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 3 595,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 3 595,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 3 595,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 3995,
+   "totalFrom": "summary",
+   "totalText": "3 995,00 kr | 3 995,00 kr | 3 995,00 kr",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "44 mm Från 3 395 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 3 995 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 3 995,00 kr",
+    "rubber-style": "Nya färger Sololoop 3 995,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjärnglans"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Från 2 995 kr",
+     "44 mm Från 3 395 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 3 395 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 3 995 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 3 995,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 3 995 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 4 595 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 3 995,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 3 995,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 3 995,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

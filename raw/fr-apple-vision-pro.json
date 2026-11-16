@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-16T13:10:59.152Z",
+ "configs": {
+  "default": {
+   "total": 3999,
+   "totalFrom": "summary",
+   "totalText": "À partir de 3 999 € ou 166,63 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page **** | À partir de 3 999 € ou 166,63 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ****",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256 Go À partir de 3 999 € ou 166,63 €/mois par mois pour 24 mois à 0 % taux débiteur",
+     "512 Go À partir de 4 219 € ou 175,79 €/mois par mois pour 24 mois à 0 % taux débiteur",
+     "1 To À partir de 4 549 € ou 189,54 €/mois par mois pour 24 mois à 0 % taux débiteur"
+    ]
+   }
+  }
+ }
+}

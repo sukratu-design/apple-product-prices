@@ -2,24 +2,24 @@
  "page": "macbook-air",
  "country": "sg",
  "url": "https://www.apple.com/sg/shop/buy-mac/macbook-air",
- "scrapedAt": "2026-11-14T03:48:57.914Z",
+ "scrapedAt": "2026-11-16T12:43:48.503Z",
  "configs": {
   "15": {
    "total": 2199,
    "totalFrom": "summary",
    "totalText": "S$2,199.00 | S$2,199.00",
    "selected": {
-    "chassis-dimensionScreensize": "15-inch Footnote 1 From S$2,199",
+    "chassis-dimensionScreensize": "15-inch From S$2,199",
     "chassis-dimensionColor": "Sky Blue",
     "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From S$2,199",
-    "memory-dimensionMemory": "16GBIncluded",
-    "storage-dimensionCapacity": "512GBIncluded",
-    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 From S$1,899",
-     "15-inch Footnote 1 From S$2,199"
+     "13-inch From S$1,899",
+     "15-inch From S$2,199"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -31,20 +31,20 @@
      "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From S$2,199"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ S$300.00",
-     "32GB+ S$600.00"
+     "16GB Included",
+     "24GB + S$300.00",
+     "32GB + S$600.00"
     ],
     "storage-dimensionCapacity": [
-     "512GBIncluded",
-     "1TB+ S$450.00",
-     "2TB+ S$1,200.00",
-     "4TB+ S$2,700.00"
+     "512GB Included",
+     "1TB + S$450.00",
+     "2TB + S$1,200.00",
+     "4TB + S$2,700.00"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortTwo ports to charge two devices at once.+ S$24.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ∆+ S$24.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + S$24.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + S$24.00"
     ]
    },
    "disabledOptions": {}
@@ -54,17 +54,17 @@
    "totalFrom": "summary",
    "totalText": "S$1,899.00 | S$1,899.00",
    "selected": {
-    "chassis-dimensionScreensize": "13-inch Footnote 1 From S$1,899",
+    "chassis-dimensionScreensize": "13-inch From S$1,899",
     "chassis-dimensionColor": "Sky Blue",
     "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From S$1,899",
-    "memory-dimensionMemory": "16GBIncluded",
-    "storage-dimensionCapacity": "512GBIncluded",
-    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 From S$1,899",
-     "15-inch Footnote 1 From S$2,199"
+     "13-inch From S$1,899",
+     "15-inch From S$2,199"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -77,15 +77,15 @@
      "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From S$2,049"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded"
+     "16GB Included"
     ],
     "storage-dimensionCapacity": [
-     "512GBIncluded"
+     "512GB Included"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortTwo ports to charge two devices at once.+ S$24.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ∆+ S$24.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + S$24.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + S$24.00"
     ]
    },
    "disabledOptions": {}
@@ -95,17 +95,17 @@
    "totalFrom": "summary",
    "totalText": "S$2,349.00 | S$2,349.00",
    "selected": {
-    "chassis-dimensionScreensize": "13-inch Footnote 1 From S$1,899",
+    "chassis-dimensionScreensize": "13-inch From S$1,899",
     "chassis-dimensionColor": "Sky Blue",
     "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From S$2,049",
-    "memory-dimensionMemory": "16GBIncluded",
+    "memory-dimensionMemory": "16GB Included",
     "storage-dimensionCapacity": "1TB",
-    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 From S$1,899",
-     "15-inch Footnote 1 From S$2,199"
+     "13-inch From S$1,899",
+     "15-inch From S$2,199"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -118,20 +118,20 @@
      "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From S$2,049"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ S$300.00",
-     "32GB+ S$600.00"
+     "16GB Included",
+     "24GB + S$300.00",
+     "32GB + S$600.00"
     ],
     "storage-dimensionCapacity": [
-     "512GB− S$450.00",
+     "512GB − S$450.00",
      "1TB",
-     "2TB+ S$750.00",
-     "4TB+ S$2,250.00"
+     "2TB + S$750.00",
+     "4TB + S$2,250.00"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortTwo ports to charge two devices at once.+ S$24.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ∆+ S$24.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + S$24.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + S$24.00"
     ]
    },
    "disabledOptions": {}

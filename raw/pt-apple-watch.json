@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:01:02.508Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 459,
+   "totalFrom": "summary",
+   "totalText": "459,00 € | 459,00 € | 459,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze escuro",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 459 €",
+    "watch_cases-dimensionConnection": "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 459 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 459,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 459,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze escuro",
+     "Novo Dourado‑claro",
+     "Novo Preto",
+     "Cinzento sideral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 459 €",
+     "46 mm Desde 509 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 459 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 579 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 459,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 459 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 509 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 459,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 459,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 459,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 509,
+   "totalFrom": "summary",
+   "totalText": "509,00 € | 509,00 € | 509,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze escuro",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 509 €",
+    "watch_cases-dimensionConnection": "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 509 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 509,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 509,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze escuro",
+     "Novo Dourado‑claro",
+     "Novo Preto",
+     "Cinzento sideral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 459 €",
+     "46 mm Desde 509 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 509 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 629 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 509,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 509 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 559 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 509,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 509,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 509,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 459,
+   "totalFrom": "summary",
+   "totalText": "459,00 € | 459,00 € | 459,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze escuro",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 459 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 579 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 579,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 579,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze escuro",
+     "Novo Dourado‑claro",
+     "Novo Preto",
+     "Cinzento sideral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 459 €",
+     "46 mm Desde 509 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 459 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 579 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 579,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 579 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 629 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 579,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 579,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 579,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 629,
+   "totalFrom": "summary",
+   "totalText": "629,00 € | 629,00 € | 629,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze escuro",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 509 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 629 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 629,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 629,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze escuro",
+     "Novo Dourado‑claro",
+     "Novo Preto",
+     "Cinzento sideral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 459 €",
+     "46 mm Desde 509 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 509 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 629 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 629,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 629 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 679 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 629,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 629,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 629,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 809,
+   "totalFrom": "summary",
+   "totalText": "809,00 € | 809,00 € | 809,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+    "titanium-watch_cases-dimensionColor": "Novo Ouro radiante",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 809 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 809 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 809,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 809,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novo Ouro radiante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 809 €",
+     "46 mm Desde 859 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 809 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 809,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 809 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 859 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 809,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 809,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 809,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 859,
+   "totalFrom": "summary",
+   "totalText": "859,00 € | 859,00 € | 859,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+    "titanium-watch_cases-dimensionColor": "Novo Ouro radiante",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 859 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 859 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 859,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 859,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novo Ouro radiante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 809 €",
+     "46 mm Desde 859 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 859 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 859,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 859 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 909 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 859,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 859,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 859,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1059,
+   "totalFrom": "summary",
+   "totalText": "1 059,00 € | 1 059,00 € | 1 059,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira.",
+    "ceramic-watch_cases-dimensionColor": "Novo Branco pérola",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 1059 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 1059 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 1 059,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 1 059,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novo Branco pérola",
+     "Novo Azul noite"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 1059 €",
+     "46 mm Desde 1109 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 1059 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 1 059,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 1059 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 1109 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 1 059,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 1 059,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 1 059,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1109,
+   "totalFrom": "summary",
+   "totalText": "1 109,00 € | 1 109,00 € | 1 109,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira.",
+    "ceramic-watch_cases-dimensionColor": "Novo Branco pérola",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 1109 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 1109 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 1 109,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 1 109,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Opção de GPS ou GPS + Cellular Desde 459 € Um acabamento mate e um ecrã ultrarresistente em Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular Desde 809 € Titânio de qualidade aeroespacial polido com ecrã de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular Desde 1059 € Sofisticado e resistente a riscos, com um acabamento polido e um ecrã resistente em cristal de safira."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novo Branco pérola",
+     "Novo Azul noite"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 1059 €",
+     "46 mm Desde 1109 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 1109 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 1 109,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 1109 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 1159 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 1 109,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 1 109,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 1 109,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto."
+    ]
+   }
+  }
+ }
+}

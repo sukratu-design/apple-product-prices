@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:15.766Z",
+ "configs": {
+  "default": {
+   "total": 1149,
+   "totalFrom": "summary",
+   "totalText": "1 149,00 € | 1 149,00 € | 1 149,00 €",
+   "selected": {
+    "dimensionColor": "Laventeli",
+    "dimensionCapacity": "256 Gt Alaviite 1 1 149,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Laventeli",
+     "Kuura",
+     "Valkoinen",
+     "Salvia",
+     "Musta"
+    ],
+    "dimensionCapacity": [
+     "256 Gt Alaviite 1 1 149,00 €",
+     "512 Gt Alaviite 1 1 399,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

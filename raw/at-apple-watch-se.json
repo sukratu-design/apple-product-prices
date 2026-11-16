@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:37.243Z",
+ "configs": {
+  "40-gps": {
+   "total": 269,
+   "totalFrom": "summary",
+   "totalText": "269,00 € | 269,00 € | 269,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "40 mm Ab 269 €",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 269 €",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 269,00 €",
+    "rubber-style": "Neue Farben Solo Loop 269,00 € Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab 269 €",
+     "44 mm Ab 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 269 €",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Ab 319 €"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 269,00 €",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 269 €",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 319 €"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 269,00 € Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 269,00 € Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 269,00 € Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "299,00 € | 299,00 € | 299,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "44 mm Ab 299 €",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 299 €",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 299,00 €",
+    "rubber-style": "Neue Farben Solo Loop 299,00 € Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab 269 €",
+     "44 mm Ab 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 299 €",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Ab 349 €"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 299,00 €",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 299 €",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 349 €"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 299,00 € Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 299,00 € Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 299,00 € Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 319,
+   "totalFrom": "summary",
+   "totalText": "319,00 € | 319,00 € | 319,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "40 mm Ab 269 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Ab 319 €",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 319,00 €",
+    "rubber-style": "Neue Farben Solo Loop 319,00 € Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab 269 €",
+     "44 mm Ab 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 269 €",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Ab 319 €"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 319,00 €",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 319 €",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 369 €"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 319,00 € Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 319,00 € Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 319,00 € Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 349,
+   "totalFrom": "summary",
+   "totalText": "349,00 € | 349,00 € | 349,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "44 mm Ab 299 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Ab 349 €",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 349,00 €",
+    "rubber-style": "Neue Farben Solo Loop 349,00 € Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab 269 €",
+     "44 mm Ab 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 299 €",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Ab 349 €"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 349,00 €",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 349 €",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 399 €"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 349,00 € Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 349,00 € Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 349,00 € Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

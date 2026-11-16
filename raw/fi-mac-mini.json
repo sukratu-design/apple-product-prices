@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:04.526Z",
+ "configs": {
+  "m6": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1 099,00 € | 1 099,00 €",
+   "selected": {
+    "processor-dimensionChip": "M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytönohjain ja kaksiosainen 16-ytiminen Neural Engine Alkaen 1 099 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Sisältyy hintaan",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "256 Gt Sisältyy hintaan",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardisoitu verkkoprotokolla, jopa 2,5 Gb yhteysnopeus. Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytönohjain ja kaksiosainen 16-ytiminen Neural Engine Alkaen 1 099 €",
+     "M5 Pro ‑siru Tarjoaa entistä enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastaviin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 2 049 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Sisältyy hintaan"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan",
+     "24 Gt + 220,00 €",
+     "32 Gt + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Gt Sisältyy hintaan",
+     "512 Gt + 220,00 €",
+     "1 Tt + 550,00 €",
+     "2 Tt + 1 100,00 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardisoitu verkkoprotokolla, jopa 2,5 Gb yhteysnopeus. Sisältyy hintaan",
+     "10 Gigabit Ethernet Suurempi kaistanleveys, jopa 10 Gb yhteysnopeus. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2049,
+   "totalFrom": "summary",
+   "totalText": "2 049,00 € | 2 049,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro ‑siru Tarjoaa entistä enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastaviin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 2 049 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑ytiminen prosessori, 16‑ytiminen näytönohjain Sisältyy hintaan",
+    "memory-dimensionMemory": "24 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "512 Gt Sisältyy hintaan",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardisoitu verkkoprotokolla, jopa 2,5 Gb yhteysnopeus. Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytönohjain ja kaksiosainen 16-ytiminen Neural Engine Alkaen 1 099 €",
+     "M5 Pro ‑siru Tarjoaa entistä enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastaviin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 2 049 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑ytiminen prosessori, 16‑ytiminen näytönohjain Sisältyy hintaan",
+     "18‑ytiminen prosessori, 20‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. + 220,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 Gt Sisältyy hintaan",
+     "48 Gt + 660,00 €",
+     "64 Gt + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt Sisältyy hintaan",
+     "1 Tt + 330,00 €",
+     "2 Tt + 880,00 €",
+     "4 Tt + 1 980,00 €",
+     "8 Tt + 4 180,00 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardisoitu verkkoprotokolla, jopa 2,5 Gb yhteysnopeus. Sisältyy hintaan",
+     "10 Gigabit Ethernet Suurempi kaistanleveys, jopa 10 Gb yhteysnopeus. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 2269,
+   "totalFrom": "summary",
+   "totalText": "2 269,00 € | 2 269,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro ‑siru Tarjoaa entistä enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastaviin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 2 049 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 20‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia.",
+    "memory-dimensionMemory": "24 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "512 Gt Sisältyy hintaan",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardisoitu verkkoprotokolla, jopa 2,5 Gb yhteysnopeus. Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytönohjain ja kaksiosainen 16-ytiminen Neural Engine Alkaen 1 099 €",
+     "M5 Pro ‑siru Tarjoaa entistä enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastaviin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 2 049 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑ytiminen prosessori, 16‑ytiminen näytönohjain − 220,00 €",
+     "18‑ytiminen prosessori, 20‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia."
+    ],
+    "memory-dimensionMemory": [
+     "24 Gt Sisältyy hintaan",
+     "48 Gt + 660,00 €",
+     "64 Gt + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt Sisältyy hintaan",
+     "1 Tt + 330,00 €",
+     "2 Tt + 880,00 €",
+     "4 Tt + 1 980,00 €",
+     "8 Tt + 4 180,00 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardisoitu verkkoprotokolla, jopa 2,5 Gb yhteysnopeus. Sisältyy hintaan",
+     "10 Gigabit Ethernet Suurempi kaistanleveys, jopa 10 Gb yhteysnopeus. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

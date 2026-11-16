@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T13:24:27.009Z",
+ "configs": {
+  "m5max-32": {
+   "total": 12499,
+   "totalFrom": "summary",
+   "totalText": "12 499,00 zł | 12 499,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M5 Max Niebywała prędkość i funkcjonalność do kreatywnych projektów i zadań profesjonalnych. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 499 zł",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 32‑rdzeniowe GPU W zestawie",
+    "memory-dimensionMemory": "36 GB W zestawie",
+    "storage-dimensionCapacity": "512 GB W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M5 Max Niebywała prędkość i funkcjonalność do kreatywnych projektów i zadań profesjonalnych. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 499 zł",
+     "Czip M5 Ultra Nasz najpotężniejszy czip o niezrównanej wydajności, przeznaczony dla najbardziej wymagających profesjonalnych zadań. Liczba opcji z 32‑rdzeniowym systemem Neural Engine: 2 Od 27 999 zł"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 32‑rdzeniowe GPU W zestawie",
+     "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. + 1 500,00 zł Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB W zestawie"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB W zestawie",
+     "1 TB + 1 500,00 zł",
+     "2 TB + 4 000,00 zł",
+     "4 TB + 9 000,00 zł",
+     "8 TB + 19 000,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 15499,
+   "totalFrom": "summary",
+   "totalText": "15 499,00 zł | 15 499,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M5 Max Niebywała prędkość i funkcjonalność do kreatywnych projektów i zadań profesjonalnych. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 499 zł",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca.",
+    "memory-dimensionMemory": "48 GB W zestawie",
+    "storage-dimensionCapacity": "512 GB W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M5 Max Niebywała prędkość i funkcjonalność do kreatywnych projektów i zadań profesjonalnych. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 499 zł",
+     "Czip M5 Ultra Nasz najpotężniejszy czip o niezrównanej wydajności, przeznaczony dla najbardziej wymagających profesjonalnych zadań. Liczba opcji z 32‑rdzeniowym systemem Neural Engine: 2 Od 27 999 zł"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 32‑rdzeniowe GPU − 1 500,00 zł",
+     "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB W zestawie",
+     "64 GB + 2 000,00 zł",
+     "128 GB + 10 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB W zestawie",
+     "1 TB + 1 500,00 zł",
+     "2 TB + 4 000,00 zł",
+     "4 TB + 9 000,00 zł",
+     "8 TB + 19 000,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 27999,
+   "totalFrom": "summary",
+   "totalText": "27 999,00 zł | 27 999,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M5 Ultra Nasz najpotężniejszy czip o niezrównanej wydajności, przeznaczony dla najbardziej wymagających profesjonalnych zadań. Liczba opcji z 32‑rdzeniowym systemem Neural Engine: 2 Od 27 999 zł",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-rdzeniowe CPU, 64‑rdzeniowe GPU W zestawie",
+    "memory-dimensionMemory": "96 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M5 Max Niebywała prędkość i funkcjonalność do kreatywnych projektów i zadań profesjonalnych. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 499 zł",
+     "Czip M5 Ultra Nasz najpotężniejszy czip o niezrównanej wydajności, przeznaczony dla najbardziej wymagających profesjonalnych zadań. Liczba opcji z 32‑rdzeniowym systemem Neural Engine: 2 Od 27 999 zł"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-rdzeniowe CPU, 64‑rdzeniowe GPU W zestawie",
+     "36-rdzeniowe CPU, 80‑rdzeniowe GPU Zwiększ wydajność przetwarzania, grafiki i sztucznej inteligencji przy wymagających zadaniach, takich jak uruchamianie dużych modeli językowych, stosowanie efektów wizualnych i gradingu kolorów. + 6 500,00 zł"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB W zestawie",
+     "256 GB + 20 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB W zestawie",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł",
+     "8 TB + 17 500,00 zł",
+     "16 TB + 37 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 34499,
+   "totalFrom": "summary",
+   "totalText": "34 499,00 zł | 34 499,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M5 Ultra Nasz najpotężniejszy czip o niezrównanej wydajności, przeznaczony dla najbardziej wymagających profesjonalnych zadań. Liczba opcji z 32‑rdzeniowym systemem Neural Engine: 2 Od 27 999 zł",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-rdzeniowe CPU, 80‑rdzeniowe GPU Zwiększ wydajność przetwarzania, grafiki i sztucznej inteligencji przy wymagających zadaniach, takich jak uruchamianie dużych modeli językowych, stosowanie efektów wizualnych i gradingu kolorów.",
+    "memory-dimensionMemory": "96 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M5 Max Niebywała prędkość i funkcjonalność do kreatywnych projektów i zadań profesjonalnych. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 499 zł",
+     "Czip M5 Ultra Nasz najpotężniejszy czip o niezrównanej wydajności, przeznaczony dla najbardziej wymagających profesjonalnych zadań. Liczba opcji z 32‑rdzeniowym systemem Neural Engine: 2 Od 27 999 zł"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-rdzeniowe CPU, 64‑rdzeniowe GPU − 6 500,00 zł",
+     "36-rdzeniowe CPU, 80‑rdzeniowe GPU Zwiększ wydajność przetwarzania, grafiki i sztucznej inteligencji przy wymagających zadaniach, takich jak uruchamianie dużych modeli językowych, stosowanie efektów wizualnych i gradingu kolorów."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB W zestawie",
+     "256 GB + 20 000,00 zł",
+     "512 GB + 77 500,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB W zestawie",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł",
+     "8 TB + 17 500,00 zł",
+     "16 TB + 37 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

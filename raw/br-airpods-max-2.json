@@ -1,0 +1,26 @@
+{
+ "page": "airpods-max-2",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-airpods/airpods-max-2",
+ "scrapedAt": "2026-11-16T13:25:18.637Z",
+ "configs": {
+  "default": {
+   "total": 6590,
+   "totalFrom": "summary",
+   "totalText": "R$ 6.590,00",
+   "selected": {
+    "dimensionColor": "Roxo"
+   },
+   "options": {
+    "dimensionColor": [
+     "Roxo",
+     "Azul",
+     "Meia-noite",
+     "Estelar",
+     "Laranja"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

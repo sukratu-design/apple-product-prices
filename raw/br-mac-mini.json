@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:12.659Z",
+ "configs": {
+  "m6": {
+   "total": 10799,
+   "totalFrom": "summary",
+   "totalText": "R$ 10.799,00 | R$ 10.799,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Neural Engine duplo de 16 núcleos A partir de R$ 10.799",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluído",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "256 GB Incluído",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2,5 Gb Conexão de rede padrão, com velocidades de até 2,5 Gb. Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Neural Engine duplo de 16 núcleos A partir de R$ 10.799",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 18.999"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluído"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + R$ 2.400,00",
+     "32 GB + R$ 4.800,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluído",
+     "512 GB + R$ 2.400,00",
+     "1 TB + R$ 6.000,00",
+     "2 TB + R$ 12.000,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2,5 Gb Conexão de rede padrão, com velocidades de até 2,5 Gb. Incluído",
+     "Ethernet de 10 Gb Conexão com maior largura de banda, com velocidades de até 10 Gb. + R$ 1.200,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 18999,
+   "totalFrom": "summary",
+   "totalText": "R$ 18.999,00 | R$ 18.999,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 18.999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 15 núcleos, GPU de 16 núcleos Incluído",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2,5 Gb Conexão de rede padrão, com velocidades de até 2,5 Gb. Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Neural Engine duplo de 16 núcleos A partir de R$ 10.799",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 18.999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos Incluído",
+     "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. + R$ 2.400,00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + R$ 7.200,00",
+     "64 GB + R$ 12.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + R$ 3.600,00",
+     "2 TB + R$ 9.600,00",
+     "4 TB + R$ 21.600,00",
+     "8 TB + R$ 45.600,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2,5 Gb Conexão de rede padrão, com velocidades de até 2,5 Gb. Incluído",
+     "Ethernet de 10 Gb Conexão com maior largura de banda, com velocidades de até 10 Gb. + R$ 1.200,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 21399,
+   "totalFrom": "summary",
+   "totalText": "R$ 21.399,00 | R$ 21.399,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 18.999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K.",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2,5 Gb Conexão de rede padrão, com velocidades de até 2,5 Gb. Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Neural Engine duplo de 16 núcleos A partir de R$ 10.799",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 18.999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos − R$ 2.400,00",
+     "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + R$ 7.200,00",
+     "64 GB + R$ 12.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + R$ 3.600,00",
+     "2 TB + R$ 9.600,00",
+     "4 TB + R$ 21.600,00",
+     "8 TB + R$ 45.600,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2,5 Gb Conexão de rede padrão, com velocidades de até 2,5 Gb. Incluído",
+     "Ethernet de 10 Gb Conexão com maior largura de banda, com velocidades de até 10 Gb. + R$ 1.200,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

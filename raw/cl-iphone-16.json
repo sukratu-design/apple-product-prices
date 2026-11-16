@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:01:55.785Z",
+ "configs": {
+  "default": {
+   "total": 999990,
+   "totalFrom": "summary",
+   "totalText": "$999.990",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 Pantalla de 6,1 pulgadas Nota a pie de página 1Con 128 GB de almacenamiento Desde $999.990 o $41.666 al mes al mes por 24 mesesmeses Nota a pie de página ∆",
+    "dimensionColor": "Ultramarino"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 Pantalla de 6,1 pulgadas Nota a pie de página 1Con 128 GB de almacenamiento Desde $999.990 o $41.666 al mes al mes por 24 mesesmeses Nota a pie de página ∆"
+    ],
+    "dimensionColor": [
+     "Ultramarino",
+     "Verde azulado",
+     "Blanco",
+     "Rosado",
+     "Negro"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

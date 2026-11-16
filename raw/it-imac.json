@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:24.686Z",
+ "configs": {
+  "2port": {
+   "total": 1829,
+   "totalFrom": "summary",
+   "totalText": "€ 1.829,00 o € 59,88 al mese per 36 mesi, TAN fisso 11% Nota ① | € 1.829,00 o € 59,88 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "chassis-dimensionColor": "Blu",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con due porte Thunderbolt CPU 10‑core, GPU 10‑core, due Neural Engine 16‑core Da € 1.829,00 o € 59,88 al mese per 36 mesi, TAN fisso 11%",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "256GB Di serie",
+    "chassis-dimensionStandType": "Sostegno Posizionalo sulla scrivania e regolalo inclinandolo verso l’alto o verso il basso. Di serie",
+    "ethernet_adapter-ethernetPortCount": "Senza Ethernet Connessione solo tramite rete Wi-Fi. Di serie",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supporta i gesti Multi‑Touch come scorrere e sfogliare. Di serie",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Design ultracompatto. Di serie"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blu",
+     "Viola",
+     "Rosa",
+     "Arancione",
+     "Giallo",
+     "Verde",
+     "Argento"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con due porte Thunderbolt CPU 10‑core, GPU 10‑core, due Neural Engine 16‑core Da € 1.829,00 o € 59,88 al mese per 36 mesi, TAN fisso 11%",
+     "Chip M6 con quattro porte Thunderbolt CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie",
+     "24GB + € 220,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Di serie",
+     "512GB + € 220,00",
+     "1TB + € 550,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Sostegno Posizionalo sulla scrivania e regolalo inclinandolo verso l’alto o verso il basso. Di serie",
+     "Adattatore VESA Integrato, quindi può essere montato a parete o su un braccio snodabile."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Senza Ethernet Connessione solo tramite rete Wi-Fi. Di serie",
+     "Porta 2,5 Gigabit Ethernet Connessione di rete con velocità fino a 2,5 Gbps. + € 30,00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supporta i gesti Multi‑Touch come scorrere e sfogliare. Di serie",
+     "Magic Trackpad Supporta tutti i gesti Multi‑Touch e integra la tecnologia Force Touch. + € 54,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Design ultracompatto. Di serie",
+     "Magic Keyboard con Touch ID e tastierino numerico Layout più spazioso con controlli di navigazione. Offre un’autenticazione semplice e immediata con la tua impronta digitale. + € 80,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2029,
+   "totalFrom": "summary",
+   "totalText": "€ 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11% Nota ① | € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "chassis-dimensionColor": "Blu",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con quattro porte Thunderbolt CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "256GB Di serie",
+    "display-dimensionFinish": "Vetro standard Progettato per ridurre al minimo la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "chassis-dimensionStandType": "Sostegno Posizionalo sulla scrivania e regolalo inclinandolo verso l’alto o verso il basso. Di serie",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supporta i gesti Multi‑Touch come scorrere e sfogliare. Di serie",
+    "keyboard-keyboardFormFactor": "Magic Keyboard con Touch ID Offre un’autenticazione semplice e immediata con la tua impronta digitale. Di serie"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blu",
+     "Viola",
+     "Rosa",
+     "Arancione",
+     "Giallo",
+     "Verde",
+     "Argento"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con due porte Thunderbolt CPU 10‑core, GPU 10‑core, due Neural Engine 16‑core Da € 1.829,00 o € 59,88 al mese per 36 mesi, TAN fisso 11%",
+     "Chip M6 con quattro porte Thunderbolt CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie",
+     "24GB + € 220,00",
+     "32GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Di serie",
+     "512GB + € 220,00",
+     "1TB + € 550,00",
+     "2TB + € 1.100,00"
+    ],
+    "display-dimensionFinish": [
+     "Vetro standard Progettato per ridurre al minimo la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Vetro nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. Disponibile solo per il modello con quattro porte. + € 220,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Sostegno Posizionalo sulla scrivania e regolalo inclinandolo verso l’alto o verso il basso. Di serie",
+     "Adattatore VESA Integrato, quindi può essere montato a parete o su un braccio snodabile."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supporta i gesti Multi‑Touch come scorrere e sfogliare. Di serie",
+     "Magic Trackpad Supporta tutti i gesti Multi‑Touch e integra la tecnologia Force Touch. + € 54,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard con Touch ID Offre un’autenticazione semplice e immediata con la tua impronta digitale. Di serie",
+     "Magic Keyboard con Touch ID e tastierino numerico Layout più spazioso con controlli di navigazione. Offre un’autenticazione semplice e immediata con la tua impronta digitale. + € 30,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:58:06.957Z",
+ "configs": {
+  "m5max-32": {
+   "total": 89900,
+   "totalFrom": "summary",
+   "totalText": "฿89,900.00 | ฿89,900.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M5 Max ความเร็วและศักยภาพที่ยอดเยี่ยมสำหรับโปรเจ็กต์สร้างสรรค์และเวิร์กโฟลว์ระดับโปร 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿89,900",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU แบบ 18-core, GPU แบบ 32-core มีมาให้",
+    "memory-dimensionMemory": "36GB มีมาให้",
+    "storage-dimensionCapacity": "512GB มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M5 Max ความเร็วและศักยภาพที่ยอดเยี่ยมสำหรับโปรเจ็กต์สร้างสรรค์และเวิร์กโฟลว์ระดับโปร 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿89,900",
+     "ชิป M5 Ultra ชิปที่ทรงพลังที่สุดของเรา มอบประสิทธิภาพที่ไม่เคยมีมาก่อนสำหรับเวิร์กโฟลว์ระดับโปรที่มีความต้องการสูงที่สุด 2 ตัวเลือกพร้อม Neural Engine แบบ 32-core เริ่มต้นที่ ฿199,900"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 18-core, GPU แบบ 32-core มีมาให้",
+     "CPU แบบ 18-core, GPU แบบ 40-core เพิ่มความเร็วในการประมวลผลและการเรนเดอร์กราฟิก และเร่งการทำงานสำหรับงานอย่างการรันโมเดลภาษาขนาดใหญ่และการตัดต่อวิดีโอระดับ 8K + ฿10,500.00 ตัวเลือกนี้จำเป็นต้องอัปเกรดเป็นหน่วยความจำขนาด 48GB ซึ่งจะทำให้ราคารวมของ Mac เพิ่มขึ้น"
+    ],
+    "memory-dimensionMemory": [
+     "36GB มีมาให้"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB มีมาให้",
+     "1TB + ฿10,500.00",
+     "2TB + ฿28,000.00",
+     "4TB + ฿63,000.00",
+     "8TB + ฿133,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 110900,
+   "totalFrom": "summary",
+   "totalText": "฿110,900.00 | ฿110,900.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M5 Max ความเร็วและศักยภาพที่ยอดเยี่ยมสำหรับโปรเจ็กต์สร้างสรรค์และเวิร์กโฟลว์ระดับโปร 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿89,900",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU แบบ 18-core, GPU แบบ 40-core เพิ่มความเร็วในการประมวลผลและการเรนเดอร์กราฟิก และเร่งการทำงานสำหรับงานอย่างการรันโมเดลภาษาขนาดใหญ่และการตัดต่อวิดีโอระดับ 8K ตัวเลือกนี้จำเป็นต้องอัปเกรดเป็นหน่วยความจำขนาด 48GB ซึ่งจะทำให้ราคารวมของ Mac เพิ่มขึ้น",
+    "memory-dimensionMemory": "48GB มีมาให้",
+    "storage-dimensionCapacity": "512GB มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M5 Max ความเร็วและศักยภาพที่ยอดเยี่ยมสำหรับโปรเจ็กต์สร้างสรรค์และเวิร์กโฟลว์ระดับโปร 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿89,900",
+     "ชิป M5 Ultra ชิปที่ทรงพลังที่สุดของเรา มอบประสิทธิภาพที่ไม่เคยมีมาก่อนสำหรับเวิร์กโฟลว์ระดับโปรที่มีความต้องการสูงที่สุด 2 ตัวเลือกพร้อม Neural Engine แบบ 32-core เริ่มต้นที่ ฿199,900"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 18-core, GPU แบบ 32-core − ฿10,500.00",
+     "CPU แบบ 18-core, GPU แบบ 40-core เพิ่มความเร็วในการประมวลผลและการเรนเดอร์กราฟิก และเร่งการทำงานสำหรับงานอย่างการรันโมเดลภาษาขนาดใหญ่และการตัดต่อวิดีโอระดับ 8K ตัวเลือกนี้จำเป็นต้องอัปเกรดเป็นหน่วยความจำขนาด 48GB ซึ่งจะทำให้ราคารวมของ Mac เพิ่มขึ้น"
+    ],
+    "memory-dimensionMemory": [
+     "48GB มีมาให้",
+     "64GB + ฿14,000.00",
+     "128GB + ฿70,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB มีมาให้",
+     "1TB + ฿10,500.00",
+     "2TB + ฿28,000.00",
+     "4TB + ฿63,000.00",
+     "8TB + ฿133,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 199900,
+   "totalFrom": "summary",
+   "totalText": "฿199,900.00 | ฿199,900.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M5 Ultra ชิปที่ทรงพลังที่สุดของเรา มอบประสิทธิภาพที่ไม่เคยมีมาก่อนสำหรับเวิร์กโฟลว์ระดับโปรที่มีความต้องการสูงที่สุด 2 ตัวเลือกพร้อม Neural Engine แบบ 32-core เริ่มต้นที่ ฿199,900",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU แบบ 30-core, GPU แบบ 64-core มีมาให้",
+    "memory-dimensionMemory": "96GB มีมาให้",
+    "storage-dimensionCapacity": "1TB มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M5 Max ความเร็วและศักยภาพที่ยอดเยี่ยมสำหรับโปรเจ็กต์สร้างสรรค์และเวิร์กโฟลว์ระดับโปร 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿89,900",
+     "ชิป M5 Ultra ชิปที่ทรงพลังที่สุดของเรา มอบประสิทธิภาพที่ไม่เคยมีมาก่อนสำหรับเวิร์กโฟลว์ระดับโปรที่มีความต้องการสูงที่สุด 2 ตัวเลือกพร้อม Neural Engine แบบ 32-core เริ่มต้นที่ ฿199,900"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 30-core, GPU แบบ 64-core มีมาให้",
+     "CPU แบบ 36-core, GPU แบบ 80-core เพิ่มประสิทธิภาพการประมวลผล กราฟิก และการประมวลผล AI สำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ เช่น การรันโมเดลภาษาขนาดใหญ่ การใส่เอฟเฟ็กต์ภาพ และการปรับแก้สีภาพยนตร์ + ฿45,500.00"
+    ],
+    "memory-dimensionMemory": [
+     "96GB มีมาให้",
+     "256GB + ฿140,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB มีมาให้",
+     "2TB + ฿17,500.00",
+     "4TB + ฿52,500.00",
+     "8TB + ฿122,500.00",
+     "16TB + ฿262,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 245400,
+   "totalFrom": "summary",
+   "totalText": "฿245,400.00 | ฿245,400.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M5 Ultra ชิปที่ทรงพลังที่สุดของเรา มอบประสิทธิภาพที่ไม่เคยมีมาก่อนสำหรับเวิร์กโฟลว์ระดับโปรที่มีความต้องการสูงที่สุด 2 ตัวเลือกพร้อม Neural Engine แบบ 32-core เริ่มต้นที่ ฿199,900",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU แบบ 36-core, GPU แบบ 80-core เพิ่มประสิทธิภาพการประมวลผล กราฟิก และการประมวลผล AI สำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ เช่น การรันโมเดลภาษาขนาดใหญ่ การใส่เอฟเฟ็กต์ภาพ และการปรับแก้สีภาพยนตร์",
+    "memory-dimensionMemory": "96GB มีมาให้",
+    "storage-dimensionCapacity": "1TB มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M5 Max ความเร็วและศักยภาพที่ยอดเยี่ยมสำหรับโปรเจ็กต์สร้างสรรค์และเวิร์กโฟลว์ระดับโปร 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿89,900",
+     "ชิป M5 Ultra ชิปที่ทรงพลังที่สุดของเรา มอบประสิทธิภาพที่ไม่เคยมีมาก่อนสำหรับเวิร์กโฟลว์ระดับโปรที่มีความต้องการสูงที่สุด 2 ตัวเลือกพร้อม Neural Engine แบบ 32-core เริ่มต้นที่ ฿199,900"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 30-core, GPU แบบ 64-core − ฿45,500.00",
+     "CPU แบบ 36-core, GPU แบบ 80-core เพิ่มประสิทธิภาพการประมวลผล กราฟิก และการประมวลผล AI สำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ เช่น การรันโมเดลภาษาขนาดใหญ่ การใส่เอฟเฟ็กต์ภาพ และการปรับแก้สีภาพยนตร์"
+    ],
+    "memory-dimensionMemory": [
+     "96GB มีมาให้",
+     "256GB + ฿140,000.00",
+     "512GB + ฿542,500.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB มีมาให้",
+     "2TB + ฿17,500.00",
+     "4TB + ฿52,500.00",
+     "8TB + ฿122,500.00",
+     "16TB + ฿262,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

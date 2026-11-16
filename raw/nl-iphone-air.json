@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:12.424Z",
+ "configs": {
+  "default": {
+   "total": 1329,
+   "totalFrom": "summary",
+   "totalText": "€ 1.329,00 | € 1.329,00 | € 1.329,00",
+   "selected": {
+    "dimensionColor": "Hemelsblauw",
+    "dimensionCapacity": "256 GB Voetnoot 1 € 1.329,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Hemelsblauw",
+     "Wolkenwit",
+     "Spacezwart",
+     "Lichtgoud"
+    ],
+    "dimensionCapacity": [
+     "256 GB Voetnoot 1 € 1.329,00",
+     "512 GB Voetnoot 1 € 1.579,00",
+     "1 TB Voetnoot 1 € 2.079,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

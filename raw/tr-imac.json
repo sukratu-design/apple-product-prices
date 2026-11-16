@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:01.932Z",
+ "configs": {
+  "2port": {
+   "total": 104999,
+   "totalFrom": "summary",
+   "totalText": "104.999,00 TL | 104.999,00 TL",
+   "selected": {
+    "chassis-dimensionColor": "Mavi",
+    "processor-cpuCoreCount-gpuCoreCount": "İki adet Thunderbolt bağlantı noktasına sahip M6 çipli model 10 çekirdekli CPU, 10 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 104.999 TL",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "256 GB Dahil",
+    "chassis-dimensionStandType": "Stant Masanıza yerleştirin, yukarı ve aşağı eğimini ayarlayın. Dahil",
+    "ethernet_adapter-ethernetPortCount": "Ethernet yok Yalnızca Wi-Fi ağı üzerinden bağlanır. Dahil",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Yatay ve dikey kaydırma gibi Multi-Touch hareketlerini destekler. Dahil",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultra kompakt, tüm kenarlara kadar uzanan tasarım. Dahil"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Mavi",
+     "Mor",
+     "Pembe",
+     "Turuncu",
+     "Sarı",
+     "Yeşil",
+     "Gümüş"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "İki adet Thunderbolt bağlantı noktasına sahip M6 çipli model 10 çekirdekli CPU, 10 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 104.999 TL",
+     "Dört adet Thunderbolt bağlantı noktasına sahip M6 çipli model 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 119.999 TL"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil",
+     "24 GB + 14.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Dahil",
+     "512 GB + 14.000,00 TL",
+     "1 TB + 35.000,00 TL"
+    ],
+    "chassis-dimensionStandType": [
+     "Stant Masanıza yerleştirin, yukarı ve aşağı eğimini ayarlayın. Dahil",
+     "VESA Montaj Adaptörü Duvara veya ayarlanabilir kola monte edebilmeniz için yerleşiktir."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Ethernet yok Yalnızca Wi-Fi ağı üzerinden bağlanır. Dahil",
+     "2.5 Gigabit Ethernet bağlantı noktası Standart ağ, 2.5 Gbps’ye kadar bağlantı hızı. + 1.300,00 TL"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Yatay ve dikey kaydırma gibi Multi-Touch hareketlerini destekler. Dahil",
+     "Magic Trackpad Tüm Multi-Touch hareketlerini ve Force Touch teknolojisini destekler. + 3.000,00 TL"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultra kompakt, tüm kenarlara kadar uzanan tasarım. Dahil",
+     "Touch ID özellikli ve Sayısal Tuş Takımlı Magic Keyboard Gezinme denetimlerine sahip genişletilmiş düzen. Parmak izinizle hızlı ve kolay kimlik doğrulama. + 2.800,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 119999,
+   "totalFrom": "summary",
+   "totalText": "119.999,00 TL | 119.999,00 TL",
+   "selected": {
+    "chassis-dimensionColor": "Mavi",
+    "processor-cpuCoreCount-gpuCoreCount": "Dört adet Thunderbolt bağlantı noktasına sahip M6 çipli model 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 119.999 TL",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "256 GB Dahil",
+    "display-dimensionFinish": "Standart cam Her ortamda parlamayı azaltmak için yansımaları son derece düşük tutan tasarım. Dahil",
+    "chassis-dimensionStandType": "Stant Masanıza yerleştirin, yukarı ve aşağı eğimini ayarlayın. Dahil",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Yatay ve dikey kaydırma gibi Multi-Touch hareketlerini destekler. Dahil",
+    "keyboard-keyboardFormFactor": "Touch ID özellikli Magic Keyboard Parmak izinizle hızlı ve kolay kimlik doğrulama. Dahil"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Mavi",
+     "Mor",
+     "Pembe",
+     "Turuncu",
+     "Sarı",
+     "Yeşil",
+     "Gümüş"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "İki adet Thunderbolt bağlantı noktasına sahip M6 çipli model 10 çekirdekli CPU, 10 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 104.999 TL",
+     "Dört adet Thunderbolt bağlantı noktasına sahip M6 çipli model 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 119.999 TL"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil",
+     "24 GB + 14.000,00 TL",
+     "32 GB + 28.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Dahil",
+     "512 GB + 14.000,00 TL",
+     "1 TB + 35.000,00 TL",
+     "2 TB + 70.000,00 TL"
+    ],
+    "display-dimensionFinish": [
+     "Standart cam Her ortamda parlamayı azaltmak için yansımaları son derece düşük tutan tasarım. Dahil",
+     "Nano-texture cam Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. Yalnızca dört bağlantı noktasına sahip modelde sunuluyor. + 14.000,00 TL"
+    ],
+    "chassis-dimensionStandType": [
+     "Stant Masanıza yerleştirin, yukarı ve aşağı eğimini ayarlayın. Dahil",
+     "VESA Montaj Adaptörü Duvara veya ayarlanabilir kola monte edebilmeniz için yerleşiktir."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Yatay ve dikey kaydırma gibi Multi-Touch hareketlerini destekler. Dahil",
+     "Magic Trackpad Tüm Multi-Touch hareketlerini ve Force Touch teknolojisini destekler. + 3.000,00 TL"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Touch ID özellikli Magic Keyboard Parmak izinizle hızlı ve kolay kimlik doğrulama. Dahil",
+     "Touch ID özellikli ve Sayısal Tuş Takımlı Magic Keyboard Gezinme denetimlerine sahip genişletilmiş düzen. Parmak izinizle hızlı ve kolay kimlik doğrulama. + 1.300,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

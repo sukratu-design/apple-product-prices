@@ -1,0 +1,140 @@
+{
+ "page": "macbook-air",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:45.286Z",
+ "configs": {
+  "15": {
+   "total": 11999,
+   "totalFrom": "summary",
+   "totalText": "HK$11,999 | HK$11,999",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch From HK$11,999",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From HK$11,999",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From HK$10,499",
+     "15-inch From HK$11,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From HK$11,999"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + HK$1,500",
+     "32GB + HK$3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + HK$2,250",
+     "2TB + HK$6,000",
+     "4TB + HK$13,500"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + HK$130",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + HK$130"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 10499,
+   "totalFrom": "summary",
+   "totalText": "HK$10,499 | HK$10,499",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From HK$10,499",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From HK$10,499",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From HK$10,499",
+     "15-inch From HK$11,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From HK$10,499",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From HK$11,249"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + HK$130",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + HK$130"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 12749,
+   "totalFrom": "summary",
+   "totalText": "HK$12,749 | HK$12,749",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From HK$10,499",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From HK$11,249",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From HK$10,499",
+     "15-inch From HK$11,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From HK$10,499",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From HK$11,249"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + HK$1,500",
+     "32GB + HK$3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − HK$2,250",
+     "1TB",
+     "2TB + HK$3,750",
+     "4TB + HK$11,250"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + HK$130",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + HK$130"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

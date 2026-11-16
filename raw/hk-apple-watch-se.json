@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:09:01.034Z",
+ "configs": {
+  "40-gps": {
+   "total": 1999,
+   "totalFrom": "summary",
+   "totalText": "HK$1,999 | HK$1,999 | HK$1,999",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From HK$1,999",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From HK$1,999",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$1,999",
+    "rubber-style": "New colors Solo Loop HK$1,999 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From HK$1,999",
+     "44mm From HK$2,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$1,999",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$2,399"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$1,999",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$1,999",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$2,399"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$1,999 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$1,999 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$1,999 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 2199,
+   "totalFrom": "summary",
+   "totalText": "HK$2,199 | HK$2,199 | HK$2,199",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From HK$2,199",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From HK$2,199",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$2,199",
+    "rubber-style": "New colors Solo Loop HK$2,199 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From HK$1,999",
+     "44mm From HK$2,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$2,199",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$2,599"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$2,199",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$2,199",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$2,599"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$2,199 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$2,199 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$2,199 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 2399,
+   "totalFrom": "summary",
+   "totalText": "HK$2,399 | HK$2,399 | HK$2,399",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From HK$1,999",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$2,399",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$2,399",
+    "rubber-style": "New colors Solo Loop HK$2,399 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From HK$1,999",
+     "44mm From HK$2,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$1,999",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$2,399"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$2,399",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$2,399",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$2,799"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$2,399 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$2,399 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$2,399 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 2599,
+   "totalFrom": "summary",
+   "totalText": "HK$2,599 | HK$2,599 | HK$2,599",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From HK$2,199",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$2,599",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$2,599",
+    "rubber-style": "New colors Solo Loop HK$2,599 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From HK$1,999",
+     "44mm From HK$2,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$2,199",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$2,599"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$2,599",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$2,599",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$2,999"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$2,599 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$2,599 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$2,599 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

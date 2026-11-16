@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:27.011Z",
+ "configs": {
+  "band": {
+   "total": 21990,
+   "totalFrom": "summary",
+   "totalText": "21 990,00 Kč | 21 990,00 Kč | 21 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionColor": "černá",
+    "style": "Nové barvy Alpský tah Na túry a dobrodružství venku. 21 990,00 Kč",
+    "alpineloop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "Malý Na zápěstí s obvodem 130–160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "černá",
+     "přírodní"
+    ],
+    "style": [
+     "Nové barvy Alpský tah Na túry a dobrodružství venku. 21 990,00 Kč",
+     "Nové barvy Trailový tah Na každý sport i trénink. 21 990,00 Kč",
+     "Nové barvy Oceánský řemínek Na vodní sporty a rekreační potápění. 21 990,00 Kč",
+     "Milánský tah z titanu Zrozený pro oceán, ale dost elegantní, aby obstál v každé situaci. 24 990,00 Kč"
+    ],
+    "alpineloop-color": [
+     "burgundsky červená",
+     "tmavě olivová",
+     "pouštní"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Malý Na zápěstí s obvodem 130–160 mm.",
+     "Střední Řemínek na zápěstí s obvodem 145–190 mm.",
+     "Velký Řemínek na zápěstí s obvodem 165–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 24990,
+   "totalFrom": "summary",
+   "totalText": "24 990,00 Kč | 24 990,00 Kč | 24 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionColor": "černá",
+    "style": "Milánský tah z titanu Zrozený pro oceán, ale dost elegantní, aby obstál v každé situaci. 24 990,00 Kč",
+    "ti_milaneseloop-color": "černá",
+    "watch_bands-dimensionbandsize": "Malý Na zápěstí s obvodem 130–160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "černá",
+     "přírodní"
+    ],
+    "style": [
+     "Nové barvy Alpský tah Na túry a dobrodružství venku. 21 990,00 Kč",
+     "Nové barvy Trailový tah Na každý sport i trénink. 21 990,00 Kč",
+     "Nové barvy Oceánský řemínek Na vodní sporty a rekreační potápění. 21 990,00 Kč",
+     "Milánský tah z titanu Zrozený pro oceán, ale dost elegantní, aby obstál v každé situaci. 24 990,00 Kč"
+    ],
+    "ti_milaneseloop-color": [
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Malý Na zápěstí s obvodem 130–160 mm.",
+     "Střední Řemínek na zápěstí s obvodem 155–185 mm.",
+     "Velký Řemínek na zápěstí s obvodem 180–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

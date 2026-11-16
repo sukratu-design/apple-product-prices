@@ -2,15 +2,15 @@
  "page": "macbook-neo",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-mac/macbook-neo",
- "scrapedAt": "2026-11-13T05:01:02.792Z",
+ "scrapedAt": "2026-11-16T12:41:33.826Z",
  "configs": {
   "256": {
    "total": 79900,
-   "totalFrom": "label:storage-dimensionCapacity",
-   "totalText": "From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
+   "totalFrom": "summary",
+   "totalText": "From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote † | From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †"
+    "storage-dimensionCapacity": "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback and No Cost EMI or ₹79900.00"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -20,18 +20,19 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †",
-     "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †"
+     "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback and No Cost EMI or ₹79900.00",
+     "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "512": {
-   "total": 89900,
-   "totalFrom": "label:storage-dimensionCapacity",
+   "total": 13817,
+   "totalFrom": "summary",
    "totalText": "From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †"
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -41,10 +42,11 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹79900.00 Footnote †",
-     "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †"
+     "256GB Magic Keyboard From ₹12150.00/mo. Per Month with instant cashback and No Cost EMI or ₹79900.00",
+     "512GB Magic Keyboard with Touch ID From ₹13817.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

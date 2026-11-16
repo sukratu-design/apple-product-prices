@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:28.805Z",
+ "configs": {
+  "pro": {
+   "total": 10499,
+   "totalFrom": "summary",
+   "totalText": "HK$10,499 | HK$10,499 | HK$10,499",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From HK$10,499",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 HK$10,499"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From HK$10,499",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From HK$11,499"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 HK$10,499",
+     "512GB Footnote 1 HK$12,299",
+     "1TB Footnote 1 HK$15,799",
+     "2TB Footnote 1 HK$20,999"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 11499,
+   "totalFrom": "summary",
+   "totalText": "HK$11,499 | HK$11,499 | HK$11,499",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From HK$11,499",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 HK$11,499"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From HK$10,499",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From HK$11,499"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 HK$11,499",
+     "512GB Footnote 1 HK$13,299",
+     "1TB Footnote 1 HK$16,799",
+     "2TB Footnote 1 HK$21,999"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

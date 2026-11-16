@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:06:08.281Z",
+ "configs": {
+  "40-gps": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "$5,499.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Color medianoche",
+    "watch_cases-dimensionCaseSize": "40 mm Desde $5,499 de contado o 18 MSI desde $305.50.",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $5,499 de contado o 18 MSI desde $305.50.",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $5,499 de contado o 18 MSI desde $305.50.",
+    "rubber-style": "Nuevos colores Correa uniloop $5,499 de contado o 18 MSI desde $305.50. Ajuste preciso y elástico sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Color medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "44 mm Desde $6,249 de contado o 18 MSI desde $347.17."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $6,749 de contado o 18 MSI desde $374.94."
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $5,499 de contado o 18 MSI desde $305.50.",
+     "Tela Materiales suaves y ligeros. Ideales para todos los días. Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $6,749 de contado o 18 MSI desde $374.94."
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $5,499 de contado o 18 MSI desde $305.50. Ajuste preciso y elástico sin cierre",
+     "Nuevos colores Correa deportiva $5,499 de contado o 18 MSI desde $305.50. Resistente y ajustable, con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $5,499 de contado o 18 MSI desde $305.50. Ventilada y ajustable, con cierre de encastre"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 6249,
+   "totalFrom": "summary",
+   "totalText": "$6,249.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Color medianoche",
+    "watch_cases-dimensionCaseSize": "44 mm Desde $6,249 de contado o 18 MSI desde $347.17.",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $6,249 de contado o 18 MSI desde $347.17.",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $6,249 de contado o 18 MSI desde $347.17.",
+    "rubber-style": "Nuevos colores Correa uniloop $6,249 de contado o 18 MSI desde $347.17. Ajuste preciso y elástico sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Color medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "44 mm Desde $6,249 de contado o 18 MSI desde $347.17."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $6,249 de contado o 18 MSI desde $347.17.",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $7,499 de contado o 18 MSI desde $416.61."
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $6,249 de contado o 18 MSI desde $347.17.",
+     "Tela Materiales suaves y ligeros. Ideales para todos los días. Desde $6,249 de contado o 18 MSI desde $347.17.",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $7,499 de contado o 18 MSI desde $416.61."
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $6,249 de contado o 18 MSI desde $347.17. Ajuste preciso y elástico sin cierre",
+     "Nuevos colores Correa deportiva $6,249 de contado o 18 MSI desde $347.17. Resistente y ajustable, con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $6,249 de contado o 18 MSI desde $347.17. Ventilada y ajustable, con cierre de encastre"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 6749,
+   "totalFrom": "summary",
+   "totalText": "$6,749.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Color medianoche",
+    "watch_cases-dimensionCaseSize": "40 mm Desde $5,499 de contado o 18 MSI desde $305.50.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $6,749 de contado o 18 MSI desde $374.94.",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $6,749 de contado o 18 MSI desde $374.94.",
+    "rubber-style": "Nuevos colores Correa uniloop $6,749 de contado o 18 MSI desde $374.94. Ajuste preciso y elástico sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Color medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "44 mm Desde $6,249 de contado o 18 MSI desde $347.17."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $6,749 de contado o 18 MSI desde $374.94."
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $6,749 de contado o 18 MSI desde $374.94.",
+     "Tela Materiales suaves y ligeros. Ideales para todos los días. Desde $6,749 de contado o 18 MSI desde $374.94.",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $7,999 de contado o 18 MSI desde $444.39."
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $6,749 de contado o 18 MSI desde $374.94. Ajuste preciso y elástico sin cierre",
+     "Nuevos colores Correa deportiva $6,749 de contado o 18 MSI desde $374.94. Resistente y ajustable, con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $6,749 de contado o 18 MSI desde $374.94. Ventilada y ajustable, con cierre de encastre"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 7499,
+   "totalFrom": "summary",
+   "totalText": "$7,499.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Color medianoche",
+    "watch_cases-dimensionCaseSize": "44 mm Desde $6,249 de contado o 18 MSI desde $347.17.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $7,499 de contado o 18 MSI desde $416.61.",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $7,499 de contado o 18 MSI desde $416.61.",
+    "rubber-style": "Nuevos colores Correa uniloop $7,499 de contado o 18 MSI desde $416.61. Ajuste preciso y elástico sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Color medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $5,499 de contado o 18 MSI desde $305.50.",
+     "44 mm Desde $6,249 de contado o 18 MSI desde $347.17."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $6,249 de contado o 18 MSI desde $347.17.",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $7,499 de contado o 18 MSI desde $416.61."
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $7,499 de contado o 18 MSI desde $416.61.",
+     "Tela Materiales suaves y ligeros. Ideales para todos los días. Desde $7,499 de contado o 18 MSI desde $416.61.",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $8,749 de contado o 18 MSI desde $486.06."
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $7,499 de contado o 18 MSI desde $416.61. Ajuste preciso y elástico sin cierre",
+     "Nuevos colores Correa deportiva $7,499 de contado o 18 MSI desde $416.61. Resistente y ajustable, con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $7,499 de contado o 18 MSI desde $416.61. Ventilada y ajustable, con cierre de encastre"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

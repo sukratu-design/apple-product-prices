@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:28.390Z",
+ "configs": {
+  "default": {
+   "total": 72999,
+   "totalFrom": "summary",
+   "totalText": "72.999,00 TL | 72.999,00 TL | 72.999,00 TL",
+   "selected": {
+    "dimensionColor": "Açık Pembe",
+    "dimensionCapacity": "256 GB Dipnot 1 72.999,00 TL"
+   },
+   "options": {
+    "dimensionColor": [
+     "Açık Pembe",
+     "Beyaz",
+     "Siyah"
+    ],
+    "dimensionCapacity": [
+     "256 GB Dipnot 1 72.999,00 TL",
+     "512 GB Dipnot 1 89.999,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

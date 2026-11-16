@@ -1,0 +1,132 @@
+{
+ "page": "apple-watch-se",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:24.351Z",
+ "configs": {
+  "40-gps": {
+   "total": 1999,
+   "totalFrom": "summary",
+   "totalText": "1.999,00 kr. | 1.999,00 kr. | 1.999,00 kr.",
+   "selected": {
+    "watch_cases-dimensionColor": "midnat",
+    "watch_cases-dimensionCaseSize": "40 mm Fra 1.999 kr.",
+    "watch_cases-dimensionConnection": "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 1.999 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 1.999,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 1.999,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnat",
+     "stjerneskær"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Fra 1.999 kr.",
+     "44 mm Fra 2.299 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 1.999 kr.",
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 2.449 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 1.999,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 1.999 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 2.449 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 1.999,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 1.999,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 1.999,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 2299,
+   "totalFrom": "summary",
+   "totalText": "2.299,00 kr. | 2.299,00 kr. | 2.299,00 kr.",
+   "selected": {
+    "watch_cases-dimensionColor": "midnat",
+    "watch_cases-dimensionCaseSize": "44 mm Fra 2.299 kr.",
+    "watch_cases-dimensionConnection": "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 2.299 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 2.299,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 2.299,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnat",
+     "stjerneskær"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Fra 1.999 kr.",
+     "44 mm Fra 2.299 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 2.299 kr.",
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 2.749 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 2.299,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 2.299 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 2.749 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 2.299,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 2.299,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 2.299,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  },
+  "44-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  }
+ }
+}

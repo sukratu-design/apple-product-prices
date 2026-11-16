@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:46.790Z",
+ "configs": {
+  "2port": {
+   "total": 1899,
+   "totalFrom": "summary",
+   "totalText": "1 899,00 € | 1 899,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Sininen",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-siru kahdella Thunderbolt-portilla 10-ytiminen prosessori, 10-ytiminen näytön­ohjain, 16-ytiminen Neural Engine Alkaen 1 899 €",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "256 Gt Sisältyy hintaan",
+    "chassis-dimensionStandType": "Jalusta Aseta työpöydällesi, säädä kallistusta ylöspäin ja alaspäin. Sisältyy hintaan",
+    "ethernet_adapter-ethernetPortCount": "Ei Ethernetiä Yhdistä vain Wi-Fi-verkon kautta. Sisältyy hintaan",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Tukee Multi-Touch-eleitä, kuten pyyhkäisyä ja vieritystä. Sisältyy hintaan",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Erittäin kompakti, reunasta reunaan ulottuva muotoilu. Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Sininen",
+     "Violetti",
+     "Pinkki",
+     "Oranssi",
+     "Keltainen",
+     "Vihreä",
+     "Hopea"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-siru kahdella Thunderbolt-portilla 10-ytiminen prosessori, 10-ytiminen näytön­ohjain, 16-ytiminen Neural Engine Alkaen 1 899 €",
+     "M6-siru neljällä Thunderbolt-portilla 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, 16-ytiminen Neural Engine Alkaen 2 099 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan",
+     "24 Gt + 220,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Gt Sisältyy hintaan",
+     "512 Gt + 220,00 €",
+     "1 Tt + 550,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Jalusta Aseta työpöydällesi, säädä kallistusta ylöspäin ja alaspäin. Sisältyy hintaan",
+     "VESA-kiinnityssovitin Sisäänrakennettu, jotta voit asentaa sen seinään tai säädettävään varteen."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Ei Ethernetiä Yhdistä vain Wi-Fi-verkon kautta. Sisältyy hintaan",
+     "2.5 Gigabit Ethernet ‑portti Vakioverkkoyhteys, jopa 2,5 Gb yhteysnopeus. + 30,00 €"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Tukee Multi-Touch-eleitä, kuten pyyhkäisyä ja vieritystä. Sisältyy hintaan",
+     "Magic Trackpad Tukee Multi-Touch-eleiden ja Force Touch ‑teknologian koko skaalaa. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Erittäin kompakti, reunasta reunaan ulottuva muotoilu. Sisältyy hintaan",
+     "Magic Keyboard Touch ID:llä ja numero­näppäimistöllä Laajennettu asettelu navigointisäätimillä. Mahdollistaa nopean ja helpon tavan todentautua sormenjäljelläsi. + 80,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2099,
+   "totalFrom": "summary",
+   "totalText": "2 099,00 € | 2 099,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Sininen",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-siru neljällä Thunderbolt-portilla 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, 16-ytiminen Neural Engine Alkaen 2 099 €",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "256 Gt Sisältyy hintaan",
+    "display-dimensionFinish": "Tavallinen lasi Suunniteltu heijastamaan erittäin vähän häikäisyn vähentämiseksi kaikissa ympäristöissä. Sisältyy hintaan",
+    "chassis-dimensionStandType": "Jalusta Aseta työpöydällesi, säädä kallistusta ylöspäin ja alaspäin. Sisältyy hintaan",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Tukee Multi-Touch-eleitä, kuten pyyhkäisyä ja vieritystä. Sisältyy hintaan",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Touch ID:llä Mahdollistaa nopean ja helpon tavan todentautua sormenjäljelläsi. Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Sininen",
+     "Violetti",
+     "Pinkki",
+     "Oranssi",
+     "Keltainen",
+     "Vihreä",
+     "Hopea"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-siru kahdella Thunderbolt-portilla 10-ytiminen prosessori, 10-ytiminen näytön­ohjain, 16-ytiminen Neural Engine Alkaen 1 899 €",
+     "M6-siru neljällä Thunderbolt-portilla 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, 16-ytiminen Neural Engine Alkaen 2 099 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan",
+     "24 Gt + 220,00 €",
+     "32 Gt + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Gt Sisältyy hintaan",
+     "512 Gt + 220,00 €",
+     "1 Tt + 550,00 €",
+     "2 Tt + 1 100,00 €"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen lasi Suunniteltu heijastamaan erittäin vähän häikäisyn vähentämiseksi kaikissa ympäristöissä. Sisältyy hintaan",
+     "Nanopinnoitettu lasi Vähentää heijastuksia ja häikäisyä kirkkaissa olo­suhteissa entisestään. Saatavilla vain neljän portin malliin. + 220,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Jalusta Aseta työpöydällesi, säädä kallistusta ylöspäin ja alaspäin. Sisältyy hintaan",
+     "VESA-kiinnityssovitin Sisäänrakennettu, jotta voit asentaa sen seinään tai säädettävään varteen."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Tukee Multi-Touch-eleitä, kuten pyyhkäisyä ja vieritystä. Sisältyy hintaan",
+     "Magic Trackpad Tukee Multi-Touch-eleiden ja Force Touch ‑teknologian koko skaalaa. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Touch ID:llä Mahdollistaa nopean ja helpon tavan todentautua sormenjäljelläsi. Sisältyy hintaan",
+     "Magic Keyboard Touch ID:llä ja numero­näppäimistöllä Laajennettu asettelu navigointisäätimillä. Mahdollistaa nopean ja helpon tavan todentautua sormenjäljelläsi. + 30,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

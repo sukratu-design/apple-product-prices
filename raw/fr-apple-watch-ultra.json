@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:09:47.573Z",
+ "configs": {
+  "band": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Noir",
+    "style": "Nouveaux coloris Boucle Alpine Pour les activités de plein air et la randonnée. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "alpineloop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "Small Convient aux tours de poignet de 130 à 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Noir",
+     "Naturel"
+    ],
+    "style": [
+     "Nouveaux coloris Boucle Alpine Pour les activités de plein air et la randonnée. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Nouveaux coloris Boucle Trail Pour tous types d’activités physiques et d’entraînements. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Nouveaux coloris Bracelet Océan Pour les sports nautiques extrêmes et la plongée loisir. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Bracelet Milanais en titane Conçu pour le milieu marin, mais élégant en toutes circonstances. 999 € ou 83,25 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "alpineloop-color": [
+     "Bordeaux",
+     "Olive sombre",
+     "Désert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Convient aux tours de poignet de 130 à 160 mm.",
+     "Medium Bracelet adapté aux tours de poignet de 145 à 190 mm.",
+     "Large Bracelet adapté aux tours de poignet de 165 à 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "999 € ou 83,25 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 999 € ou 83,25 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Noir",
+    "style": "Bracelet Milanais en titane Conçu pour le milieu marin, mais élégant en toutes circonstances. 999 € ou 83,25 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "ti_milaneseloop-color": "Noir",
+    "watch_bands-dimensionbandsize": "Small Convient aux tours de poignet de 130 à 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Noir",
+     "Naturel"
+    ],
+    "style": [
+     "Nouveaux coloris Boucle Alpine Pour les activités de plein air et la randonnée. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Nouveaux coloris Boucle Trail Pour tous types d’activités physiques et d’entraînements. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Nouveaux coloris Bracelet Océan Pour les sports nautiques extrêmes et la plongée loisir. 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Bracelet Milanais en titane Conçu pour le milieu marin, mais élégant en toutes circonstances. 999 € ou 83,25 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "ti_milaneseloop-color": [
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Convient aux tours de poignet de 130 à 160 mm.",
+     "Medium Convient aux tours de poignet de 155 à 185 mm.",
+     "Large Convient aux tours de poignet de 180 à 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,12 +2,12 @@
  "page": "airpods-pro-3",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-airpods/airpods-pro-3",
- "scrapedAt": "2026-11-13T05:05:11.818Z",
+ "scrapedAt": "2026-11-16T13:35:22.161Z",
  "configs": {
   "default": {
    "total": 27900,
-   "totalFrom": "page",
-   "totalText": "From ₹815.00/mo. Per Month Footnote §",
+   "totalFrom": "summary",
+   "totalText": "MRP ₹4890.00 (inclusive of all taxes) | MRP ₹27900.00 (inclusive of all taxes) | MRP ₹4890.00 (inclusive of all taxes) | MRP ₹27900.00 (inclusive of all taxes)",
    "selected": {
     "engraving-option-select-app": null,
     "app_0_0_0": null,

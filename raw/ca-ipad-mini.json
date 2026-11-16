@@ -2,17 +2,17 @@
  "page": "ipad-mini",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-mini",
- "scrapedAt": "2026-11-13T11:15:37.149Z",
+ "scrapedAt": "2026-11-16T12:31:46.536Z",
  "configs": {
   "wifi": {
-   "total": 169,
+   "total": 949,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $99.00 | $949.00",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionFinish": "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $949.00 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionFinish": "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $949.00 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -30,16 +30,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From $1379 or $118.04/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From $1379 or $118.04/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionFinish": [
-     "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $949.00 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,149.00 or $98.35/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $949.00 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,149.00 or $98.35/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -269,7 +269,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
@@ -283,14 +283,14 @@
    }
   },
   "cell": {
-   "total": 169,
+   "total": 1149,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $99.00 | $1,149.00",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionFinish": "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,149.00 or $98.35/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionFinish": "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,149.00 or $98.35/mo. per month for 12 mo. months at 4.99% APR",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -308,16 +308,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From $1379 or $118.04/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From $1379 or $118.04/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionFinish": [
-     "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Standard glass From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $949.00 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,149.00 or $98.35/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $949.00 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,149.00 or $98.35/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -547,7 +547,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
@@ -561,14 +561,14 @@
    }
   },
   "nano": {
-   "total": 169,
+   "total": 1099,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $99.00 | $1,099.00",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionFinish": "Standard glass From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $1,099.00 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
+    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionFinish": "Standard glass From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $1,099.00 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -586,17 +586,17 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From $1379 or $118.04/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From $949 or $81.23/mo. per month for 12 mo. months at 4.99% APR",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From $1379 or $118.04/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionFinish": [
-     "Standard glass From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "Nano-texture glass Available in models with 256GB and 512GB storage From $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Standard glass From $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "Nano-texture glass Available in models with 256GB and 512GB storage From $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $1,099.00 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,299.00 or $111.19/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $1,099.00 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $1,299.00 or $111.19/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -823,7 +823,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [

@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:49.762Z",
+ "configs": {
+  "2port": {
+   "total": 19990,
+   "totalFrom": "summary",
+   "totalText": "kr 19 990,00 | kr 19 990,00",
+   "selected": {
+    "chassis-dimensionColor": "blå",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-chip med to Thunderbolt-porter 10-kjerners CPU, 10-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 19 990",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "256 GB Inkludert",
+    "chassis-dimensionStandType": "Stativ Sett den opp på skrivebordet, og juster så den heller oppover eller nedover. Inkludert",
+    "ethernet_adapter-ethernetPortCount": "Ikke Ethernet Kun tilkobling via wifi-nettverk. Inkludert",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Støtter MultiTouch-bevegelser som å sveipe og skrolle. Inkludert",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultrakompakt design. Inkludert"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "blå",
+     "lilla",
+     "rosa",
+     "oransje",
+     "gul",
+     "grønn",
+     "sølv"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-chip med to Thunderbolt-porter 10-kjerners CPU, 10-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 19 990",
+     "M6-chip med fire Thunderbolt-porter 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 22 990"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert",
+     "24 GB + kr 3 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Inkludert",
+     "512 GB + kr 3 000,00",
+     "1 TB + kr 7 500,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Stativ Sett den opp på skrivebordet, og juster så den heller oppover eller nedover. Inkludert",
+     "VESA-monteringsadapter Innebygd slik at du kan den feste til en vegg eller en justerbar arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Ikke Ethernet Kun tilkobling via wifi-nettverk. Inkludert",
+     "2,5 Gigabit Ethernet-port Standard nettverk, hastigheter opptil 2,5 Gb. + kr 400,00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Støtter MultiTouch-bevegelser som å sveipe og skrolle. Inkludert",
+     "Magic Trackpad Støtter alle Multi-Touch-bevegelsene samt Force Touch-teknologi. + kr 650,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultrakompakt design. Inkludert",
+     "Magic Keyboard med Touch ID og talltastatur Utvidet layout med navigasjonskontroller. Gir rask og enkel autentisering med fingeravtrykket ditt. + kr 1 200,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 22990,
+   "totalFrom": "summary",
+   "totalText": "kr 22 990,00 | kr 22 990,00",
+   "selected": {
+    "chassis-dimensionColor": "blå",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-chip med fire Thunderbolt-porter 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 22 990",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "256 GB Inkludert",
+    "display-dimensionFinish": "Standardglass Laget med ekstremt lav reflektivitet for å redusere gjenskinn i alle omgivelser. Inkludert",
+    "chassis-dimensionStandType": "Stativ Sett den opp på skrivebordet, og juster så den heller oppover eller nedover. Inkludert",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Støtter MultiTouch-bevegelser som å sveipe og skrolle. Inkludert",
+    "keyboard-keyboardFormFactor": "Magic Keyboard med Touch ID Gir rask og enkel autentisering med fingeravtrykket ditt. Inkludert"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "blå",
+     "lilla",
+     "rosa",
+     "oransje",
+     "gul",
+     "grønn",
+     "sølv"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-chip med to Thunderbolt-porter 10-kjerners CPU, 10-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 19 990",
+     "M6-chip med fire Thunderbolt-porter 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 22 990"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert",
+     "24 GB + kr 3 000,00",
+     "32 GB + kr 6 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Inkludert",
+     "512 GB + kr 3 000,00",
+     "1 TB + kr 7 500,00",
+     "2 TB + kr 15 000,00"
+    ],
+    "display-dimensionFinish": [
+     "Standardglass Laget med ekstremt lav reflektivitet for å redusere gjenskinn i alle omgivelser. Inkludert",
+     "Glass med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. Kun tilgjengelig med modellen med fire porter. + kr 3 000,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Stativ Sett den opp på skrivebordet, og juster så den heller oppover eller nedover. Inkludert",
+     "VESA-monteringsadapter Innebygd slik at du kan den feste til en vegg eller en justerbar arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Støtter MultiTouch-bevegelser som å sveipe og skrolle. Inkludert",
+     "Magic Trackpad Støtter alle Multi-Touch-bevegelsene samt Force Touch-teknologi. + kr 650,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard med Touch ID Gir rask og enkel autentisering med fingeravtrykket ditt. Inkludert",
+     "Magic Keyboard med Touch ID og talltastatur Utvidet layout med navigasjonskontroller. Gir rask og enkel autentisering med fingeravtrykket ditt. + kr 400,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

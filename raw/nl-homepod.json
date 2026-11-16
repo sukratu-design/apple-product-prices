@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:29:22.175Z",
+ "configs": {
+  "default": {
+   "total": 399,
+   "totalFrom": "summary",
+   "totalText": "€ 39,00 | € 399,00",
+   "selected": {
+    "dimensionColor": "Wit"
+   },
+   "options": {
+    "dimensionColor": [
+     "Wit",
+     "Middernacht"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

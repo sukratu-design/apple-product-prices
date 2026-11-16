@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:00:53.667Z",
+ "configs": {
+  "default": {
+   "total": 16999,
+   "totalFrom": "summary",
+   "totalText": "$16,999.00",
+   "selected": {
+    "dimensionColor": "Rosa pálido",
+    "dimensionCapacity": "256 GB Nota al pie 1 $16,999.00 de contado o 18 MSI desde $944.39. Nota al pie ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Rosa pálido",
+     "Blanco",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota al pie 1 $16,999.00 de contado o 18 MSI desde $944.39. Nota al pie ◊",
+     "512 GB Nota al pie 1 $21,999.00 de contado o 18 MSI desde $1,222.17. Nota al pie ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

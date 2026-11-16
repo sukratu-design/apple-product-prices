@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:06.695Z",
+ "configs": {
+  "2port": {
+   "total": 44990,
+   "totalFrom": "summary",
+   "totalText": "44 990,00 Kč | 44 990,00 Kč",
+   "selected": {
+    "chassis-dimensionColor": "modrá",
+    "processor-cpuCoreCount-gpuCoreCount": "Čip M6 se dvěma porty Thunderbolt 10jádrové CPU, 10jádrové GPU, dvojitý 16jádrový Neural Engine Od 44 990 Kč",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "256 GB V základu",
+    "chassis-dimensionStandType": "Stojan K umístění na stole s nastavitelným náklonem nahoru a dolů. V základu",
+    "ethernet_adapter-ethernetPortCount": "Bez ethernetu Připojení jen přes Wi‑Fi síť. V základu",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Podporuje Multi-Touch gesta jako přejíždění a skrolování. V základu",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultrakompaktní provedení s klávesami od okraje k okraji. V základu"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "modrá",
+     "fialová",
+     "růžová",
+     "oranžová",
+     "žlutá",
+     "zelená",
+     "stříbrný"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Čip M6 se dvěma porty Thunderbolt 10jádrové CPU, 10jádrové GPU, dvojitý 16jádrový Neural Engine Od 44 990 Kč",
+     "Čip M6 se čtyřmi porty Thunderbolt 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 49 990 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu",
+     "24 GB + 6 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB V základu",
+     "512 GB + 6 000,00 Kč",
+     "1 TB + 15 000,00 Kč"
+    ],
+    "chassis-dimensionStandType": [
+     "Stojan K umístění na stole s nastavitelným náklonem nahoru a dolů. V základu",
+     "Adaptér držáku VESA Integrovaný, takže se dá připevnit na zeď nebo nastavitelné rameno."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Bez ethernetu Připojení jen přes Wi‑Fi síť. V základu",
+     "Port 2,5gigabitového ethernetu Standardní síťové připojení, rychlost až 2,5 Gb. + 800,00 Kč"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Podporuje Multi-Touch gesta jako přejíždění a skrolování. V základu",
+     "Magic Trackpad Podporuje celé spektrum Multi-Touch gest a technologii Force Touch. + 1 500,00 Kč"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultrakompaktní provedení s klávesami od okraje k okraji. V základu",
+     "Magic Keyboard s Touch ID a číselnou klávesnicí Rozšířené rozvržení s navigačními klávesami. Umožňuje rychlé, snadné ověření pomocí otisku prstu. + 2 400,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 49990,
+   "totalFrom": "summary",
+   "totalText": "49 990,00 Kč | 49 990,00 Kč",
+   "selected": {
+    "chassis-dimensionColor": "modrá",
+    "processor-cpuCoreCount-gpuCoreCount": "Čip M6 se čtyřmi porty Thunderbolt 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 49 990 Kč",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "256 GB V základu",
+    "display-dimensionFinish": "Standardní sklo Vyvinuto pro mimořádně nízkou odrazivost a omezení odlesků ve všech prostředích. V základu",
+    "chassis-dimensionStandType": "Stojan K umístění na stole s nastavitelným náklonem nahoru a dolů. V základu",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Podporuje Multi-Touch gesta jako přejíždění a skrolování. V základu",
+    "keyboard-keyboardFormFactor": "Magic Keyboard s Touch ID Umožňuje rychlé, snadné ověření pomocí otisku prstu. V základu"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "modrá",
+     "fialová",
+     "růžová",
+     "oranžová",
+     "žlutá",
+     "zelená",
+     "stříbrný"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Čip M6 se dvěma porty Thunderbolt 10jádrové CPU, 10jádrové GPU, dvojitý 16jádrový Neural Engine Od 44 990 Kč",
+     "Čip M6 se čtyřmi porty Thunderbolt 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 49 990 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu",
+     "24 GB + 6 000,00 Kč",
+     "32 GB + 12 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB V základu",
+     "512 GB + 6 000,00 Kč",
+     "1 TB + 15 000,00 Kč",
+     "2 TB + 30 000,00 Kč"
+    ],
+    "display-dimensionFinish": [
+     "Standardní sklo Vyvinuto pro mimořádně nízkou odrazivost a omezení odlesků ve všech prostředích. V základu",
+     "Sklo s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. K dispozici jen u modelu se čtyřmi porty. + 6 000,00 Kč"
+    ],
+    "chassis-dimensionStandType": [
+     "Stojan K umístění na stole s nastavitelným náklonem nahoru a dolů. V základu",
+     "Adaptér držáku VESA Integrovaný, takže se dá připevnit na zeď nebo nastavitelné rameno."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Podporuje Multi-Touch gesta jako přejíždění a skrolování. V základu",
+     "Magic Trackpad Podporuje celé spektrum Multi-Touch gest a technologii Force Touch. + 1 500,00 Kč"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard s Touch ID Umožňuje rychlé, snadné ověření pomocí otisku prstu. V základu",
+     "Magic Keyboard s Touch ID a číselnou klávesnicí Rozšířené rozvržení s navigačními klávesami. Umožňuje rychlé, snadné ověření pomocí otisku prstu. + 800,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

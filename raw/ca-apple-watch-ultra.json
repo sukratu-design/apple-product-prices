@@ -2,7 +2,7 @@
  "page": "apple-watch-ultra",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-watch/apple-watch-ultra",
- "scrapedAt": "2026-11-13T11:09:52.811Z",
+ "scrapedAt": "2026-11-16T13:09:19.173Z",
  "configs": {
   "band": {
    "total": 1099,
@@ -10,7 +10,7 @@
    "totalText": "$1,099.00",
    "selected": {
     "watch_cases-dimensionColor": "Black",
-    "style": "New colours Alpine Loop For outdoor adventure and hiking. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
     "alpineloop-color": "Burgundy",
     "watch_bands-dimensionbandsize": "Small Band fits 130–160mm wrists."
    },
@@ -20,10 +20,10 @@
      "Natural"
     ],
     "style": [
-     "New colours Alpine Loop For outdoor adventure and hiking. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
-     "New colours Trail Loop For all sports and workouts. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
-     "New colours Ocean Band For water sports and recreational diving. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
-     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+     "New colours Alpine Loop For outdoor adventure and hiking. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "New colours Trail Loop For all sports and workouts. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "New colours Ocean Band For water sports and recreational diving. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "alpineloop-color": [
      "Burgundy",
@@ -44,7 +44,7 @@
    "totalText": "$1,249.00",
    "selected": {
     "watch_cases-dimensionColor": "Black",
-    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR Footnote §",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR",
     "ti_milaneseloop-color": "Black",
     "watch_bands-dimensionbandsize": "Small Band fits 130–160mm wrists."
    },
@@ -54,10 +54,10 @@
      "Natural"
     ],
     "style": [
-     "New colours Alpine Loop For outdoor adventure and hiking. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
-     "New colours Trail Loop For all sports and workouts. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
-     "New colours Ocean Band For water sports and recreational diving. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR Footnote §",
-     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR Footnote §"
+     "New colours Alpine Loop For outdoor adventure and hiking. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "New colours Trail Loop For all sports and workouts. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "New colours Ocean Band For water sports and recreational diving. $1099 or $94.07/mo. per month for 12 mo. months at 4.99% APR",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. $1249 or $106.91/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "ti_milaneseloop-color": [
      "Black"

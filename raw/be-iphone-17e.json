@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "be",
+ "url": "https://www.apple.com/be-fr/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:13.059Z",
+ "configs": {
+  "default": {
+   "total": 869,
+   "totalFrom": "summary",
+   "totalText": "869,00 € | 869,00 € | 869,00 €",
+   "selected": {
+    "dimensionColor": "Rose pastel",
+    "dimensionCapacity": "256 Go Note de bas de page 1 869,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Rose pastel",
+     "Blanc",
+     "Noir"
+    ],
+    "dimensionCapacity": [
+     "256 Go Note de bas de page 1 869,00 €",
+     "512 Go Note de bas de page 1 1 119,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

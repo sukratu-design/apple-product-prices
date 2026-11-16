@@ -2,11 +2,16 @@
  "page": "macbook-neo",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-mac/macbook-neo",
- "scrapedAt": "2026-11-13T04:51:45.905Z",
+ "scrapedAt": "2026-11-16T12:40:00.797Z",
  "configs": {
   "256": {
    "total": 699,
-   "totalText": "$699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡",
+   "totalFrom": "summary",
+   "totalText": "$699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ | $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months"
+   },
    "options": {
     "chassis-dimensionColor": [
      "Silver",
@@ -15,14 +20,20 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡",
-     "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡"
+     "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months",
+     "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "512": {
    "total": 799,
-   "totalText": "$799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡",
+   "totalFrom": "summary",
+   "totalText": "$799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡ | $799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months"
+   },
    "options": {
     "chassis-dimensionColor": [
      "Silver",
@@ -31,10 +42,11 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡",
-     "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡"
+     "256GB Magic Keyboard Buy from $699 or $58.25/mo. per month for 12 mo. months",
+     "512GB Magic Keyboard with Touch ID Buy from $799 or $66.58/mo. per month for 12 mo. months"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

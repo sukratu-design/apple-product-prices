@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:56:52.055Z",
+ "configs": {
+  "m5max-32": {
+   "total": 3099,
+   "totalFrom": "summary",
+   "totalText": "3 099,00 € | 3 099,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Max ‑siru Todellista nopeutta ja suorituskykyä luoviin projekteihin ja ammattilaisten työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 099 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-ytiminen prosessori, 32‑ytiminen näytönohjain Sisältyy hintaan",
+    "memory-dimensionMemory": "36 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "512 Gt Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max ‑siru Todellista nopeutta ja suorituskykyä luoviin projekteihin ja ammattilaisten työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 099 €",
+     "M5 Ultra ‑siru Edistyksellisin sirumme, jossa on ennen­näkemättömästi tehoa vaativimpiinkiin ammattilaisten työnkulkuihin. 2 vaihtoehtoa 32-ytimisellä Neural Enginellä Alkaen 6 799 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-ytiminen prosessori, 32‑ytiminen näytönohjain Sisältyy hintaan",
+     "18-ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. + 330,00 € Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa."
+    ],
+    "memory-dimensionMemory": [
+     "36 Gt Sisältyy hintaan"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt Sisältyy hintaan",
+     "1 Tt + 330,00 €",
+     "2 Tt + 880,00 €",
+     "4 Tt + 1 980,00 €",
+     "8 Tt + 4 180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3759,
+   "totalFrom": "summary",
+   "totalText": "3 759,00 € | 3 759,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Max ‑siru Todellista nopeutta ja suorituskykyä luoviin projekteihin ja ammattilaisten työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 099 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa.",
+    "memory-dimensionMemory": "48 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "512 Gt Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max ‑siru Todellista nopeutta ja suorituskykyä luoviin projekteihin ja ammattilaisten työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 099 €",
+     "M5 Ultra ‑siru Edistyksellisin sirumme, jossa on ennen­näkemättömästi tehoa vaativimpiinkiin ammattilaisten työnkulkuihin. 2 vaihtoehtoa 32-ytimisellä Neural Enginellä Alkaen 6 799 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-ytiminen prosessori, 32‑ytiminen näytönohjain − 330,00 €",
+     "18-ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa."
+    ],
+    "memory-dimensionMemory": [
+     "48 Gt Sisältyy hintaan",
+     "64 Gt + 440,00 €",
+     "128 Gt + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt Sisältyy hintaan",
+     "1 Tt + 330,00 €",
+     "2 Tt + 880,00 €",
+     "4 Tt + 1 980,00 €",
+     "8 Tt + 4 180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 6799,
+   "totalFrom": "summary",
+   "totalText": "6 799,00 € | 6 799,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra ‑siru Edistyksellisin sirumme, jossa on ennen­näkemättömästi tehoa vaativimpiinkiin ammattilaisten työnkulkuihin. 2 vaihtoehtoa 32-ytimisellä Neural Enginellä Alkaen 6 799 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-ytiminen prosessori, 64‑ytiminen näytönohjain Sisältyy hintaan",
+    "memory-dimensionMemory": "96 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max ‑siru Todellista nopeutta ja suorituskykyä luoviin projekteihin ja ammattilaisten työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 099 €",
+     "M5 Ultra ‑siru Edistyksellisin sirumme, jossa on ennen­näkemättömästi tehoa vaativimpiinkiin ammattilaisten työnkulkuihin. 2 vaihtoehtoa 32-ytimisellä Neural Enginellä Alkaen 6 799 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-ytiminen prosessori, 64‑ytiminen näytönohjain Sisältyy hintaan",
+     "36-ytiminen prosessori, 80‑ytiminen näytönohjain Tehosta prosessointia, grafiikoita ja tekoälylaskentaa vaativissa työnkuluissa, kuten suurten kielimallien suorittamisessa, visuaalisten tehosteiden käyttämisessä ja värimäärittelyssä. + 1 430,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "96 Gt Sisältyy hintaan",
+     "256 Gt + 4 400,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 Tt Sisältyy hintaan",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €",
+     "8 Tt + 3 850,00 €",
+     "16 Tt + 8 250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 8229,
+   "totalFrom": "summary",
+   "totalText": "8 229,00 € | 8 229,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra ‑siru Edistyksellisin sirumme, jossa on ennen­näkemättömästi tehoa vaativimpiinkiin ammattilaisten työnkulkuihin. 2 vaihtoehtoa 32-ytimisellä Neural Enginellä Alkaen 6 799 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-ytiminen prosessori, 80‑ytiminen näytönohjain Tehosta prosessointia, grafiikoita ja tekoälylaskentaa vaativissa työnkuluissa, kuten suurten kielimallien suorittamisessa, visuaalisten tehosteiden käyttämisessä ja värimäärittelyssä.",
+    "memory-dimensionMemory": "96 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max ‑siru Todellista nopeutta ja suorituskykyä luoviin projekteihin ja ammattilaisten työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 099 €",
+     "M5 Ultra ‑siru Edistyksellisin sirumme, jossa on ennen­näkemättömästi tehoa vaativimpiinkiin ammattilaisten työnkulkuihin. 2 vaihtoehtoa 32-ytimisellä Neural Enginellä Alkaen 6 799 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-ytiminen prosessori, 64‑ytiminen näytönohjain − 1 430,00 €",
+     "36-ytiminen prosessori, 80‑ytiminen näytönohjain Tehosta prosessointia, grafiikoita ja tekoälylaskentaa vaativissa työnkuluissa, kuten suurten kielimallien suorittamisessa, visuaalisten tehosteiden käyttämisessä ja värimäärittelyssä."
+    ],
+    "memory-dimensionMemory": [
+     "96 Gt Sisältyy hintaan",
+     "256 Gt + 4 400,00 €",
+     "512 Gt + 17 050,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 Tt Sisältyy hintaan",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €",
+     "8 Tt + 3 850,00 €",
+     "16 Tt + 8 250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

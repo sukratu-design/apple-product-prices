@@ -2,12 +2,12 @@
  "page": "iphone-17e",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17e",
- "scrapedAt": "2026-11-13T11:00:03.377Z",
+ "scrapedAt": "2026-11-16T12:01:32.131Z",
  "configs": {
   "default": {
    "total": 2999,
    "totalFrom": "summary",
-   "totalText": "AED 2,999.00",
+   "totalText": "AED 2,999.00 | AED 2,999.00 | AED 2,999.00",
    "selected": {
     "dimensionColor": "Soft Pink",
     "dimensionCapacity": "256GB Footnote 1 AED 2,999.00"

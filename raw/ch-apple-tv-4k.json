@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:25:44.531Z",
+ "configs": {
+  "default": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "CHF 45.00 | CHF 299.00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

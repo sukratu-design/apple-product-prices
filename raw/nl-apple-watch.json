@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:01:12.600Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "€ 449,00 | € 449,00 | € 449,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nieuw Donkerbrons",
+    "watch_cases-dimensionCaseSize": "42 mm Vanaf € 449",
+    "watch_cases-dimensionConnection": "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 449",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 449,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 449,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nieuw Donkerbrons",
+     "Nieuw Lichtgoud",
+     "Nieuw Zwart",
+     "Spacegrijs"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 449",
+     "46 mm Vanaf € 499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 449",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 569"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 449,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 449",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 499"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 449,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 449,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 449,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 499,
+   "totalFrom": "summary",
+   "totalText": "€ 499,00 | € 499,00 | € 499,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nieuw Donkerbrons",
+    "watch_cases-dimensionCaseSize": "46 mm Vanaf € 499",
+    "watch_cases-dimensionConnection": "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 499",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 499,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 499,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nieuw Donkerbrons",
+     "Nieuw Lichtgoud",
+     "Nieuw Zwart",
+     "Spacegrijs"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 449",
+     "46 mm Vanaf € 499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 499",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 619"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 499,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 499",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 549"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 499,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 499,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 499,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 569,
+   "totalFrom": "summary",
+   "totalText": "€ 569,00 | € 569,00 | € 569,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nieuw Donkerbrons",
+    "watch_cases-dimensionCaseSize": "42 mm Vanaf € 449",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 569",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 569,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 569,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nieuw Donkerbrons",
+     "Nieuw Lichtgoud",
+     "Nieuw Zwart",
+     "Spacegrijs"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 449",
+     "46 mm Vanaf € 499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 449",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 569"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 569,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 569",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 619"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 569,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 569,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 569,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 619,
+   "totalFrom": "summary",
+   "totalText": "€ 619,00 | € 619,00 | € 619,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nieuw Donkerbrons",
+    "watch_cases-dimensionCaseSize": "46 mm Vanaf € 499",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 619",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 619,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 619,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nieuw Donkerbrons",
+     "Nieuw Lichtgoud",
+     "Nieuw Zwart",
+     "Spacegrijs"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 449",
+     "46 mm Vanaf € 499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 499",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 619"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 619,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 619",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 669"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 619,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 619,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 619,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "€ 799,00 | € 799,00 | € 799,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+    "titanium-watch_cases-dimensionColor": "Nieuw Stralend Goud",
+    "watch_cases-dimensionCaseSize": "42 mm Vanaf € 799",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 799",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 799,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 799,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nieuw Stralend Goud",
+     "Naturel"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 799",
+     "46 mm Vanaf € 849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 799"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 799,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 799",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 849"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 799,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 799,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 799,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "€ 849,00 | € 849,00 | € 849,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+    "titanium-watch_cases-dimensionColor": "Nieuw Stralend Goud",
+    "watch_cases-dimensionCaseSize": "46 mm Vanaf € 849",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 849",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 849,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 849,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nieuw Stralend Goud",
+     "Naturel"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 799",
+     "46 mm Vanaf € 849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 849"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 849,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 849",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 899"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 849,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 849,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 849,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "€ 1.049,00 | € 1.049,00 | € 1.049,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal.",
+    "ceramic-watch_cases-dimensionColor": "Nieuw Parelwit",
+    "watch_cases-dimensionCaseSize": "42 mm Vanaf € 1.049",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 1.049",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 1.049,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 1.049,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nieuw Parelwit",
+     "Nieuw Nachtblauw"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 1.049",
+     "46 mm Vanaf € 1.099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 1.049"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 1.049,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 1.049",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 1.099"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 1.049,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 1.049,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 1.049,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "€ 1.099,00 | € 1.099,00 | € 1.099,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal.",
+    "ceramic-watch_cases-dimensionColor": "Nieuw Parelwit",
+    "watch_cases-dimensionCaseSize": "46 mm Vanaf € 1.099",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 1.099",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 1.099,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 1.099,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nieuwe uitvoeringen Aluminium Keuze uit GPS of GPS + Cellular Vanaf € 449 Matte afwerking en een stevig display met Ceramic Shield 2.",
+     "Nieuwe uitvoering Titanium Voorzien van GPS + Cellular Vanaf € 799 Gepolijst hoogwaardig titanium met een display van robuust saffierkristal.",
+     "Nieuw Keramiek Voorzien van GPS + Cellular Vanaf € 1.049 Elegant en krasbestendig met een prachtige gepolijste afwerking en een display van robuust saffierkristal."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nieuw Parelwit",
+     "Nieuw Nachtblauw"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Vanaf € 1.049",
+     "46 mm Vanaf € 1.099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 1.099"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 1.099,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 1.099",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 1.149"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 1.099,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 1.099,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 1.099,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt."
+    ]
+   }
+  }
+ }
+}

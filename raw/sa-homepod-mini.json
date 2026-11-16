@@ -1,0 +1,11 @@
+{
+ "page": "homepod-mini",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:30:28.394Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/sa/)"
+  }
+ }
+}

@@ -2,11 +2,11 @@
  "page": "airpods-pro-3",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3",
- "scrapedAt": "2026-11-13T11:13:54.411Z",
+ "scrapedAt": "2026-11-16T13:32:01.048Z",
  "configs": {
   "default": {
    "total": 219,
-   "totalFrom": "page",
+   "totalFrom": "page-first",
    "totalText": "",
    "selected": {
     "engraving-option-select-app": null,

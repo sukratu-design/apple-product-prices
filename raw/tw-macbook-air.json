@@ -1,0 +1,140 @@
+{
+ "page": "macbook-air",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:46.065Z",
+ "configs": {
+  "15": {
+   "total": 49900,
+   "totalFrom": "summary",
+   "totalText": "NT$49,900 | NT$49,900",
+   "selected": {
+    "chassis-dimensionScreensize": "15 吋 NT$49,900 起",
+    "chassis-dimensionColor": "天藍色",
+    "processor-cpuCoreCount-gpuCoreCount": "10 核心 CPU、10 核心 GPU、16 核心神經網路引擎 透過提升處理與算圖速度，為遊戲和創意工作等繁重任務更添助力。 NT$49,900 起",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "512GB 已配備",
+    "power_adapter-wattage": "40W 動態電源轉接器 (最高輸出 60W) 外型精巧，帶來最高可達 60W 的強勁充電效能。 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 吋 NT$42,900 起",
+     "15 吋 NT$49,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "天藍色",
+     "銀色",
+     "星光色",
+     "午夜色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 核心 CPU、10 核心 GPU、16 核心神經網路引擎 透過提升處理與算圖速度，為遊戲和創意工作等繁重任務更添助力。 NT$49,900 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備",
+     "24GB + NT$7,000",
+     "32GB + NT$14,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已配備",
+     "1TB + NT$10,500",
+     "2TB + NT$28,000",
+     "4TB + NT$63,000"
+    ],
+    "power_adapter-wattage": [
+     "40W 動態電源轉接器 (最高輸出 60W) 外型精巧，帶來最高可達 60W 的強勁充電效能。 已配備",
+     "35W 雙 USB-C 埠 尺寸精巧，配備兩個連接埠，可同時為兩部裝置充電。 + NT$600",
+     "70W USB-C 支援快速充電，約 30 分鐘最高可達 50% 電量。 + NT$600"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 42900,
+   "totalFrom": "summary",
+   "totalText": "NT$42,900 | NT$42,900",
+   "selected": {
+    "chassis-dimensionScreensize": "13 吋 NT$42,900 起",
+    "chassis-dimensionColor": "天藍色",
+    "processor-cpuCoreCount-gpuCoreCount": "10 核心 CPU、8 核心 GPU、16 核心神經網路引擎 讓你的一切操控速度更快，有如行雲流水般流暢。 NT$42,900 起",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "512GB 已配備",
+    "power_adapter-wattage": "40W 動態電源轉接器 (最高輸出 60W) 外型精巧，帶來最高可達 60W 的強勁充電效能。 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 吋 NT$42,900 起",
+     "15 吋 NT$49,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "天藍色",
+     "銀色",
+     "星光色",
+     "午夜色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 核心 CPU、8 核心 GPU、16 核心神經網路引擎 讓你的一切操控速度更快，有如行雲流水般流暢。 NT$42,900 起",
+     "10 核心 CPU、10 核心 GPU、16 核心神經網路引擎 透過提升處理與算圖速度，為遊戲和創意工作等繁重任務更添助力。 NT$46,400 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已配備"
+    ],
+    "power_adapter-wattage": [
+     "40W 動態電源轉接器 (最高輸出 60W) 外型精巧，帶來最高可達 60W 的強勁充電效能。 已配備",
+     "35W 雙 USB-C 埠 尺寸精巧，配備兩個連接埠，可同時為兩部裝置充電。 + NT$600",
+     "70W USB-C 支援快速充電，約 30 分鐘最高可達 50% 電量。 + NT$600"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 53400,
+   "totalFrom": "summary",
+   "totalText": "NT$53,400 | NT$53,400",
+   "selected": {
+    "chassis-dimensionScreensize": "13 吋 NT$42,900 起",
+    "chassis-dimensionColor": "天藍色",
+    "processor-cpuCoreCount-gpuCoreCount": "10 核心 CPU、10 核心 GPU、16 核心神經網路引擎 透過提升處理與算圖速度，為遊戲和創意工作等繁重任務更添助力。 NT$46,400 起",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W 動態電源轉接器 (最高輸出 60W) 外型精巧，帶來最高可達 60W 的強勁充電效能。 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 吋 NT$42,900 起",
+     "15 吋 NT$49,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "天藍色",
+     "銀色",
+     "星光色",
+     "午夜色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 核心 CPU、8 核心 GPU、16 核心神經網路引擎 讓你的一切操控速度更快，有如行雲流水般流暢。 NT$42,900 起",
+     "10 核心 CPU、10 核心 GPU、16 核心神經網路引擎 透過提升處理與算圖速度，為遊戲和創意工作等繁重任務更添助力。 NT$46,400 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備",
+     "24GB + NT$7,000",
+     "32GB + NT$14,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − NT$10,500",
+     "1TB",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500"
+    ],
+    "power_adapter-wattage": [
+     "40W 動態電源轉接器 (最高輸出 60W) 外型精巧，帶來最高可達 60W 的強勁充電效能。 已配備",
+     "35W 雙 USB-C 埠 尺寸精巧，配備兩個連接埠，可同時為兩部裝置充電。 + NT$600",
+     "70W USB-C 支援快速充電，約 30 分鐘最高可達 50% 電量。 + NT$600"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

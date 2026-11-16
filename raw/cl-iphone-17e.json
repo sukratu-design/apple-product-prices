@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:00:58.866Z",
+ "configs": {
+  "default": {
+   "total": 849990,
+   "totalFrom": "summary",
+   "totalText": "$849.990",
+   "selected": {
+    "dimensionColor": "Rosado pálido",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 $849.990 o $35.416 al mes al mes por 24 meses meses Nota a pie de página ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Rosado pálido",
+     "Blanco",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 $849.990 o $35.416 al mes al mes por 24 meses meses Nota a pie de página ∆",
+     "512 GB Nota a pie de página 1 $1.109.990 o $46.250 al mes al mes por 24 meses meses Nota a pie de página ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

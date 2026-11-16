@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:06:19.397Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 599000,
+   "totalFrom": "summary",
+   "totalText": "₩599,000 | ₩599,000 | ₩599,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New 다크 브론즈",
+    "watch_cases-dimensionCaseSize": "42mm ₩599,000부터",
+    "watch_cases-dimensionConnection": "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능. ₩599,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩599,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩599,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New 다크 브론즈",
+     "New 라이트 골드",
+     "New 블랙",
+     "스페이스 그레이"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩599,000부터",
+     "46mm ₩669,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능. ₩599,000부터",
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩749,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩599,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩599,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩669,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩599,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩599,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩599,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 669000,
+   "totalFrom": "summary",
+   "totalText": "₩669,000 | ₩669,000 | ₩669,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New 다크 브론즈",
+    "watch_cases-dimensionCaseSize": "46mm ₩669,000부터",
+    "watch_cases-dimensionConnection": "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능. ₩669,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩669,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩669,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New 다크 브론즈",
+     "New 라이트 골드",
+     "New 블랙",
+     "스페이스 그레이"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩599,000부터",
+     "46mm ₩669,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능. ₩669,000부터",
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩819,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩669,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩669,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩739,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩669,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩669,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩669,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 599000,
+   "totalFrom": "summary",
+   "totalText": "₩599,000 | ₩599,000 | ₩599,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New 다크 브론즈",
+    "watch_cases-dimensionCaseSize": "42mm ₩599,000부터",
+    "watch_cases-dimensionConnection": "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩749,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩749,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩749,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New 다크 브론즈",
+     "New 라이트 골드",
+     "New 블랙",
+     "스페이스 그레이"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩599,000부터",
+     "46mm ₩669,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능. ₩599,000부터",
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩749,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩749,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩749,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩819,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩749,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩749,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩749,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 819000,
+   "totalFrom": "summary",
+   "totalText": "₩819,000 | ₩819,000 | ₩819,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New 다크 브론즈",
+    "watch_cases-dimensionCaseSize": "46mm ₩669,000부터",
+    "watch_cases-dimensionConnection": "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩819,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩819,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩819,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New 다크 브론즈",
+     "New 라이트 골드",
+     "New 블랙",
+     "스페이스 그레이"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩599,000부터",
+     "46mm ₩669,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능. ₩669,000부터",
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩819,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩819,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩819,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩889,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩819,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩819,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩819,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 999000,
+   "totalFrom": "summary",
+   "totalText": "₩999,000 | ₩999,000 | ₩999,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+    "titanium-watch_cases-dimensionColor": "New 래디언트 골드",
+    "watch_cases-dimensionCaseSize": "42mm ₩999,000부터",
+    "watch_cases-dimensionConnection": "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩999,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩999,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩999,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New 래디언트 골드",
+     "내추럴"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩999,000부터",
+     "46mm ₩1,069,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩999,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩999,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩999,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩1,069,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩999,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩999,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩999,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 1069000,
+   "totalFrom": "summary",
+   "totalText": "₩1,069,000 | ₩1,069,000 | ₩1,069,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+    "titanium-watch_cases-dimensionColor": "New 래디언트 골드",
+    "watch_cases-dimensionCaseSize": "46mm ₩1,069,000부터",
+    "watch_cases-dimensionConnection": "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩1,069,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩1,069,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩1,069,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New 래디언트 골드",
+     "내추럴"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩999,000부터",
+     "46mm ₩1,069,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩1,069,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩1,069,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩1,069,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩1,139,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩1,069,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩1,069,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩1,069,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1399000,
+   "totalFrom": "summary",
+   "totalText": "₩1,399,000 | ₩1,399,000 | ₩1,399,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이.",
+    "ceramic-watch_cases-dimensionColor": "New 펄 화이트",
+    "watch_cases-dimensionCaseSize": "42mm ₩1,399,000부터",
+    "watch_cases-dimensionConnection": "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩1,399,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩1,399,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩1,399,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New 펄 화이트",
+     "New 나이트 블루"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩1,399,000부터",
+     "46mm ₩1,469,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩1,399,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩1,399,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩1,399,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩1,469,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩1,399,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩1,399,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩1,399,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1469000,
+   "totalFrom": "summary",
+   "totalText": "₩1,469,000 | ₩1,469,000 | ₩1,469,000",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이.",
+    "ceramic-watch_cases-dimensionColor": "New 펄 화이트",
+    "watch_cases-dimensionCaseSize": "46mm ₩1,469,000부터",
+    "watch_cases-dimensionConnection": "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩1,469,000부터",
+    "category": "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩1,469,000",
+    "rubber-style": "새로운 컬러 솔로 루프 ₩1,469,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+    "rubber-sololoop-color": "버건디",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "새로운 마감 알루미늄 GPS 또는 GPS + Cellular 선택 ₩599,000부터 무광 마감, 견고한 디스플레이, Ceramic Shield 2.",
+     "새로운 마감 티타늄 GPS + Cellular 단독 ₩999,000부터 유광 항공우주 등급 티타늄 소재, 견고한 사파이어 크리스털 디스플레이.",
+     "New 세라믹 GPS + Cellular 단독 ₩1,399,000부터 고급스러운 광택 마감의 세련된 디자인, 긁힘 방지 성능, 견고한 사파이어 크리스털 디스플레이."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New 펄 화이트",
+     "New 나이트 블루"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm ₩1,399,000부터",
+     "46mm ₩1,469,000부터"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Apple Watch만으로도 전화 통화 및 메시지 전송 가능. ₩1,469,000부터"
+    ],
+    "category": [
+     "고무 유연성과 편안함을 갖추고 수영에 최적화된 밴드. ₩1,469,000",
+     "직물 부드럽고 가벼운 소재. 일상적인 착용에 적합. ₩1,469,000부터",
+     "스테인리스 스틸 정교하게 제작된 스틸 디자인으로 품격 있고 고급스러운 룩 연출. ₩1,539,000부터"
+    ],
+    "rubber-style": [
+     "새로운 컬러 솔로 루프 ₩1,469,000 뛰어난 신축성, 잠금장치 없는 간편함, 정밀한 핏",
+     "새로운 컬러 스포츠 밴드 ₩1,469,000 뛰어난 내구성, 핀앤턱 잠금장치, 길이 조절 가능",
+     "새로운 컬러 Nike 스포츠 밴드 ₩1,469,000 뛰어난 통기성, 핀앤턱 잠금장치, 길이 조절 가능"
+    ],
+    "rubber-sololoop-color": [
+     "버건디",
+     "올리브",
+     "네이비 블루",
+     "와일드플라워 블루",
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 사용자의 iPhone이 가까이 있을 경우, 전화 통화 및 문자 전송 가능."
+    ]
+   }
+  }
+ }
+}

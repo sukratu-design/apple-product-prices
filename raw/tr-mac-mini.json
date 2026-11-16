@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:26.446Z",
+ "configs": {
+  "m6": {
+   "total": 62499,
+   "totalFrom": "summary",
+   "totalText": "62.499,00 TL | 62.499,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU 16 Çekirdekli Çift Neural Engine Başlangıç fiyatı: 62.499 TL",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Dahil",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "256 GB Dahil",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standart ağ bağlantısı ile 2.5 Gb’e kadar bağlantı hızları. Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU 16 Çekirdekli Çift Neural Engine Başlangıç fiyatı: 62.499 TL",
+     "M5 Pro çip Zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneklerinden yararlanın. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 119.999 TL"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Dahil"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil",
+     "24 GB + 14.000,00 TL",
+     "32 GB + 28.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Dahil",
+     "512 GB + 14.000,00 TL",
+     "1 TB + 35.000,00 TL",
+     "2 TB + 70.000,00 TL"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standart ağ bağlantısı ile 2.5 Gb’e kadar bağlantı hızları. Dahil",
+     "10 Gigabit Ethernet 10 Gb’e kadar bağlantı hızıyla daha yüksek bağlantı bant genişliği. + 7.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 119999,
+   "totalFrom": "summary",
+   "totalText": "119.999,00 TL | 119.999,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro çip Zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneklerinden yararlanın. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 119.999 TL",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 Çekirdekli CPU, 16 Çekirdekli GPU Dahil",
+    "memory-dimensionMemory": "24 GB Dahil",
+    "storage-dimensionCapacity": "512 GB Dahil",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standart ağ bağlantısı ile 2.5 Gb’e kadar bağlantı hızları. Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU 16 Çekirdekli Çift Neural Engine Başlangıç fiyatı: 62.499 TL",
+     "M5 Pro çip Zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneklerinden yararlanın. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 119.999 TL"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 Çekirdekli CPU, 16 Çekirdekli GPU Dahil",
+     "18 Çekirdekli CPU, 20 Çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. + 14.000,00 TL"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Dahil",
+     "48 GB + 42.000,00 TL",
+     "64 GB + 70.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Dahil",
+     "1 TB + 21.000,00 TL",
+     "2 TB + 56.000,00 TL",
+     "4 TB + 126.000,00 TL",
+     "8 TB + 266.000,00 TL"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standart ağ bağlantısı ile 2.5 Gb’e kadar bağlantı hızları. Dahil",
+     "10 Gigabit Ethernet 10 Gb’e kadar bağlantı hızıyla daha yüksek bağlantı bant genişliği. + 7.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 133999,
+   "totalFrom": "summary",
+   "totalText": "133.999,00 TL | 133.999,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro çip Zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneklerinden yararlanın. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 119.999 TL",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 Çekirdekli CPU, 20 Çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın.",
+    "memory-dimensionMemory": "24 GB Dahil",
+    "storage-dimensionCapacity": "512 GB Dahil",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standart ağ bağlantısı ile 2.5 Gb’e kadar bağlantı hızları. Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU 16 Çekirdekli Çift Neural Engine Başlangıç fiyatı: 62.499 TL",
+     "M5 Pro çip Zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneklerinden yararlanın. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 119.999 TL"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 Çekirdekli CPU, 16 Çekirdekli GPU − 14.000,00 TL",
+     "18 Çekirdekli CPU, 20 Çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Dahil",
+     "48 GB + 42.000,00 TL",
+     "64 GB + 70.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Dahil",
+     "1 TB + 21.000,00 TL",
+     "2 TB + 56.000,00 TL",
+     "4 TB + 126.000,00 TL",
+     "8 TB + 266.000,00 TL"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standart ağ bağlantısı ile 2.5 Gb’e kadar bağlantı hızları. Dahil",
+     "10 Gigabit Ethernet 10 Gb’e kadar bağlantı hızıyla daha yüksek bağlantı bant genişliği. + 7.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

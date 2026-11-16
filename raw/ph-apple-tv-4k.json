@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:29:54.782Z",
+ "configs": {
+  "default": {
+   "total": 21990,
+   "totalFrom": "summary",
+   "totalText": "₱2,990.00 | ₱21,990.00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

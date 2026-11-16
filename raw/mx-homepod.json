@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:29:00.584Z",
+ "configs": {
+  "default": {
+   "total": 7499,
+   "totalFrom": "summary",
+   "totalText": "$7,499.00",
+   "selected": {
+    "dimensionColor": "Blanco"
+   },
+   "options": {
+    "dimensionColor": [
+     "Blanco",
+     "Color medianoche"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

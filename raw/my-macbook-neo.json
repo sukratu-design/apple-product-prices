@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:50.565Z",
+ "configs": {
+  "256": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "RM 2,999 or RM 124.96/month per month for 24 months Footnote ◊ | RM 2,999 or RM 124.96/month per month for 24 months Footnote ◊ | RM 2,999.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From RM 2,999 or RM 124.96/month per month for 24 months"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From RM 2,999 or RM 124.96/month per month for 24 months",
+     "512 GB Magic Keyboard with Touch ID From RM 3,399 or RM 141.63/month per month for 24 months"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 3399,
+   "totalFrom": "summary",
+   "totalText": "RM 3,399.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From RM 3,399 or RM 141.63/month per month for 24 months"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From RM 2,999 or RM 124.96/month per month for 24 months",
+     "512 GB Magic Keyboard with Touch ID From RM 3,399 or RM 141.63/month per month for 24 months"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

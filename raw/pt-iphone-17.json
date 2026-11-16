@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:07.267Z",
+ "configs": {
+  "default": {
+   "total": 1139,
+   "totalFrom": "summary",
+   "totalText": "1 139,00 € | 1 139,00 € | 1 139,00 €",
+   "selected": {
+    "dimensionColor": "Lavanda",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 1 139,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavanda",
+     "Azul-névoa",
+     "Branco",
+     "Verde sálvia",
+     "Preto"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 1 139,00 €",
+     "512 GB Nota de rodapé 1 1 389,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

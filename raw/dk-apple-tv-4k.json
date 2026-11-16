@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:26:40.827Z",
+ "configs": {
+  "default": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "299,00 kr. | 2.699,00 kr.",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

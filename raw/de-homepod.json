@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:26:31.817Z",
+ "configs": {
+  "default": {
+   "total": 399,
+   "totalFrom": "summary",
+   "totalText": "399,00 €",
+   "selected": {
+    "dimensionColor": "Weiß"
+   },
+   "options": {
+    "dimensionColor": [
+     "Weiß",
+     "Mitternacht"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

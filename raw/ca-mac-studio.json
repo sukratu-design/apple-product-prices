@@ -2,22 +2,22 @@
  "page": "mac-studio",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-mac/mac-studio",
- "scrapedAt": "2026-11-13T11:08:08.546Z",
+ "scrapedAt": "2026-11-16T12:55:41.714Z",
  "configs": {
   "m5max-32": {
    "total": 3499,
    "totalFrom": "summary",
-   "totalText": "$3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "totalText": "$3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊ | $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
     "memory-dimensionMemory": "36GB Included",
     "storage-dimensionCapacity": "512GB Included"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18-core CPU, 32‑core GPU Included",
@@ -39,17 +39,17 @@
   "m5max-40": {
    "total": 4399,
    "totalFrom": "summary",
-   "totalText": "$4399 or $198.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "totalText": "$4399 or $198.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊ | $4399 or $198.92/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
     "memory-dimensionMemory": "48GB Included",
     "storage-dimensionCapacity": "512GB Included"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18-core CPU, 32‑core GPU − $450.00",
@@ -73,17 +73,17 @@
   "m5ultra-64": {
    "total": 7799,
    "totalFrom": "summary",
-   "totalText": "$7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "totalText": "$7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊ | $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR",
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
     "memory-dimensionMemory": "96GB Included",
     "storage-dimensionCapacity": "1TB Included"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR"
     ],
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "30-core CPU, 64‑core GPU Included",
@@ -106,17 +106,17 @@
   "m5ultra-80": {
    "total": 9749,
    "totalFrom": "summary",
-   "totalText": "$9749 or $440.85/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+   "totalText": "$9749 or $440.85/mo. per month for 24 mo. months at 7.99% APR Footnote ◊ | $9749 or $440.85/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR",
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film.",
     "memory-dimensionMemory": "96GB Included",
     "storage-dimensionCapacity": "1TB Included"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From $3499 or $158.23/mo. per month for 24 mo. months at 7.99% APR",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From $7799 or $352.67/mo. per month for 24 mo. months at 7.99% APR"
     ],
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "30-core CPU, 64‑core GPU − $1,950.00",

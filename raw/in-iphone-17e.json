@@ -2,11 +2,16 @@
  "page": "iphone-17e",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-iphone/iphone-17e",
- "scrapedAt": "2026-11-13T04:50:20.769Z",
+ "scrapedAt": "2026-11-16T12:01:31.840Z",
  "configs": {
   "default": {
-   "total": null,
+   "total": 13150,
+   "totalFrom": "summary",
    "totalText": "From ₹13150.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 From ₹13150.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹79900.00 Footnote ‡ (Incl. of all taxes)"
+   },
    "options": {
     "dimensionColor": [
      "Soft Pink",
@@ -17,7 +22,8 @@
      "256GB Footnote 1 From ₹13150.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹79900.00 Footnote ‡ (Incl. of all taxes)",
      "512GB Footnote 1 From ₹17317.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹104900.00 Footnote ‡ (Incl. of all taxes)"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

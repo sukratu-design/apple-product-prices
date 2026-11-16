@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:58:50.814Z",
+ "configs": {
+  "default": {
+   "total": 25999,
+   "totalFrom": "summary",
+   "totalText": "$25,999.00",
+   "selected": {
+    "dimensionColor": "Azul cielo",
+    "dimensionCapacity": "256 GB Nota al pie 1 $25,999.00 de contado o 18 MSI desde $1,444.39. Nota al pie ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Azul cielo",
+     "Blanco nube",
+     "Negro espacial",
+     "Oro claro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota al pie 1 $25,999.00 de contado o 18 MSI desde $1,444.39. Nota al pie ◊",
+     "512 GB Nota al pie 1 $30,999.00 de contado o 18 MSI desde $1,722.17. Nota al pie ◊",
+     "1 TB Nota al pie 1 $40,999.00 de contado o 18 MSI desde $2,277.72. Nota al pie ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

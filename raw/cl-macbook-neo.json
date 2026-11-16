@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:32.241Z",
+ "configs": {
+  "256": {
+   "total": 879990,
+   "totalFrom": "summary",
+   "totalText": "$879.990",
+   "selected": {
+    "chassis-dimensionColor": "Plata",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Desde $879.990 o $36.666 al mes al mes por 24 meses meses"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Plata",
+     "Rosado rubor",
+     "Amarillo cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Desde $879.990 o $36.666 al mes al mes por 24 meses meses",
+     "512 GB Magic Keyboard con Touch ID Desde $999.990 o $41.666 al mes al mes por 24 meses meses"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 999990,
+   "totalFrom": "summary",
+   "totalText": "$999.990",
+   "selected": {
+    "chassis-dimensionColor": "Plata",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard con Touch ID Desde $999.990 o $41.666 al mes al mes por 24 meses meses"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Plata",
+     "Rosado rubor",
+     "Amarillo cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Desde $879.990 o $36.666 al mes al mes por 24 meses meses",
+     "512 GB Magic Keyboard con Touch ID Desde $999.990 o $41.666 al mes al mes por 24 meses meses"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

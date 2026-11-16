@@ -1,0 +1,351 @@
+{
+ "page": "ipad-pro",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-ipad/ipad-pro",
+ "scrapedAt": "2026-11-16T12:04:13.813Z",
+ "configs": {
+  "11-wifi": {
+   "total": 16498,
+   "totalFrom": "summary",
+   "totalText": "R$ 16.498,00 | R$ 16.498,00 | R$ 1.499,00 | R$ 899,00 | R$ 3.299,00 | R$ 3.799,00 | R$ 16.498,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+    "dimensionColor": "Preto-espacial",
+    "dimensionCapacity": "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 14.999",
+    "dimensionFinish": "Vidro convencional A partir de R$ 14.999",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 14.999,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Adicionar Magic Keyboard para iPad Pro R$ 3.299,00",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Sem teclado",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+     "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999"
+    ],
+    "dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "dimensionCapacity": [
+     "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 14.999",
+     "512 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 17.399",
+     "1 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 22.199",
+     "2 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 28.199"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 14.999"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 14.999,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 17.399,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Pro R$ 3.299,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Preto",
+     "Branco"
+    ],
+    "acc_keyboard_13inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": []
+   },
+   "disabledOptions": {
+    "dimensionFinish": [
+     "Vidro nano-texture Disponível em modelos com 1 TB ou 2 TB de armazenamento"
+    ],
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad ProR$ 3.799,00"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  },
+  "11-cell": {
+   "total": 18898,
+   "totalFrom": "summary",
+   "totalText": "R$ 18.898,00 | R$ 18.898,00 | R$ 1.499,00 | R$ 899,00 | R$ 3.299,00 | R$ 3.799,00 | R$ 18.898,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+    "dimensionColor": "Preto-espacial",
+    "dimensionCapacity": "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 14.999",
+    "dimensionFinish": "Vidro convencional A partir de R$ 14.999",
+    "dimensionConnection": "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 17.399,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Adicionar Magic Keyboard para iPad Pro R$ 3.299,00",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Sem teclado",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+     "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999"
+    ],
+    "dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "dimensionCapacity": [
+     "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 14.999",
+     "512 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 17.399",
+     "1 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 22.199",
+     "2 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 28.199"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 14.999"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 14.999,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 17.399,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Pro R$ 3.299,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Preto",
+     "Branco"
+    ],
+    "acc_keyboard_13inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": []
+   },
+   "disabledOptions": {
+    "dimensionFinish": [
+     "Vidro nano-texture Disponível em modelos com 1 TB ou 2 TB de armazenamento"
+    ],
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad ProR$ 3.799,00"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  },
+  "13-wifi": {
+   "total": 20498,
+   "totalFrom": "summary",
+   "totalText": "R$ 20.498,00 | R$ 20.498,00 | R$ 1.499,00 | R$ 899,00 | R$ 3.299,00 | R$ 3.799,00 | R$ 20.498,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999",
+    "dimensionColor": "Preto-espacial",
+    "dimensionCapacity": "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 18.999",
+    "dimensionFinish": "Vidro convencional A partir de R$ 18.999",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 18.999,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Sem teclado",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Adicionar Magic Keyboard para iPad Pro R$ 3.799,00",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+     "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999"
+    ],
+    "dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "dimensionCapacity": [
+     "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 18.999",
+     "512 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 21.399",
+     "1 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 26.199",
+     "2 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 32.199"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 18.999"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 18.999,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 21.399,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [],
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad Pro R$ 3.799,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   },
+   "disabledOptions": {
+    "dimensionFinish": [
+     "Vidro nano-texture Disponível em modelos com 1 TB ou 2 TB de armazenamento"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad ProR$ 3.299,00"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Preto",
+     "Branco"
+    ]
+   }
+  },
+  "13-cell": {
+   "total": 22898,
+   "totalFrom": "summary",
+   "totalText": "R$ 22.898,00 | R$ 22.898,00 | R$ 1.499,00 | R$ 899,00 | R$ 3.299,00 | R$ 3.799,00 | R$ 22.898,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999",
+    "dimensionColor": "Preto-espacial",
+    "dimensionCapacity": "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 18.999",
+    "dimensionFinish": "Vidro convencional A partir de R$ 18.999",
+    "dimensionConnection": "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 21.399,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Sem teclado",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Adicionar Magic Keyboard para iPad Pro R$ 3.799,00",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+     "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999"
+    ],
+    "dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "dimensionCapacity": [
+     "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 18.999",
+     "512 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 21.399",
+     "1 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 26.199",
+     "2 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 32.199"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 18.999"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 18.999,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 21.399,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [],
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad Pro R$ 3.799,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   },
+   "disabledOptions": {
+    "dimensionFinish": [
+     "Vidro nano-texture Disponível em modelos com 1 TB ou 2 TB de armazenamento"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad ProR$ 3.299,00"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Preto",
+     "Branco"
+    ]
+   }
+  },
+  "nano": {
+   "total": 23698,
+   "totalFrom": "summary",
+   "totalText": "R$ 23.698,00 | R$ 23.698,00 | R$ 1.499,00 | R$ 899,00 | R$ 3.299,00 | R$ 3.799,00 | R$ 23.698,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+    "dimensionColor": "Preto-espacial",
+    "dimensionCapacity": "1 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 22.199",
+    "dimensionFinish": "Vidro convencional A partir de R$ 22.199",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 22.199,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Adicionar Magic Keyboard para iPad Pro R$ 3.299,00",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Sem teclado",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas Tela Ultra Retina XDR A partir de R$ 14.999",
+     "Modelo de 13 polegadas Tela Ultra Retina XDR A partir de R$ 18.999"
+    ],
+    "dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "dimensionCapacity": [
+     "256 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 14.999",
+     "512 GB de armazenamento Nota de rodapé 2 12 GB de memória Chip M5: CPU de 9 núcleos, GPU de 10 núcleos A partir de R$ 17.399",
+     "1 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 22.199",
+     "2 TB de armazenamento Nota de rodapé 2 16 GB de memória Chip M5: CPU de 10 núcleos, GPU de 10 núcleos A partir de R$ 28.199"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 22.199",
+     "Vidro nano-texture Disponível em modelos com 1 TB ou 2 TB de armazenamento A partir de R$ 23.399"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 22.199,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 24.599,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Pro R$ 3.299,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Preto",
+     "Branco"
+    ],
+    "acc_keyboard_13inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": []
+   },
+   "disabledOptions": {
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad ProR$ 3.799,00"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  }
+ }
+}

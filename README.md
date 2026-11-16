@@ -1,6 +1,6 @@
 # Apple Product Prices
 
-A single-page site, developed by [Anand Bongir](https://x.com/anand_bongir), that shows the price range of every current Apple product, from the entry configuration to the fully loaded one, in **eight countries**: the United States, India, the United Kingdom, the United Arab Emirates, Canada, Australia, Japan and Singapore.
+A single-page site, developed by [Anand Bongir](https://x.com/anand_bongir), that shows the price range of every current Apple product, from the entry configuration to the fully loaded one, in **40 countries**: every country where Apple sells online (see `scripts/countries.json`).
 
 Each row is one product. Dots mark every configuration on a shared price scale. Click a row to see the price ladder: storage tiers for iPhone and iPad, memory and storage upgrades for Mac, and size and connectivity for Apple Watch.
 
@@ -21,23 +21,21 @@ Each row is one product. Dots mark every configuration on a shared price scale. 
 
 ## Where the prices come from
 
-All prices are read from Apple's own online stores. Exchange rates for the world map come from [open.er-api.com](https://open.er-api.com) and are refreshed each time `scripts/build_prices.py` runs.
+All prices are read from Apple's own online stores in 40 countries: United States, Canada, Mexico, Brazil, Chile, United Kingdom, Ireland, France, Germany, Italy, Spain, Portugal, Netherlands, Belgium, Luxembourg, Austria, Finland, Switzerland, Sweden, Norway, Denmark, Poland, Czechia, Hungary, Türkiye, United Arab Emirates, Saudi Arabia, India, China mainland, Hong Kong, Taiwan, Japan, South Korea, Singapore, Malaysia, Thailand, Philippines, Vietnam, Australia and New Zealand.
 
+US and Canada prices exclude sales tax; every other store includes VAT, GST or similar taxes. India prices are MRP.
 
-| Country | Store | Prices |
-|---|---|---|
-| United States | `apple.com/shop` | list prices, before sales tax |
-| India | `apple.com/in/shop` | MRP, including GST |
-| United Kingdom | `apple.com/uk/shop` | including VAT |
-| United Arab Emirates | `apple.com/ae/shop` | including VAT |
-| Canada | `apple.com/ca/shop` | before sales tax |
-| Australia | `apple.com/au/shop` | including GST |
-| Japan | `apple.com/jp/shop` | including consumption tax |
-| Singapore | `apple.com/sg/shop` | including GST |
+Other country pages on apple.com (for example Peru, Colombia, Argentina, Greece, Romania, the Baltic states, Qatar, Kuwait, Israel, Egypt, Indonesia and South Africa) have no online store with prices, so they are not included.
+
+Exchange rates for the world map come from [open.er-api.com](https://open.er-api.com) and are refreshed each time `scripts/build_prices.py` runs.
 
 The only hand-entered prices are the Hermès Apple Watch rows (US starting prices from press coverage), because Hermès models are sold on a separate store.
 
-To add a country, add its store URL to `BASE` and its currency marker to `CUR` in `scripts/scrape.js`, add it to `COUNTRIES` and `CUR` in `scripts/build_prices.py`, then scrape it with `COUNTRIES=xx node scripts/scrape.js all`.
+### How prices are read
+
+`scripts/countries.json` lists each store's URL and the currency sign printed next to its prices. A price is a number next to that sign, in any local format (`1,199`, `1.199`, `1 199`, `1'199`, `219,800円`, `38.999.000đ`). Option labels and price boxes also contain smaller amounts (monthly instalments, lease, AppleCare), so the full price is always the largest amount; this works the same in every language. Footnote markers such as "Footnote 1" or "脚注 1" are removed first so they don't merge with the price.
+
+To add a store, add it to `scripts/countries.json` (and its map position to `scripts/make-map.mjs`), then scrape it with `COUNTRIES=xx node scripts/scrape.js all`.
 
 ## Updating prices
 
@@ -46,7 +44,13 @@ npm install playwright@1.48.2 && npx playwright install chromium   # once, if Pl
 ```
 
 ```bash
-node scripts/scrape.js all
+JOBS=14 node scripts/scrape.js all
+```
+
+A full run reads about 1,360 store pages and takes 2–3 hours. If it is interrupted, resume it without redoing finished pages:
+
+```bash
+FRESH_HOURS=12 JOBS=14 node scripts/scrape.js all
 ```
 
 ```bash

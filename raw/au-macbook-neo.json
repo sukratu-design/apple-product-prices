@@ -2,15 +2,15 @@
  "page": "macbook-neo",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-mac/macbook-neo",
- "scrapedAt": "2026-11-13T11:05:28.626Z",
+ "scrapedAt": "2026-11-16T12:41:59.605Z",
  "configs": {
   "256": {
    "total": 1049,
    "totalFrom": "summary",
-   "totalText": "A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "totalText": "A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ± | A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    "storage-dimensionCapacity": "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a."
    },
    "options": {
     "chassis-dimensionColor": [
@@ -20,8 +20,8 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
-     "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+     "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a.",
+     "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a."
     ]
    },
    "disabledOptions": {}
@@ -29,10 +29,10 @@
   "512": {
    "total": 1249,
    "totalFrom": "summary",
-   "totalText": "A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "totalText": "A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ± | A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a."
    },
    "options": {
     "chassis-dimensionColor": [
@@ -42,8 +42,8 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
-     "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+     "256GB Magic Keyboard From A$1,049.00 or A$87.42/mo. per month for 12 mo. months at 0% p.a.",
+     "512GB Magic Keyboard with Touch ID From A$1,249.00 or A$104.08/mo. per month for 12 mo. months at 0% p.a."
     ]
    },
    "disabledOptions": {}

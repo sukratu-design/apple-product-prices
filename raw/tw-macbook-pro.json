@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:50:42.861Z",
+ "configs": {
+  "14-m6": {
+   "total": 64900,
+   "totalFrom": "summary",
+   "totalText": "NT$64,900 | NT$64,900",
+   "selected": {
+    "chassis-dimensionScreensize": "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "全新 M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$64,900 起",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "已配備",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "1TB 已配備",
+    "power_adapter-wattage": "70W 尺寸精巧，高效充電。 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "全新 M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$64,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "已配備"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備",
+     "24GB + NT$7,000",
+     "32GB + NT$14,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已配備",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500"
+    ],
+    "power_adapter-wattage": [
+     "70W 尺寸精巧，高效充電。 已配備",
+     "140W 快速充電，支援配備 M5 Pro 與 M5 Max 晶片機型的高耗電模式。 + NT$500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 84900,
+   "totalFrom": "summary",
+   "totalText": "NT$84,900 | NT$84,900",
+   "selected": {
+    "chassis-dimensionScreensize": "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 核心 CPU、16 核心 GPU 已配備",
+    "memory-dimensionMemory": "24GB 已配備",
+    "storage-dimensionCapacity": "1TB 已配備",
+    "power_adapter-wattage": "70W 尺寸精巧，高效充電。 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "全新 M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$64,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核心 CPU、16 核心 GPU 已配備",
+     "18 核心 CPU、20 核心 GPU 大幅提升處理與算圖速度，可應對遊戲，程式碼編寫與創意工作等繁重任務。 + NT$7,500"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已配備",
+     "48GB + NT$21,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已配備",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500"
+    ],
+    "power_adapter-wattage": [
+     "70W 尺寸精巧，高效充電。 已配備",
+     "140W 快速充電，支援配備 M5 Pro 與 M5 Max 晶片機型的高耗電模式。 + NT$500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 92400,
+   "totalFrom": "summary",
+   "totalText": "NT$92,400 | NT$92,400",
+   "selected": {
+    "chassis-dimensionScreensize": "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、20 核心 GPU 大幅提升處理與算圖速度，可應對遊戲，程式碼編寫與創意工作等繁重任務。",
+    "memory-dimensionMemory": "24GB 已配備",
+    "storage-dimensionCapacity": "1TB 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "全新 M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$64,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核心 CPU、16 核心 GPU − NT$7,500",
+     "18 核心 CPU、20 核心 GPU 大幅提升處理與算圖速度，可應對遊戲，程式碼編寫與創意工作等繁重任務。"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已配備",
+     "48GB + NT$21,000",
+     "64GB + NT$35,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已配備",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 139900,
+   "totalFrom": "summary",
+   "totalText": "NT$139,900 | NT$139,900",
+   "selected": {
+    "chassis-dimensionScreensize": "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、32 核心 GPU 已配備",
+    "memory-dimensionMemory": "36GB 已配備",
+    "storage-dimensionCapacity": "2TB 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "全新 M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$64,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、32 核心 GPU 已配備",
+     "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 + NT$10,500 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB 已配備"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已配備",
+     "4TB + NT$35,000",
+     "8TB + NT$105,000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 160900,
+   "totalFrom": "summary",
+   "totalText": "NT$160,900 | NT$160,900",
+   "selected": {
+    "chassis-dimensionScreensize": "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。",
+    "memory-dimensionMemory": "48GB 已配備",
+    "storage-dimensionCapacity": "2TB 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "全新 M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$64,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$139,900 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、32 核心 GPU − NT$10,500",
+     "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB 已配備",
+     "64GB + NT$14,000",
+     "128GB + NT$70,000"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已配備",
+     "4TB + NT$35,000",
+     "8TB + NT$105,000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 99900,
+   "totalFrom": "summary",
+   "totalText": "NT$99,900 | NT$99,900",
+   "selected": {
+    "chassis-dimensionScreensize": "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 18 核心 CPU、20 核心 GPU、16 核心神經網路引擎 NT$99,900 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、20 核心 GPU 大幅提升處理與算圖速度，可應對遊戲，程式碼編寫與創意工作等繁重任務。 已配備",
+    "memory-dimensionMemory": "24GB 已配備",
+    "storage-dimensionCapacity": "1TB 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 18 核心 CPU、20 核心 GPU、16 核心神經網路引擎 NT$99,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$144,900 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、20 核心 GPU 大幅提升處理與算圖速度，可應對遊戲，程式碼編寫與創意工作等繁重任務。 已配備"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已配備",
+     "48GB + NT$21,000",
+     "64GB + NT$35,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已配備",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 144900,
+   "totalFrom": "summary",
+   "totalText": "NT$144,900 | NT$144,900",
+   "selected": {
+    "chassis-dimensionScreensize": "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$144,900 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、32 核心 GPU 已配備",
+    "memory-dimensionMemory": "36GB 已配備",
+    "storage-dimensionCapacity": "2TB 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 18 核心 CPU、20 核心 GPU、16 核心神經網路引擎 NT$99,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$144,900 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、32 核心 GPU 已配備",
+     "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 + NT$14,500 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB 已配備"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已配備",
+     "4TB + NT$35,000",
+     "8TB + NT$105,000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 169900,
+   "totalFrom": "summary",
+   "totalText": "NT$169,900 | NT$169,900",
+   "selected": {
+    "chassis-dimensionScreensize": "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起",
+    "chassis-dimensionColor": "太空黑色",
+    "display-dimensionFinish": "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "processor-dimensionChip": "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$144,900 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。",
+    "memory-dimensionMemory": "48GB 已配備",
+    "storage-dimensionCapacity": "2TB 已配備"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 吋 可選配 M6、M5 Pro 或 M5 Max 晶片。 NT$64,900 起",
+     "16 吋 可選配 M5 Pro 或 M5 Max 晶片。 NT$99,900 起"
+    ],
+    "chassis-dimensionColor": [
+     "太空黑色",
+     "銀色"
+    ],
+    "display-dimensionFinish": [
+     "標準顯示器 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理顯示器 進一步減少強光環境造成的反射與眩光。 + NT$5,250"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭更繁重的工作流程。 18 核心 CPU、20 核心 GPU、16 核心神經網路引擎 NT$99,900 起",
+     "M5 Max 晶片 我們歷來專業級筆電中最強大的晶片，專為駕馭最繁重的工作流程而設計。 2 個選項，均配備 16 核心神經網路引擎 NT$144,900 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、32 核心 GPU − NT$14,500",
+     "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB 已配備",
+     "64GB + NT$14,000",
+     "128GB + NT$70,000"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已配備",
+     "4TB + NT$35,000",
+     "8TB + NT$105,000"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

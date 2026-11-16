@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:38.603Z",
+ "configs": {
+  "15": {
+   "total": 1729,
+   "totalFrom": "summary",
+   "totalText": "1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionScreensize": "15 pulgadas Desde 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "chassis-dimensionColor": "Azul cielo",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dale un impulso a las tareas exigentes, como jugar y crear contenido creativo, con mayor velocidad de procesamiento y renderizado gráfico. Desde 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pulgadas Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "15 pulgadas Desde 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "chassis-dimensionColor": [
+     "Azul cielo",
+     "Plata",
+     "Blanco estrella",
+     "Medianoche"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dale un impulso a las tareas exigentes, como jugar y crear contenido creativo, con mayor velocidad de procesamiento y renderizado gráfico. Desde 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + 330,00 €",
+     "2 TB + 880,00 €",
+     "4 TB + 1.980,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1429,
+   "totalFrom": "summary",
+   "totalText": "1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pulgadas Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "chassis-dimensionColor": "Azul cielo",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Te permite hacer de todo de forma rápida y fluida. Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pulgadas Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "15 pulgadas Desde 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "chassis-dimensionColor": [
+     "Azul cielo",
+     "Plata",
+     "Blanco estrella",
+     "Medianoche"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Te permite hacer de todo de forma rápida y fluida. Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dale un impulso a las tareas exigentes, como jugar y crear contenido creativo, con mayor velocidad de procesamiento y renderizado gráfico. Desde 1.539,00 € o 53,31 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1759,
+   "totalFrom": "summary",
+   "totalText": "1.759,00 € o 60,93 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 1.759,00 € o 60,93 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pulgadas Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "chassis-dimensionColor": "Azul cielo",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dale un impulso a las tareas exigentes, como jugar y crear contenido creativo, con mayor velocidad de procesamiento y renderizado gráfico. Desde 1.539,00 € o 53,31 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pulgadas Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "15 pulgadas Desde 1.729,00 € o 59,89 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "chassis-dimensionColor": [
+     "Azul cielo",
+     "Plata",
+     "Blanco estrella",
+     "Medianoche"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Te permite hacer de todo de forma rápida y fluida. Desde 1.429,00 € o 49,50 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dale un impulso a las tareas exigentes, como jugar y crear contenido creativo, con mayor velocidad de procesamiento y renderizado gráfico. Desde 1.539,00 € o 53,31 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 330,00 €",
+     "1 TB",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

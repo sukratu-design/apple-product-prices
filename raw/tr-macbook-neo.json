@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:28.520Z",
+ "configs": {
+  "256": {
+   "total": 49999,
+   "totalFrom": "summary",
+   "totalText": "49.999,00 TL | 49.999,00 TL | 49.999,00 TL",
+   "selected": {
+    "chassis-dimensionColor": "Gümüş",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Başlangıç fiyatı: 49.999 TL"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Gümüş",
+     "Pastel Pembe",
+     "Puslu Sarı",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Başlangıç fiyatı: 49.999 TL",
+     "512 GB Touch ID özellikli Magic Keyboard Başlangıç fiyatı: 56.499 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 56499,
+   "totalFrom": "summary",
+   "totalText": "56.499,00 TL | 56.499,00 TL | 56.499,00 TL",
+   "selected": {
+    "chassis-dimensionColor": "Gümüş",
+    "storage-dimensionCapacity": "512 GB Touch ID özellikli Magic Keyboard Başlangıç fiyatı: 56.499 TL"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Gümüş",
+     "Pastel Pembe",
+     "Puslu Sarı",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Başlangıç fiyatı: 49.999 TL",
+     "512 GB Touch ID özellikli Magic Keyboard Başlangıç fiyatı: 56.499 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:13.883Z",
+ "configs": {
+  "15": {
+   "total": 13499,
+   "totalFrom": "summary",
+   "totalText": "13.499,00 kr. | 13.499,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "15\" Fra 13.499 kr.",
+    "chassis-dimensionColor": "himmelblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10-core CPU, 10-core GPU, 16-core Neural Engine Sæt ekstra fart på krævende opgaver som spil og kreative projekter med øget processorkraft og grafisk ydeevne. Fra 13.499 kr.",
+    "memory-dimensionMemory": "16 GB Inkluderet",
+    "storage-dimensionCapacity": "512 GB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13\" Fra 11.999 kr.",
+     "15\" Fra 13.499 kr."
+    ],
+    "chassis-dimensionColor": [
+     "himmelblå",
+     "sølv",
+     "stjerneskær",
+     "midnat"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-core CPU, 10-core GPU, 16-core Neural Engine Sæt ekstra fart på krævende opgaver som spil og kreative projekter med øget processorkraft og grafisk ydeevne. Fra 13.499 kr."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkluderet",
+     "24 GB + 2.000,00 kr.",
+     "32 GB + 4.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkluderet",
+     "1 TB + 3.000,00 kr.",
+     "2 TB + 8.000,00 kr.",
+     "4 TB + 18.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 11999,
+   "totalFrom": "summary",
+   "totalText": "11.999,00 kr. | 11.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "13\" Fra 11.999 kr.",
+    "chassis-dimensionColor": "himmelblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10-core CPU, 8-core GPU, 16-core Neural Engine Fuld fart og smidighed til alle de ting, du laver. Fra 11.999 kr.",
+    "memory-dimensionMemory": "16 GB Inkluderet",
+    "storage-dimensionCapacity": "512 GB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13\" Fra 11.999 kr.",
+     "15\" Fra 13.499 kr."
+    ],
+    "chassis-dimensionColor": [
+     "himmelblå",
+     "sølv",
+     "stjerneskær",
+     "midnat"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-core CPU, 8-core GPU, 16-core Neural Engine Fuld fart og smidighed til alle de ting, du laver. Fra 11.999 kr.",
+     "10-core CPU, 10-core GPU, 16-core Neural Engine Sæt ekstra fart på krævende opgaver som spil og kreative projekter med øget processorkraft og grafisk ydeevne. Fra 12.999 kr."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkluderet"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkluderet"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 14999,
+   "totalFrom": "summary",
+   "totalText": "14.999,00 kr. | 14.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "13\" Fra 11.999 kr.",
+    "chassis-dimensionColor": "himmelblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10-core CPU, 10-core GPU, 16-core Neural Engine Sæt ekstra fart på krævende opgaver som spil og kreative projekter med øget processorkraft og grafisk ydeevne. Fra 12.999 kr.",
+    "memory-dimensionMemory": "16 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13\" Fra 11.999 kr.",
+     "15\" Fra 13.499 kr."
+    ],
+    "chassis-dimensionColor": [
+     "himmelblå",
+     "sølv",
+     "stjerneskær",
+     "midnat"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-core CPU, 8-core GPU, 16-core Neural Engine Fuld fart og smidighed til alle de ting, du laver. Fra 11.999 kr.",
+     "10-core CPU, 10-core GPU, 16-core Neural Engine Sæt ekstra fart på krævende opgaver som spil og kreative projekter med øget processorkraft og grafisk ydeevne. Fra 12.999 kr."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkluderet",
+     "24 GB + 2.000,00 kr.",
+     "32 GB + 4.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 3.000,00 kr.",
+     "1 TB",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

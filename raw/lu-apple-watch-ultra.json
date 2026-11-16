@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "lu",
+ "url": "https://www.apple.com/lu/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:13.130Z",
+ "configs": {
+  "band": {
+   "total": 869,
+   "totalFrom": "summary",
+   "totalText": "869,29 € | 869,29 € | 869,29 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Noir",
+    "style": "Nouveaux coloris Boucle Alpine Pour les activités de plein air et la randonnée. 869,29 €",
+    "alpineloop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "Small Convient aux tours de poignet de 130 à 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Noir",
+     "Naturel"
+    ],
+    "style": [
+     "Nouveaux coloris Boucle Alpine Pour les activités de plein air et la randonnée. 869,29 €",
+     "Nouveaux coloris Boucle Trail Pour tous types d’activités physiques et d’entraînements. 869,29 €",
+     "Nouveaux coloris Bracelet Océan Pour les sports nautiques extrêmes et la plongée loisir. 869,29 €",
+     "Bracelet Milanais en titane Conçu pour le milieu marin, mais élégant en toutes circonstances. 965,98 €"
+    ],
+    "alpineloop-color": [
+     "Bordeaux",
+     "Olive sombre",
+     "Désert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Convient aux tours de poignet de 130 à 160 mm.",
+     "Medium Bracelet adapté aux tours de poignet de 145 à 190 mm.",
+     "Large Bracelet adapté aux tours de poignet de 165 à 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 966,
+   "totalFrom": "summary",
+   "totalText": "965,98 € | 965,98 € | 965,98 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Noir",
+    "style": "Bracelet Milanais en titane Conçu pour le milieu marin, mais élégant en toutes circonstances. 965,98 €",
+    "ti_milaneseloop-color": "Noir",
+    "watch_bands-dimensionbandsize": "Small Convient aux tours de poignet de 130 à 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Noir",
+     "Naturel"
+    ],
+    "style": [
+     "Nouveaux coloris Boucle Alpine Pour les activités de plein air et la randonnée. 869,29 €",
+     "Nouveaux coloris Boucle Trail Pour tous types d’activités physiques et d’entraînements. 869,29 €",
+     "Nouveaux coloris Bracelet Océan Pour les sports nautiques extrêmes et la plongée loisir. 869,29 €",
+     "Bracelet Milanais en titane Conçu pour le milieu marin, mais élégant en toutes circonstances. 965,98 €"
+    ],
+    "ti_milaneseloop-color": [
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Convient aux tours de poignet de 130 à 160 mm.",
+     "Medium Convient aux tours de poignet de 155 à 185 mm.",
+     "Large Convient aux tours de poignet de 180 à 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

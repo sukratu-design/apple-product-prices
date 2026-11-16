@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:16.552Z",
+ "configs": {
+  "15": {
+   "total": 699990,
+   "totalFrom": "summary",
+   "totalText": "699 990 Ft | 699 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "15 hüvelykes modell Indulóár: 699 990 Ft",
+    "chassis-dimensionColor": "égkék",
+    "processor-cpuCoreCount-gpuCoreCount": "10 magos CPU, 10 magos GPU, 16 magos Neural Engine Felturbózhatod az intenzív feladatokat, például a játékokat és a kreatív munkát a nagyobb számítási és grafikus renderelési sebességgel. Indulóár: 699 990 Ft",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "512 GB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 hüvelykes modell Indulóár: 599 990 Ft",
+     "15 hüvelykes modell Indulóár: 699 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "égkék",
+     "ezüst",
+     "csillagfény",
+     "éjfekete"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 magos CPU, 10 magos GPU, 16 magos Neural Engine Felturbózhatod az intenzív feladatokat, például a játékokat és a kreatív munkát a nagyobb számítási és grafikus renderelési sebességgel. Indulóár: 699 990 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része",
+     "24 GB + 100 000 Ft",
+     "32 GB + 200 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Az alapcsomag része",
+     "1 TB + 150 000 Ft",
+     "2 TB + 400 000 Ft",
+     "4 TB + 900 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 599990,
+   "totalFrom": "summary",
+   "totalText": "599 990 Ft | 599 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "13 hüvelykes modell Indulóár: 599 990 Ft",
+    "chassis-dimensionColor": "égkék",
+    "processor-cpuCoreCount-gpuCoreCount": "10 magos CPU, 8 magos GPU, 16 magos Neural Engine Minden hihetetlenül gyorsan és simán megy. Indulóár: 599 990 Ft",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "512 GB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 hüvelykes modell Indulóár: 599 990 Ft",
+     "15 hüvelykes modell Indulóár: 699 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "égkék",
+     "ezüst",
+     "csillagfény",
+     "éjfekete"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 magos CPU, 8 magos GPU, 16 magos Neural Engine Minden hihetetlenül gyorsan és simán megy. Indulóár: 599 990 Ft",
+     "10 magos CPU, 10 magos GPU, 16 magos Neural Engine Felturbózhatod az intenzív feladatokat, például a játékokat és a kreatív munkát a nagyobb számítási és grafikus renderelési sebességgel. Indulóár: 649 990 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Az alapcsomag része"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 749990,
+   "totalFrom": "summary",
+   "totalText": "749 990 Ft | 749 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "13 hüvelykes modell Indulóár: 599 990 Ft",
+    "chassis-dimensionColor": "égkék",
+    "processor-cpuCoreCount-gpuCoreCount": "10 magos CPU, 10 magos GPU, 16 magos Neural Engine Felturbózhatod az intenzív feladatokat, például a játékokat és a kreatív munkát a nagyobb számítási és grafikus renderelési sebességgel. Indulóár: 649 990 Ft",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 hüvelykes modell Indulóár: 599 990 Ft",
+     "15 hüvelykes modell Indulóár: 699 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "égkék",
+     "ezüst",
+     "csillagfény",
+     "éjfekete"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 magos CPU, 8 magos GPU, 16 magos Neural Engine Minden hihetetlenül gyorsan és simán megy. Indulóár: 599 990 Ft",
+     "10 magos CPU, 10 magos GPU, 16 magos Neural Engine Felturbózhatod az intenzív feladatokat, például a játékokat és a kreatív munkát a nagyobb számítási és grafikus renderelési sebességgel. Indulóár: 649 990 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része",
+     "24 GB + 100 000 Ft",
+     "32 GB + 200 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 150 000 Ft",
+     "1 TB",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

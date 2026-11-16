@@ -1,0 +1,130 @@
+{
+ "page": "apple-watch-se",
+ "country": "lu",
+ "url": "https://www.apple.com/lu/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:45.109Z",
+ "configs": {
+  "40-gps": {
+   "total": 260,
+   "totalFrom": "summary",
+   "totalText": "260,11 € | 260,11 € | 260,11 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "40 mm À partir de 260,10 €",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 260,10 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. À partir de 260,10 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 260,11 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 260,10 €",
+     "44 mm À partir de 289,12 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 260,10 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. À partir de 260,10 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 260,11 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 308,46 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 260,11 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport À partir de 260,10 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 260,11 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 289,
+   "totalFrom": "summary",
+   "totalText": "289,12 € | 289,12 € | 289,12 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "44 mm À partir de 289,12 €",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 289,12 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 289,12 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 289,12 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 260,10 €",
+     "44 mm À partir de 289,12 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 289,12 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 289,12 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 289,12 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 337,46 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 289,12 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 289,12 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 289,12 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  },
+  "44-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  }
+ }
+}

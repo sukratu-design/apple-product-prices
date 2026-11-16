@@ -2,14 +2,14 @@
  "page": "mac-mini",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-mac/mac-mini",
- "scrapedAt": "2026-11-13T11:07:08.238Z",
+ "scrapedAt": "2026-11-16T12:53:18.020Z",
  "configs": {
   "m6": {
    "total": 899,
    "totalFrom": "summary",
-   "totalText": "£899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "totalText": "£899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊ | £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest",
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
     "memory-dimensionMemory": "16GB Included",
     "storage-dimensionCapacity": "256GB Included",
@@ -17,8 +17,8 @@
    },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest"
     ],
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "Included"
@@ -44,9 +44,9 @@
   "m5pro-15": {
    "total": 1699,
    "totalFrom": "summary",
-   "totalText": "£1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "totalText": "£1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊ | £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
     "memory-dimensionMemory": "24GB Included",
     "storage-dimensionCapacity": "512GB Included",
@@ -54,8 +54,8 @@
    },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU Included",
@@ -83,9 +83,9 @@
   "m5pro-18": {
    "total": 1899,
    "totalFrom": "summary",
-   "totalText": "£1,899 or £58.36/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+   "totalText": "£1,899 or £58.36/mo. per month for 36 mo. months at 6.9% interest Footnote ◊ | £1,899 or £58.36/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
    "selected": {
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
     "memory-dimensionMemory": "24GB Included",
     "storage-dimensionCapacity": "512GB Included",
@@ -93,8 +93,8 @@
    },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From £899 or £27.63/mo. per month for 36 mo. months at 6.9% interest",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From £1,699 or £52.22/mo. per month for 36 mo. months at 6.9% interest"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU − £200.00",

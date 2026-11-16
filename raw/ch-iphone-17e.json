@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:18.962Z",
+ "configs": {
+  "default": {
+   "total": 699,
+   "totalFrom": "summary",
+   "totalText": "CHF 699.00 | CHF 699.00 | CHF 699.00",
+   "selected": {
+    "dimensionColor": "Hellrosa",
+    "dimensionCapacity": "256 GB Fußnote 1 CHF 699.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Hellrosa",
+     "Weiß",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 CHF 699.00",
+     "512 GB Fußnote 1 CHF 899.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

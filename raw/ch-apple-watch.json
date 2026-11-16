@@ -1,0 +1,421 @@
+{
+ "page": "apple-watch",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:09.780Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 369,
+   "totalFrom": "summary",
+   "totalText": "CHF 369.00 | CHF 369.00 | CHF 369.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "42 mm Ab CHF 369.–",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 369.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 369.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 369.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab CHF 839.– Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab CHF 369.–",
+     "46 mm Ab CHF 419.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 369.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 469.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 369.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 369.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 419.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 369.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 369.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 369.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 419,
+   "totalFrom": "summary",
+   "totalText": "CHF 419.00 | CHF 419.00 | CHF 419.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "46 mm Ab CHF 419.–",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 419.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 419.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 419.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab CHF 839.– Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab CHF 369.–",
+     "46 mm Ab CHF 419.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 419.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 519.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 419.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 419.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 469.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 419.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 419.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 419.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 469,
+   "totalFrom": "summary",
+   "totalText": "CHF 469.00 | CHF 469.00 | CHF 469.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "42 mm Ab CHF 369.–",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 469.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 469.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 469.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab CHF 839.– Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab CHF 369.–",
+     "46 mm Ab CHF 419.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 369.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 469.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 469.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 469.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 519.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 469.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 469.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 469.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 519,
+   "totalFrom": "summary",
+   "totalText": "CHF 519.00 | CHF 519.00 | CHF 519.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "46 mm Ab CHF 419.–",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 519.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 519.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 519.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab CHF 839.– Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab CHF 369.–",
+     "46 mm Ab CHF 419.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 419.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 519.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 519.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 519.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 569.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 519.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 519.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 519.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 649,
+   "totalFrom": "summary",
+   "totalText": "CHF 649.00 | CHF 649.00 | CHF 649.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+    "titanium-watch_cases-dimensionColor": "Neu Brillantgold",
+    "watch_cases-dimensionCaseSize": "42 mm Ab CHF 649.–",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 649.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 649.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 649.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab CHF 839.– Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Neu Brillantgold",
+     "Natur"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab CHF 649.–",
+     "46 mm Ab CHF 699.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 649.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 649.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 649.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 699.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 649.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 649.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 649.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 699,
+   "totalFrom": "summary",
+   "totalText": "CHF 699.00 | CHF 699.00 | CHF 699.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+    "titanium-watch_cases-dimensionColor": "Neu Brillantgold",
+    "watch_cases-dimensionCaseSize": "46 mm Ab CHF 699.–",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 699.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 699.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 699.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab CHF 369.– Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab CHF 649.– Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab CHF 839.– Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Neu Brillantgold",
+     "Natur"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab CHF 649.–",
+     "46 mm Ab CHF 699.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 699.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 699.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 699.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 749.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 699.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 699.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 699.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist."
+    ]
+   }
+  },
+  "ce-42": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/ch-de/shop/go/404)"
+  },
+  "ce-46": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  }
+ }
+}

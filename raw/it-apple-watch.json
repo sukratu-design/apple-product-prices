@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:01:05.094Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 459,
+   "totalFrom": "summary",
+   "totalText": "€ 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Nota ① | € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novità Bronzo scuro",
+    "watch_cases-dimensionCaseSize": "42 mm Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+    "watch_cases-dimensionConnection": "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+    "rubber-style": "Nuovi colori Solo Loop € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novità Bronzo scuro",
+     "Novità Oro chiaro",
+     "Novità Nero",
+     "Grigio siderale"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "46 mm Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 509,
+   "totalFrom": "summary",
+   "totalText": "€ 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98% Nota ① | € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novità Bronzo scuro",
+    "watch_cases-dimensionCaseSize": "46 mm Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+    "watch_cases-dimensionConnection": "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+    "rubber-style": "Nuovi colori Solo Loop € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novità Bronzo scuro",
+     "Novità Oro chiaro",
+     "Novità Nero",
+     "Grigio siderale"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "46 mm Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 559,00 o € 18,30 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 579,
+   "totalFrom": "summary",
+   "totalText": "€ 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01% Nota ① | € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novità Bronzo scuro",
+    "watch_cases-dimensionCaseSize": "42 mm Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+    "watch_cases-dimensionConnection": "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01%",
+    "rubber-style": "Nuovi colori Solo Loop € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novità Bronzo scuro",
+     "Novità Oro chiaro",
+     "Novità Nero",
+     "Grigio siderale"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "46 mm Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 579,00 o € 18,96 al mese per 36 mesi, TAN fisso 11,01% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 629,
+   "totalFrom": "summary",
+   "totalText": "€ 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novità Bronzo scuro",
+    "watch_cases-dimensionCaseSize": "46 mm Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+    "watch_cases-dimensionConnection": "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%",
+    "rubber-style": "Nuovi colori Solo Loop € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novità Bronzo scuro",
+     "Novità Oro chiaro",
+     "Novità Nero",
+     "Grigio siderale"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01%",
+     "46 mm Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. Da € 509,00 o € 16,66 al mese per 36 mesi, TAN fisso 10,98%",
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 679,00 o € 22,23 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 629,00 o € 20,59 al mese per 36 mesi, TAN fisso 10,99% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 809,
+   "totalFrom": "summary",
+   "totalText": "€ 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Nota ① | € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+    "titanium-watch_cases-dimensionColor": "Novità Oro brillante",
+    "watch_cases-dimensionCaseSize": "42 mm Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+    "watch_cases-dimensionConnection": "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+    "rubber-style": "Nuovi colori Solo Loop € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novità Oro brillante",
+     "Naturale"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+     "46 mm Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. undefined"
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 859,
+   "totalFrom": "summary",
+   "totalText": "€ 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+    "titanium-watch_cases-dimensionColor": "Novità Oro brillante",
+    "watch_cases-dimensionCaseSize": "46 mm Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%",
+    "watch_cases-dimensionConnection": "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%",
+    "rubber-style": "Nuovi colori Solo Loop € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novità Oro brillante",
+     "Naturale"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01%",
+     "46 mm Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 859,00 o € 28,12 al mese per 36 mesi, TAN fisso 10,99% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. undefined"
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1059,
+   "totalFrom": "summary",
+   "totalText": "€ 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro.",
+    "ceramic-watch_cases-dimensionColor": "Novità Bianco perla",
+    "watch_cases-dimensionCaseSize": "42 mm Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+    "watch_cases-dimensionConnection": "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+    "rubber-style": "Nuovi colori Solo Loop € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novità Bianco perla",
+     "Novità Blu notturno"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+     "46 mm Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. undefined"
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1109,
+   "totalFrom": "summary",
+   "totalText": "€ 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11% Nota ① | € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro.",
+    "ceramic-watch_cases-dimensionColor": "Novità Bianco perla",
+    "watch_cases-dimensionCaseSize": "46 mm Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%",
+    "watch_cases-dimensionConnection": "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%",
+    "category": "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%",
+    "rubber-style": "Nuovi colori Solo Loop € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11% Elastico, senza chiusura, aderente",
+    "rubber-sololoop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuovi colori Alluminio Scegli tra GPS o GPS + Cellular Da € 459,00 o € 15,03 al mese per 36 mesi, TAN fisso 11,01% Finitura opaca e display robusto con Ceramic Shield 2.",
+     "Nuovo colore Titanio Connettività GPS + Cellular Da € 809,00 o € 26,49 al mese per 36 mesi, TAN fisso 11,01% Titanio aerospaziale lucido e robusto display in cristallo di zaffiro.",
+     "Novità Ceramica Connettività GPS + Cellular Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99% Sofisticato e resistente ai graffi, con una raffinata finitura lucida e un robusto display in cristallo di zaffiro."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novità Bianco perla",
+     "Novità Blu notturno"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Da € 1.059,00 o € 34,67 al mese per 36 mesi, TAN fisso 10,99%",
+     "46 mm Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Chiama e invia messaggi anche solo con Apple Watch. Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "category": [
+     "Gomma Cinturini flessibili, comodi e a prova di nuotate. € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%",
+     "Tessuto Materiali morbidi e leggeri. Da indossare tutti i giorni. Da € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11%",
+     "Acciaio inossidabile Design in acciaio con lavorazione di precisione per un look sofisticato. Da € 1.159,00 o € 37,94 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "rubber-style": [
+     "Nuovi colori Solo Loop € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11% Elastico, senza chiusura, aderente",
+     "Nuovi colori Cinturino Sport € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11% Resistente, chiusura pin‑and‑tuck, regolabile",
+     "Nuovi colori Cinturino Nike Sport € 1.109,00 o € 36,31 al mese per 36 mesi, TAN fisso 11% Traspirante, chiusura pin‑and‑tuck, regolabile"
+    ],
+    "rubber-sololoop-color": [
+     "Borgogna",
+     "Oliva",
+     "Blu marino",
+     "Azzurro selvatico",
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Fai chiamate e invia messaggi quando hai con te il tuo iPhone. undefined"
+    ]
+   }
+  }
+ }
+}

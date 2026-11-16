@@ -2,7 +2,7 @@
  "page": "ipad-air",
  "country": "sg",
  "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
- "scrapedAt": "2026-11-14T03:48:46.573Z",
+ "scrapedAt": "2026-11-16T12:29:51.716Z",
  "configs": {
   "11-wifi": {
    "total": 1149,
@@ -11,7 +11,7 @@
    "selected": {
     "dimensionScreensize": "11-inch model From S$1,149",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From S$1,149",
+    "dimensionCapacity": "128GB From S$1,149",
     "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$1,149.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -38,10 +38,10 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From S$1,149",
-     "256GB Footnote 2 From S$1,299",
-     "512GB Footnote 2 From S$1,599",
-     "1TB Footnote 2 From S$2,049"
+     "128GB From S$1,149",
+     "256GB From S$1,299",
+     "512GB From S$1,599",
+     "1TB From S$2,049"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$1,149.00",
@@ -276,7 +276,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
@@ -288,7 +288,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirS$449.00"
+     "Add Magic Keyboard for iPad Air S$449.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -303,7 +303,7 @@
    "selected": {
     "dimensionScreensize": "11-inch model From S$1,149",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From S$1,149",
+    "dimensionCapacity": "128GB From S$1,149",
     "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. S$1,379.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -330,10 +330,10 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From S$1,149",
-     "256GB Footnote 2 From S$1,299",
-     "512GB Footnote 2 From S$1,599",
-     "1TB Footnote 2 From S$2,049"
+     "128GB From S$1,149",
+     "256GB From S$1,299",
+     "512GB From S$1,599",
+     "1TB From S$2,049"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$1,149.00",
@@ -568,7 +568,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
@@ -580,7 +580,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirS$449.00"
+     "Add Magic Keyboard for iPad Air S$449.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -595,7 +595,7 @@
    "selected": {
     "dimensionScreensize": "13-inch model From S$1,449",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From S$1,449",
+    "dimensionCapacity": "128GB From S$1,449",
     "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$1,449.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -622,10 +622,10 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From S$1,449",
-     "256GB Footnote 2 From S$1,599",
-     "512GB Footnote 2 From S$1,899",
-     "1TB Footnote 2 From S$2,349"
+     "128GB From S$1,449",
+     "256GB From S$1,599",
+     "512GB From S$1,899",
+     "1TB From S$2,349"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$1,449.00",
@@ -862,18 +862,18 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad AirS$399.00"
+     "Add Magic Keyboard for iPad Air S$399.00"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirS$449.00"
+     "Add Magic Keyboard for iPad Air S$449.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -888,7 +888,7 @@
    "selected": {
     "dimensionScreensize": "13-inch model From S$1,449",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From S$1,449",
+    "dimensionCapacity": "128GB From S$1,449",
     "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. S$1,679.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -915,10 +915,10 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From S$1,449",
-     "256GB Footnote 2 From S$1,599",
-     "512GB Footnote 2 From S$1,899",
-     "1TB Footnote 2 From S$2,349"
+     "128GB From S$1,449",
+     "256GB From S$1,599",
+     "512GB From S$1,899",
+     "1TB From S$2,349"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$1,449.00",
@@ -1155,18 +1155,18 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad AirS$399.00"
+     "Add Magic Keyboard for iPad Air S$399.00"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirS$449.00"
+     "Add Magic Keyboard for iPad Air S$449.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",

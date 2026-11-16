@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:57.402Z",
+ "configs": {
+  "pro": {
+   "total": 2549,
+   "totalFrom": "summary",
+   "totalText": "NZ$2,549.00 | NZ$2,549.00 | NZ$2,549.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From NZ$2,549",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 NZ$2,549.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From NZ$2,549",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From NZ$2,749"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 NZ$2,549.00",
+     "512GB Footnote 1 NZ$2,949.00",
+     "1TB Footnote 1 NZ$3,749.00",
+     "2TB Footnote 1 NZ$4,949.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 2749,
+   "totalFrom": "summary",
+   "totalText": "NZ$2,749.00 | NZ$2,749.00 | NZ$2,749.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From NZ$2,749",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 NZ$2,749.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From NZ$2,549",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From NZ$2,749"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 NZ$2,749.00",
+     "512GB Footnote 1 NZ$3,149.00",
+     "1TB Footnote 1 NZ$3,949.00",
+     "2TB Footnote 1 NZ$5,149.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:37.143Z",
+ "configs": {
+  "default": {
+   "total": 9499,
+   "totalFrom": "summary",
+   "totalText": "HK$9,499 | HK$9,499 | HK$9,499",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 HK$9,499"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 HK$9,499",
+     "512GB Footnote 1 HK$11,299",
+     "1TB Footnote 1 HK$14,799"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:46:06.810Z",
+ "configs": {
+  "14-m6": {
+   "total": 24999,
+   "totalFrom": "summary",
+   "totalText": "R$ 24.999,00 | R$ 24.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Novo Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 24.999",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluído",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído",
+    "power_adapter-wattage": "70W Design compacto e recarga eficiente. Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Novo Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 24.999",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluído"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + R$ 2.400,00",
+     "32 GB + R$ 4.800,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00"
+    ],
+    "power_adapter-wattage": [
+     "70W Design compacto e recarga eficiente. Incluído",
+     "96W Recarga rápida, compatível com o Modo Muita Energia com os chips M5 Pro e M5 Max. + R$ 310,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 30999,
+   "totalFrom": "summary",
+   "totalText": "R$ 30.999,00 | R$ 30.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 15 núcleos, GPU de 16 núcleos Incluído",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído",
+    "power_adapter-wattage": "70W Design compacto e recarga eficiente. Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Novo Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 24.999",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos Incluído",
+     "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica em tarefas exigentes como jogos, programação e conteúdo criativo. + R$ 2.000,00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + R$ 7.200,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00"
+    ],
+    "power_adapter-wattage": [
+     "70W Design compacto e recarga eficiente. Incluído",
+     "96W Recarga rápida, compatível com o Modo Muita Energia com os chips M5 Pro e M5 Max. + R$ 310,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 32999,
+   "totalFrom": "summary",
+   "totalText": "R$ 32.999,00 | R$ 32.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica em tarefas exigentes como jogos, programação e conteúdo criativo.",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Novo Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 24.999",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos − R$ 2.000,00",
+     "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica em tarefas exigentes como jogos, programação e conteúdo criativo."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + R$ 7.200,00",
+     "64 GB + R$ 12.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 49999,
+   "totalFrom": "summary",
+   "totalText": "R$ 49.999,00 | R$ 49.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluído",
+    "memory-dimensionMemory": "36 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Novo Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 24.999",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluído",
+     "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. + R$ 3.600,00 Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + R$ 12.000,00",
+     "8 TB + R$ 36.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 57199,
+   "totalFrom": "summary",
+   "totalText": "R$ 57.199,00 | R$ 57.199,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac.",
+    "memory-dimensionMemory": "48 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Novo Chip M6 Desempenho absurdo com velocidade impressionante para todos os seus projetos pessoais, profissionais e criativos. CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 24.999",
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 49.999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − R$ 3.600,00",
+     "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluído",
+     "64 GB + R$ 4.800,00",
+     "128 GB + R$ 24.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + R$ 12.000,00",
+     "8 TB + R$ 36.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 37999,
+   "totalFrom": "summary",
+   "totalText": "R$ 37.999,00 | R$ 37.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos A partir de R$ 37.999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica em tarefas exigentes como jogos, programação e conteúdo criativo. Incluído",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos A partir de R$ 37.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 53.999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 20 núcleos Aumente a velocidade de processamento e renderização gráfica em tarefas exigentes como jogos, programação e conteúdo criativo. Incluído"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + R$ 7.200,00",
+     "64 GB + R$ 12.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 53999,
+   "totalFrom": "summary",
+   "totalText": "R$ 53.999,00 | R$ 53.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 53.999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluído",
+    "memory-dimensionMemory": "36 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos A partir de R$ 37.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 53.999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluído",
+     "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. + R$ 5.400,00 Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + R$ 12.000,00",
+     "8 TB + R$ 36.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 62999,
+   "totalFrom": "summary",
+   "totalText": "R$ 62.999,00 | R$ 62.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999",
+    "chassis-dimensionColor": "Preto-espacial",
+    "display-dimensionFinish": "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+    "processor-dimensionChip": "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 53.999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac.",
+    "memory-dimensionMemory": "48 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com chip M6, M5 Pro ou M5 Max. A partir de R$ 24.999",
+     "16 polegadas Disponível com o chip M5 Pro ou M5 Max. A partir de R$ 37.999"
+    ],
+    "chassis-dimensionColor": [
+     "Preto-espacial",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Tela-padrão Reduz a refletividade no seu ambiente. Incluído",
+     "Tela nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. + R$ 1.800,00"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Oferece mais desempenho e opções de memória mais altas para fluxos de trabalho mais exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos A partir de R$ 37.999",
+     "Chip M5 Max Um chip incrivelmente poderoso criado para notebooks profissionais. Feito para fluxos de trabalho extremos. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 53.999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − R$ 5.400,00",
+     "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluído",
+     "64 GB + R$ 4.800,00",
+     "128 GB + R$ 24.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + R$ 12.000,00",
+     "8 TB + R$ 36.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

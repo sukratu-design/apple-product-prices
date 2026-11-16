@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:41.500Z",
+ "configs": {
+  "15": {
+   "total": 1749,
+   "totalFrom": "summary",
+   "totalText": "€ 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "15\" Da € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Celeste",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10‑core, GPU 10‑core, Neural Engine 16‑core Potenzia i flussi di lavoro più impegnativi, come il gaming e il lavoro creativo, con una maggiore velocità di elaborazione e rendering grafico. Da € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99%",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "512GB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13\" Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+     "15\" Da € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Celeste",
+     "Argento",
+     "Galassia",
+     "Mezzanotte"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10‑core, GPU 10‑core, Neural Engine 16‑core Potenzia i flussi di lavoro più impegnativi, come il gaming e il lavoro creativo, con una maggiore velocità di elaborazione e rendering grafico. Da € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie",
+     "24GB + € 220,00",
+     "32GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Di serie",
+     "1TB + € 330,00",
+     "2TB + € 880,00",
+     "4TB + € 1.980,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "€ 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11% Nota ① | € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "13\" Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+    "chassis-dimensionColor": "Celeste",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10‑core, GPU 8‑core, Neural Engine 16‑core Rende ogni cosa più fluida e veloce. Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "512GB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13\" Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+     "15\" Da € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Celeste",
+     "Argento",
+     "Galassia",
+     "Mezzanotte"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10‑core, GPU 8‑core, Neural Engine 16‑core Rende ogni cosa più fluida e veloce. Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+     "CPU 10‑core, GPU 10‑core, Neural Engine 16‑core Potenzia i flussi di lavoro più impegnativi, come il gaming e il lavoro creativo, con una maggiore velocità di elaborazione e rendering grafico. Da € 1.559,00 o € 51,04 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Di serie"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1779,
+   "totalFrom": "summary",
+   "totalText": "€ 1.779,00 o € 58,24 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 1.779,00 o € 58,24 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "13\" Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+    "chassis-dimensionColor": "Celeste",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10‑core, GPU 10‑core, Neural Engine 16‑core Potenzia i flussi di lavoro più impegnativi, come il gaming e il lavoro creativo, con una maggiore velocità di elaborazione e rendering grafico. Da € 1.559,00 o € 51,04 al mese per 36 mesi, TAN fisso 11%",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "1TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13\" Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+     "15\" Da € 1.749,00 o € 57,26 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Celeste",
+     "Argento",
+     "Galassia",
+     "Mezzanotte"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10‑core, GPU 8‑core, Neural Engine 16‑core Rende ogni cosa più fluida e veloce. Da € 1.449,00 o € 47,44 al mese per 36 mesi, TAN fisso 11%",
+     "CPU 10‑core, GPU 10‑core, Neural Engine 16‑core Potenzia i flussi di lavoro più impegnativi, come il gaming e il lavoro creativo, con una maggiore velocità di elaborazione e rendering grafico. Da € 1.559,00 o € 51,04 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie",
+     "24GB + € 220,00",
+     "32GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − € 330,00",
+     "1TB",
+     "2TB + € 550,00",
+     "4TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,12 +2,12 @@
  "page": "airpods-max-2",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-airpods/airpods-max-2",
- "scrapedAt": "2026-11-13T05:04:47.009Z",
+ "scrapedAt": "2026-11-16T13:33:48.631Z",
  "configs": {
   "default": {
    "total": 74900,
-   "totalFrom": "page",
-   "totalText": "From ₹1148.00/mo. Per Month Footnote §",
+   "totalFrom": "summary",
+   "totalText": "From ₹1148.00/mo. Per Month Footnote § | From ₹11817.00/mo. Per Month with instant cashback Footnote §§ and No Cost EMI Footnote § or ₹74900.00",
    "selected": {
     "dimensionColor": "Purple"
    },

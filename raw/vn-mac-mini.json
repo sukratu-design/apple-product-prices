@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:55:21.610Z",
+ "configs": {
+  "m6": {
+   "total": 24999000,
+   "totalFrom": "summary",
+   "totalText": "24.999.000đ hoặc 1.018.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 24.999.000đ hoặc 1.018.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi Neural Engine 16 lõi Kép Từ 24.999.000đ hoặc 1.018.000đ/tháng mỗi tháng trong 24 tháng",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Có sẵn",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "256GB Có sẵn",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi Neural Engine 16 lõi Kép Từ 24.999.000đ hoặc 1.018.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Có sẵn"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn",
+     "24GB + 5.500.000đ",
+     "32GB + 11.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Có sẵn",
+     "512GB + 5.500.000đ",
+     "1TB + 13.750.000đ",
+     "2TB + 27.500.000đ"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. Có sẵn",
+     "Ethernet 10 Gigabit Băng thông kết nối cao hơn, tốc độ đường truyền tối đa đến 10GB. + 2.750.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 47999000,
+   "totalFrom": "summary",
+   "totalText": "47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15 Lõi, GPU 16 Lõi Có sẵn",
+    "memory-dimensionMemory": "24GB Có sẵn",
+    "storage-dimensionCapacity": "512GB Có sẵn",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi Neural Engine 16 lõi Kép Từ 24.999.000đ hoặc 1.018.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 Lõi, GPU 16 Lõi Có sẵn",
+     "CPU 18 Lõi, GPU 20 Lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. + 5.500.000đ"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Có sẵn",
+     "48GB + 16.500.000đ",
+     "64GB + 27.500.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Có sẵn",
+     "1TB + 8.250.000đ",
+     "2TB + 22.000.000đ",
+     "4TB + 49.500.000đ",
+     "8TB + 104.500.000đ"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. Có sẵn",
+     "Ethernet 10 Gigabit Băng thông kết nối cao hơn, tốc độ đường truyền tối đa đến 10GB. + 2.750.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 53499000,
+   "totalFrom": "summary",
+   "totalText": "53.499.000đ hoặc 2.178.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 53.499.000đ hoặc 2.178.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 Lõi, GPU 20 Lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K.",
+    "memory-dimensionMemory": "24GB Có sẵn",
+    "storage-dimensionCapacity": "512GB Có sẵn",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi Neural Engine 16 lõi Kép Từ 24.999.000đ hoặc 1.018.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 47.999.000đ hoặc 1.954.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 Lõi, GPU 16 Lõi − 5.500.000đ",
+     "CPU 18 Lõi, GPU 20 Lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Có sẵn",
+     "48GB + 16.500.000đ",
+     "64GB + 27.500.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Có sẵn",
+     "1TB + 8.250.000đ",
+     "2TB + 22.000.000đ",
+     "4TB + 49.500.000đ",
+     "8TB + 104.500.000đ"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. Có sẵn",
+     "Ethernet 10 Gigabit Băng thông kết nối cao hơn, tốc độ đường truyền tối đa đến 10GB. + 2.750.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

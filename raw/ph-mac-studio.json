@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:58:11.988Z",
+ "configs": {
+  "m5max-32": {
+   "total": 169990,
+   "totalFrom": "summary",
+   "totalText": "₱169,990.00 | ₱169,990.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₱169,990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₱169,990",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₱379,990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Included",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + ₱19,500.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + ₱19,500.00",
+     "2TB + ₱52,000.00",
+     "4TB + ₱117,000.00",
+     "8TB + ₱247,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 208990,
+   "totalFrom": "summary",
+   "totalText": "₱208,990.00 | ₱208,990.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₱169,990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₱169,990",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₱379,990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − ₱19,500.00",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Included",
+     "64GB + ₱26,000.00",
+     "128GB + ₱130,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + ₱19,500.00",
+     "2TB + ₱52,000.00",
+     "4TB + ₱117,000.00",
+     "8TB + ₱247,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 379990,
+   "totalFrom": "summary",
+   "totalText": "₱379,990.00 | ₱379,990.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₱379,990",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₱169,990",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₱379,990"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Included",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film. + ₱84,500.00"
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + ₱260,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + ₱32,500.00",
+     "4TB + ₱97,500.00",
+     "8TB + ₱227,500.00",
+     "16TB + ₱487,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 464490,
+   "totalFrom": "summary",
+   "totalText": "₱464,490.00 | ₱464,490.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₱379,990",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film.",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₱169,990",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₱379,990"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − ₱84,500.00",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film."
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + ₱260,000.00",
+     "512GB + ₱1,007,500.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + ₱32,500.00",
+     "4TB + ₱97,500.00",
+     "8TB + ₱227,500.00",
+     "16TB + ₱487,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

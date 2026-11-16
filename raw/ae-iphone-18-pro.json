@@ -2,12 +2,12 @@
  "page": "iphone-18-pro",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
- "scrapedAt": "2026-11-13T10:59:40.796Z",
+ "scrapedAt": "2026-11-16T11:58:15.922Z",
  "configs": {
   "pro": {
    "total": 5099,
    "totalFrom": "summary",
-   "totalText": "AED 5,099.00",
+   "totalText": "AED 5,099.00 | AED 5,099.00 | AED 5,099.00",
    "selected": {
     "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From AED 5,099",
     "dimensionColor": "Burgundy",
@@ -36,7 +36,7 @@
   "promax": {
    "total": 5499,
    "totalFrom": "summary",
-   "totalText": "AED 5,499.00",
+   "totalText": "AED 5,499.00 | AED 5,499.00 | AED 5,499.00",
    "selected": {
     "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From AED 5,499",
     "dimensionColor": "Burgundy",

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:27.905Z",
+ "configs": {
+  "default": {
+   "total": 79900,
+   "totalFrom": "summary",
+   "totalText": "฿79,900.00 | ฿79,900.00 | ฿79,900.00",
+   "selected": {
+    "dimensionColor": "สตาร์ไวท์",
+    "dimensionCapacity": "256GB เชิงอรรถ 1 ฿79,900.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "สตาร์ไวท์",
+     "ไนท์สกาย"
+    ],
+    "dimensionCapacity": [
+     "256GB เชิงอรรถ 1 ฿79,900.00",
+     "512GB เชิงอรรถ 1 ฿87,900.00",
+     "1TB เชิงอรรถ 1 ฿103,900.00",
+     "2TB เชิงอรรถ 1 ฿127,900.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

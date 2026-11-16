@@ -27,8 +27,22 @@
   const configs = (p, variant = "wifi") =>
     p.wifi ? ipad(p, variant) : p.base ? mac(p) : p.tiers.map(t => [t[0], t.slice(1), null]);
 
-  const fmt = (country, n) => { const c = P.countries[country]; return c.symbol + Math.round(n).toLocaleString(c.locale); };
+  // "$1,299", "1.449 €", "16 495 kr", "₩1,990,000"
+  const wrap = (c, num) => c.suffix ? num + "\u00a0" + c.symbol.trim() : c.symbol + num;
+  const fmt = (country, n) => { const c = P.countries[country]; return wrap(c, Math.round(n).toLocaleString(c.locale)); };
+  // short form for axis ticks: "$1.5k", "₹2.5L", "₩1.99M", "38M ₫"
+  const fmtShort = (country, n) => {
+    const c = P.countries[country];
+    if (n === 0) return wrap(c, "0");
+    if (country === "in" && n >= 100000 && n < 1e7) return wrap(c, +(n / 100000).toFixed(2) + "L");
+    if (n >= 1e9) return wrap(c, +(n / 1e9).toFixed(2) + "B");
+    if (n >= 1e6) return wrap(c, +(n / 1e6).toFixed(2) + "M");
+    if (n >= 1000) return wrap(c, +(n / 1000).toFixed(1) + "k");
+    return wrap(c, String(n));
+  };
+  // countries sorted by name for menus
+  const byName = () => [...ORDER].sort((a, b) => P.countries[a].label.localeCompare(P.countries[b].label));
   const toUSD = (country, n) => P.fx ? n / P.fx.perUSD[country] : null;
 
-  window.APP = { P, ORDER, configs, fmt, toUSD };
+  window.APP = { P, ORDER, configs, fmt, fmtShort, byName, toUSD };
 })();

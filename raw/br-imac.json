@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:50:25.927Z",
+ "configs": {
+  "2port": {
+   "total": 17999,
+   "totalFrom": "summary",
+   "totalText": "R$ 17.999,00 | R$ 17.999,00",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 com duas portas Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 17.999",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "256 GB Incluído",
+    "chassis-dimensionStandType": "Base Coloque na mesa e ajuste a inclinação para cima ou para baixo. Incluído",
+    "ethernet_adapter-ethernetPortCount": "Sem Ethernet Conexão somente por rede Wi-Fi. Incluído",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatível com gestos Multi-Touch, como deslizar e rolar. Incluído",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Design ultracompacto de ponta a ponta. Incluído"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Roxo",
+     "Rosa",
+     "Laranja",
+     "Amarelo",
+     "Verde",
+     "Prateado"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 com duas portas Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 17.999",
+     "Chip M6 com quatro portas Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 19.999"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + R$ 2.400,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluído",
+     "512 GB + R$ 2.400,00",
+     "1 TB + R$ 6.000,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Base Coloque na mesa e ajuste a inclinação para cima ou para baixo. Incluído",
+     "Adaptador para montagem VESA Integrado, para fixar na parede ou usar com um braço articulado."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Sem Ethernet Conexão somente por rede Wi-Fi. Incluído",
+     "Porta Gigabit Ethernet de 2,5 Rede padrão, velocidade de link de até 2,5 Gb. + R$ 200,00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatível com gestos Multi-Touch, como deslizar e rolar. Incluído",
+     "Magic Trackpad Compatível com todos os gestos Multi-Touch e com a tecnologia Force Touch. + R$ 570,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Design ultracompacto de ponta a ponta. Incluído",
+     "Magic Keyboard com Touch ID e teclado numérico Design ampliado com controles de navegação. Oferece autenticação fácil e rápida com sua impressão digital. + R$ 1.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 19999,
+   "totalFrom": "summary",
+   "totalText": "R$ 19.999,00 | R$ 19.999,00",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 com quatro portas Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 19.999",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "256 GB Incluído",
+    "display-dimensionFinish": "Vidro convencional Reduz a refletividade no seu ambiente. Incluído",
+    "chassis-dimensionStandType": "Base Coloque na mesa e ajuste a inclinação para cima ou para baixo. Incluído",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatível com gestos Multi-Touch, como deslizar e rolar. Incluído",
+    "keyboard-keyboardFormFactor": "Magic Keyboard com Touch ID Oferece autenticação fácil e rápida com sua impressão digital. Incluído"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Roxo",
+     "Rosa",
+     "Laranja",
+     "Amarelo",
+     "Verde",
+     "Prateado"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 com duas portas Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 17.999",
+     "Chip M6 com quatro portas Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos, Duplo Neural Engine de 16 núcleos A partir de R$ 19.999"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + R$ 2.400,00",
+     "32 GB + R$ 4.800,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluído",
+     "512 GB + R$ 2.400,00",
+     "1 TB + R$ 6.000,00",
+     "2 TB + R$ 12.000,00"
+    ],
+    "display-dimensionFinish": [
+     "Vidro convencional Reduz a refletividade no seu ambiente. Incluído",
+     "Vidro nano-texture Reduz ainda mais os reflexos em ambientes muito iluminados. Disponível apenas no modelo com quatro portas. + R$ 2.400,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Base Coloque na mesa e ajuste a inclinação para cima ou para baixo. Incluído",
+     "Adaptador para montagem VESA Integrado, para fixar na parede ou usar com um braço articulado."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatível com gestos Multi-Touch, como deslizar e rolar. Incluído",
+     "Magic Trackpad Compatível com todos os gestos Multi-Touch e com a tecnologia Force Touch. + R$ 570,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard com Touch ID Oferece autenticação fácil e rápida com sua impressão digital. Incluído",
+     "Magic Keyboard com Touch ID e teclado numérico Design ampliado com controles de navegação. Oferece autenticação fácil e rápida com sua impressão digital. + R$ 200,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

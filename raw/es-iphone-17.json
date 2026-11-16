@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:06.247Z",
+ "configs": {
+  "default": {
+   "total": 1109,
+   "totalFrom": "summary",
+   "totalText": "1.109,00 € o 46,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊ | 1.109,00 € o 46,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+   "selected": {
+    "dimensionColor": "Lavanda",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 1.109,00 € o 46,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavanda",
+     "Azul neblina",
+     "Blanco",
+     "Verde salvia",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 1.109,00 € o 46,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "512 GB Nota a pie de página 1 1.359,00 € o 56,63 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

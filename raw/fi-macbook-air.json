@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:01.852Z",
+ "configs": {
+  "15": {
+   "total": 1769,
+   "totalFrom": "summary",
+   "totalText": "1 769,00 € | 1 769,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "15 tuumaa Alkaen 1 769 €",
+    "chassis-dimensionColor": "Taivaan­sininen",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑ytiminen prosessori, 10‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Tehosta intensiivisiä tehtäviä, kuten pelaamista ja luovaa työtä, nopeamman prosessoinnin ja graafisen renderöinnin ansiosta. Alkaen 1 769 €",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "512 Gt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tuumaa Alkaen 1 469 €",
+     "15 tuumaa Alkaen 1 769 €"
+    ],
+    "chassis-dimensionColor": [
+     "Taivaan­sininen",
+     "Hopea",
+     "Tähti­valkea",
+     "Keskiyö"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑ytiminen prosessori, 10‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Tehosta intensiivisiä tehtäviä, kuten pelaamista ja luovaa työtä, nopeamman prosessoinnin ja graafisen renderöinnin ansiosta. Alkaen 1 769 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan",
+     "24 Gt + 220,00 €",
+     "32 Gt + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt Sisältyy hintaan",
+     "1 Tt + 330,00 €",
+     "2 Tt + 880,00 €",
+     "4 Tt + 1 980,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1469,
+   "totalFrom": "summary",
+   "totalText": "1 469,00 € | 1 469,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "13 tuumaa Alkaen 1 469 €",
+    "chassis-dimensionColor": "Taivaan­sininen",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑ytiminen prosessori, 8‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Lisää vauhtia ja sujuvuutta kaikkeen mitä teet. Alkaen 1 469 €",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "512 Gt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tuumaa Alkaen 1 469 €",
+     "15 tuumaa Alkaen 1 769 €"
+    ],
+    "chassis-dimensionColor": [
+     "Taivaan­sininen",
+     "Hopea",
+     "Tähti­valkea",
+     "Keskiyö"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑ytiminen prosessori, 8‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Lisää vauhtia ja sujuvuutta kaikkeen mitä teet. Alkaen 1 469 €",
+     "10‑ytiminen prosessori, 10‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Tehosta intensiivisiä tehtäviä, kuten pelaamista ja luovaa työtä, nopeamman prosessoinnin ja graafisen renderöinnin ansiosta. Alkaen 1 579 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt Sisältyy hintaan"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1799,
+   "totalFrom": "summary",
+   "totalText": "1 799,00 € | 1 799,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "13 tuumaa Alkaen 1 469 €",
+    "chassis-dimensionColor": "Taivaan­sininen",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑ytiminen prosessori, 10‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Tehosta intensiivisiä tehtäviä, kuten pelaamista ja luovaa työtä, nopeamman prosessoinnin ja graafisen renderöinnin ansiosta. Alkaen 1 579 €",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tuumaa Alkaen 1 469 €",
+     "15 tuumaa Alkaen 1 769 €"
+    ],
+    "chassis-dimensionColor": [
+     "Taivaan­sininen",
+     "Hopea",
+     "Tähti­valkea",
+     "Keskiyö"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑ytiminen prosessori, 8‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Lisää vauhtia ja sujuvuutta kaikkeen mitä teet. Alkaen 1 469 €",
+     "10‑ytiminen prosessori, 10‑ytiminen näytönohjain, 16‑ytiminen Neural Engine Tehosta intensiivisiä tehtäviä, kuten pelaamista ja luovaa työtä, nopeamman prosessoinnin ja graafisen renderöinnin ansiosta. Alkaen 1 579 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan",
+     "24 Gt + 220,00 €",
+     "32 Gt + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Gt − 330,00 €",
+     "1 Tt",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

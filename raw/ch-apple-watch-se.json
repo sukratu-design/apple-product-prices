@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:46.332Z",
+ "configs": {
+  "40-gps": {
+   "total": 229,
+   "totalFrom": "summary",
+   "totalText": "CHF 229.00 | CHF 229.00 | CHF 229.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "40 mm Ab CHF 229.–",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 229.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 229.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 229.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab CHF 229.–",
+     "44 mm Ab CHF 259.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 229.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 279.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 229.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 229.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 279.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 229.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 229.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 229.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 259,
+   "totalFrom": "summary",
+   "totalText": "CHF 259.00 | CHF 259.00 | CHF 259.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "44 mm Ab CHF 259.–",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 259.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 259.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 259.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab CHF 229.–",
+     "44 mm Ab CHF 259.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 259.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 309.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 259.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 259.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 309.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 259.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 259.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 259.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 279,
+   "totalFrom": "summary",
+   "totalText": "CHF 279.00 | CHF 279.00 | CHF 279.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "40 mm Ab CHF 229.–",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 279.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 279.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 279.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab CHF 229.–",
+     "44 mm Ab CHF 259.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 229.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 279.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 279.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 279.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 329.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 279.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 279.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 279.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 309,
+   "totalFrom": "summary",
+   "totalText": "CHF 309.00 | CHF 309.00 | CHF 309.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Mitternacht",
+    "watch_cases-dimensionCaseSize": "44 mm Ab CHF 259.–",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 309.–",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 309.00",
+    "rubber-style": "Neue Farben Solo Loop CHF 309.00 Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Mitternacht",
+     "Polarstern"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Ab CHF 229.–",
+     "44 mm Ab CHF 259.–"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab CHF 259.–",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab CHF 309.–"
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. CHF 309.00",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab CHF 309.–",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab CHF 359.–"
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop CHF 309.00 Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband CHF 309.00 Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband CHF 309.00 Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:58:00.354Z",
+ "configs": {
+  "m5max-32": {
+   "total": 4290000,
+   "totalFrom": "summary",
+   "totalText": "₩4,290,000 | ₩4,290,000",
+   "selected": {
+    "processor-dimensionChip": "M5 Max 칩 창작 프로젝트와 전문 워크플로를 위한 어마어마한 속도와 성능. 16코어 Neural Engine을 탑재한 2개 옵션 ₩4,290,000부터",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18코어 CPU, 32코어 GPU 포함",
+    "memory-dimensionMemory": "36GB 포함",
+    "storage-dimensionCapacity": "512GB 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 칩 창작 프로젝트와 전문 워크플로를 위한 어마어마한 속도와 성능. 16코어 Neural Engine을 탑재한 2개 옵션 ₩4,290,000부터",
+     "M5 Ultra 칩 초고사양을 필요로 하는 전문 워크플로를 위해 전례 없는 성능을 뿜어내는 Apple 역대 가장 강력한 칩. 32코어 Neural Engine을 탑재한 2개 옵션 ₩9,490,000부터"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18코어 CPU, 32코어 GPU 포함",
+     "18코어 CPU, 40코어 GPU 훨씬 빠른 프로세싱 및 그래픽 렌더링 속도로 대규모 언어 모델 구동과 8K 동영상 편집 같은 작업도 척척. ₩510,000 + 이 옵션을 선택하면 메모리가 48GB로 업그레이드되며, 이에 따라 Mac의 총 가격이 올라갑니다."
+    ],
+    "memory-dimensionMemory": [
+     "36GB 포함"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 포함",
+     "1TB ₩510,000 +",
+     "2TB ₩1,360,000 +",
+     "4TB ₩3,060,000 +",
+     "8TB ₩6,460,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 5310000,
+   "totalFrom": "summary",
+   "totalText": "₩5,310,000 | ₩5,310,000",
+   "selected": {
+    "processor-dimensionChip": "M5 Max 칩 창작 프로젝트와 전문 워크플로를 위한 어마어마한 속도와 성능. 16코어 Neural Engine을 탑재한 2개 옵션 ₩4,290,000부터",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18코어 CPU, 40코어 GPU 훨씬 빠른 프로세싱 및 그래픽 렌더링 속도로 대규모 언어 모델 구동과 8K 동영상 편집 같은 작업도 척척. 이 옵션을 선택하면 메모리가 48GB로 업그레이드되며, 이에 따라 Mac의 총 가격이 올라갑니다.",
+    "memory-dimensionMemory": "48GB 포함",
+    "storage-dimensionCapacity": "512GB 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 칩 창작 프로젝트와 전문 워크플로를 위한 어마어마한 속도와 성능. 16코어 Neural Engine을 탑재한 2개 옵션 ₩4,290,000부터",
+     "M5 Ultra 칩 초고사양을 필요로 하는 전문 워크플로를 위해 전례 없는 성능을 뿜어내는 Apple 역대 가장 강력한 칩. 32코어 Neural Engine을 탑재한 2개 옵션 ₩9,490,000부터"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18코어 CPU, 32코어 GPU ₩510,000 −",
+     "18코어 CPU, 40코어 GPU 훨씬 빠른 프로세싱 및 그래픽 렌더링 속도로 대규모 언어 모델 구동과 8K 동영상 편집 같은 작업도 척척. 이 옵션을 선택하면 메모리가 48GB로 업그레이드되며, 이에 따라 Mac의 총 가격이 올라갑니다."
+    ],
+    "memory-dimensionMemory": [
+     "48GB 포함",
+     "64GB ₩680,000 +",
+     "128GB ₩3,400,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 포함",
+     "1TB ₩510,000 +",
+     "2TB ₩1,360,000 +",
+     "4TB ₩3,060,000 +",
+     "8TB ₩6,460,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 9490000,
+   "totalFrom": "summary",
+   "totalText": "₩9,490,000 | ₩9,490,000",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra 칩 초고사양을 필요로 하는 전문 워크플로를 위해 전례 없는 성능을 뿜어내는 Apple 역대 가장 강력한 칩. 32코어 Neural Engine을 탑재한 2개 옵션 ₩9,490,000부터",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30코어 CPU, 64코어 GPU 포함",
+    "memory-dimensionMemory": "96GB 포함",
+    "storage-dimensionCapacity": "1TB 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 칩 창작 프로젝트와 전문 워크플로를 위한 어마어마한 속도와 성능. 16코어 Neural Engine을 탑재한 2개 옵션 ₩4,290,000부터",
+     "M5 Ultra 칩 초고사양을 필요로 하는 전문 워크플로를 위해 전례 없는 성능을 뿜어내는 Apple 역대 가장 강력한 칩. 32코어 Neural Engine을 탑재한 2개 옵션 ₩9,490,000부터"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30코어 CPU, 64코어 GPU 포함",
+     "36코어 CPU, 80코어 GPU 더욱 빠른 프로세싱, 그래픽 및 AI 컴퓨팅 성능으로 대규모 언어 모델 구동, 시각 효과 적용, 영상 색상 그레이딩 같은 고사양 워크플로도 척척. ₩2,210,000 +"
+    ],
+    "memory-dimensionMemory": [
+     "96GB 포함",
+     "256GB ₩6,800,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 포함",
+     "2TB ₩850,000 +",
+     "4TB ₩2,550,000 +",
+     "8TB ₩5,950,000 +",
+     "16TB ₩12,750,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 11700000,
+   "totalFrom": "summary",
+   "totalText": "₩11,700,000 | ₩11,700,000",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra 칩 초고사양을 필요로 하는 전문 워크플로를 위해 전례 없는 성능을 뿜어내는 Apple 역대 가장 강력한 칩. 32코어 Neural Engine을 탑재한 2개 옵션 ₩9,490,000부터",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36코어 CPU, 80코어 GPU 더욱 빠른 프로세싱, 그래픽 및 AI 컴퓨팅 성능으로 대규모 언어 모델 구동, 시각 효과 적용, 영상 색상 그레이딩 같은 고사양 워크플로도 척척.",
+    "memory-dimensionMemory": "96GB 포함",
+    "storage-dimensionCapacity": "1TB 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 칩 창작 프로젝트와 전문 워크플로를 위한 어마어마한 속도와 성능. 16코어 Neural Engine을 탑재한 2개 옵션 ₩4,290,000부터",
+     "M5 Ultra 칩 초고사양을 필요로 하는 전문 워크플로를 위해 전례 없는 성능을 뿜어내는 Apple 역대 가장 강력한 칩. 32코어 Neural Engine을 탑재한 2개 옵션 ₩9,490,000부터"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30코어 CPU, 64코어 GPU ₩2,210,000 −",
+     "36코어 CPU, 80코어 GPU 더욱 빠른 프로세싱, 그래픽 및 AI 컴퓨팅 성능으로 대규모 언어 모델 구동, 시각 효과 적용, 영상 색상 그레이딩 같은 고사양 워크플로도 척척."
+    ],
+    "memory-dimensionMemory": [
+     "96GB 포함",
+     "256GB ₩6,800,000 +",
+     "512GB ₩26,350,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 포함",
+     "2TB ₩850,000 +",
+     "4TB ₩2,550,000 +",
+     "8TB ₩5,950,000 +",
+     "16TB ₩12,750,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

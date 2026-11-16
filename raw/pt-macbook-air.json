@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:40.778Z",
+ "configs": {
+  "15": {
+   "total": 1749,
+   "totalFrom": "summary",
+   "totalText": "1 749,00 € | 1 749,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "15 polegadas Desde 1749 €",
+    "chassis-dimensionColor": "Azul‑céu",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10-core, GPU 10-core, Neural Engine 16-core Dê um impulso a tarefas intensivas, como jogos e trabalho criativo, com mais velocidade de processamento e renderização de gráficos. Desde 1749 €",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 polegadas Desde 1449 €",
+     "15 polegadas Desde 1749 €"
+    ],
+    "chassis-dimensionColor": [
+     "Azul‑céu",
+     "Prateado",
+     "Luz das estrelas",
+     "Meia-noite"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10-core, GPU 10-core, Neural Engine 16-core Dê um impulso a tarefas intensivas, como jogos e trabalho criativo, com mais velocidade de processamento e renderização de gráficos. Desde 1749 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + 332,52 €",
+     "2 TB + 886,70 €",
+     "4 TB + 1 986,71 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "1 449,00 € | 1 449,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "13 polegadas Desde 1449 €",
+    "chassis-dimensionColor": "Azul‑céu",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10-core, GPU 8-core, Neural Engine 16-core Confere velocidade e fluidez a tudo o que faz. Desde 1449 €",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 polegadas Desde 1449 €",
+     "15 polegadas Desde 1749 €"
+    ],
+    "chassis-dimensionColor": [
+     "Azul‑céu",
+     "Prateado",
+     "Luz das estrelas",
+     "Meia-noite"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10-core, GPU 8-core, Neural Engine 16-core Confere velocidade e fluidez a tudo o que faz. Desde 1449 €",
+     "CPU 10-core, GPU 10-core, Neural Engine 16-core Dê um impulso a tarefas intensivas, como jogos e trabalho criativo, com mais velocidade de processamento e renderização de gráficos. Desde 1559 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1782,
+   "totalFrom": "summary",
+   "totalText": "1 781,52 € | 1 781,52 €",
+   "selected": {
+    "chassis-dimensionScreensize": "13 polegadas Desde 1449 €",
+    "chassis-dimensionColor": "Azul‑céu",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10-core, GPU 10-core, Neural Engine 16-core Dê um impulso a tarefas intensivas, como jogos e trabalho criativo, com mais velocidade de processamento e renderização de gráficos. Desde 1559 €",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 polegadas Desde 1449 €",
+     "15 polegadas Desde 1749 €"
+    ],
+    "chassis-dimensionColor": [
+     "Azul‑céu",
+     "Prateado",
+     "Luz das estrelas",
+     "Meia-noite"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10-core, GPU 8-core, Neural Engine 16-core Confere velocidade e fluidez a tudo o que faz. Desde 1449 €",
+     "CPU 10-core, GPU 10-core, Neural Engine 16-core Dê um impulso a tarefas intensivas, como jogos e trabalho criativo, com mais velocidade de processamento e renderização de gráficos. Desde 1559 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 332,52 €",
+     "1 TB",
+     "2 TB + 554,18 €",
+     "4 TB + 1 654,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

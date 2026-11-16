@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:00:49.922Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "€449.00 | €449.00 | €449.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From €449",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From €449",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €449.00",
+    "rubber-style": "New colours Solo Loop €449.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €449",
+     "46mm From €499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €449",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €569"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €449.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €449",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €499"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €449.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €449.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €449.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 499,
+   "totalFrom": "summary",
+   "totalText": "€499.00 | €499.00 | €499.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From €499",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From €499",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €499.00",
+    "rubber-style": "New colours Solo Loop €499.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €449",
+     "46mm From €499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €499",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €619"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €499.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €499",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €549"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €499.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €499.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €499.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "€449.00 | €449.00 | €449.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From €449",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €569",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €569.00",
+    "rubber-style": "New colours Solo Loop €569.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €449",
+     "46mm From €499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €449",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €569"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €569.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €569",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €619"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €569.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €569.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €569.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 619,
+   "totalFrom": "summary",
+   "totalText": "€619.00 | €619.00 | €619.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From €499",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €619",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €619.00",
+    "rubber-style": "New colours Solo Loop €619.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €449",
+     "46mm From €499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €499",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €619"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €619.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €619",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €669"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €619.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €619.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €619.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "€799.00 | €799.00 | €799.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "42mm From €799",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €799",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €799.00",
+    "rubber-style": "New colours Solo Loop €799.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €799",
+     "46mm From €849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €799"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €799.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €799",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €849"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €799.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €799.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €799.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "€849.00 | €849.00 | €849.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "46mm From €849",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €849",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €849.00",
+    "rubber-style": "New colours Solo Loop €849.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €799",
+     "46mm From €849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €849"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €849.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €849",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €899"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €849.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €849.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €849.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "€1,049.00 | €1,049.00 | €1,049.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "42mm From €1,049",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €1,049",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €1,049.00",
+    "rubber-style": "New colours Solo Loop €1,049.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "New Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €1,049",
+     "46mm From €1,099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €1,049"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €1,049.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €1,049",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €1,099"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €1,049.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €1,049.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €1,049.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "€1,099.00 | €1,099.00 | €1,099.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "46mm From €1,099",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €1,099",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €1,099.00",
+    "rubber-style": "New colours Solo Loop €1,099.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From €449 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From €799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From €1,049 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "New Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From €1,049",
+     "46mm From €1,099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €1,099"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €1,099.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €1,099",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €1,149"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €1,099.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €1,099.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €1,099.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
+    ]
+   }
+  }
+ }
+}

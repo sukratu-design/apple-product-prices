@@ -2,12 +2,12 @@
  "page": "apple-tv-4k",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-tv/apple-tv-4k",
- "scrapedAt": "2026-11-13T05:04:53.270Z",
+ "scrapedAt": "2026-11-16T13:34:54.418Z",
  "configs": {
   "default": {
    "total": 39900,
-   "totalFrom": "page",
-   "totalText": "From ₹888.00/mo. Per Month Footnote ∆",
+   "totalFrom": "summary",
+   "totalText": "MRP ₹5090.00 (inclusive of all taxes) | MRP ₹39900.00 (inclusive of all taxes) | MRP ₹5090.00 (inclusive of all taxes) | MRP ₹39900.00 (inclusive of all taxes)",
    "selected": {},
    "options": {},
    "disabledOptions": {}

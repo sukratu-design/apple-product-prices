@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:26.066Z",
+ "configs": {
+  "default": {
+   "total": 31990,
+   "totalFrom": "summary",
+   "totalText": "31 990,00 Kč | 31 990,00 Kč | 31 990,00 Kč",
+   "selected": {
+    "dimensionColor": "blankytně modrá",
+    "dimensionCapacity": "256 GB Poznámka 1 31 990,00 Kč"
+   },
+   "options": {
+    "dimensionColor": [
+     "blankytně modrá",
+     "oblačně bílá",
+     "vesmírně černý",
+     "světle zlatá"
+    ],
+    "dimensionCapacity": [
+     "256 GB Poznámka 1 31 990,00 Kč",
+     "512 GB Poznámka 1 37 990,00 Kč",
+     "1 TB Poznámka 1 49 990,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

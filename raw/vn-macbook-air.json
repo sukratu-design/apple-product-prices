@@ -1,0 +1,138 @@
+{
+ "page": "macbook-air",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:44:02.815Z",
+ "configs": {
+  "15": {
+   "total": 41999000,
+   "totalFrom": "summary",
+   "totalText": "41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "15 inch Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Xanh Da Trời",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 lõi, GPU 10 lõi, Neural Engine 16 lõi Bổ sung sức mạnh cho các tác vụ chuyên sâu như chơi game và công việc sáng tạo bằng tốc độ xử lý và kết xuất đồ họa cao hơn. Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "512GB Có sẵn",
+    "power_adapter-wattage": "Cổng USB-C Kép 35W Hai cổng để sạc hai thiết bị cùng lúc. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 inch Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+     "15 inch Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Xanh Da Trời",
+     "Bạc",
+     "Ánh Sao",
+     "Đêm Xanh Thẳm"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 lõi, GPU 10 lõi, Neural Engine 16 lõi Bổ sung sức mạnh cho các tác vụ chuyên sâu như chơi game và công việc sáng tạo bằng tốc độ xử lý và kết xuất đồ họa cao hơn. Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn",
+     "24GB + 5.500.000đ",
+     "32GB + 11.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Có sẵn",
+     "1TB + 8.250.000đ",
+     "2TB + 22.000.000đ",
+     "4TB + 49.500.000đ"
+    ],
+    "power_adapter-wattage": [
+     "Cổng USB-C Kép 35W Hai cổng để sạc hai thiết bị cùng lúc. Có sẵn",
+     "USB-C 70W Hỗ trợ sạc nhanh lên đến 50% trong khoảng 30 phút."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 35999000,
+   "totalFrom": "summary",
+   "totalText": "35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13 inch Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Xanh Da Trời",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 lõi, GPU 8 lõi, Neural Engine 16 lõi Mang tốc độ và tính linh hoạt vào mọi công việc bạn làm. Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "512GB Có sẵn",
+    "power_adapter-wattage": "USB-C 30W Sạc nhanh, hiệu quả. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 inch Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+     "15 inch Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Xanh Da Trời",
+     "Bạc",
+     "Ánh Sao",
+     "Đêm Xanh Thẳm"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 lõi, GPU 8 lõi, Neural Engine 16 lõi Mang tốc độ và tính linh hoạt vào mọi công việc bạn làm. Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+     "CPU 10 lõi, GPU 10 lõi, Neural Engine 16 lõi Bổ sung sức mạnh cho các tác vụ chuyên sâu như chơi game và công việc sáng tạo bằng tốc độ xử lý và kết xuất đồ họa cao hơn. Từ 38.749.000đ hoặc 1.578.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Có sẵn"
+    ],
+    "power_adapter-wattage": [
+     "USB-C 30W Sạc nhanh, hiệu quả. Có sẵn",
+     "Cổng USB-C Kép 35W Hai cổng để sạc hai thiết bị cùng lúc. + 472.000đ",
+     "USB-C 70W Hỗ trợ sạc nhanh lên đến 50% trong khoảng 30 phút. + 472.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 44249000,
+   "totalFrom": "summary",
+   "totalText": "44.249.000đ hoặc 1.802.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 44.249.000đ hoặc 1.802.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13 inch Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Xanh Da Trời",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 lõi, GPU 10 lõi, Neural Engine 16 lõi Bổ sung sức mạnh cho các tác vụ chuyên sâu như chơi game và công việc sáng tạo bằng tốc độ xử lý và kết xuất đồ họa cao hơn. Từ 38.749.000đ hoặc 1.578.000đ/tháng mỗi tháng trong 24 tháng",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "Cổng USB-C Kép 35W Hai cổng để sạc hai thiết bị cùng lúc. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 inch Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+     "15 inch Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Xanh Da Trời",
+     "Bạc",
+     "Ánh Sao",
+     "Đêm Xanh Thẳm"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 lõi, GPU 8 lõi, Neural Engine 16 lõi Mang tốc độ và tính linh hoạt vào mọi công việc bạn làm. Từ 35.999.000đ hoặc 1.466.000đ/tháng mỗi tháng trong 24 tháng",
+     "CPU 10 lõi, GPU 10 lõi, Neural Engine 16 lõi Bổ sung sức mạnh cho các tác vụ chuyên sâu như chơi game và công việc sáng tạo bằng tốc độ xử lý và kết xuất đồ họa cao hơn. Từ 38.749.000đ hoặc 1.578.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn",
+     "24GB + 5.500.000đ",
+     "32GB + 11.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − 8.250.000đ",
+     "1TB",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ"
+    ],
+    "power_adapter-wattage": [
+     "Cổng USB-C Kép 35W Hai cổng để sạc hai thiết bị cùng lúc. Có sẵn",
+     "USB-C 70W Hỗ trợ sạc nhanh lên đến 50% trong khoảng 30 phút."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

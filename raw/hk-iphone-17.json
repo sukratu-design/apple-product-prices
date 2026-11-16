@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:38.285Z",
+ "configs": {
+  "default": {
+   "total": 7799,
+   "totalFrom": "summary",
+   "totalText": "HK$7,799 | HK$7,799 | HK$7,799",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 HK$7,799"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 HK$7,799",
+     "512GB Footnote 1 HK$9,599"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

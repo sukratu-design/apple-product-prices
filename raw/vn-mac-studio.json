@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:58:15.877Z",
+ "configs": {
+  "m5max-32": {
+   "total": 69999000,
+   "totalFrom": "summary",
+   "totalText": "69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Tốc độ và năng lực xử lý đáng gờm cho các dự án sáng tạo và luồng công việc chuyên môn. 2 tùy chọn với Neural Engine 16 lõi Từ 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 Lõi, GPU 32 Lõi Có sẵn",
+    "memory-dimensionMemory": "36GB Có sẵn",
+    "storage-dimensionCapacity": "512GB Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Tốc độ và năng lực xử lý đáng gờm cho các dự án sáng tạo và luồng công việc chuyên môn. 2 tùy chọn với Neural Engine 16 lõi Từ 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Ultra Con chip mạnh mẽ nhất của chúng tôi, mang đến hiệu năng chưa từng có cho các quy trình chuyên môn khắt khe nhất. 2 tùy chọn với Neural Engine 32 lõi Từ 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 Lõi, GPU 32 Lõi Có sẵn",
+     "CPU 18 Lõi, GPU 40 Lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. + 8.250.000đ Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Có sẵn"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Có sẵn",
+     "1TB + 8.250.000đ",
+     "2TB + 22.000.000đ",
+     "4TB + 49.500.000đ",
+     "8TB + 104.500.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 86499000,
+   "totalFrom": "summary",
+   "totalText": "86.499.000đ hoặc 3.522.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 86.499.000đ hoặc 3.522.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Tốc độ và năng lực xử lý đáng gờm cho các dự án sáng tạo và luồng công việc chuyên môn. 2 tùy chọn với Neural Engine 16 lõi Từ 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 Lõi, GPU 40 Lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn.",
+    "memory-dimensionMemory": "48GB Có sẵn",
+    "storage-dimensionCapacity": "512GB Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Tốc độ và năng lực xử lý đáng gờm cho các dự án sáng tạo và luồng công việc chuyên môn. 2 tùy chọn với Neural Engine 16 lõi Từ 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Ultra Con chip mạnh mẽ nhất của chúng tôi, mang đến hiệu năng chưa từng có cho các quy trình chuyên môn khắt khe nhất. 2 tùy chọn với Neural Engine 32 lõi Từ 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 Lõi, GPU 32 Lõi − 8.250.000đ",
+     "CPU 18 Lõi, GPU 40 Lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Có sẵn",
+     "64GB + 11.000.000đ",
+     "128GB + 55.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Có sẵn",
+     "1TB + 8.250.000đ",
+     "2TB + 22.000.000đ",
+     "4TB + 49.500.000đ",
+     "8TB + 104.500.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 159999000,
+   "totalFrom": "summary",
+   "totalText": "159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Con chip mạnh mẽ nhất của chúng tôi, mang đến hiệu năng chưa từng có cho các quy trình chuyên môn khắt khe nhất. 2 tùy chọn với Neural Engine 32 lõi Từ 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 30 Lõi, GPU 64 Lõi Có sẵn",
+    "memory-dimensionMemory": "96GB Có sẵn",
+    "storage-dimensionCapacity": "1TB Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Tốc độ và năng lực xử lý đáng gờm cho các dự án sáng tạo và luồng công việc chuyên môn. 2 tùy chọn với Neural Engine 16 lõi Từ 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Ultra Con chip mạnh mẽ nhất của chúng tôi, mang đến hiệu năng chưa từng có cho các quy trình chuyên môn khắt khe nhất. 2 tùy chọn với Neural Engine 32 lõi Từ 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 30 Lõi, GPU 64 Lõi Có sẵn",
+     "CPU 36 Lõi, GPU 80 Lõi Tăng cường hiệu năng xử lý, đồ họa và tính toán AI cho các luồng công việc nặng như chạy mô hình ngôn ngữ lớn, áp dụng hiệu ứng hình ảnh và chỉnh màu phim. + 35.750.000đ"
+    ],
+    "memory-dimensionMemory": [
+     "96GB Có sẵn",
+     "256GB + 110.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Có sẵn",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ",
+     "8TB + 96.250.000đ",
+     "16TB + 206.250.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 195749000,
+   "totalFrom": "summary",
+   "totalText": "195.749.000đ hoặc 7.970.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 195.749.000đ hoặc 7.970.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Con chip mạnh mẽ nhất của chúng tôi, mang đến hiệu năng chưa từng có cho các quy trình chuyên môn khắt khe nhất. 2 tùy chọn với Neural Engine 32 lõi Từ 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 36 Lõi, GPU 80 Lõi Tăng cường hiệu năng xử lý, đồ họa và tính toán AI cho các luồng công việc nặng như chạy mô hình ngôn ngữ lớn, áp dụng hiệu ứng hình ảnh và chỉnh màu phim.",
+    "memory-dimensionMemory": "96GB Có sẵn",
+    "storage-dimensionCapacity": "1TB Có sẵn"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Tốc độ và năng lực xử lý đáng gờm cho các dự án sáng tạo và luồng công việc chuyên môn. 2 tùy chọn với Neural Engine 16 lõi Từ 69.999.000đ hoặc 2.850.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Ultra Con chip mạnh mẽ nhất của chúng tôi, mang đến hiệu năng chưa từng có cho các quy trình chuyên môn khắt khe nhất. 2 tùy chọn với Neural Engine 32 lõi Từ 159.999.000đ hoặc 6.515.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 30 Lõi, GPU 64 Lõi − 35.750.000đ",
+     "CPU 36 Lõi, GPU 80 Lõi Tăng cường hiệu năng xử lý, đồ họa và tính toán AI cho các luồng công việc nặng như chạy mô hình ngôn ngữ lớn, áp dụng hiệu ứng hình ảnh và chỉnh màu phim."
+    ],
+    "memory-dimensionMemory": [
+     "96GB Có sẵn",
+     "256GB + 110.000.000đ",
+     "512GB + 426.250.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Có sẵn",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ",
+     "8TB + 96.250.000đ",
+     "16TB + 206.250.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

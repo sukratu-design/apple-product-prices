@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:53.484Z",
+ "configs": {
+  "256": {
+   "total": 49990,
+   "totalFrom": "summary",
+   "totalText": "₱49,990.00 | ₱49,990.00 | ₱49,990.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From ₱49,990"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From ₱49,990",
+     "512 GB Magic Keyboard with Touch ID From ₱56,990"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 56990,
+   "totalFrom": "summary",
+   "totalText": "₱56,990.00 | ₱56,990.00 | ₱56,990.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From ₱56,990"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From ₱49,990",
+     "512 GB Magic Keyboard with Touch ID From ₱56,990"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

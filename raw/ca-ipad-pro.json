@@ -2,12 +2,12 @@
  "page": "ipad-pro",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
- "scrapedAt": "2026-11-13T11:03:24.598Z",
+ "scrapedAt": "2026-11-16T12:06:06.608Z",
  "configs": {
   "11-wifi": {
-   "total": 169,
+   "total": 1699,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $399.00 | $449.00 | $1,699.00",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From $1699 or $145.43/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
     "dimensionColor": "Space Black",
@@ -302,9 +302,9 @@
    }
   },
   "11-cell": {
-   "total": 169,
+   "total": 1979,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $399.00 | $449.00 | $1,979.00",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From $1699 or $145.43/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
     "dimensionColor": "Space Black",
@@ -599,9 +599,9 @@
    }
   },
   "13-wifi": {
-   "total": 169,
+   "total": 2099,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $399.00 | $449.00 | $2,099.00",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display From $2099 or $179.67/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
     "dimensionColor": "Space Black",
@@ -897,9 +897,9 @@
    }
   },
   "13-cell": {
-   "total": 169,
+   "total": 2379,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $399.00 | $449.00 | $2,379.00",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display From $2099 or $179.67/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
     "dimensionColor": "Space Black",
@@ -1195,9 +1195,9 @@
    }
   },
   "nano": {
-   "total": 169,
+   "total": 2529,
    "totalFrom": "summary",
-   "totalText": "$169.00",
+   "totalText": "$169.00 | $109.00 | $399.00 | $449.00 | $2,529.00",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From $1699 or $145.43/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
     "dimensionColor": "Space Black",

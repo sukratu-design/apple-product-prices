@@ -2,16 +2,16 @@
  "page": "apple-watch-se",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-watch/apple-watch-se",
- "scrapedAt": "2026-11-13T05:05:41.239Z",
+ "scrapedAt": "2026-11-16T13:08:39.009Z",
  "configs": {
   "40-gps": {
-   "total": 29900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 4650,
+   "totalFrom": "summary",
    "totalText": "From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "watch_cases-dimensionColor": "Midnight",
-    "watch_cases-dimensionCaseSize": "40mm From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
+    "watch_cases-dimensionCaseSize": "40mm From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
     "watch_bands-dimensionbandsize": "S/M Strap fits 130–180mm wrists."
    },
    "options": {
@@ -20,12 +20,12 @@
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-     "44mm From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※"
+     "40mm From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+     "44mm From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ¶ From ₹5650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹35900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹5650.00/mo. Per Month with instant cashback and No Cost EMI or ₹35900.00"
     ],
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 130–180mm wrists.",
@@ -35,13 +35,13 @@
    "disabledOptions": {}
   },
   "44-gps": {
-   "total": 33900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 5317,
+   "totalFrom": "summary",
    "totalText": "From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "watch_cases-dimensionColor": "Midnight",
-    "watch_cases-dimensionCaseSize": "44mm From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※",
+    "watch_cases-dimensionCaseSize": "44mm From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00",
     "watch_bands-dimensionbandsize": "S/M Strap fits 140–190mm wrists."
    },
    "options": {
@@ -50,12 +50,12 @@
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-     "44mm From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※"
+     "40mm From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+     "44mm From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ¶ From ₹6317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹39900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹6317.00/mo. Per Month with instant cashback and No Cost EMI or ₹39900.00"
     ],
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 140–190mm wrists.",
@@ -65,13 +65,13 @@
    "disabledOptions": {}
   },
   "40-cell": {
-   "total": 35900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 5650,
+   "totalFrom": "summary",
    "totalText": "From ₹5650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "watch_cases-dimensionColor": "Midnight",
-    "watch_cases-dimensionCaseSize": "40mm From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ¶ From ₹5650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹35900.00 Footnote ※",
+    "watch_cases-dimensionCaseSize": "40mm From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹5650.00/mo. Per Month with instant cashback and No Cost EMI or ₹35900.00",
     "watch_bands-dimensionbandsize": "S/M Strap fits 130–180mm wrists."
    },
    "options": {
@@ -80,12 +80,12 @@
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-     "44mm From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※"
+     "40mm From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+     "44mm From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ¶ From ₹5650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹35900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹5650.00/mo. Per Month with instant cashback and No Cost EMI or ₹35900.00"
     ],
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 130–180mm wrists.",
@@ -95,13 +95,13 @@
    "disabledOptions": {}
   },
   "44-cell": {
-   "total": 39900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 6317,
+   "totalFrom": "summary",
    "totalText": "From ₹6317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "watch_cases-dimensionColor": "Midnight",
-    "watch_cases-dimensionCaseSize": "44mm From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ¶ From ₹6317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹39900.00 Footnote ※",
+    "watch_cases-dimensionCaseSize": "44mm From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹6317.00/mo. Per Month with instant cashback and No Cost EMI or ₹39900.00",
     "watch_bands-dimensionbandsize": "S/M Strap fits 140–190mm wrists."
    },
    "options": {
@@ -110,12 +110,12 @@
      "Starlight"
     ],
     "watch_cases-dimensionCaseSize": [
-     "40mm From ₹4650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹29900.00 Footnote ※",
-     "44mm From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※"
+     "40mm From ₹4650.00/mo. Per Month with instant cashback and No Cost EMI or ₹29900.00",
+     "44mm From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹5317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹33900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ¶ From ₹6317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹39900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹5317.00/mo. Per Month with instant cashback and No Cost EMI or ₹33900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹6317.00/mo. Per Month with instant cashback and No Cost EMI or ₹39900.00"
     ],
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 140–190mm wrists.",

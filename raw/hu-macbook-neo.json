@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:26.923Z",
+ "configs": {
+  "256": {
+   "total": 319990,
+   "totalFrom": "summary",
+   "totalText": "319 990 Ft | 319 990 Ft | 319 990 Ft",
+   "selected": {
+    "chassis-dimensionColor": "ezüst",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Indulóár: 319 990 Ft"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "ezüst",
+     "hajnalpír",
+     "citrus",
+     "indigó"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Indulóár: 319 990 Ft",
+     "512 GB Magic Keyboard Touch ID-val Indulóár: 369 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 369990,
+   "totalFrom": "summary",
+   "totalText": "369 990 Ft | 369 990 Ft | 369 990 Ft",
+   "selected": {
+    "chassis-dimensionColor": "ezüst",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard Touch ID-val Indulóár: 369 990 Ft"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "ezüst",
+     "hajnalpír",
+     "citrus",
+     "indigó"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Indulóár: 319 990 Ft",
+     "512 GB Magic Keyboard Touch ID-val Indulóár: 369 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

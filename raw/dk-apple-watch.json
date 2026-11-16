@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:31.904Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "3.499,00 kr. | 3.499,00 kr. | 3.499,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhed mørk bronze",
+    "watch_cases-dimensionCaseSize": "42 mm Fra 3.499 kr.",
+    "watch_cases-dimensionConnection": "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 3.499 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 3.499,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 3.499,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhed mørk bronze",
+     "Nyhed lyst guld",
+     "Nyhed sort",
+     "space grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 3.499 kr.",
+     "46 mm Fra 3.949 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 3.499 kr.",
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 4.399 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 3.499,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 3.499 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 3.949 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 3.499,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 3.499,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 3.499,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 3949,
+   "totalFrom": "summary",
+   "totalText": "3.949,00 kr. | 3.949,00 kr. | 3.949,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhed mørk bronze",
+    "watch_cases-dimensionCaseSize": "46 mm Fra 3.949 kr.",
+    "watch_cases-dimensionConnection": "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 3.949 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 3.949,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 3.949,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhed mørk bronze",
+     "Nyhed lyst guld",
+     "Nyhed sort",
+     "space grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 3.499 kr.",
+     "46 mm Fra 3.949 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 3.949 kr.",
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 4.849 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 3.949,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 3.949 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 4.399 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 3.949,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 3.949,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 3.949,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "3.499,00 kr. | 3.499,00 kr. | 3.499,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhed mørk bronze",
+    "watch_cases-dimensionCaseSize": "42 mm Fra 3.499 kr.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 4.399 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 4.399,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 4.399,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhed mørk bronze",
+     "Nyhed lyst guld",
+     "Nyhed sort",
+     "space grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 3.499 kr.",
+     "46 mm Fra 3.949 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 3.499 kr.",
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 4.399 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 4.399,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 4.399 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 4.849 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 4.399,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 4.399,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 4.399,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 4849,
+   "totalFrom": "summary",
+   "totalText": "4.849,00 kr. | 4.849,00 kr. | 4.849,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhed mørk bronze",
+    "watch_cases-dimensionCaseSize": "46 mm Fra 3.949 kr.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 4.849 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 4.849,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 4.849,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhed mørk bronze",
+     "Nyhed lyst guld",
+     "Nyhed sort",
+     "space grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 3.499 kr.",
+     "46 mm Fra 3.949 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden. Fra 3.949 kr.",
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 4.849 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 4.849,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 4.849 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 5.299 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 4.849,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 4.849,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 4.849,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 5999,
+   "totalFrom": "summary",
+   "totalText": "5.999,00 kr. | 5.999,00 kr. | 5.999,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+    "titanium-watch_cases-dimensionColor": "Nyhed skinnende guld",
+    "watch_cases-dimensionCaseSize": "42 mm Fra 5.999 kr.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 5.999 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 5.999,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 5.999,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nyhed skinnende guld",
+     "naturlig"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 5.999 kr.",
+     "46 mm Fra 6.449 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 5.999 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 5.999,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 5.999 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 6.449 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 5.999,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 5.999,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 5.999,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 6449,
+   "totalFrom": "summary",
+   "totalText": "6.449,00 kr. | 6.449,00 kr. | 6.449,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+    "titanium-watch_cases-dimensionColor": "Nyhed skinnende guld",
+    "watch_cases-dimensionCaseSize": "46 mm Fra 6.449 kr.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 6.449 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 6.449,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 6.449,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nyhed skinnende guld",
+     "naturlig"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 5.999 kr.",
+     "46 mm Fra 6.449 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 6.449 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 6.449,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 6.449 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 6.899 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 6.449,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 6.449,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 6.449,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 7799,
+   "totalFrom": "summary",
+   "totalText": "7.799,00 kr. | 7.799,00 kr. | 7.799,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal.",
+    "ceramic-watch_cases-dimensionColor": "Nyhed perlehvid",
+    "watch_cases-dimensionCaseSize": "42 mm Fra 7.799 kr.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 7.799 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 7.799,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 7.799,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nyhed perlehvid",
+     "Nyhed natblå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 7.799 kr.",
+     "46 mm Fra 8.249 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 7.799 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 7.799,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 7.799 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 8.249 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 7.799,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 7.799,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 7.799,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 8249,
+   "totalFrom": "summary",
+   "totalText": "8.249,00 kr. | 8.249,00 kr. | 8.249,00 kr.",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal.",
+    "ceramic-watch_cases-dimensionColor": "Nyhed perlehvid",
+    "watch_cases-dimensionCaseSize": "46 mm Fra 8.249 kr.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 8.249 kr.",
+    "category": "Gummi Fleksible, behagelige og svømmesikre remme. 8.249,00 kr.",
+    "rubber-style": "Nye farver Solo Loop 8.249,00 kr. Strækbar, uden spænde, perfekt pasform",
+    "rubber-sololoop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye farver Aluminium Vælg GPS eller GPS + Cellular Fra 3.499 kr. Mat finish og en robust skærm med Ceramic Shield 2.",
+     "Ny farve Titanium Fås med GPS + Cellular Fra 5.999 kr. Poleret titanium i rumfartskvalitet med robust skærm i safirkrystal.",
+     "Nyhed Keramisk materiale Fås med GPS + Cellular Fra 7.799 kr. Raffineret og ridsefast med en smuk, poleret finish og en robust skærm i safirkrystal."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nyhed perlehvid",
+     "Nyhed natblå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra 7.799 kr.",
+     "46 mm Fra 8.249 kr."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring op og send beskeder kun med Apple Watch. Fra 8.249 kr."
+    ],
+    "category": [
+     "Gummi Fleksible, behagelige og svømmesikre remme. 8.249,00 kr.",
+     "Tekstiler Bløde og lette materialer. Perfekt til hverdagsbrug. Fra 8.249 kr.",
+     "Rustfrit stål Minutiøst udformet design i stål, der giver et avanceret, eksklusivt look. Fra 8.699 kr."
+    ],
+    "rubber-style": [
+     "Nye farver Solo Loop 8.249,00 kr. Strækbar, uden spænde, perfekt pasform",
+     "Nye farver Sportsrem 8.249,00 kr. Robust, stiftlukning, justerbar",
+     "Nye farver Nike Sportsrem 8.249,00 kr. Åndbar, stiftlukning, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "bordeaux",
+     "olivengrøn",
+     "marineblå",
+     "lupinblå",
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Snak i telefon og send beskeder, når din iPhone er i nærheden."
+    ]
+   }
+  }
+ }
+}

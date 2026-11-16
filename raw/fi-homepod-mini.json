@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:27:11.879Z",
+ "configs": {
+  "default": {
+   "total": 169,
+   "totalFrom": "summary",
+   "totalText": "19,00 € | 169,00 €",
+   "selected": {
+    "dimensionColor": "Valkoinen"
+   },
+   "options": {
+    "dimensionColor": [
+     "Valkoinen",
+     "Pinkki",
+     "Sininen",
+     "Vihreä",
+     "Keskiyö"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

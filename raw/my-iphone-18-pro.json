@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:41.749Z",
+ "configs": {
+  "pro": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "RM 5,499.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From RM 5,499 or RM 229.13/month per month for 24 months Footnote ◊",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 RM 5,499.00 or RM 229.13/month per month for 24 months Footnote ◊"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From RM 5,499 or RM 229.13/month per month for 24 months Footnote ◊",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From RM 5,999 or RM 249.96/month per month for 24 months Footnote ◊"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 RM 5,499.00 or RM 229.13/month per month for 24 months Footnote ◊",
+     "512GB Footnote 1 RM 6,499.00 or RM 270.79/month per month for 24 months Footnote ◊",
+     "1TB Footnote 1 RM 8,499.00 or RM 354.13/month per month for 24 months Footnote ◊",
+     "2TB Footnote 1 RM 11,499.00 or RM 479.13/month per month for 24 months Footnote ◊"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 5999,
+   "totalFrom": "summary",
+   "totalText": "RM 5,999.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From RM 5,999 or RM 249.96/month per month for 24 months Footnote ◊",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 RM 5,999.00 or RM 249.96/month per month for 24 months Footnote ◊"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From RM 5,499 or RM 229.13/month per month for 24 months Footnote ◊",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From RM 5,999 or RM 249.96/month per month for 24 months Footnote ◊"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 RM 5,999.00 or RM 249.96/month per month for 24 months Footnote ◊",
+     "512GB Footnote 1 RM 6,999.00 or RM 291.63/month per month for 24 months Footnote ◊",
+     "1TB Footnote 1 RM 8,999.00 or RM 374.96/month per month for 24 months Footnote ◊",
+     "2TB Footnote 1 RM 11,999.00 or RM 499.96/month per month for 24 months Footnote ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

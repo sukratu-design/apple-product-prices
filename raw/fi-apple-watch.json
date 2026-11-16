@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:06.960Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 469,
+   "totalFrom": "summary",
+   "totalText": "469,00 € | 469,00 € | 469,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+    "aluminum-watch_cases-dimensionColor": "Uusi Tumma pronssi",
+    "watch_cases-dimensionCaseSize": "42 mm Alkaen 469 €",
+    "watch_cases-dimensionConnection": "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 469 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 469,00 €",
+    "rubber-style": "Uudet värit Solo Loop 469,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Uusi Tumma pronssi",
+     "Uusi Vaalea kulta",
+     "Uusi Musta",
+     "Tähtiharmaa"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 469 €",
+     "46 mm Alkaen 519 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 469 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 589 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 469,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 469 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 519 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 469,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 469,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 469,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 519,
+   "totalFrom": "summary",
+   "totalText": "519,00 € | 519,00 € | 519,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+    "aluminum-watch_cases-dimensionColor": "Uusi Tumma pronssi",
+    "watch_cases-dimensionCaseSize": "46 mm Alkaen 519 €",
+    "watch_cases-dimensionConnection": "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 519 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 519,00 €",
+    "rubber-style": "Uudet värit Solo Loop 519,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Uusi Tumma pronssi",
+     "Uusi Vaalea kulta",
+     "Uusi Musta",
+     "Tähtiharmaa"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 469 €",
+     "46 mm Alkaen 519 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 519 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 639 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 519,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 519 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 569 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 519,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 519,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 519,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 589,
+   "totalFrom": "summary",
+   "totalText": "589,00 € | 589,00 € | 589,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+    "aluminum-watch_cases-dimensionColor": "Uusi Tumma pronssi",
+    "watch_cases-dimensionCaseSize": "42 mm Alkaen 469 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 589 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 589,00 €",
+    "rubber-style": "Uudet värit Solo Loop 589,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Uusi Tumma pronssi",
+     "Uusi Vaalea kulta",
+     "Uusi Musta",
+     "Tähtiharmaa"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 469 €",
+     "46 mm Alkaen 519 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 469 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 589 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 589,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 589 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 639 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 589,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 589,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 589,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 639,
+   "totalFrom": "summary",
+   "totalText": "639,00 € | 639,00 € | 639,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+    "aluminum-watch_cases-dimensionColor": "Uusi Tumma pronssi",
+    "watch_cases-dimensionCaseSize": "46 mm Alkaen 519 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 639 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 639,00 €",
+    "rubber-style": "Uudet värit Solo Loop 639,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Uusi Tumma pronssi",
+     "Uusi Vaalea kulta",
+     "Uusi Musta",
+     "Tähtiharmaa"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 469 €",
+     "46 mm Alkaen 519 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 519 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 639 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 639,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 639 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 689 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 639,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 639,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 639,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 829,
+   "totalFrom": "summary",
+   "totalText": "829,00 € | 829,00 € | 829,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+    "titanium-watch_cases-dimensionColor": "Uusi Kiiltokulta",
+    "watch_cases-dimensionCaseSize": "42 mm Alkaen 829 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 829 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 829,00 €",
+    "rubber-style": "Uudet värit Solo Loop 829,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Uusi Kiiltokulta",
+     "Luonnon­­vaalea"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 829 €",
+     "46 mm Alkaen 879 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 829 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 829,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 829 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 879 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 829,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 829,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 829,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 879,
+   "totalFrom": "summary",
+   "totalText": "879,00 € | 879,00 € | 879,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+    "titanium-watch_cases-dimensionColor": "Uusi Kiiltokulta",
+    "watch_cases-dimensionCaseSize": "46 mm Alkaen 879 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 879 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 879,00 €",
+    "rubber-style": "Uudet värit Solo Loop 879,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Uusi Kiiltokulta",
+     "Luonnon­­vaalea"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 829 €",
+     "46 mm Alkaen 879 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 879 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 879,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 879 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 929 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 879,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 879,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 879,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1079,
+   "totalFrom": "summary",
+   "totalText": "1 079,00 € | 1 079,00 € | 1 079,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö.",
+    "ceramic-watch_cases-dimensionColor": "Uusi Helmenvalkea",
+    "watch_cases-dimensionCaseSize": "42 mm Alkaen 1 079 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 1 079 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 1 079,00 €",
+    "rubber-style": "Uudet värit Solo Loop 1 079,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Uusi Helmenvalkea",
+     "Uusi Yönsininen"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 1 079 €",
+     "46 mm Alkaen 1 129 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 1 079 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 1 079,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 1 079 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 1 129 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 1 079,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 1 079,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 1 079,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1129,
+   "totalFrom": "summary",
+   "totalText": "1 129,00 € | 1 129,00 € | 1 129,00 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö.",
+    "ceramic-watch_cases-dimensionColor": "Uusi Helmenvalkea",
+    "watch_cases-dimensionCaseSize": "46 mm Alkaen 1 129 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 1 129 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 1 129,00 €",
+    "rubber-style": "Uudet värit Solo Loop 1 129,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Uusia värejä Alumiini Valitse GPS tai GPS + Cellular Alkaen 469 € Mattapinta ja kestävä Ceramic Shield 2 ‑näyttö.",
+     "Uusi materiaali Titaani Mukana GPS + Cellular Alkaen 829 € Kiiltävää, avaruusalalle kehitettyä titaania ja kestävä safiirilasinen näyttö.",
+     "Uusi Keraaminen seos Mukana GPS + Cellular Alkaen 1 079 € Hienostunut ja naarmunkestävä kiillotettu pinta sekä kestävä safiiri­lasi­näyttö."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Uusi Helmenvalkea",
+     "Uusi Yönsininen"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Alkaen 1 079 €",
+     "46 mm Alkaen 1 129 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 1 129 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 1 129,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 1 129 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 1 179 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 1 129,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 1 129,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 1 129,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä."
+    ]
+   }
+  }
+ }
+}

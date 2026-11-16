@@ -2,12 +2,12 @@
  "page": "iphone-duo",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-duo",
- "scrapedAt": "2026-11-13T10:59:30.061Z",
+ "scrapedAt": "2026-11-16T11:54:26.850Z",
  "configs": {
   "default": {
    "total": 2999,
    "totalFrom": "summary",
-   "totalText": "$2,999.00",
+   "totalText": "$2,999.00 or $124.96/mo. per month for 24 mo. months at 0.00% APR Footnote ∆ | $2,999.00 or $124.96/mo. per month for 24 mo. months at 0.00% APR Footnote ∆ | $2,999.00",
    "selected": {
     "dimensionColor": "Star White",
     "dimensionCapacity": "256GB Footnote 1 $2,999.00 or $124.96/mo. per month for 24 mo. months at 0.00% APR Footnote ∆"

@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:54.205Z",
+ "configs": {
+  "pro": {
+   "total": 15990,
+   "totalFrom": "summary",
+   "totalText": "kr 15 990,00 | kr 15 990,00 | kr 15 990,00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3-tommers skjerm Fotnote 2 Fra kr 15 990",
+    "dimensionColor": "burgunder",
+    "dimensionCapacity": "256 GB Fotnote 1 kr 15 990,00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3-tommers skjerm Fotnote 2 Fra kr 15 990",
+     "iPhone 18 Pro Max 6,9-tommers skjerm Fotnote 2 Fra kr 17 990"
+    ],
+    "dimensionColor": [
+     "burgunder",
+     "isbre",
+     "sølv",
+     "svart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnote 1 kr 15 990,00",
+     "512 GB Fotnote 1 kr 18 990,00",
+     "1 TB Fotnote 1 kr 24 490,00",
+     "2 TB Fotnote 1 kr 32 490,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 17990,
+   "totalFrom": "summary",
+   "totalText": "kr 17 990,00 | kr 17 990,00 | kr 17 990,00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9-tommers skjerm Fotnote 2 Fra kr 17 990",
+    "dimensionColor": "burgunder",
+    "dimensionCapacity": "256 GB Fotnote 1 kr 17 990,00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3-tommers skjerm Fotnote 2 Fra kr 15 990",
+     "iPhone 18 Pro Max 6,9-tommers skjerm Fotnote 2 Fra kr 17 990"
+    ],
+    "dimensionColor": [
+     "burgunder",
+     "isbre",
+     "sølv",
+     "svart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnote 1 kr 17 990,00",
+     "512 GB Fotnote 1 kr 20 990,00",
+     "1 TB Fotnote 1 kr 26 490,00",
+     "2 TB Fotnote 1 kr 34 490,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

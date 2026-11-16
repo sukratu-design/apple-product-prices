@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:49.248Z",
+ "configs": {
+  "2port": {
+   "total": 20995,
+   "totalFrom": "summary",
+   "totalText": "20 995,00 kr | 20 995,00 kr",
+   "selected": {
+    "chassis-dimensionColor": "blå",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-chip med två Thunderbolt-portar 10-kärnig processor, 10-kärnig grafik, dubbel 16-kärnig Neural Engine Från 20 995 kr",
+    "memory-dimensionMemory": "16 GB Ingår",
+    "storage-dimensionCapacity": "256 GB Ingår",
+    "chassis-dimensionStandType": "Stativ Ställ den på skrivbordet och luta skärmen uppåt eller nedåt. Ingår",
+    "ethernet_adapter-ethernetPortCount": "Inget Ethernet Endast nätverksanslutning via wifi. Ingår",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Stöd för Multi‑Touch-gester som svepa och skrolla. Ingår",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Superkompakt format med heltäckande skärm. Ingår"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "blå",
+     "lila",
+     "rosa",
+     "orange",
+     "gul",
+     "grön",
+     "silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-chip med två Thunderbolt-portar 10-kärnig processor, 10-kärnig grafik, dubbel 16-kärnig Neural Engine Från 20 995 kr",
+     "M6-chip med fyra Thunderbolt-portar 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 23 995 kr"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Ingår",
+     "24 GB + 2 600,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Ingår",
+     "512 GB + 2 600,00 kr",
+     "1 TB + 6 500,00 kr"
+    ],
+    "chassis-dimensionStandType": [
+     "Stativ Ställ den på skrivbordet och luta skärmen uppåt eller nedåt. Ingår",
+     "VESA-monteringsadapter Inbyggd så att den kan monteras på väggen eller på en justerbar arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Inget Ethernet Endast nätverksanslutning via wifi. Ingår",
+     "2,5 Gigabit Ethernet-port Standardnätverk, upp till 2,5 Gbit länkhastighet. + 500,00 kr"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Stöd för Multi‑Touch-gester som svepa och skrolla. Ingår",
+     "Magic Trackpad Stöd för alla Multi‑Touch-gester och Force Touch. + 550,00 kr"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Superkompakt format med heltäckande skärm. Ingår",
+     "Magic Keyboard med Touch ID och numerisk del Utökad layout med navigeringstangenter. Snabb och enkel autentisering med ditt fingeravtryck. + 1 100,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 23995,
+   "totalFrom": "summary",
+   "totalText": "23 995,00 kr | 23 995,00 kr",
+   "selected": {
+    "chassis-dimensionColor": "blå",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-chip med fyra Thunderbolt-portar 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 23 995 kr",
+    "memory-dimensionMemory": "16 GB Ingår",
+    "storage-dimensionCapacity": "256 GB Ingår",
+    "display-dimensionFinish": "Standardglas Byggd för extremt låg reflektion för mindre blänk i alla miljöer. Ingår",
+    "chassis-dimensionStandType": "Stativ Ställ den på skrivbordet och luta skärmen uppåt eller nedåt. Ingår",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Stöd för Multi‑Touch-gester som svepa och skrolla. Ingår",
+    "keyboard-keyboardFormFactor": "Magic Keyboard med Touch ID Snabb och enkel autentisering med ditt fingeravtryck. Ingår"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "blå",
+     "lila",
+     "rosa",
+     "orange",
+     "gul",
+     "grön",
+     "silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-chip med två Thunderbolt-portar 10-kärnig processor, 10-kärnig grafik, dubbel 16-kärnig Neural Engine Från 20 995 kr",
+     "M6-chip med fyra Thunderbolt-portar 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 23 995 kr"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Ingår",
+     "24 GB + 2 600,00 kr",
+     "32 GB + 5 200,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Ingår",
+     "512 GB + 2 600,00 kr",
+     "1 TB + 6 500,00 kr",
+     "2 TB + 13 000,00 kr"
+    ],
+    "display-dimensionFinish": [
+     "Standardglas Byggd för extremt låg reflektion för mindre blänk i alla miljöer. Ingår",
+     "Nanotexturglas Ger ännu mindre blänk och reflexer i starkt ljus. Finns endast för modellen med fyra portar. + 2 600,00 kr"
+    ],
+    "chassis-dimensionStandType": [
+     "Stativ Ställ den på skrivbordet och luta skärmen uppåt eller nedåt. Ingår",
+     "VESA-monteringsadapter Inbyggd så att den kan monteras på väggen eller på en justerbar arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Stöd för Multi‑Touch-gester som svepa och skrolla. Ingår",
+     "Magic Trackpad Stöd för alla Multi‑Touch-gester och Force Touch. + 550,00 kr"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard med Touch ID Snabb och enkel autentisering med ditt fingeravtryck. Ingår",
+     "Magic Keyboard med Touch ID och numerisk del Utökad layout med navigeringstangenter. Snabb och enkel autentisering med ditt fingeravtryck. + 500,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

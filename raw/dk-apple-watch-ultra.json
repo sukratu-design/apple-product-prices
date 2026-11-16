@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:22.007Z",
+ "configs": {
+  "band": {
+   "total": 6999,
+   "totalFrom": "summary",
+   "totalText": "6.999,00 kr. | 6.999,00 kr. | 6.999,00 kr.",
+   "selected": {
+    "watch_cases-dimensionColor": "sort",
+    "style": "Nye farver Alpine Loop Til outdoor-aktiviteter og vandring. 6.999,00 kr.",
+    "alpineloop-color": "bordeaux",
+    "watch_bands-dimensionbandsize": "Small Passer til håndled på 130-160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "sort",
+     "naturlig"
+    ],
+    "style": [
+     "Nye farver Alpine Loop Til outdoor-aktiviteter og vandring. 6.999,00 kr.",
+     "Nye farver Trail Loop Til al slags sport og træning. 6.999,00 kr.",
+     "Nye farver Ocean-rem Til vandsport og fritidsdykning. 6.999,00 kr.",
+     "Milanorem i titanium Designet til vandsport, men elegant til enhver lejlighed. 7.899,00 kr."
+    ],
+    "alpineloop-color": [
+     "bordeaux",
+     "mørk olivengrøn",
+     "ørken"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Passer til håndled på 130-160 mm.",
+     "Medium Passer til håndled på 145-190 mm.",
+     "Large Passer til håndled på 165-210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 7899,
+   "totalFrom": "summary",
+   "totalText": "7.899,00 kr. | 7.899,00 kr. | 7.899,00 kr.",
+   "selected": {
+    "watch_cases-dimensionColor": "sort",
+    "style": "Milanorem i titanium Designet til vandsport, men elegant til enhver lejlighed. 7.899,00 kr.",
+    "ti_milaneseloop-color": "sort",
+    "watch_bands-dimensionbandsize": "Small Passer til håndled på 130-160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "sort",
+     "naturlig"
+    ],
+    "style": [
+     "Nye farver Alpine Loop Til outdoor-aktiviteter og vandring. 6.999,00 kr.",
+     "Nye farver Trail Loop Til al slags sport og træning. 6.999,00 kr.",
+     "Nye farver Ocean-rem Til vandsport og fritidsdykning. 6.999,00 kr.",
+     "Milanorem i titanium Designet til vandsport, men elegant til enhver lejlighed. 7.899,00 kr."
+    ],
+    "ti_milaneseloop-color": [
+     "sort"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Passer til håndled på 130-160 mm.",
+     "Medium Remmen passer til håndled på 155-185 mm.",
+     "Large Remmen passer til håndled på 180-210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

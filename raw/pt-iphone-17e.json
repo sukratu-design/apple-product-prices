@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:07.183Z",
+ "configs": {
+  "default": {
+   "total": 889,
+   "totalFrom": "summary",
+   "totalText": "889,00 € | 889,00 € | 889,00 €",
+   "selected": {
+    "dimensionColor": "Rosa‑pálido",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 889,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Rosa‑pálido",
+     "Branco",
+     "Preto"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 889,00 €",
+     "512 GB Nota de rodapé 1 1 139,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:58.246Z",
+ "configs": {
+  "default": {
+   "total": 2319,
+   "totalFrom": "summary",
+   "totalText": "2.319,00 € | 2.319,00 € | 2.319,00 €",
+   "selected": {
+    "dimensionColor": "Sternenweiß",
+    "dimensionCapacity": "256 GB Fußnote 1 2.319,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sternenweiß",
+     "Nachthimmel"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 2.319,00 €",
+     "512 GB Fußnote 1 2.569,00 €",
+     "1TB Fußnote 1 3.069,00 €",
+     "2TB Fußnote 1 3.819,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

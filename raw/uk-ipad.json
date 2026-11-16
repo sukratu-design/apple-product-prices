@@ -2,16 +2,16 @@
  "page": "ipad",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-ipad/ipad",
- "scrapedAt": "2026-11-13T11:04:41.225Z",
+ "scrapedAt": "2026-11-16T12:37:42.416Z",
  "configs": {
   "wifi": {
    "total": 429,
    "totalFrom": "summary",
-   "totalText": "£429.00 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£429.00 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From £429 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB From £429 or £35.75/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
     "acc_magic_keyboard": null,
@@ -29,13 +29,13 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From £429 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB Footnote 2 From £529 or £44.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB Footnote 2 From £729 or £60.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB From £429 or £35.75/mo. per month for 12 mo. months at 0% interest",
+     "256GB From £529 or £44.08/mo. per month for 12 mo. months at 0% interest",
+     "512GB From £729 or £60.75/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -255,12 +255,12 @@
    },
    "disabledOptions": {
     "acc_pencil_first": [
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (1st generation) £99.00 or £24.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (1st generation) £99.00 or £24.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "acc_magic_keyboard": [
-     "Add Magic Keyboard Folio £249.00 or £62.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Add Magic Keyboard Folio £249.00 or £62.25/mo. per month for 4 mo. months at 0% interest interest",
      "No keyboard"
     ]
    }
@@ -268,11 +268,11 @@
   "cell": {
    "total": 579,
    "totalFrom": "summary",
-   "totalText": "£579.00 or £48.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£579.00 or £48.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From £429 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB From £429 or £35.75/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
     "acc_magic_keyboard": null,
@@ -290,13 +290,13 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From £429 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB Footnote 2 From £529 or £44.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB Footnote 2 From £729 or £60.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB From £429 or £35.75/mo. per month for 12 mo. months at 0% interest",
+     "256GB From £529 or £44.08/mo. per month for 12 mo. months at 0% interest",
+     "512GB From £729 or £60.75/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £429.00 or £35.75/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £579.00 or £48.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -516,12 +516,12 @@
    },
    "disabledOptions": {
     "acc_pencil_first": [
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (1st generation) £99.00 or £24.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (1st generation) £99.00 or £24.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "acc_magic_keyboard": [
-     "Add Magic Keyboard Folio £249.00 or £62.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Add Magic Keyboard Folio £249.00 or £62.25/mo. per month for 4 mo. months at 0% interest interest",
      "No keyboard"
     ]
    }

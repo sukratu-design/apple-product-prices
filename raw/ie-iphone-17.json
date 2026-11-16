@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:01.914Z",
+ "configs": {
+  "default": {
+   "total": 1129,
+   "totalFrom": "summary",
+   "totalText": "€1,129.00 | €1,129.00 | €1,129.00",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 €1,129.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 €1,129.00",
+     "512GB Footnote 1 €1,379.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-16T13:11:00.652Z",
+ "configs": {
+  "default": {
+   "total": 3999,
+   "totalFrom": "summary",
+   "totalText": "Ab 3.999 € oder 333,25 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote **** | Ab 3.999 € oder 333,25 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ****",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256 GB Ab 3.999 € oder 333,25 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "512 GB Ab 4.219 € oder 351,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "1 TB Ab 4.549 € oder 379,08 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ]
+   }
+  }
+ }
+}

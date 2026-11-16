@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:14.455Z",
+ "configs": {
+  "14-m6": {
+   "total": 2299,
+   "totalFrom": "summary",
+   "totalText": "2.299,00 € | 2.299,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "Neu M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 2.299 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Enthalten",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Neu M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 2.299 €",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Enthalten"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Enthalten",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2899,
+   "totalFrom": "summary",
+   "totalText": "2.899,00 € | 2.899,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑Core CPU, 16‑Core GPU Enthalten",
+    "memory-dimensionMemory": "24 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Neu M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 2.299 €",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑Core CPU, 16‑Core GPU Enthalten",
+     "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken bei anspruchsvollen Aufgaben wie Gaming, Programmieren und kreativer Arbeit. + 250,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Enthalten",
+     "48 GB + 660,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Enthalten",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3149,
+   "totalFrom": "summary",
+   "totalText": "3.149,00 € | 3.149,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken bei anspruchsvollen Aufgaben wie Gaming, Programmieren und kreativer Arbeit.",
+    "memory-dimensionMemory": "24 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB Enthalten",
+    "power_adapter-wattage": "Kein Netzteil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Neu M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 2.299 €",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑Core CPU, 16‑Core GPU − 250,00 €",
+     "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken bei anspruchsvollen Aufgaben wie Gaming, Programmieren und kreativer Arbeit."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Enthalten",
+     "48 GB + 660,00 €",
+     "64 GB + 1.100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Enthalten",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Kein Netzteil",
+     "96W Schnelles Laden, unterstützt den Leistungsmodus mit dem M5 Pro und M5 Max Chip. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4799,
+   "totalFrom": "summary",
+   "totalText": "4.799,00 € | 4.799,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 32‑Core GPU Enthalten",
+    "memory-dimensionMemory": "36 GB Enthalten",
+    "storage-dimensionCapacity": "2 TB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Neu M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 2.299 €",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 32‑Core GPU Enthalten",
+     "18‑Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. + 330,00 € Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Enthalten"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Enthalten",
+     "4 TB + 1.100,00 €",
+     "8 TB + 3.300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5459,
+   "totalFrom": "summary",
+   "totalText": "5.459,00 € | 5.459,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht.",
+    "memory-dimensionMemory": "48 GB Enthalten",
+    "storage-dimensionCapacity": "2 TB Enthalten",
+    "power_adapter-wattage": "Kein Netzteil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Neu M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 2.299 €",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.899 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 4.799 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 32‑Core GPU − 330,00 €",
+     "18‑Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Enthalten",
+     "64 GB + 440,00 €",
+     "128 GB + 2.200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Enthalten",
+     "4 TB + 1.100,00 €",
+     "8 TB + 3.300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Kein Netzteil",
+     "96W Schnelles Laden, unterstützt den Leistungsmodus mit dem M5 Pro und M5 Max Chip. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3399,
+   "totalFrom": "summary",
+   "totalText": "3.399,00 € | 3.399,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 18-Core CPU, 20-Core GPU, 16-Core Neural Engine Ab 3.399 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken bei anspruchsvollen Aufgaben wie Gaming, Programmieren und kreativer Arbeit. Enthalten",
+    "memory-dimensionMemory": "24 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 18-Core CPU, 20-Core GPU, 16-Core Neural Engine Ab 3.399 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 5.099 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken bei anspruchsvollen Aufgaben wie Gaming, Programmieren und kreativer Arbeit. Enthalten"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Enthalten",
+     "48 GB + 660,00 €",
+     "64 GB + 1.100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Enthalten",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5099,
+   "totalFrom": "summary",
+   "totalText": "5.099,00 € | 5.099,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 5.099 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 32‑Core GPU Enthalten",
+    "memory-dimensionMemory": "36 GB Enthalten",
+    "storage-dimensionCapacity": "2 TB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 18-Core CPU, 20-Core GPU, 16-Core Neural Engine Ab 3.399 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 5.099 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 32‑Core GPU Enthalten",
+     "18‑Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. + 270,00 € Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Enthalten"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Enthalten",
+     "4 TB + 1.100,00 €",
+     "8 TB + 3.300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5699,
+   "totalFrom": "summary",
+   "totalText": "5.699,00 € | 5.699,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €",
+    "chassis-dimensionColor": "Space Schwarz",
+    "display-dimensionFinish": "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "processor-dimensionChip": "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 5.099 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht.",
+    "memory-dimensionMemory": "48 GB Enthalten",
+    "storage-dimensionCapacity": "2 TB Enthalten",
+    "power_adapter-wattage": "Kein Netzteil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 Zoll Erhältlich mit M6, M5 Pro oder M5 Max Chip. Ab 2.299 €",
+     "16 Zoll Erhältlich mit M5 Pro oder M5 Max Chip. Ab 3.399 €"
+    ],
+    "chassis-dimensionColor": [
+     "Space Schwarz",
+     "Silber"
+    ],
+    "display-dimensionFinish": [
+     "Standard-Display Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Display mit Nanotextur Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvollere Workflows. 18-Core CPU, 20-Core GPU, 16-Core Neural Engine Ab 3.399 €",
+     "M5 Max Chip Unser bisher leistungsstärkster Chip in einem Pro Laptop. Gemacht für extreme Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 5.099 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 32‑Core GPU − 270,00 €",
+     "18‑Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Enthalten",
+     "64 GB + 440,00 €",
+     "128 GB + 2.200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Enthalten",
+     "4 TB + 1.100,00 €",
+     "8 TB + 3.300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Kein Netzteil",
+     "140W Schnelles Laden, unterstützt den Leistungsmodus mit dem M5 Pro und M5 Max Chip. + 119,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:07.206Z",
+ "configs": {
+  "default": {
+   "total": 1039,
+   "totalFrom": "summary",
+   "totalText": "1 039,00 € | 1 039,00 € | 1 039,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 Ecrã de 6,1 polegadas Nota de rodapé 1Com 128 GB de armazenamento Desde 1039 €",
+    "dimensionColor": "Ultramarino"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 Ecrã de 6,1 polegadas Nota de rodapé 1Com 128 GB de armazenamento Desde 1039 €"
+    ],
+    "dimensionColor": [
+     "Ultramarino",
+     "Verde azulado",
+     "Branco",
+     "Rosa",
+     "Preto"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:43.030Z",
+ "configs": {
+  "default": {
+   "total": 3299,
+   "totalFrom": "summary",
+   "totalText": "RM 3,299.00",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 RM 3,299.00 or RM 137.46/month per month for 24 months Footnote ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 RM 3,299.00 or RM 137.46/month per month for 24 months Footnote ◊",
+     "512GB Footnote 1 RM 4,299.00 or RM 179.13/month per month for 24 months Footnote ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

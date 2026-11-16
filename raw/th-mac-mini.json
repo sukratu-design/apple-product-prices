@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:55:13.390Z",
+ "configs": {
+  "m6": {
+   "total": 32900,
+   "totalFrom": "summary",
+   "totalText": "฿32,900.00 | ฿32,900.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M6 เร็วสุดขั้วด้วยประสิทธิภาพในอีกระดับสำหรับงานส่วนตัว งานระดับมืออาชีพ และงานสร้างสรรค์ที่คุณทำในทุกๆ วัน CPU แบบ 12-core, GPU แบบ 12-core พร้อม Neural Engine แบบ Dual 16-core เริ่มต้นที่ ฿32,900",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "มีมาให้",
+    "memory-dimensionMemory": "16GB มีมาให้",
+    "storage-dimensionCapacity": "256GB มีมาให้",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet เครือข่ายมาตรฐาน ความเร็วการเชื่อมต่อสูงสุด 2.5Gb มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M6 เร็วสุดขั้วด้วยประสิทธิภาพในอีกระดับสำหรับงานส่วนตัว งานระดับมืออาชีพ และงานสร้างสรรค์ที่คุณทำในทุกๆ วัน CPU แบบ 12-core, GPU แบบ 12-core พร้อม Neural Engine แบบ Dual 16-core เริ่มต้นที่ ฿32,900",
+     "ชิป M5 Pro มอบประสิทธิภาพที่ดียิ่งขึ้น พร้อมตัวเลือกหน่วยความจำที่สูงขึ้นสำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿61,900"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "มีมาให้"
+    ],
+    "memory-dimensionMemory": [
+     "16GB มีมาให้",
+     "24GB + ฿7,000.00",
+     "32GB + ฿14,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB มีมาให้",
+     "512GB + ฿7,000.00",
+     "1TB + ฿17,500.00",
+     "2TB + ฿35,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet เครือข่ายมาตรฐาน ความเร็วการเชื่อมต่อสูงสุด 2.5Gb มีมาให้",
+     "10 Gigabit Ethernet แบนด์วิดท์การเชื่อมต่อสูงขึ้น ความเร็วการเชื่อมต่อสูงสุดถึง 10Gb + ฿3,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 61900,
+   "totalFrom": "summary",
+   "totalText": "฿61,900.00 | ฿61,900.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M5 Pro มอบประสิทธิภาพที่ดียิ่งขึ้น พร้อมตัวเลือกหน่วยความจำที่สูงขึ้นสำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿61,900",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU แบบ 15‑core, GPU แบบ 16‑core มีมาให้",
+    "memory-dimensionMemory": "24GB มีมาให้",
+    "storage-dimensionCapacity": "512GB มีมาให้",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet เครือข่ายมาตรฐาน ความเร็วการเชื่อมต่อสูงสุด 2.5Gb มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M6 เร็วสุดขั้วด้วยประสิทธิภาพในอีกระดับสำหรับงานส่วนตัว งานระดับมืออาชีพ และงานสร้างสรรค์ที่คุณทำในทุกๆ วัน CPU แบบ 12-core, GPU แบบ 12-core พร้อม Neural Engine แบบ Dual 16-core เริ่มต้นที่ ฿32,900",
+     "ชิป M5 Pro มอบประสิทธิภาพที่ดียิ่งขึ้น พร้อมตัวเลือกหน่วยความจำที่สูงขึ้นสำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿61,900"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 15‑core, GPU แบบ 16‑core มีมาให้",
+     "CPU แบบ 18‑core, GPU แบบ 20‑core เพิ่มความเร็วในการประมวลผลและการเรนเดอร์กราฟิก และเร่งการทำงานสำหรับงานอย่างการรันโมเดลภาษาขนาดใหญ่และการตัดต่อวิดีโอระดับ 8K + ฿7,000.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB มีมาให้",
+     "48GB + ฿21,000.00",
+     "64GB + ฿35,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB มีมาให้",
+     "1TB + ฿10,500.00",
+     "2TB + ฿28,000.00",
+     "4TB + ฿63,000.00",
+     "8TB + ฿133,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet เครือข่ายมาตรฐาน ความเร็วการเชื่อมต่อสูงสุด 2.5Gb มีมาให้",
+     "10 Gigabit Ethernet แบนด์วิดท์การเชื่อมต่อสูงขึ้น ความเร็วการเชื่อมต่อสูงสุดถึง 10Gb + ฿3,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 68900,
+   "totalFrom": "summary",
+   "totalText": "฿68,900.00 | ฿68,900.00",
+   "selected": {
+    "processor-dimensionChip": "ชิป M5 Pro มอบประสิทธิภาพที่ดียิ่งขึ้น พร้อมตัวเลือกหน่วยความจำที่สูงขึ้นสำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿61,900",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU แบบ 18‑core, GPU แบบ 20‑core เพิ่มความเร็วในการประมวลผลและการเรนเดอร์กราฟิก และเร่งการทำงานสำหรับงานอย่างการรันโมเดลภาษาขนาดใหญ่และการตัดต่อวิดีโอระดับ 8K",
+    "memory-dimensionMemory": "24GB มีมาให้",
+    "storage-dimensionCapacity": "512GB มีมาให้",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet เครือข่ายมาตรฐาน ความเร็วการเชื่อมต่อสูงสุด 2.5Gb มีมาให้"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "ชิป M6 เร็วสุดขั้วด้วยประสิทธิภาพในอีกระดับสำหรับงานส่วนตัว งานระดับมืออาชีพ และงานสร้างสรรค์ที่คุณทำในทุกๆ วัน CPU แบบ 12-core, GPU แบบ 12-core พร้อม Neural Engine แบบ Dual 16-core เริ่มต้นที่ ฿32,900",
+     "ชิป M5 Pro มอบประสิทธิภาพที่ดียิ่งขึ้น พร้อมตัวเลือกหน่วยความจำที่สูงขึ้นสำหรับเวิร์กโฟลว์ที่ต้องประมวลผลหนักๆ 2 ตัวเลือกพร้อม Neural Engine แบบ 16-core เริ่มต้นที่ ฿61,900"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 15‑core, GPU แบบ 16‑core − ฿7,000.00",
+     "CPU แบบ 18‑core, GPU แบบ 20‑core เพิ่มความเร็วในการประมวลผลและการเรนเดอร์กราฟิก และเร่งการทำงานสำหรับงานอย่างการรันโมเดลภาษาขนาดใหญ่และการตัดต่อวิดีโอระดับ 8K"
+    ],
+    "memory-dimensionMemory": [
+     "24GB มีมาให้",
+     "48GB + ฿21,000.00",
+     "64GB + ฿35,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB มีมาให้",
+     "1TB + ฿10,500.00",
+     "2TB + ฿28,000.00",
+     "4TB + ฿63,000.00",
+     "8TB + ฿133,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet เครือข่ายมาตรฐาน ความเร็วการเชื่อมต่อสูงสุด 2.5Gb มีมาให้",
+     "10 Gigabit Ethernet แบนด์วิดท์การเชื่อมต่อสูงขึ้น ความเร็วการเชื่อมต่อสูงสุดถึง 10Gb + ฿3,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

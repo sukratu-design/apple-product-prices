@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:56:12.838Z",
+ "configs": {
+  "m5max-32": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ① | 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "processor-dimensionChip": "M5 Max Chip Beeindruckende Geschwindigkeiten und Möglichkeiten für kreative Projekte und Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 32‑Core GPU Enthalten",
+    "memory-dimensionMemory": "36 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max Chip Beeindruckende Geschwindigkeiten und Möglichkeiten für kreative Projekte und Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "M5 Ultra Chip Unser leistungsstärkster Chip mit beispielloser Performance für die anspruchsvollsten Pro Workflows. 2 Optionen mit 32‑Core Neural Engine Ab 6.599 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 32‑Core GPU Enthalten",
+     "18-Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. + 330,00 € Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Enthalten"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten",
+     "1 TB + 330,00 €",
+     "2 TB + 880,00 €",
+     "4 TB + 1.980,00 €",
+     "8 TB + 4.180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3659,
+   "totalFrom": "summary",
+   "totalText": "3.659 € oder 304,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ① | 3.659 € oder 304,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "processor-dimensionChip": "M5 Max Chip Beeindruckende Geschwindigkeiten und Möglichkeiten für kreative Projekte und Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht.",
+    "memory-dimensionMemory": "48 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max Chip Beeindruckende Geschwindigkeiten und Möglichkeiten für kreative Projekte und Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "M5 Ultra Chip Unser leistungsstärkster Chip mit beispielloser Performance für die anspruchsvollsten Pro Workflows. 2 Optionen mit 32‑Core Neural Engine Ab 6.599 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑Core CPU, 32‑Core GPU − 330,00 €",
+     "18-Core CPU, 40‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. Für diese Auswahl ist ein Upgrade auf 48 GB Arbeitsspeicher erforderlich, wodurch sich der Gesamtpreis deines Mac erhöht."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Enthalten",
+     "64 GB + 440,00 €",
+     "128 GB + 2.200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten",
+     "1 TB + 330,00 €",
+     "2 TB + 880,00 €",
+     "4 TB + 1.980,00 €",
+     "8 TB + 4.180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 6599,
+   "totalFrom": "summary",
+   "totalText": "6.599,00 € | 6.599,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra Chip Unser leistungsstärkster Chip mit beispielloser Performance für die anspruchsvollsten Pro Workflows. 2 Optionen mit 32‑Core Neural Engine Ab 6.599 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-Core CPU, 64‑Core GPU Enthalten",
+    "memory-dimensionMemory": "96 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max Chip Beeindruckende Geschwindigkeiten und Möglichkeiten für kreative Projekte und Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "M5 Ultra Chip Unser leistungsstärkster Chip mit beispielloser Performance für die anspruchsvollsten Pro Workflows. 2 Optionen mit 32‑Core Neural Engine Ab 6.599 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-Core CPU, 64‑Core GPU Enthalten",
+     "36-Core CPU, 80‑Core GPU Steigere deine Rechenpower, Grafikperformance und KI Rechenleistung für anspruchsvolle Workflows wie das Ausführen großer Sprachmodelle, das Anwenden visueller Effekte und die Farbkorrektur von Filmen. + 1.430,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Enthalten",
+     "256 GB + 4.400,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Enthalten",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €",
+     "8 TB + 3.850,00 €",
+     "16 TB + 8.250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 8029,
+   "totalFrom": "summary",
+   "totalText": "8.029,00 € | 8.029,00 €",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra Chip Unser leistungsstärkster Chip mit beispielloser Performance für die anspruchsvollsten Pro Workflows. 2 Optionen mit 32‑Core Neural Engine Ab 6.599 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-Core CPU, 80‑Core GPU Steigere deine Rechenpower, Grafikperformance und KI Rechenleistung für anspruchsvolle Workflows wie das Ausführen großer Sprachmodelle, das Anwenden visueller Effekte und die Farbkorrektur von Filmen.",
+    "memory-dimensionMemory": "96 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max Chip Beeindruckende Geschwindigkeiten und Möglichkeiten für kreative Projekte und Workflows. 2 Optionen mit 16‑Core Neural Engine Ab 2.999 € oder 249,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "M5 Ultra Chip Unser leistungsstärkster Chip mit beispielloser Performance für die anspruchsvollsten Pro Workflows. 2 Optionen mit 32‑Core Neural Engine Ab 6.599 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-Core CPU, 64‑Core GPU − 1.430,00 €",
+     "36-Core CPU, 80‑Core GPU Steigere deine Rechenpower, Grafikperformance und KI Rechenleistung für anspruchsvolle Workflows wie das Ausführen großer Sprachmodelle, das Anwenden visueller Effekte und die Farbkorrektur von Filmen."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Enthalten",
+     "256 GB + 4.400,00 €",
+     "512 GB + 17.050,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Enthalten",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €",
+     "8 TB + 3.850,00 €",
+     "16 TB + 8.250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:16.693Z",
+ "configs": {
+  "40-gps": {
+   "total": 269,
+   "totalFrom": "summary",
+   "totalText": "€269.00 | €269.00 | €269.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From €269",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From €269",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €269.00",
+    "rubber-style": "New colours Solo Loop €269.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From €269",
+     "44mm From €299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €269",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €319"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €269.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €269",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €319"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €269.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €269.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €269.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "€299.00 | €299.00 | €299.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From €299",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From €299",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €299.00",
+    "rubber-style": "New colours Solo Loop €299.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From €269",
+     "44mm From €299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €299",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €349"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €299.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €299",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €349"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €299.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €299.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €299.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 319,
+   "totalFrom": "summary",
+   "totalText": "€319.00 | €319.00 | €319.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From €269",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €319",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €319.00",
+    "rubber-style": "New colours Solo Loop €319.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From €269",
+     "44mm From €299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €269",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €319"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €319.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €319",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €369"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €319.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €319.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €319.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 349,
+   "totalFrom": "summary",
+   "totalText": "€349.00 | €349.00 | €349.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From €299",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From €349",
+    "category": "Rubber Flexible, comfortable, swimproof straps. €349.00",
+    "rubber-style": "New colours Solo Loop €349.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From €269",
+     "44mm From €299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From €299",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From €349"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. €349.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From €349",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From €399"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop €349.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band €349.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band €349.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:26.864Z",
+ "configs": {
+  "2port": {
+   "total": 1829,
+   "totalFrom": "summary",
+   "totalText": "1 829,00 € | 1 829,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Processador M6 com duas portas Thunderbolt CPU 10‑core, GPU 10‑core, Dual Neural Engine 16‑core Desde 1829 €",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "256 GB Incluído",
+    "chassis-dimensionStandType": "Suporte Coloque na secretária, ajuste com inclinação para cima e para baixo. Incluído",
+    "ethernet_adapter-ethernetPortCount": "Sem Ethernet Ligação apenas através de uma rede Wi-Fi. Incluído",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatível com gestos Multi‑Touch como deslocar e percorrer. Incluído",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Design ultracompacto. Incluído"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Roxo",
+     "Rosa",
+     "Laranja",
+     "Amarelo",
+     "Verde",
+     "Prateado"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Processador M6 com duas portas Thunderbolt CPU 10‑core, GPU 10‑core, Dual Neural Engine 16‑core Desde 1829 €",
+     "Processador M6 com quatro portas Thunderbolt CPU 12‑core, GPU 12‑core, Dual Neural Engine 16‑core Desde 2029 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + 220,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluído",
+     "512 GB + 221,27 €",
+     "1 TB + 553,79 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Suporte Coloque na secretária, ajuste com inclinação para cima e para baixo. Incluído",
+     "Adaptador de montagem VESA Integrado para montagem numa parede ou num braço ajustável."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Sem Ethernet Ligação apenas através de uma rede Wi-Fi. Incluído",
+     "Porta Ethernet de 2,5 Gigabits Rede padrão, velocidades de ligação até 2,5 Gb. + 30,00 €"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatível com gestos Multi‑Touch como deslocar e percorrer. Incluído",
+     "Magic Trackpad Compatível com todos os gestos Multi‑Touch e a tecnologia Force Touch. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Design ultracompacto. Incluído",
+     "Magic Keyboard com Touch ID e teclado numérico Formato maior com controlos de navegação. Permite uma autenticação rápida e fácil com a impressão digital. + 80,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2029,
+   "totalFrom": "summary",
+   "totalText": "2 029,00 € | 2 029,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Processador M6 com quatro portas Thunderbolt CPU 12‑core, GPU 12‑core, Dual Neural Engine 16‑core Desde 2029 €",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "256 GB Incluído",
+    "display-dimensionFinish": "Vidro padrão Concebido de forma a apresentar uma refletividade extremamente baixa para reduzir o brilho em todos os ambientes. Incluído",
+    "chassis-dimensionStandType": "Suporte Coloque na secretária, ajuste com inclinação para cima e para baixo. Incluído",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatível com gestos Multi‑Touch como deslocar e percorrer. Incluído",
+    "keyboard-keyboardFormFactor": "Magic Keyboard com Touch ID Permite uma autenticação rápida e fácil com a impressão digital. Incluído"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Roxo",
+     "Rosa",
+     "Laranja",
+     "Amarelo",
+     "Verde",
+     "Prateado"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Processador M6 com duas portas Thunderbolt CPU 10‑core, GPU 10‑core, Dual Neural Engine 16‑core Desde 1829 €",
+     "Processador M6 com quatro portas Thunderbolt CPU 12‑core, GPU 12‑core, Dual Neural Engine 16‑core Desde 2029 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluído",
+     "512 GB + 221,27 €",
+     "1 TB + 553,79 €",
+     "2 TB + 1 107,98 €"
+    ],
+    "display-dimensionFinish": [
+     "Vidro padrão Concebido de forma a apresentar uma refletividade extremamente baixa para reduzir o brilho em todos os ambientes. Incluído",
+     "Vidro de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. Disponível apenas no modelo de quatro portas. + 220,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Suporte Coloque na secretária, ajuste com inclinação para cima e para baixo. Incluído",
+     "Adaptador de montagem VESA Integrado para montagem numa parede ou num braço ajustável."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatível com gestos Multi‑Touch como deslocar e percorrer. Incluído",
+     "Magic Trackpad Compatível com todos os gestos Multi‑Touch e a tecnologia Force Touch. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard com Touch ID Permite uma autenticação rápida e fácil com a impressão digital. Incluído",
+     "Magic Keyboard com Touch ID e teclado numérico Formato maior com controlos de navegação. Permite uma autenticação rápida e fácil com a impressão digital. + 30,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

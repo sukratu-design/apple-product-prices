@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:00:54.196Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "449 € oder 37,42 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 449 € oder 37,42 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "42 mm Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 499,
+   "totalFrom": "summary",
+   "totalText": "499 € oder 41,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 499 € oder 41,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "46 mm Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 549 € oder 45,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 569,
+   "totalFrom": "summary",
+   "totalText": "569 € oder 47,42 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 569 € oder 47,42 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "42 mm Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 569 € oder 47,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 619,
+   "totalFrom": "summary",
+   "totalText": "619 € oder 51,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 619 € oder 51,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Neu Dunkelbronze",
+    "watch_cases-dimensionCaseSize": "46 mm Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Neu Dunkelbronze",
+     "Neu Lichtgold",
+     "Neu Schwarz",
+     "Space Grau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist. Ab 499 € oder 41,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 669 € oder 55,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 619 € oder 51,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799 € oder 66,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 799 € oder 66,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+    "titanium-watch_cases-dimensionColor": "Neu Brillantgold",
+    "watch_cases-dimensionCaseSize": "42 mm Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Neu Brillantgold",
+     "Natur"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "849 € oder 70,75 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 849 € oder 70,75 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+    "titanium-watch_cases-dimensionColor": "Neu Brillantgold",
+    "watch_cases-dimensionCaseSize": "46 mm Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Neu Brillantgold",
+     "Natur"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 849 € oder 70,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas.",
+    "ceramic-watch_cases-dimensionColor": "Neu Perlweiß",
+    "watch_cases-dimensionCaseSize": "42 mm Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Neu Perlweiß",
+     "Neu Nachtblau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas.",
+    "ceramic-watch_cases-dimensionColor": "Neu Perlweiß",
+    "watch_cases-dimensionCaseSize": "46 mm Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "watch_cases-dimensionConnection": "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "category": "Gummi Flexible, bequeme, schwimmfeste Armbänder. 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "rubber-style": "Neue Farben Solo Loop 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+    "rubber-sololoop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Neue Farben Aluminium Mit GPS oder GPS + Cellular Ab 449 € oder 37,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Ein mattes Finish und ein robustes Display mit Ceramic Shield 2.",
+     "Neue Farbe Titan Mit GPS + Cellular Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Poliertes Titan in Raumfahrt-Qualität mit einem robusten Display aus Saphirglas.",
+     "Neu Keramik Mit GPS + Cellular Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Hochwertig und kratzfest mit einem edlen polierten Finish und einem robusten Display aus Saphirglas."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Neu Perlweiß",
+     "Neu Nachtblau"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Ab 1.049 € oder 87,42 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "46 mm Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Anrufen und Nachrichten senden – nur mit deiner Apple Watch. Für die Nutzung von Apple Watch für deine Kinder ist ein GPS + Cellular Modell erforderlich. Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "category": [
+     "Gummi Flexible, bequeme, schwimmfeste Armbänder. 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Textil Weiche, leichte Materialien. Perfekt für den Alltag. Ab 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Edelstahl Sorgfältig gefertigtes Stahldesign für einen eleganten und gehobenen Look. Ab 1.149 € oder 95,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "rubber-style": [
+     "Neue Farben Solo Loop 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Elastisch, verschlussfrei, präziser Sitz",
+     "Neue Farben Sportarmband 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Robust, Pin‑Verschluss, verstellbar",
+     "Neue Farben Nike Sportarmband 1.099 € oder 91,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Atmungsaktiv, Pin‑Verschluss, anpassbar"
+    ],
+    "rubber-sololoop-color": [
+     "Burgunder",
+     "Oliv",
+     "Navyblau",
+     "Hyazinthenblau",
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefoniere und sende Textnachrichten, wenn dein iPhone in der Nähe ist."
+    ]
+   }
+  }
+ }
+}

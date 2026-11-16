@@ -2,17 +2,17 @@
  "page": "ipad-air",
  "country": "jp",
  "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
- "scrapedAt": "2026-11-14T03:48:44.036Z",
+ "scrapedAt": "2026-11-16T12:29:51.310Z",
  "configs": {
   "11-wifi": {
    "total": 129800,
    "totalFrom": "summary",
    "totalText": "23,800円 | 14,800円 | 51,400円 | 54,800円 | 129,800円",
    "selected": {
-    "dimensionScreensize": "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
+    "dimensionScreensize": "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから",
     "dimensionColor": "パープル",
-    "dimensionCapacity": "128GB 脚注 2 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 129,800円 、または10,816円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB 129,800円から 、または10,816円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 129,800円 、または10,816円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -28,8 +28,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #"
+     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから",
+     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから"
     ],
     "dimensionColor": [
      "パープル",
@@ -38,14 +38,14 @@
      "スペースグレイ"
     ],
     "dimensionCapacity": [
-     "128GB 脚注 2 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "256GB 脚注 2 146,800円から 、または12,233円/月 月額 の12回払いから 脚注 #",
-     "512GB 脚注 2 181,800円から 、または15,150円/月 月額 の12回払いから 脚注 #",
-     "1TB 脚注 2 231,800円から 、または19,316円/月 月額 の12回払いから 脚注 #"
+     "128GB 129,800円から 、または10,816円/月 月額 の12回払いから",
+     "256GB 146,800円から 、または12,233円/月 月額 の12回払いから",
+     "512GB 181,800円から 、または15,150円/月 月額 の12回払いから",
+     "1TB 231,800円から 、または19,316円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 129,800円 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 154,800円 、または12,900円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 129,800円 、または10,816円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 154,800円 、または12,900円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -276,7 +276,7 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "acc_keyboard_11inch": [
@@ -288,7 +288,7 @@
      "ブラック"
     ],
     "acc_keyboard_13inch": [
-     "iPad Air用Magic Keyboardを追加する54,800円"
+     "iPad Air用Magic Keyboardを追加する 54,800円"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "ホワイト",
@@ -301,10 +301,10 @@
    "totalFrom": "summary",
    "totalText": "23,800円 | 14,800円 | 51,400円 | 54,800円 | 154,800円",
    "selected": {
-    "dimensionScreensize": "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
+    "dimensionScreensize": "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから",
     "dimensionColor": "パープル",
-    "dimensionCapacity": "128GB 脚注 2 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 154,800円 、または12,900円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB 129,800円から 、または10,816円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 154,800円 、または12,900円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -320,8 +320,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #"
+     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから",
+     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから"
     ],
     "dimensionColor": [
      "パープル",
@@ -330,14 +330,14 @@
      "スペースグレイ"
     ],
     "dimensionCapacity": [
-     "128GB 脚注 2 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "256GB 脚注 2 146,800円から 、または12,233円/月 月額 の12回払いから 脚注 #",
-     "512GB 脚注 2 181,800円から 、または15,150円/月 月額 の12回払いから 脚注 #",
-     "1TB 脚注 2 231,800円から 、または19,316円/月 月額 の12回払いから 脚注 #"
+     "128GB 129,800円から 、または10,816円/月 月額 の12回払いから",
+     "256GB 146,800円から 、または12,233円/月 月額 の12回払いから",
+     "512GB 181,800円から 、または15,150円/月 月額 の12回払いから",
+     "1TB 231,800円から 、または19,316円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 129,800円 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 154,800円 、または12,900円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 129,800円 、または10,816円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 154,800円 、または12,900円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -568,7 +568,7 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "acc_keyboard_11inch": [
@@ -580,7 +580,7 @@
      "ブラック"
     ],
     "acc_keyboard_13inch": [
-     "iPad Air用Magic Keyboardを追加する54,800円"
+     "iPad Air用Magic Keyboardを追加する 54,800円"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "ホワイト",
@@ -593,10 +593,10 @@
    "totalFrom": "summary",
    "totalText": "23,800円 | 14,800円 | 51,400円 | 54,800円 | 169,800円",
    "selected": {
-    "dimensionScreensize": "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #",
+    "dimensionScreensize": "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから",
     "dimensionColor": "パープル",
-    "dimensionCapacity": "128GB 脚注 2 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 169,800円 、または14,150円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB 169,800円から 、または14,150円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 169,800円 、または14,150円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -612,8 +612,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #"
+     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから",
+     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから"
     ],
     "dimensionColor": [
      "パープル",
@@ -622,14 +622,14 @@
      "スペースグレイ"
     ],
     "dimensionCapacity": [
-     "128GB 脚注 2 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #",
-     "256GB 脚注 2 186,800円から 、または15,566円/月 月額 の12回払いから 脚注 #",
-     "512GB 脚注 2 221,800円から 、または18,483円/月 月額 の12回払いから 脚注 #",
-     "1TB 脚注 2 271,800円から 、または22,650円/月 月額 の12回払いから 脚注 #"
+     "128GB 169,800円から 、または14,150円/月 月額 の12回払いから",
+     "256GB 186,800円から 、または15,566円/月 月額 の12回払いから",
+     "512GB 221,800円から 、または18,483円/月 月額 の12回払いから",
+     "1TB 271,800円から 、または22,650円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 169,800円 、または14,150円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 194,800円 、または16,233円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 169,800円 、または14,150円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 194,800円 、または16,233円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -862,18 +862,18 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "acc_keyboard_11inch": [
-     "iPad Air用Magic Keyboardを追加する51,400円"
+     "iPad Air用Magic Keyboardを追加する 51,400円"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "ホワイト",
      "ブラック"
     ],
     "acc_keyboard_13inch": [
-     "iPad Air用Magic Keyboardを追加する54,800円"
+     "iPad Air用Magic Keyboardを追加する 54,800円"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "ホワイト",
@@ -886,10 +886,10 @@
    "totalFrom": "summary",
    "totalText": "23,800円 | 14,800円 | 51,400円 | 54,800円 | 194,800円",
    "selected": {
-    "dimensionScreensize": "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #",
+    "dimensionScreensize": "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから",
     "dimensionColor": "パープル",
-    "dimensionCapacity": "128GB 脚注 2 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 194,800円 、または16,233円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB 169,800円から 、または14,150円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 194,800円 、または16,233円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -905,8 +905,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから 脚注 #",
-     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #"
+     "11インチモデル 129,800円から 、または10,816円/月 月額 の12回払いから",
+     "13インチモデル 169,800円から 、または14,150円/月 月額 の12回払いから"
     ],
     "dimensionColor": [
      "パープル",
@@ -915,14 +915,14 @@
      "スペースグレイ"
     ],
     "dimensionCapacity": [
-     "128GB 脚注 2 169,800円から 、または14,150円/月 月額 の12回払いから 脚注 #",
-     "256GB 脚注 2 186,800円から 、または15,566円/月 月額 の12回払いから 脚注 #",
-     "512GB 脚注 2 221,800円から 、または18,483円/月 月額 の12回払いから 脚注 #",
-     "1TB 脚注 2 271,800円から 、または22,650円/月 月額 の12回払いから 脚注 #"
+     "128GB 169,800円から 、または14,150円/月 月額 の12回払いから",
+     "256GB 186,800円から 、または15,566円/月 月額 の12回払いから",
+     "512GB 221,800円から 、または18,483円/月 月額 の12回払いから",
+     "1TB 271,800円から 、または22,650円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 169,800円 、または14,150円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 194,800円 、または16,233円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 169,800円 、または14,150円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 194,800円 、または16,233円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -1155,18 +1155,18 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "acc_keyboard_11inch": [
-     "iPad Air用Magic Keyboardを追加する51,400円"
+     "iPad Air用Magic Keyboardを追加する 51,400円"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "ホワイト",
      "ブラック"
     ],
     "acc_keyboard_13inch": [
-     "iPad Air用Magic Keyboardを追加する54,800円"
+     "iPad Air用Magic Keyboardを追加する 54,800円"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "ホワイト",

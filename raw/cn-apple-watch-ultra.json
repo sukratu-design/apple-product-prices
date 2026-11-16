@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:45.592Z",
+ "configs": {
+  "band": {
+   "total": 6499,
+   "totalFrom": "summary",
+   "totalText": "RMB 6,499",
+   "selected": {
+    "watch_cases-dimensionColor": "黑色",
+    "style": "新配色 高山回环式表带 适合户外探险和徒步。 RMB 6499 或 RMB 271/月 (24 期) 起",
+    "alpineloop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "S 表带适合 130–160 毫米腕围。"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "黑色",
+     "原色"
+    ],
+    "style": [
+     "新配色 高山回环式表带 适合户外探险和徒步。 RMB 6499 或 RMB 271/月 (24 期) 起",
+     "新配色 野径回环式表带 适合各种活动和体能训练。 RMB 6499 或 RMB 271/月 (24 期) 起",
+     "新配色 海洋表带 适合水上运动和休闲潜水。 RMB 6499 或 RMB 271/月 (24 期) 起",
+     "钛金属米兰尼斯表带 专为海洋设计，造型优雅，适合各种场合。 RMB 7499 或 RMB 313/月 (24 期) 起"
+    ],
+    "alpineloop-color": [
+     "勃艮第酒红色",
+     "深橄榄色",
+     "沙漠色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 表带适合 130–160 毫米腕围。",
+     "M 表带适合 145–190 毫米腕围。",
+     "L 表带适合 165–210 毫米腕围。"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 7499,
+   "totalFrom": "summary",
+   "totalText": "RMB 7,499",
+   "selected": {
+    "watch_cases-dimensionColor": "黑色",
+    "style": "钛金属米兰尼斯表带 专为海洋设计，造型优雅，适合各种场合。 RMB 7499 或 RMB 313/月 (24 期) 起",
+    "ti_milaneseloop-color": "黑色",
+    "watch_bands-dimensionbandsize": "S 表带适合 130–160 毫米腕围。"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "黑色",
+     "原色"
+    ],
+    "style": [
+     "新配色 高山回环式表带 适合户外探险和徒步。 RMB 6499 或 RMB 271/月 (24 期) 起",
+     "新配色 野径回环式表带 适合各种活动和体能训练。 RMB 6499 或 RMB 271/月 (24 期) 起",
+     "新配色 海洋表带 适合水上运动和休闲潜水。 RMB 6499 或 RMB 271/月 (24 期) 起",
+     "钛金属米兰尼斯表带 专为海洋设计，造型优雅，适合各种场合。 RMB 7499 或 RMB 313/月 (24 期) 起"
+    ],
+    "ti_milaneseloop-color": [
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 表带适合 130–160 毫米腕围。",
+     "M 表带适合 155–185 毫米腕围。",
+     "L 表带适合 180–210 毫米腕围。"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

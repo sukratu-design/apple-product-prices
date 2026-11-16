@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:55:58.110Z",
+ "configs": {
+  "m5max-32": {
+   "total": 57999,
+   "totalFrom": "summary",
+   "totalText": "$57,999 de contado o 18 MSI desde $3,222.17. Nota al pie ∆ | $57,999 de contado o 18 MSI desde $3,222.17. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Capacidad y velocidad nunca antes vistas para proyectos creativos y flujos de trabajo profesionales. 2 opciones con Neural Engine de 16 núcleos Desde $57,999 de contado o 18 MSI desde $3,222.17.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+    "memory-dimensionMemory": "36 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Capacidad y velocidad nunca antes vistas para proyectos creativos y flujos de trabajo profesionales. 2 opciones con Neural Engine de 16 núcleos Desde $57,999 de contado o 18 MSI desde $3,222.17.",
+     "Chip M5 Ultra Nuestro chip más avanzado ofrece un rendimiento sin precedentes para las tareas profesionales más exigentes. 2 opciones con Neural Engine de 32 núcleos Desde $129,999 de contado o 18 MSI desde $7,222.17."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos y acelera tareas como ejecutar modelos de lenguaje de gran tamaño y edición de video 8K. + $7,500.00 Esta selección requiere incrementar la memoria a 48 GB, lo que aumentará el precio total de tu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluido"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $7,500.00",
+     "2 TB + $20,000.00",
+     "4 TB + $45,000.00",
+     "8 TB + $95,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 72999,
+   "totalFrom": "summary",
+   "totalText": "$72,999 de contado o 18 MSI desde $4,055.50. Nota al pie ∆ | $72,999 de contado o 18 MSI desde $4,055.50. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Capacidad y velocidad nunca antes vistas para proyectos creativos y flujos de trabajo profesionales. 2 opciones con Neural Engine de 16 núcleos Desde $57,999 de contado o 18 MSI desde $3,222.17.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos y acelera tareas como ejecutar modelos de lenguaje de gran tamaño y edición de video 8K. Esta selección requiere incrementar la memoria a 48 GB, lo que aumentará el precio total de tu Mac.",
+    "memory-dimensionMemory": "48 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Capacidad y velocidad nunca antes vistas para proyectos creativos y flujos de trabajo profesionales. 2 opciones con Neural Engine de 16 núcleos Desde $57,999 de contado o 18 MSI desde $3,222.17.",
+     "Chip M5 Ultra Nuestro chip más avanzado ofrece un rendimiento sin precedentes para las tareas profesionales más exigentes. 2 opciones con Neural Engine de 32 núcleos Desde $129,999 de contado o 18 MSI desde $7,222.17."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − $7,500.00",
+     "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos y acelera tareas como ejecutar modelos de lenguaje de gran tamaño y edición de video 8K. Esta selección requiere incrementar la memoria a 48 GB, lo que aumentará el precio total de tu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluido",
+     "64 GB + $10,000.00",
+     "128 GB + $50,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $7,500.00",
+     "2 TB + $20,000.00",
+     "4 TB + $45,000.00",
+     "8 TB + $95,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 129999,
+   "totalFrom": "summary",
+   "totalText": "$129,999 de contado o 18 MSI desde $7,222.17. Nota al pie ∆ | $129,999 de contado o 18 MSI desde $7,222.17. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Nuestro chip más avanzado ofrece un rendimiento sin precedentes para las tareas profesionales más exigentes. 2 opciones con Neural Engine de 32 núcleos Desde $129,999 de contado o 18 MSI desde $7,222.17.",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 30 núcleos, GPU de 64 núcleos Incluido",
+    "memory-dimensionMemory": "96 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Capacidad y velocidad nunca antes vistas para proyectos creativos y flujos de trabajo profesionales. 2 opciones con Neural Engine de 16 núcleos Desde $57,999 de contado o 18 MSI desde $3,222.17.",
+     "Chip M5 Ultra Nuestro chip más avanzado ofrece un rendimiento sin precedentes para las tareas profesionales más exigentes. 2 opciones con Neural Engine de 32 núcleos Desde $129,999 de contado o 18 MSI desde $7,222.17."
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 30 núcleos, GPU de 64 núcleos Incluido",
+     "CPU de 36 núcleos, GPU de 80 núcleos Impulsa el rendimiento de procesamiento, de gráficos y de IA para flujos de trabajo exigentes como la ejecución de modelos de lenguaje de gran tamaño, la aplicación de efectos visuales y la corrección de color cinematográfica. + $32,500.00"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluido",
+     "256 GB + $100,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + $12,500.00",
+     "4 TB + $37,500.00",
+     "8 TB + $87,500.00",
+     "16 TB + $187,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 162499,
+   "totalFrom": "summary",
+   "totalText": "$162,499 de contado o 18 MSI desde $9,027.72. Nota al pie ∆ | $162,499 de contado o 18 MSI desde $9,027.72. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Nuestro chip más avanzado ofrece un rendimiento sin precedentes para las tareas profesionales más exigentes. 2 opciones con Neural Engine de 32 núcleos Desde $129,999 de contado o 18 MSI desde $7,222.17.",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 36 núcleos, GPU de 80 núcleos Impulsa el rendimiento de procesamiento, de gráficos y de IA para flujos de trabajo exigentes como la ejecución de modelos de lenguaje de gran tamaño, la aplicación de efectos visuales y la corrección de color cinematográfica.",
+    "memory-dimensionMemory": "96 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Capacidad y velocidad nunca antes vistas para proyectos creativos y flujos de trabajo profesionales. 2 opciones con Neural Engine de 16 núcleos Desde $57,999 de contado o 18 MSI desde $3,222.17.",
+     "Chip M5 Ultra Nuestro chip más avanzado ofrece un rendimiento sin precedentes para las tareas profesionales más exigentes. 2 opciones con Neural Engine de 32 núcleos Desde $129,999 de contado o 18 MSI desde $7,222.17."
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 30 núcleos, GPU de 64 núcleos − $32,500.00",
+     "CPU de 36 núcleos, GPU de 80 núcleos Impulsa el rendimiento de procesamiento, de gráficos y de IA para flujos de trabajo exigentes como la ejecución de modelos de lenguaje de gran tamaño, la aplicación de efectos visuales y la corrección de color cinematográfica."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluido",
+     "256 GB + $100,000.00",
+     "512 GB + $387,500.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + $12,500.00",
+     "4 TB + $37,500.00",
+     "8 TB + $87,500.00",
+     "16 TB + $187,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

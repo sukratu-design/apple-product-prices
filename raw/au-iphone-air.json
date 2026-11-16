@@ -2,15 +2,15 @@
  "page": "iphone-air",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-iphone/iphone-air",
- "scrapedAt": "2026-11-13T10:59:51.432Z",
+ "scrapedAt": "2026-11-16T11:59:49.672Z",
  "configs": {
   "default": {
    "total": 1899,
    "totalFrom": "summary",
-   "totalText": "A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+   "totalText": "A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote ± | A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
    "selected": {
     "dimensionColor": "Sky Blue",
-    "dimensionCapacity": "256GB Footnote 1 A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+    "dimensionCapacity": "256GB Footnote 1 A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
    },
    "options": {
     "dimensionColor": [
@@ -20,9 +20,9 @@
      "Light Gold"
     ],
     "dimensionCapacity": [
-     "256GB Footnote 1 A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "512GB Footnote 1 A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "1TB Footnote 1 A$3,099.00 or A$129.13/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+     "256GB Footnote 1 A$1,899.00 or A$79.13/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "512GB Footnote 1 A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "1TB Footnote 1 A$3,099.00 or A$129.13/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
     ]
    },
    "disabledOptions": {}

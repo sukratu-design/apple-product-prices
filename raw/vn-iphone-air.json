@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:47.676Z",
+ "configs": {
+  "default": {
+   "total": 34999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 34.999.000đ",
+   "selected": {
+    "dimensionColor": "Xanh Da Trời",
+    "dimensionCapacity": "256GB Chú thích 1 34.999.000đ hoặc 1.425.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Xanh Da Trời",
+     "Trắng Mây",
+     "Đen Không Gian",
+     "Vàng Nhạt"
+    ],
+    "dimensionCapacity": [
+     "256GB Chú thích 1 34.999.000đ hoặc 1.425.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "512GB Chú thích 1 41.499.000đ hoặc 1.690.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "1TB Chú thích 1 54.499.000đ hoặc 2.219.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

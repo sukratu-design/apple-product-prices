@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:25.955Z",
+ "configs": {
+  "2port": {
+   "total": 1819,
+   "totalFrom": "summary",
+   "totalText": "1.819,00 € o 63,01 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 1.819,00 € o 63,01 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos y doble Neural Engine de 16 núcleos Desde 1.819,00 € o 63,01 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "chassis-dimensionStandType": "Soporte Colócalo en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+    "ethernet_adapter-ethernetPortCount": "Sin Ethernet Solo se puede conectar a una red wifi. Incluido",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Es compatible con gestos Multi‑Touch, como deslizar y desplazarse. Incluido",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Diseño ultracompacto de borde a borde. Incluido"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Púrpura",
+     "Rosa",
+     "Naranja",
+     "Amarillo",
+     "Verde",
+     "Plata"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos y doble Neural Engine de 16 núcleos Desde 1.819,00 € o 63,01 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos y doble Neural Engine de 16 núcleos Desde 2.019,00 € o 69,94 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + 220,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + 220,00 €",
+     "1 TB + 550,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Soporte Colócalo en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+     "Adaptador de montaje VESA Diseñado para que puedas colgarlo en la pared o usarlo con un brazo articulado."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Sin Ethernet Solo se puede conectar a una red wifi. Incluido",
+     "Puerto Ethernet de 2,5 Gb Conexión de red estándar con velocidades de hasta 2,5 Gb. + 30,00 €"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Es compatible con gestos Multi‑Touch, como deslizar y desplazarse. Incluido",
+     "Magic Trackpad Es compatible con todos los gestos Multi‑Touch y la tecnología Force Touch. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Diseño ultracompacto de borde a borde. Incluido",
+     "Magic Keyboard con Touch ID y teclado numérico Diseño ampliado con controles de navegación. Ofrece una autenticación fácil y rápida con tu huella. + 80,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2019,
+   "totalFrom": "summary",
+   "totalText": "2.019,00 € o 69,94 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 2.019,00 € o 69,94 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos y doble Neural Engine de 16 núcleos Desde 2.019,00 € o 69,94 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "display-dimensionFinish": "Vidrio estándar Reduce al máximo la reflectividad en cualquier tipo de entorno. Incluido",
+    "chassis-dimensionStandType": "Soporte Colócalo en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Es compatible con gestos Multi‑Touch, como deslizar y desplazarse. Incluido",
+    "keyboard-keyboardFormFactor": "Magic Keyboard con Touch ID Ofrece una autenticación fácil y rápida con tu huella. Incluido"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Púrpura",
+     "Rosa",
+     "Naranja",
+     "Amarillo",
+     "Verde",
+     "Plata"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos y doble Neural Engine de 16 núcleos Desde 1.819,00 € o 63,01 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos y doble Neural Engine de 16 núcleos Desde 2.019,00 € o 69,94 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + 220,00 €",
+     "1 TB + 550,00 €",
+     "2 TB + 1.100,00 €"
+    ],
+    "display-dimensionFinish": [
+     "Vidrio estándar Reduce al máximo la reflectividad en cualquier tipo de entorno. Incluido",
+     "Vidrio nanotexturizado Reduce aún más los brillos y los reflejos en entornos muy luminosos. Solo disponible en el modelo de cuatro puertos. + 220,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Soporte Colócalo en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+     "Adaptador de montaje VESA Diseñado para que puedas colgarlo en la pared o usarlo con un brazo articulado."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Es compatible con gestos Multi‑Touch, como deslizar y desplazarse. Incluido",
+     "Magic Trackpad Es compatible con todos los gestos Multi‑Touch y la tecnología Force Touch. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard con Touch ID Ofrece una autenticación fácil y rápida con tu huella. Incluido",
+     "Magic Keyboard con Touch ID y teclado numérico Diseño ampliado con controles de navegación. Ofrece una autenticación fácil y rápida con tu huella. + 30,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

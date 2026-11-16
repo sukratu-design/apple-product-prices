@@ -2,17 +2,17 @@
  "page": "ipad-mini",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
- "scrapedAt": "2026-11-13T10:59:12.196Z",
+ "scrapedAt": "2026-11-16T12:31:41.531Z",
  "configs": {
   "wifi": {
    "total": 699,
    "totalFrom": "summary",
-   "totalText": "Buy for $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※ | Buy for $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-    "dimensionFinish": "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "dimensionFinish": "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $699.00 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -30,16 +30,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine Buy from $999 or $83.25/mo. per month for 12 mo. months Footnote ‡ Lease from $21.43/mo. per month for 36 mo. months Footnote ※"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months with Apple Upgrade",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine Buy from $999 or $83.25/mo. per month for 12 mo. months Lease from From $21.43/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "dimensionFinish": [
-     "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※"
+     "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $849 or $70.75/mo. per month for 12 mo. months Footnote ‡ Lease from $18.21/mo. per month for 36 mo. months Footnote ※"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $699.00 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $849 or $70.75/mo. per month for 12 mo. months Lease from From $18.21/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact lease, returns, or trade‑in values with Apple. Free",
@@ -264,16 +264,16 @@
      "Nano-texture glass Available in models with 256GB and 512GB storage"
     ],
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro $129.00 or $10.75/mo. per month for 12 mo. months Footnote ‡",
-     "Add Apple Pencil (USB‑C) $79.00 or $6.58/mo. per month for 12 mo. months Footnote ‡",
+     "Free engraving Add Apple Pencil Pro $129.00 or $10.75/mo. per month for 12 mo. months",
+     "Add Apple Pencil (USB‑C) $79.00 or $6.58/mo. per month for 12 mo. months",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
-     "New Add Smart Folio $79.00 or $6.58/mo. per month for 12 mo. months Footnote ‡",
+     "New Add Smart Folio $79.00 or $6.58/mo. per month for 12 mo. months",
      "No Smart Folio"
     ],
     "smart_folioGroup_dimensionColor": [
@@ -285,12 +285,12 @@
   "cell": {
    "total": 849,
    "totalFrom": "summary",
-   "totalText": "Buy for $849.00 or $70.75/mo. per month for 12 mo. months Footnote ‡ Lease from $18.21/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $849.00 or $70.75/mo. per month for 12 mo. months Footnote ‡ Lease from $18.21/mo. per month for 36 mo. months Footnote ※ | Buy for $849.00 or $70.75/mo. per month for 12 mo. months Footnote ‡ Lease from $18.21/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-    "dimensionFinish": "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $849 or $70.75/mo. per month for 12 mo. months Footnote ‡ Lease from $18.21/mo. per month for 36 mo. months Footnote ※",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "dimensionFinish": "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $849 or $70.75/mo. per month for 12 mo. months Lease from From $18.21/mo. per month for 36 mo. months with Apple Upgrade",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -308,16 +308,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine Buy from $999 or $83.25/mo. per month for 12 mo. months Footnote ‡ Lease from $21.43/mo. per month for 36 mo. months Footnote ※"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months with Apple Upgrade",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine Buy from $999 or $83.25/mo. per month for 12 mo. months Lease from From $21.43/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "dimensionFinish": [
-     "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※"
+     "Standard glass Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $849 or $70.75/mo. per month for 12 mo. months Footnote ‡ Lease from $18.21/mo. per month for 36 mo. months Footnote ※"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $699.00 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $849 or $70.75/mo. per month for 12 mo. months Lease from From $18.21/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact lease, returns, or trade‑in values with Apple. Free",
@@ -542,16 +542,16 @@
      "Nano-texture glass Available in models with 256GB and 512GB storage"
     ],
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro $129.00 or $10.75/mo. per month for 12 mo. months Footnote ‡",
-     "Add Apple Pencil (USB‑C) $79.00 or $6.58/mo. per month for 12 mo. months Footnote ‡",
+     "Free engraving Add Apple Pencil Pro $129.00 or $10.75/mo. per month for 12 mo. months",
+     "Add Apple Pencil (USB‑C) $79.00 or $6.58/mo. per month for 12 mo. months",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
-     "New Add Smart Folio $79.00 or $6.58/mo. per month for 12 mo. months Footnote ‡",
+     "New Add Smart Folio $79.00 or $6.58/mo. per month for 12 mo. months",
      "No Smart Folio"
     ],
     "smart_folioGroup_dimensionColor": [
@@ -563,12 +563,12 @@
   "nano": {
    "total": 799,
    "totalFrom": "summary",
-   "totalText": "Buy for $799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※ | Buy for $799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-    "dimensionFinish": "Standard glass Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
+    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months with Apple Upgrade",
+    "dimensionFinish": "Standard glass Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months with Apple Upgrade",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $799.00 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -586,17 +586,17 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $14.99/mo. per month for 36 mo. months Footnote ※",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine Buy from $999 or $83.25/mo. per month for 12 mo. months Footnote ‡ Lease from $21.43/mo. per month for 36 mo. months Footnote ※"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from From $14.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months with Apple Upgrade",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine Buy from $999 or $83.25/mo. per month for 12 mo. months Lease from From $21.43/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "dimensionFinish": [
-     "Standard glass Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-     "Nano-texture glass Available in models with 256GB and 512GB storage Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $19.28/mo. per month for 36 mo. months Footnote ※"
+     "Standard glass Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months with Apple Upgrade",
+     "Nano-texture glass Available in models with 256GB and 512GB storage Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from From $19.28/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $799.00 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $17.14/mo. per month for 36 mo. months Footnote ※",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $20.36/mo. per month for 36 mo. months Footnote ※"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. Buy from $799.00 or $66.58/mo. per month for 12 mo. months Lease from From $17.14/mo. per month for 36 mo. months",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from From $20.36/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact lease, returns, or trade‑in values with Apple. Free",
@@ -818,16 +818,16 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro $129.00 or $10.75/mo. per month for 12 mo. months Footnote ‡",
-     "Add Apple Pencil (USB‑C) $79.00 or $6.58/mo. per month for 12 mo. months Footnote ‡",
+     "Free engraving Add Apple Pencil Pro $129.00 or $10.75/mo. per month for 12 mo. months",
+     "Add Apple Pencil (USB‑C) $79.00 or $6.58/mo. per month for 12 mo. months",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
-     "New Add Smart Folio $79.00 or $6.58/mo. per month for 12 mo. months Footnote ‡",
+     "New Add Smart Folio $79.00 or $6.58/mo. per month for 12 mo. months",
      "No Smart Folio"
     ],
     "smart_folioGroup_dimensionColor": [

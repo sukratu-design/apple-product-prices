@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:59.213Z",
+ "configs": {
+  "default": {
+   "total": 2339,
+   "totalFrom": "summary",
+   "totalText": "€ 2.339,00 | € 2.339,00 | € 2.339,00",
+   "selected": {
+    "dimensionColor": "Sterrenwit",
+    "dimensionCapacity": "256 GB Voetnoot 1 € 2.339,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sterrenwit",
+     "Nachthemel"
+    ],
+    "dimensionCapacity": [
+     "256 GB Voetnoot 1 € 2.339,00",
+     "512 GB Voetnoot 1 € 2.589,00",
+     "1 TB Voetnoot 1 € 3.089,00",
+     "2 TB Voetnoot 1 € 3.839,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

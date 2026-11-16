@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:47.625Z",
+ "configs": {
+  "2port": {
+   "total": 1799,
+   "totalFrom": "summary",
+   "totalText": "1.799,00 € | 1.799,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Blau",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 Chip mit zwei Thunderbolt Anschlüssen 10‑Core CPU, 10‑Core GPU, Dual 16‑Core Neural Engine Ab 1.799 €",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "256 GB Enthalten",
+    "chassis-dimensionStandType": "Standfuß Für den Schreibtisch, Neigung nach oben und unten einstellbar. Enthalten",
+    "ethernet_adapter-ethernetPortCount": "Kein Ethernet Verbindung nur über ein WLAN Netzwerk. Enthalten",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Unterstützt Multi‑Touch Gesten wie Streichen und Scrollen. Enthalten",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultrakompaktes, durchgehendes Design. Enthalten"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blau",
+     "Violett",
+     "Pink",
+     "Orange",
+     "Gelb",
+     "Grün",
+     "Silber"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 Chip mit zwei Thunderbolt Anschlüssen 10‑Core CPU, 10‑Core GPU, Dual 16‑Core Neural Engine Ab 1.799 €",
+     "M6 Chip mit vier Thunderbolt Anschlüssen 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 1.999 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + 220,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Enthalten",
+     "512 GB + 220,00 €",
+     "1 TB + 550,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Standfuß Für den Schreibtisch, Neigung nach oben und unten einstellbar. Enthalten",
+     "VESA Mount Adapter Integriert, für die Befestigung an der Wand oder an einem verstellbaren Arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Kein Ethernet Verbindung nur über ein WLAN Netzwerk. Enthalten",
+     "2,5 Gigabit Ethernet Anschluss Netzwerkstandards mit bis zu 2,5 Gbit Verbindungsgeschwindigkeiten. + 30,00 €"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Unterstützt Multi‑Touch Gesten wie Streichen und Scrollen. Enthalten",
+     "Magic Trackpad Unterstützt alle Multi‑Touch Gesten und Force Touch Technologie. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultrakompaktes, durchgehendes Design. Enthalten",
+     "Magic Keyboard mit Touch ID und Ziffernblock Erweitertes Layout mit Steuerelementen zur Navigation. Ermöglicht eine schnelle und einfache Authentifizierung per Fingerabdruck. + 80,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 1999,
+   "totalFrom": "summary",
+   "totalText": "1.999,00 € | 1.999,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Blau",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 Chip mit vier Thunderbolt Anschlüssen 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 1.999 €",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "256 GB Enthalten",
+    "display-dimensionFinish": "Standardglas Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+    "chassis-dimensionStandType": "Standfuß Für den Schreibtisch, Neigung nach oben und unten einstellbar. Enthalten",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Unterstützt Multi‑Touch Gesten wie Streichen und Scrollen. Enthalten",
+    "keyboard-keyboardFormFactor": "Magic Keyboard mit Touch ID Ermöglicht eine schnelle und einfache Authentifizierung per Fingerabdruck. Enthalten"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blau",
+     "Violett",
+     "Pink",
+     "Orange",
+     "Gelb",
+     "Grün",
+     "Silber"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 Chip mit zwei Thunderbolt Anschlüssen 10‑Core CPU, 10‑Core GPU, Dual 16‑Core Neural Engine Ab 1.799 €",
+     "M6 Chip mit vier Thunderbolt Anschlüssen 12‑Core CPU, 12‑Core GPU, Dual 16‑Core Neural Engine Ab 1.999 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Enthalten",
+     "512 GB + 220,00 €",
+     "1 TB + 550,00 €",
+     "2 TB + 1.100,00 €"
+    ],
+    "display-dimensionFinish": [
+     "Standardglas Entwickelt für geringe Reflexion, um Blendeffekte in deiner Umgebung zu reduzieren. Enthalten",
+     "Nanotexturglas Reduziert Blendeffekte und Reflexionen bei hellen Lichtverhältnissen. Nur verfügbar beim Modell mit vier Anschlüssen. + 220,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Standfuß Für den Schreibtisch, Neigung nach oben und unten einstellbar. Enthalten",
+     "VESA Mount Adapter Integriert, für die Befestigung an der Wand oder an einem verstellbaren Arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Unterstützt Multi‑Touch Gesten wie Streichen und Scrollen. Enthalten",
+     "Magic Trackpad Unterstützt alle Multi‑Touch Gesten und Force Touch Technologie. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard mit Touch ID Ermöglicht eine schnelle und einfache Authentifizierung per Fingerabdruck. Enthalten",
+     "Magic Keyboard mit Touch ID und Ziffernblock Erweitertes Layout mit Steuerelementen zur Navigation. Ermöglicht eine schnelle und einfache Authentifizierung per Fingerabdruck. + 30,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

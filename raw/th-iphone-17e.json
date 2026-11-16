@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:43.449Z",
+ "configs": {
+  "default": {
+   "total": 26900,
+   "totalFrom": "summary",
+   "totalText": "฿26,900.00 | ฿26,900.00 | ฿26,900.00",
+   "selected": {
+    "dimensionColor": "ชมพูอ่อน",
+    "dimensionCapacity": "256GB เชิงอรรถ 1 ฿26,900.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "ชมพูอ่อน",
+     "ขาว",
+     "ดำ"
+    ],
+    "dimensionCapacity": [
+     "256GB เชิงอรรถ 1 ฿26,900.00",
+     "512GB เชิงอรรถ 1 ฿34,900.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

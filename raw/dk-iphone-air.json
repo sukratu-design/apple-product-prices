@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:23.253Z",
+ "configs": {
+  "default": {
+   "total": 9999,
+   "totalFrom": "summary",
+   "totalText": "9.999,00 kr. | 9.999,00 kr. | 9.999,00 kr.",
+   "selected": {
+    "dimensionColor": "himmelblå",
+    "dimensionCapacity": "256 GB Fodnote 1 9.999,00 kr."
+   },
+   "options": {
+    "dimensionColor": [
+     "himmelblå",
+     "skyhvid",
+     "space black",
+     "lyst guld"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fodnote 1 9.999,00 kr.",
+     "512 GB Fodnote 1 11.999,00 kr.",
+     "1 TB Fodnote 1 15.999,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

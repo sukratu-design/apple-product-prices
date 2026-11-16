@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:46:16.388Z",
+ "configs": {
+  "14-m6": {
+   "total": 2299,
+   "totalFrom": "summary",
+   "totalText": "2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Inclus",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Inclus"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2899,
+   "totalFrom": "summary",
+   "totalText": "2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15 cœurs, GPU 16 cœurs Inclus",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 cœurs, GPU 16 cœurs Inclus",
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs. + 250,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 660,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3149,
+   "totalFrom": "summary",
+   "totalText": "3 149 € ou 94,08 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 3 149 € ou 94,08 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs.",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus",
+    "power_adapter-wattage": "Pas d’adaptateur secteur"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 cœurs, GPU 16 cœurs − 250,00 €",
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs."
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 660,00 €",
+     "64 Go + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Pas d’adaptateur secteur",
+     "96 W Charge rapide, prise en charge du mode Performance avec les puces M5 Pro et M5 Max. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4799,
+   "totalFrom": "summary",
+   "totalText": "4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 32 cœurs Inclus",
+    "memory-dimensionMemory": "36 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs Inclus",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. + 330,00 € Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 100,00 €",
+     "8 To + 3 300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5459,
+   "totalFrom": "summary",
+   "totalText": "5 459 € ou 163,10 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 5 459 € ou 163,10 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac.",
+    "memory-dimensionMemory": "48 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus",
+    "power_adapter-wattage": "Pas d’adaptateur secteur"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 899 € ou 86,61 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 799 € ou 143,38 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs − 330,00 €",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 Go Inclus",
+     "64 Go + 440,00 €",
+     "128 Go + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 100,00 €",
+     "8 To + 3 300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Pas d’adaptateur secteur",
+     "96 W Charge rapide, prise en charge du mode Performance avec les puces M5 Pro et M5 Max. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3399,
+   "totalFrom": "summary",
+   "totalText": "3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs. Inclus",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs. Inclus"
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 660,00 €",
+     "64 Go + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5099,
+   "totalFrom": "summary",
+   "totalText": "5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 32 cœurs Inclus",
+    "memory-dimensionMemory": "36 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs Inclus",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. + 270,00 € Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 100,00 €",
+     "8 To + 3 300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5699,
+   "totalFrom": "summary",
+   "totalText": "5 699 € ou 170,27 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 5 699 € ou 170,27 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac.",
+    "memory-dimensionMemory": "48 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus",
+    "power_adapter-wattage": "Pas d’adaptateur secteur"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 299 € ou 68,69 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 399 € ou 101,55 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 5 099 € ou 152,34 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs − 270,00 €",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 Go Inclus",
+     "64 Go + 440,00 €",
+     "128 Go + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 100,00 €",
+     "8 To + 3 300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Pas d’adaptateur secteur",
+     "140 W Charge rapide, prise en charge du mode Performance avec les puces M5 Pro et M5 Max. + 119,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

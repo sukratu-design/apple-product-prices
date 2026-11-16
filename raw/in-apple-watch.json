@@ -2,44 +2,44 @@
  "page": "apple-watch",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-watch/apple-watch",
- "scrapedAt": "2026-11-13T05:02:36.222Z",
+ "scrapedAt": "2026-11-16T13:03:34.248Z",
  "configs": {
   "al-42-gps": {
-   "total": 56900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 8816,
+   "totalFrom": "summary",
    "totalText": "From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
-    "watch_cases-dimensionCaseSize": "42mm From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-    "style": "New colours Sport Band From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹56900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+    "watch_cases-dimensionCaseSize": "42mm From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+    "style": "New colours Sport Band From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹56900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
     "sport-color": "Olive",
     "watch_bands-dimensionbandsize": "S/M Strap fits 130–180mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-     "46mm From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※"
+     "42mm From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+     "46mm From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹10817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹68900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹10817.00/mo. Per Month with instant cashback and No Cost EMI or ₹68900.00"
     ],
     "style": [
-     "New colours Sport Band From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹56900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
-     "New colours Milanese Loop From ₹9650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹61900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
+     "New colours Sport Band From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹56900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+     "New colours Milanese Loop From ₹9650.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹61900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
     ],
     "sport-color": [
      "Olive"
@@ -48,44 +48,45 @@
      "S/M Strap fits 130–180mm wrists.",
      "M/L Strap fits 150–200mm wrists."
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "al-46-gps": {
-   "total": 62900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 9817,
+   "totalFrom": "summary",
    "totalText": "From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
-    "watch_cases-dimensionCaseSize": "46mm From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※",
-    "style": "New colours Sport Band From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹62900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+    "watch_cases-dimensionCaseSize": "46mm From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00",
+    "style": "New colours Sport Band From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹62900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
     "sport-color": "Olive",
     "watch_bands-dimensionbandsize": "S/M Strap fits 140–190mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-     "46mm From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※"
+     "42mm From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+     "46mm From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹11817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹74900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹11817.00/mo. Per Month with instant cashback and No Cost EMI or ₹74900.00"
     ],
     "style": [
-     "New colours Sport Band From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹62900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
-     "New colours Milanese Loop From ₹10650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹67900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
+     "New colours Sport Band From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹62900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+     "New colours Milanese Loop From ₹10650.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹67900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
     ],
     "sport-color": [
      "Olive"
@@ -94,44 +95,45 @@
      "S/M Strap fits 140–190mm wrists.",
      "M/L Strap fits 160–210mm wrists."
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "al-42-cell": {
-   "total": 68900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 10817,
+   "totalFrom": "summary",
    "totalText": "From ₹10817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
-    "watch_cases-dimensionCaseSize": "42mm From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹10817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹68900.00 Footnote ※",
-    "style": "New colours Sport Band From ₹10817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹68900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+    "watch_cases-dimensionCaseSize": "42mm From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹10817.00/mo. Per Month with instant cashback and No Cost EMI or ₹68900.00",
+    "style": "New colours Sport Band From ₹10817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹68900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
     "sport-color": "Olive",
     "watch_bands-dimensionbandsize": "S/M Strap fits 130–180mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-     "46mm From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※"
+     "42mm From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+     "46mm From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹10817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹68900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹10817.00/mo. Per Month with instant cashback and No Cost EMI or ₹68900.00"
     ],
     "style": [
-     "New colours Sport Band From ₹10817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹68900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
-     "New colours Milanese Loop From ₹11650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹73900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
+     "New colours Sport Band From ₹10817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹68900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+     "New colours Milanese Loop From ₹11650.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹73900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
     ],
     "sport-color": [
      "Olive"
@@ -140,44 +142,45 @@
      "S/M Strap fits 130–180mm wrists.",
      "M/L Strap fits 150–200mm wrists."
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "al-46-cell": {
-   "total": 74900,
-   "totalFrom": "label:watch_cases-dimensionConnection",
+   "total": 11817,
+   "totalFrom": "summary",
    "totalText": "From ₹11817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
-    "watch_cases-dimensionCaseSize": "46mm From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹11817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹74900.00 Footnote ※",
-    "style": "New colours Sport Band From ₹11817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹74900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+    "watch_cases-dimensionCaseSize": "46mm From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹11817.00/mo. Per Month with instant cashback and No Cost EMI or ₹74900.00",
+    "style": "New colours Sport Band From ₹11817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹74900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
     "sport-color": "Olive",
     "watch_bands-dimensionbandsize": "S/M Strap fits 140–190mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※",
-     "46mm From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※"
+     "42mm From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00",
+     "46mm From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send texts with your iPhone nearby. From ₹9817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹62900.00 Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹11817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹74900.00 Footnote ※"
+     "GPS Make calls and send texts with your iPhone nearby. From ₹9817.00/mo. Per Month with instant cashback and No Cost EMI or ₹62900.00",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹11817.00/mo. Per Month with instant cashback and No Cost EMI or ₹74900.00"
     ],
     "style": [
-     "New colours Sport Band From ₹11817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹74900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
-     "New colours Milanese Loop From ₹12650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹79900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
+     "New colours Sport Band From ₹11817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹74900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+     "New colours Milanese Loop From ₹12650.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹79900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
     ],
     "sport-color": [
      "Olive"
@@ -186,41 +189,42 @@
      "S/M Strap fits 140–190mm wrists.",
      "M/L Strap fits 160–210mm wrists."
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "ti-42": {
-   "total": 99900,
-   "totalFrom": "label:watch_cases-dimensionCaseSize",
+   "total": 15983,
+   "totalFrom": "summary",
    "totalText": "From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
     "titanium-watch_cases-dimensionColor": "New Radiant Gold",
-    "watch_cases-dimensionCaseSize": "42mm From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹15983.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※",
-    "style": "New colours Sport Band From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹99900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+    "watch_cases-dimensionCaseSize": "42mm From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00",
+    "style": "New colours Sport Band From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹99900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
     "sport-color": "Burgundy",
     "watch_bands-dimensionbandsize": "S/M Strap fits 130–180mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "titanium-watch_cases-dimensionColor": [
      "New Radiant Gold",
      "Natural"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※",
-     "46mm From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹104900.00 Footnote ※"
+     "42mm From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00",
+     "46mm From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or ₹104900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹15983.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00"
     ],
     "style": [
-     "New colours Sport Band From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹99900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
-     "New colours Milanese Loop From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹104900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
+     "New colours Sport Band From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹99900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+     "New colours Milanese Loop From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹104900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
     ],
     "sport-color": [
      "Burgundy"
@@ -228,42 +232,47 @@
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 130–180mm wrists.",
      "M/L Strap fits 150–200mm wrists."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
     ]
    }
   },
   "ti-46": {
-   "total": 104900,
-   "totalFrom": "label:watch_cases-dimensionCaseSize",
+   "total": 16817,
+   "totalFrom": "summary",
    "totalText": "From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
     "titanium-watch_cases-dimensionColor": "New Radiant Gold",
-    "watch_cases-dimensionCaseSize": "46mm From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹104900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹16817.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹104900.00 Footnote ※",
-    "style": "New colours Sport Band From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹104900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+    "watch_cases-dimensionCaseSize": "46mm From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or ₹104900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or ₹104900.00",
+    "style": "New colours Sport Band From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹104900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
     "sport-color": "Burgundy",
     "watch_bands-dimensionbandsize": "S/M Strap fits 140–190mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "titanium-watch_cases-dimensionColor": [
      "New Radiant Gold",
      "Natural"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※",
-     "46mm From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹104900.00 Footnote ※"
+     "42mm From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00",
+     "46mm From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or ₹104900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹16817.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹104900.00 Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or ₹104900.00"
     ],
     "style": [
-     "New colours Sport Band From ₹16817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹104900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
-     "New colours Milanese Loop From ₹17650.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
+     "New colours Sport Band From ₹16817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹104900.00 (Incl. of all taxes) Durable, pin-and-tuck closure, adjustable",
+     "New colours Milanese Loop From ₹17650.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes) Smooth mesh design, magnetic closure, infinitely adjustable"
     ],
     "sport-color": [
      "Burgundy"
@@ -272,73 +281,88 @@
      "S/M Strap fits 140–190mm wrists.",
      "M/L Strap fits 160–210mm wrists."
     ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
+    ]
    }
   },
   "ce-42": {
-   "total": 124900,
-   "totalFrom": "label:watch_cases-dimensionCaseSize",
+   "total": 20150,
+   "totalFrom": "summary",
    "totalText": "From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
     "ceramic-watch_cases-dimensionColor": "New Pearl White",
-    "watch_cases-dimensionCaseSize": "42mm From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹20150.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※",
+    "watch_cases-dimensionCaseSize": "42mm From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00",
     "watch_bands-dimensionbandsize": "S/M Strap fits 130–180mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "ceramic-watch_cases-dimensionColor": [
      "New Pearl White",
-     "Night Blue"
+     "New Night Blue"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※",
-     "46mm From ₹21150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹130900.00 Footnote ※"
+     "42mm From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00",
+     "46mm From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹130900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹20150.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00"
     ],
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 130–180mm wrists.",
      "M/L Strap fits 150–200mm wrists."
     ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
+    ]
    }
   },
   "ce-46": {
-   "total": 130900,
-   "totalFrom": "label:watch_cases-dimensionCaseSize",
+   "total": 21150,
+   "totalFrom": "summary",
    "totalText": "From ₹21150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
     "ceramic-watch_cases-dimensionColor": "New Pearl White",
-    "watch_cases-dimensionCaseSize": "46mm From ₹21150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹130900.00 Footnote ※",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹21150.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹130900.00 Footnote ※",
+    "watch_cases-dimensionCaseSize": "46mm From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹130900.00",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹130900.00",
     "watch_bands-dimensionbandsize": "S/M Strap fits 140–190mm wrists."
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹56900.00 Footnote ※ Matt finish and a durable display with Ceramic Shield 2. Footnote ¶",
-     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹99900.00 Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From ₹8816.00/mo. Per Month with instant cashback and No Cost EMI or ₹56900.00 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From ₹15983.00/mo. Per Month with instant cashback and No Cost EMI or ₹99900.00 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "ceramic-watch_cases-dimensionColor": [
      "New Pearl White",
-     "Night Blue"
+     "New Night Blue"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹124900.00 Footnote ※",
-     "46mm From ₹21150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹130900.00 Footnote ※"
+     "42mm From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹124900.00",
+     "46mm From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹130900.00"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote ≠ From ₹21150.00/mo.Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹130900.00 Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹130900.00"
     ],
     "watch_bands-dimensionbandsize": [
      "S/M Strap fits 140–190mm wrists.",
      "M/L Strap fits 160–210mm wrists."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby."
     ]
    }
   }

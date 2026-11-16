@@ -1,0 +1,35 @@
+{
+ "page": "iphone-16",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:33.536Z",
+ "configs": {
+  "default": {
+   "total": 5999,
+   "totalFrom": "summary",
+   "totalText": "RMB 5,999",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1 英寸显示屏 脚注 1配备 128GB 存储容量 RMB 5999 起 或 RMB 250/月 (24 期) 起",
+    "dimensionColor": "群青色",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1 英寸显示屏 脚注 1配备 128GB 存储容量 RMB 5999 起 或 RMB 250/月 (24 期) 起"
+    ],
+    "dimensionColor": [
+     "群青色",
+     "深青色",
+     "白色",
+     "粉色",
+     "黑色"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

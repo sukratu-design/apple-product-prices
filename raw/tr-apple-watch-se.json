@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-se",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:30.614Z",
+ "configs": {
+  "40-gps": {
+   "total": 16999,
+   "totalFrom": "summary",
+   "totalText": "16.999,00 TL | 16.999,00 TL | 16.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionColor": "Gece Yarısı",
+    "watch_cases-dimensionCaseSize": "40 mm Başlangıç fiyatı: 16.999 TL",
+    "watch_cases-dimensionConnection": "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 16.999 TL",
+    "watch_bands-dimensionbandsize": "S/M 130 - 180 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Gece Yarısı",
+     "Yıldız Işığı"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Başlangıç fiyatı: 16.999 TL",
+     "44 mm Başlangıç fiyatı: 18.799 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 16.999 TL",
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 32.999 TL"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 130 - 180 mm arası bilek ölçülerine uygundur.",
+     "M/L 150 - 200 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 18799,
+   "totalFrom": "summary",
+   "totalText": "18.799,00 TL | 18.799,00 TL | 18.799,00 TL",
+   "selected": {
+    "watch_cases-dimensionColor": "Gece Yarısı",
+    "watch_cases-dimensionCaseSize": "44 mm Başlangıç fiyatı: 18.799 TL",
+    "watch_cases-dimensionConnection": "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 18.799 TL",
+    "watch_bands-dimensionbandsize": "S/M 140 - 190 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Gece Yarısı",
+     "Yıldız Işığı"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Başlangıç fiyatı: 16.999 TL",
+     "44 mm Başlangıç fiyatı: 18.799 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 18.799 TL",
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 34.799 TL"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 140 - 190 mm arası bilek ölçülerine uygundur.",
+     "M/L 160 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  },
+  "44-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/tr/shop/404)"
+  }
+ }
+}

@@ -2,12 +2,12 @@
  "page": "homepod",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-homepod/homepod",
- "scrapedAt": "2026-11-13T05:04:46.789Z",
+ "scrapedAt": "2026-11-16T13:33:50.504Z",
  "configs": {
   "default": {
    "total": 44900,
-   "totalFrom": "page",
-   "totalText": "From ₹696.00/mo. Per Month Footnote ◊◊",
+   "totalFrom": "summary",
+   "totalText": "From ₹696.00/mo. Per Month Footnote ◊◊ | From ₹7836.00/mo. per month with EMI Footnote ◊◊, ₹44900.00",
    "selected": {
     "dimensionColor": "White"
    },

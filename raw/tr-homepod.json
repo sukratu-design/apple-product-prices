@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:31:18.740Z",
+ "configs": {
+  "default": {
+   "total": 22299,
+   "totalFrom": "summary",
+   "totalText": "22.299,00 TL",
+   "selected": {
+    "dimensionColor": "Beyaz"
+   },
+   "options": {
+    "dimensionColor": [
+     "Beyaz",
+     "Gece Yarısı"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:30:57.639Z",
+ "configs": {
+  "default": {
+   "total": 10900,
+   "totalFrom": "summary",
+   "totalText": "฿1,690.00 | ฿10,900.00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

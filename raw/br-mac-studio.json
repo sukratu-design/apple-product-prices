@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:55:55.071Z",
+ "configs": {
+  "m5max-32": {
+   "total": 30999,
+   "totalFrom": "summary",
+   "totalText": "R$ 30.999,00 | R$ 30.999,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Velocidade e capacidade de sobra para projetos criativos e fluxos de trabalho profissionais. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluído",
+    "memory-dimensionMemory": "36 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidade e capacidade de sobra para projetos criativos e fluxos de trabalho profissionais. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Ultra Nosso chip mais potente oferece desempenho sem igual para os fluxos de trabalho profissionais mais exigentes. 2 opções com o Neural Engine de 32 núcleos A partir de R$ 69.999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluído",
+     "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. + R$ 3.600,00 Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + R$ 3.600,00",
+     "2 TB + R$ 9.600,00",
+     "4 TB + R$ 21.600,00",
+     "8 TB + R$ 45.600,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 38199,
+   "totalFrom": "summary",
+   "totalText": "R$ 38.199,00 | R$ 38.199,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Velocidade e capacidade de sobra para projetos criativos e fluxos de trabalho profissionais. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac.",
+    "memory-dimensionMemory": "48 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidade e capacidade de sobra para projetos criativos e fluxos de trabalho profissionais. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Ultra Nosso chip mais potente oferece desempenho sem igual para os fluxos de trabalho profissionais mais exigentes. 2 opções com o Neural Engine de 32 núcleos A partir de R$ 69.999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − R$ 3.600,00",
+     "CPU de 18 núcleos, GPU de 40 núcleos Aumente a velocidade de processamento e renderização gráfica e acelere tarefas como a execução de modelos de linguagem de grande escala e a edição de vídeo em 8K. Esta seleção requer uma atualização para 48 GB de memória, o que aumentará o preço total do seu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluído",
+     "64 GB + R$ 4.800,00",
+     "128 GB + R$ 24.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + R$ 3.600,00",
+     "2 TB + R$ 9.600,00",
+     "4 TB + R$ 21.600,00",
+     "8 TB + R$ 45.600,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 69999,
+   "totalFrom": "summary",
+   "totalText": "R$ 69.999,00 | R$ 69.999,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Nosso chip mais potente oferece desempenho sem igual para os fluxos de trabalho profissionais mais exigentes. 2 opções com o Neural Engine de 32 núcleos A partir de R$ 69.999",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 30 núcleos, GPU de 64 núcleos Incluído",
+    "memory-dimensionMemory": "96 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidade e capacidade de sobra para projetos criativos e fluxos de trabalho profissionais. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Ultra Nosso chip mais potente oferece desempenho sem igual para os fluxos de trabalho profissionais mais exigentes. 2 opções com o Neural Engine de 32 núcleos A partir de R$ 69.999"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 30 núcleos, GPU de 64 núcleos Incluído",
+     "CPU de 36 núcleos, GPU de 80 núcleos Aumente o desempenho gráfico, de processamento e de IA em fluxos de trabalho complexos, como execução de modelos de linguagem de grande escala, aplicação de efeitos visuais e gradação de cores cinematográfica. + R$ 15.600,00"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluído",
+     "256 GB + R$ 48.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00",
+     "8 TB + R$ 42.000,00",
+     "16 TB + R$ 90.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 85599,
+   "totalFrom": "summary",
+   "totalText": "R$ 85.599,00 | R$ 85.599,00",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Nosso chip mais potente oferece desempenho sem igual para os fluxos de trabalho profissionais mais exigentes. 2 opções com o Neural Engine de 32 núcleos A partir de R$ 69.999",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 36 núcleos, GPU de 80 núcleos Aumente o desempenho gráfico, de processamento e de IA em fluxos de trabalho complexos, como execução de modelos de linguagem de grande escala, aplicação de efeitos visuais e gradação de cores cinematográfica.",
+    "memory-dimensionMemory": "96 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidade e capacidade de sobra para projetos criativos e fluxos de trabalho profissionais. 2 opções com o Neural Engine de 16 núcleos A partir de R$ 30.999",
+     "Chip M5 Ultra Nosso chip mais potente oferece desempenho sem igual para os fluxos de trabalho profissionais mais exigentes. 2 opções com o Neural Engine de 32 núcleos A partir de R$ 69.999"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 30 núcleos, GPU de 64 núcleos − R$ 15.600,00",
+     "CPU de 36 núcleos, GPU de 80 núcleos Aumente o desempenho gráfico, de processamento e de IA em fluxos de trabalho complexos, como execução de modelos de linguagem de grande escala, aplicação de efeitos visuais e gradação de cores cinematográfica."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluído",
+     "256 GB + R$ 48.000,00",
+     "512 GB + R$ 186.000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00",
+     "8 TB + R$ 42.000,00",
+     "16 TB + R$ 90.000,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:48.499Z",
+ "configs": {
+  "default": {
+   "total": 159990,
+   "totalFrom": "summary",
+   "totalText": "₱159,990.00 | ₱159,990.00 | ₱159,990.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 ₱159,990.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 ₱159,990.00",
+     "512GB Footnote 1 ₱175,990.00",
+     "1TB Footnote 1 ₱207,990.00",
+     "2TB Footnote 1 ₱254,990.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

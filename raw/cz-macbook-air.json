@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:16.010Z",
+ "configs": {
+  "15": {
+   "total": 44990,
+   "totalFrom": "summary",
+   "totalText": "44 990,00 Kč | 44 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "15palcový Od 44 990 Kč",
+    "chassis-dimensionColor": "blankytně modrá",
+    "processor-cpuCoreCount-gpuCoreCount": "10jádrové CPU, 10jádrové GPU, 16jádrový Neural Engine Získej vyšší rychlost zpracování úloh a rendrování grafiky pro náročné úlohy jako hraní her nebo tvůrčí práci. Od 44 990 Kč",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "512 GB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13palcový Od 36 990 Kč",
+     "15palcový Od 44 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "blankytně modrá",
+     "stříbrný",
+     "hvězdně bílá",
+     "temně inkoustová"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10jádrové CPU, 10jádrové GPU, 16jádrový Neural Engine Získej vyšší rychlost zpracování úloh a rendrování grafiky pro náročné úlohy jako hraní her nebo tvůrčí práci. Od 44 990 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu",
+     "24 GB + 6 000,00 Kč",
+     "32 GB + 12 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB V základu",
+     "1 TB + 9 000,00 Kč",
+     "2 TB + 24 000,00 Kč",
+     "4 TB + 54 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 36990,
+   "totalFrom": "summary",
+   "totalText": "36 990,00 Kč | 36 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "13palcový Od 36 990 Kč",
+    "chassis-dimensionColor": "blankytně modrá",
+    "processor-cpuCoreCount-gpuCoreCount": "10jádrové CPU, 8jádrové GPU, 16jádrový Neural Engine Všemu, co děláš, dodává rychlost a plynulost. Od 36 990 Kč",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "512 GB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13palcový Od 36 990 Kč",
+     "15palcový Od 44 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "blankytně modrá",
+     "stříbrný",
+     "hvězdně bílá",
+     "temně inkoustová"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10jádrové CPU, 8jádrové GPU, 16jádrový Neural Engine Všemu, co děláš, dodává rychlost a plynulost. Od 36 990 Kč",
+     "10jádrové CPU, 10jádrové GPU, 16jádrový Neural Engine Získej vyšší rychlost zpracování úloh a rendrování grafiky pro náročné úlohy jako hraní her nebo tvůrčí práci. Od 39 990 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB V základu"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 45990,
+   "totalFrom": "summary",
+   "totalText": "45 990,00 Kč | 45 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "13palcový Od 36 990 Kč",
+    "chassis-dimensionColor": "blankytně modrá",
+    "processor-cpuCoreCount-gpuCoreCount": "10jádrové CPU, 10jádrové GPU, 16jádrový Neural Engine Získej vyšší rychlost zpracování úloh a rendrování grafiky pro náročné úlohy jako hraní her nebo tvůrčí práci. Od 39 990 Kč",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13palcový Od 36 990 Kč",
+     "15palcový Od 44 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "blankytně modrá",
+     "stříbrný",
+     "hvězdně bílá",
+     "temně inkoustová"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10jádrové CPU, 8jádrové GPU, 16jádrový Neural Engine Všemu, co děláš, dodává rychlost a plynulost. Od 36 990 Kč",
+     "10jádrové CPU, 10jádrové GPU, 16jádrový Neural Engine Získej vyšší rychlost zpracování úloh a rendrování grafiky pro náročné úlohy jako hraní her nebo tvůrčí práci. Od 39 990 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu",
+     "24 GB + 6 000,00 Kč",
+     "32 GB + 12 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 9 000,00 Kč",
+     "1 TB",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

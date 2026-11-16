@@ -1,0 +1,370 @@
+{
+ "page": "apple-watch",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:00:13.329Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "R$ 5.499,00 | R$ 5.499,00 | R$ 5.499,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze-escuro",
+    "watch_cases-dimensionCaseSize": "42 mm A partir de R$ 5.499",
+    "watch_cases-dimensionConnection": "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 5.499",
+    "style": "Novas cores Pulseira esportiva R$ 5.499,00 Resistente, fecho em forma de pino, ajustável",
+    "sport-color": "Oliva",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 130 a 180 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze-escuro",
+     "Novo Dourado-claro",
+     "Novo Preto",
+     "Cinza-espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 5.499",
+     "46 mm A partir de R$ 6.099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 5.499",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 6.799"
+    ],
+    "style": [
+     "Novas cores Pulseira esportiva R$ 5.499,00 Resistente, fecho em forma de pino, ajustável",
+     "Novas cores Pulseira estilo milanês R$ 6.099,00 Design em malha com textura macia, fecho magnético, ajuste fácil"
+    ],
+    "sport-color": [
+     "Oliva"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 130 a 180 mm.",
+     "M/G Para pulsos de 150 a 200 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 6099,
+   "totalFrom": "summary",
+   "totalText": "R$ 6.099,00 | R$ 6.099,00 | R$ 6.099,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze-escuro",
+    "watch_cases-dimensionCaseSize": "46 mm A partir de R$ 6.099",
+    "watch_cases-dimensionConnection": "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 6.099",
+    "style": "Novas cores Pulseira esportiva R$ 6.099,00 Resistente, fecho em forma de pino, ajustável",
+    "sport-color": "Oliva",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 140 a 190 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze-escuro",
+     "Novo Dourado-claro",
+     "Novo Preto",
+     "Cinza-espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 5.499",
+     "46 mm A partir de R$ 6.099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 6.099",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 7.399"
+    ],
+    "style": [
+     "Novas cores Pulseira esportiva R$ 6.099,00 Resistente, fecho em forma de pino, ajustável",
+     "Novas cores Pulseira estilo milanês R$ 6.699,00 Design em malha com textura macia, fecho magnético, ajuste fácil"
+    ],
+    "sport-color": [
+     "Oliva"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 140 a 190 mm.",
+     "M/G Para pulsos de 160 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 6799,
+   "totalFrom": "summary",
+   "totalText": "R$ 6.799,00 | R$ 6.799,00 | R$ 6.799,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze-escuro",
+    "watch_cases-dimensionCaseSize": "42 mm A partir de R$ 5.499",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 6.799",
+    "style": "Novas cores Pulseira esportiva R$ 6.799,00 Resistente, fecho em forma de pino, ajustável",
+    "sport-color": "Oliva",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 130 a 180 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze-escuro",
+     "Novo Dourado-claro",
+     "Novo Preto",
+     "Cinza-espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 5.499",
+     "46 mm A partir de R$ 6.099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 5.499",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 6.799"
+    ],
+    "style": [
+     "Novas cores Pulseira esportiva R$ 6.799,00 Resistente, fecho em forma de pino, ajustável",
+     "Novas cores Pulseira estilo milanês R$ 7.399,00 Design em malha com textura macia, fecho magnético, ajuste fácil"
+    ],
+    "sport-color": [
+     "Oliva"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 130 a 180 mm.",
+     "M/G Para pulsos de 150 a 200 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 7399,
+   "totalFrom": "summary",
+   "totalText": "R$ 7.399,00 | R$ 7.399,00 | R$ 7.399,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Novo Bronze-escuro",
+    "watch_cases-dimensionCaseSize": "46 mm A partir de R$ 6.099",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 7.399",
+    "style": "Novas cores Pulseira esportiva R$ 7.399,00 Resistente, fecho em forma de pino, ajustável",
+    "sport-color": "Oliva",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 140 a 190 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novo Bronze-escuro",
+     "Novo Dourado-claro",
+     "Novo Preto",
+     "Cinza-espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 5.499",
+     "46 mm A partir de R$ 6.099"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 6.099",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 7.399"
+    ],
+    "style": [
+     "Novas cores Pulseira esportiva R$ 7.399,00 Resistente, fecho em forma de pino, ajustável",
+     "Novas cores Pulseira estilo milanês R$ 7.999,00 Design em malha com textura macia, fecho magnético, ajuste fácil"
+    ],
+    "sport-color": [
+     "Oliva"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 140 a 190 mm.",
+     "M/G Para pulsos de 160 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 9299,
+   "totalFrom": "summary",
+   "totalText": "R$ 9.299,00 | R$ 9.299,00 | R$ 9.299,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+    "titanium-watch_cases-dimensionColor": "Novo Cor de ouro-brilhante",
+    "watch_cases-dimensionCaseSize": "42 mm A partir de R$ 9.299",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 9.299",
+    "style": "Novas cores Pulseira esportiva R$ 9.299,00 Resistente, fecho em forma de pino, ajustável",
+    "sport-color": "Bordô",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 130 a 180 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novo Cor de ouro-brilhante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 9.299",
+     "46 mm A partir de R$ 9.899"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 9.299"
+    ],
+    "style": [
+     "Novas cores Pulseira esportiva R$ 9.299,00 Resistente, fecho em forma de pino, ajustável",
+     "Novas cores Pulseira estilo milanês R$ 9.899,00 Design em malha com textura macia, fecho magnético, ajuste fácil"
+    ],
+    "sport-color": [
+     "Bordô"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 130 a 180 mm.",
+     "M/G Para pulsos de 150 a 200 mm."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 9899,
+   "totalFrom": "summary",
+   "totalText": "R$ 9.899,00 | R$ 9.899,00 | R$ 9.899,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+    "titanium-watch_cases-dimensionColor": "Novo Cor de ouro-brilhante",
+    "watch_cases-dimensionCaseSize": "46 mm A partir de R$ 9.899",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 9.899",
+    "style": "Novas cores Pulseira esportiva R$ 9.899,00 Resistente, fecho em forma de pino, ajustável",
+    "sport-color": "Bordô",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 140 a 190 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novo Cor de ouro-brilhante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 9.299",
+     "46 mm A partir de R$ 9.899"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 9.899"
+    ],
+    "style": [
+     "Novas cores Pulseira esportiva R$ 9.899,00 Resistente, fecho em forma de pino, ajustável",
+     "Novas cores Pulseira estilo milanês R$ 10.499,00 Design em malha com textura macia, fecho magnético, ajuste fácil"
+    ],
+    "sport-color": [
+     "Bordô"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 140 a 190 mm.",
+     "M/G Para pulsos de 160 a 210 mm."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 11999,
+   "totalFrom": "summary",
+   "totalText": "R$ 11.999,00 | R$ 11.999,00 | R$ 11.999,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável.",
+    "ceramic-watch_cases-dimensionColor": "Novo Branco-pérola",
+    "watch_cases-dimensionCaseSize": "42 mm A partir de R$ 11.999",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 11.999",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 130 a 180 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novo Branco-pérola",
+     "Novo Azul-noite"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 11.999",
+     "46 mm A partir de R$ 12.599"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 11.999"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 130 a 180 mm.",
+     "M/G Para pulsos de 150 a 200 mm."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 12599,
+   "totalFrom": "summary",
+   "totalText": "R$ 12.599,00 | R$ 12.599,00 | R$ 12.599,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável.",
+    "ceramic-watch_cases-dimensionColor": "Novo Branco-pérola",
+    "watch_cases-dimensionCaseSize": "46 mm A partir de R$ 12.599",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 12.599",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 140 a 190 mm."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Novos acabamentos Alumínio Escolha entre GPS ou GPS + Cellular A partir de R$ 5.499 Acabamento fosco e tela resistente com Ceramic Shield 2.",
+     "Novo acabamento Titânio Com GPS + Cellular A partir de R$ 9.299 Titânio aeroespacial polido e tela de cristal de safira resistente.",
+     "Novo Cerâmica Com GPS + Cellular A partir de R$ 11.999 Sofisticada e resistente a arranhões, com acabamento polido e tela de cristal de safira durável."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novo Branco-pérola",
+     "Novo Azul-noite"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm A partir de R$ 11.999",
+     "46 mm A partir de R$ 12.599"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 12.599"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 140 a 190 mm.",
+     "M/G Para pulsos de 160 a 210 mm."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto."
+    ]
+   }
+  }
+ }
+}

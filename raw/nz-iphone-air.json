@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:51.653Z",
+ "configs": {
+  "default": {
+   "total": 2299,
+   "totalFrom": "summary",
+   "totalText": "NZ$2,299.00 | NZ$2,299.00 | NZ$2,299.00",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 NZ$2,299.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 NZ$2,299.00",
+     "512GB Footnote 1 NZ$2,699.00",
+     "1TB Footnote 1 NZ$3,499.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

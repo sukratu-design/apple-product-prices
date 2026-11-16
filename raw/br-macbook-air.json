@@ -1,0 +1,138 @@
+{
+ "page": "macbook-air",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:22.172Z",
+ "configs": {
+  "15": {
+   "total": 17999,
+   "totalFrom": "summary",
+   "totalText": "R$ 17.999,00 | R$ 17.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "15 polegadas A partir de R$ 17.999",
+    "chassis-dimensionColor": "Azul-céu",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dê um impulso às tarefas exigentes, como jogos e conteúdo criativo, com mais velocidade de processamento e renderização gráfica. A partir de R$ 17.999",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído",
+    "power_adapter-wattage": "USB-C de 35W com duas portas Duas portas para recarregar dois aparelhos ao mesmo tempo. Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 polegadas A partir de R$ 15.999",
+     "15 polegadas A partir de R$ 17.999"
+    ],
+    "chassis-dimensionColor": [
+     "Azul-céu",
+     "Prateado",
+     "Estelar",
+     "Meia-noite"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dê um impulso às tarefas exigentes, como jogos e conteúdo criativo, com mais velocidade de processamento e renderização gráfica. A partir de R$ 17.999"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + R$ 2.400,00",
+     "32 GB + R$ 4.800,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + R$ 3.600,00",
+     "2 TB + R$ 9.600,00",
+     "4 TB + R$ 21.600,00"
+    ],
+    "power_adapter-wattage": [
+     "USB-C de 35W com duas portas Duas portas para recarregar dois aparelhos ao mesmo tempo. Incluído",
+     "USB-C de 70W Compatível com recarga rápida de até 50% em cerca de 30 minutos."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 15999,
+   "totalFrom": "summary",
+   "totalText": "R$ 15.999,00 | R$ 15.999,00",
+   "selected": {
+    "chassis-dimensionScreensize": "13 polegadas A partir de R$ 15.999",
+    "chassis-dimensionColor": "Azul-céu",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Oferece velocidade e fluidez em tudo o que você faz. A partir de R$ 15.999",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído",
+    "power_adapter-wattage": "USB-C de 30W Recarga rápida e eficiente. Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 polegadas A partir de R$ 15.999",
+     "15 polegadas A partir de R$ 17.999"
+    ],
+    "chassis-dimensionColor": [
+     "Azul-céu",
+     "Prateado",
+     "Estelar",
+     "Meia-noite"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Oferece velocidade e fluidez em tudo o que você faz. A partir de R$ 15.999",
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dê um impulso às tarefas exigentes, como jogos e conteúdo criativo, com mais velocidade de processamento e renderização gráfica. A partir de R$ 17.199"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído"
+    ],
+    "power_adapter-wattage": [
+     "USB-C de 30W Recarga rápida e eficiente. Incluído",
+     "USB-C de 35W com duas portas Duas portas para recarregar dois aparelhos ao mesmo tempo. + R$ 210,00",
+     "USB-C de 70W Compatível com recarga rápida de até 50% em cerca de 30 minutos. + R$ 210,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 19599,
+   "totalFrom": "summary",
+   "totalText": "R$ 19.599,00 | R$ 19.599,00",
+   "selected": {
+    "chassis-dimensionScreensize": "13 polegadas A partir de R$ 15.999",
+    "chassis-dimensionColor": "Azul-céu",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dê um impulso às tarefas exigentes, como jogos e conteúdo criativo, com mais velocidade de processamento e renderização gráfica. A partir de R$ 17.199",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "1 TB",
+    "power_adapter-wattage": "USB-C de 35W com duas portas Duas portas para recarregar dois aparelhos ao mesmo tempo. Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 polegadas A partir de R$ 15.999",
+     "15 polegadas A partir de R$ 17.999"
+    ],
+    "chassis-dimensionColor": [
+     "Azul-céu",
+     "Prateado",
+     "Estelar",
+     "Meia-noite"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Oferece velocidade e fluidez em tudo o que você faz. A partir de R$ 15.999",
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Dê um impulso às tarefas exigentes, como jogos e conteúdo criativo, com mais velocidade de processamento e renderização gráfica. A partir de R$ 17.199"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + R$ 2.400,00",
+     "32 GB + R$ 4.800,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − R$ 3.600,00",
+     "1 TB",
+     "2 TB + R$ 6.000,00",
+     "4 TB + R$ 18.000,00"
+    ],
+    "power_adapter-wattage": [
+     "USB-C de 35W com duas portas Duas portas para recarregar dois aparelhos ao mesmo tempo. Incluído",
+     "USB-C de 70W Compatível com recarga rápida de até 50% em cerca de 30 minutos."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

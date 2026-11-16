@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:09:30.221Z",
+ "configs": {
+  "band": {
+   "total": 999990,
+   "totalFrom": "summary",
+   "totalText": "$999.990",
+   "selected": {
+    "watch_cases-dimensionColor": "Negro",
+    "style": "Nuevos colores Correa Alpine Para aventuras al aire libre y senderismo. $999.990 o $41.666 al mes al mes por 24 meses meses",
+    "alpineloop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "S Correa para muñecas de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Negro",
+     "Natural"
+    ],
+    "style": [
+     "Nuevos colores Correa Alpine Para aventuras al aire libre y senderismo. $999.990 o $41.666 al mes al mes por 24 meses meses",
+     "Nuevos colores Correa Trail Para todos los deportes y entrenamientos. $999.990 o $41.666 al mes al mes por 24 meses meses",
+     "Nuevos colores Correa Ocean Para deportes acuáticos y buceo recreativo. $999.990 o $41.666 al mes al mes por 24 meses meses",
+     "Correa estilo milanés de titanio Diseñada para el mar. Elegante para cualquier ocasión. $1.119.990 o $46.666 al mes al mes por 24 meses meses"
+    ],
+    "alpineloop-color": [
+     "Borgoña",
+     "Oliva oscuro",
+     "Desierto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S Correa para muñecas de 130 a 160 mm.",
+     "M Correa para muñecas de 145 a 190 mm.",
+     "L Correa para muñecas de 165 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1119990,
+   "totalFrom": "summary",
+   "totalText": "$1.119.990",
+   "selected": {
+    "watch_cases-dimensionColor": "Negro",
+    "style": "Correa estilo milanés de titanio Diseñada para el mar. Elegante para cualquier ocasión. $1.119.990 o $46.666 al mes al mes por 24 meses meses",
+    "ti_milaneseloop-color": "Negro",
+    "watch_bands-dimensionbandsize": "S Correa para muñecas de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Negro",
+     "Natural"
+    ],
+    "style": [
+     "Nuevos colores Correa Alpine Para aventuras al aire libre y senderismo. $999.990 o $41.666 al mes al mes por 24 meses meses",
+     "Nuevos colores Correa Trail Para todos los deportes y entrenamientos. $999.990 o $41.666 al mes al mes por 24 meses meses",
+     "Nuevos colores Correa Ocean Para deportes acuáticos y buceo recreativo. $999.990 o $41.666 al mes al mes por 24 meses meses",
+     "Correa estilo milanés de titanio Diseñada para el mar. Elegante para cualquier ocasión. $1.119.990 o $46.666 al mes al mes por 24 meses meses"
+    ],
+    "ti_milaneseloop-color": [
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S Correa para muñecas de 130 a 160 mm.",
+     "M Correa para muñecas de 155 a 185 mm.",
+     "L Correa para muñecas de 180 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

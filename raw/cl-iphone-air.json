@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:01.243Z",
+ "configs": {
+  "default": {
+   "total": 1399990,
+   "totalFrom": "summary",
+   "totalText": "$1.399.990",
+   "selected": {
+    "dimensionColor": "Azul cielo",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 $1.399.990 o $58.333 al mes al mes por 24 meses meses Nota a pie de página ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Azul cielo",
+     "Blanco nube",
+     "Negro espacial",
+     "Oro claro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 $1.399.990 o $58.333 al mes al mes por 24 meses meses Nota a pie de página ∆",
+     "512 GB Nota a pie de página 1 $1.659.990 o $69.166 al mes al mes por 24 meses meses Nota a pie de página ∆",
+     "1 TB Nota a pie de página 1 $2.179.990 o $90.833 al mes al mes por 24 meses meses Nota a pie de página ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

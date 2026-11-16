@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:27.351Z",
+ "configs": {
+  "default": {
+   "total": 122999,
+   "totalFrom": "summary",
+   "totalText": "122.999,00 TL | 122.999,00 TL | 122.999,00 TL",
+   "selected": {
+    "dimensionColor": "Gök Mavisi",
+    "dimensionCapacity": "256 GB Dipnot 1 122.999,00 TL"
+   },
+   "options": {
+    "dimensionColor": [
+     "Gök Mavisi",
+     "Pamuk Beyazı",
+     "Uzay Siyahı",
+     "Uçuk Altın Rengi"
+    ],
+    "dimensionCapacity": [
+     "256 GB Dipnot 1 122.999,00 TL",
+     "512 GB Dipnot 1 139.999,00 TL",
+     "1 TB Dipnot 1 173.999,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

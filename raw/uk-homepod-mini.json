@@ -2,11 +2,11 @@
  "page": "homepod-mini",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-homepod/homepod-mini",
- "scrapedAt": "2026-11-13T11:13:29.539Z",
+ "scrapedAt": "2026-11-16T13:31:36.111Z",
  "configs": {
   "default": {
    "total": 149,
-   "totalFrom": "page",
+   "totalFrom": "page-first",
    "totalText": "",
    "selected": {
     "dimensionColor": "White"

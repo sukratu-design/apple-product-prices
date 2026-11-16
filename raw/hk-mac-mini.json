@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:48.600Z",
+ "configs": {
+  "m6": {
+   "total": 7299,
+   "totalFrom": "summary",
+   "totalText": "HK$7,299 | HK$7,299",
+   "selected": {
+    "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From HK$7,299",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From HK$7,299",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From HK$13,999"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + HK$1,500",
+     "32GB + HK$3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + HK$1,500",
+     "1TB + HK$3,750",
+     "2TB + HK$7,500"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + HK$750"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 13999,
+   "totalFrom": "summary",
+   "totalText": "HK$13,999 | HK$13,999",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From HK$13,999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From HK$7,299",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From HK$13,999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + HK$1,500"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + HK$4,500",
+     "64GB + HK$7,500"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + HK$2,250",
+     "2TB + HK$6,000",
+     "4TB + HK$13,500",
+     "8TB + HK$28,500"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + HK$750"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 15499,
+   "totalFrom": "summary",
+   "totalText": "HK$15,499 | HK$15,499",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From HK$13,999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From HK$7,299",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From HK$13,999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − HK$1,500",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + HK$4,500",
+     "64GB + HK$7,500"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + HK$2,250",
+     "2TB + HK$6,000",
+     "4TB + HK$13,500",
+     "8TB + HK$28,500"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + HK$750"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

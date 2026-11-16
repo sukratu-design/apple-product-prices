@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:25:49.275Z",
+ "configs": {
+  "default": {
+   "total": 329,
+   "totalFrom": "summary",
+   "totalText": "CHF 39.00 | CHF 329.00",
+   "selected": {
+    "dimensionColor": "Weiß"
+   },
+   "options": {
+    "dimensionColor": [
+     "Weiß",
+     "Mitternacht"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

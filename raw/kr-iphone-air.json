@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:40.496Z",
+ "configs": {
+  "default": {
+   "total": 1790000,
+   "totalFrom": "summary",
+   "totalText": "₩1,790,000 | ₩1,790,000 | ₩1,790,000",
+   "selected": {
+    "dimensionColor": "스카이 블루",
+    "dimensionCapacity": "256GB 각주 1 ₩1,790,000"
+   },
+   "options": {
+    "dimensionColor": [
+     "스카이 블루",
+     "클라우드 화이트",
+     "스페이스 블랙",
+     "라이트 골드"
+    ],
+    "dimensionCapacity": [
+     "256GB 각주 1 ₩1,790,000",
+     "512GB 각주 1 ₩2,090,000",
+     "1TB 각주 1 ₩2,690,000"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

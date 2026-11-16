@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:09:38.712Z",
+ "configs": {
+  "40-gps": {
+   "total": 17990,
+   "totalFrom": "summary",
+   "totalText": "₱17,990.00 | ₱17,990.00 | ₱17,990.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From ₱17,990",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From ₱17,990",
+    "category": "Rubber Flexible, comfortable, swimproof bands. ₱17,990.00",
+    "rubber-style": "New colors Solo Loop ₱17,990.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From ₱17,990",
+     "44mm From ₱19,990"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From ₱17,990",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From ₱20,990"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. ₱17,990.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From ₱17,990",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From ₱20,990"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop ₱17,990.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band ₱17,990.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band ₱17,990.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 19990,
+   "totalFrom": "summary",
+   "totalText": "₱19,990.00 | ₱19,990.00 | ₱19,990.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From ₱19,990",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From ₱19,990",
+    "category": "Rubber Flexible, comfortable, swimproof bands. ₱19,990.00",
+    "rubber-style": "New colors Solo Loop ₱19,990.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From ₱17,990",
+     "44mm From ₱19,990"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From ₱19,990",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From ₱22,990"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. ₱19,990.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From ₱19,990",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From ₱22,990"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop ₱19,990.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band ₱19,990.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band ₱19,990.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 17990,
+   "totalFrom": "summary",
+   "totalText": "₱17,990.00 | ₱17,990.00 | ₱17,990.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From ₱17,990",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From ₱20,990",
+    "category": "Rubber Flexible, comfortable, swimproof bands. ₱20,990.00",
+    "rubber-style": "New colors Solo Loop ₱20,990.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From ₱17,990",
+     "44mm From ₱19,990"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From ₱17,990",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From ₱20,990"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. ₱20,990.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From ₱20,990",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From ₱23,990"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop ₱20,990.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band ₱20,990.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band ₱20,990.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 22990,
+   "totalFrom": "summary",
+   "totalText": "₱22,990.00 | ₱22,990.00 | ₱22,990.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From ₱19,990",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From ₱22,990",
+    "category": "Rubber Flexible, comfortable, swimproof bands. ₱22,990.00",
+    "rubber-style": "New colors Solo Loop ₱22,990.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From ₱17,990",
+     "44mm From ₱19,990"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From ₱19,990",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From ₱22,990"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. ₱22,990.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From ₱22,990",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From ₱25,990"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop ₱22,990.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band ₱22,990.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band ₱22,990.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

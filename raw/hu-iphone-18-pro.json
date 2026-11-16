@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:14.299Z",
+ "configs": {
+  "pro": {
+   "total": 549990,
+   "totalFrom": "summary",
+   "totalText": "549 990 Ft | 549 990 Ft | 549 990 Ft",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3 hüvelykes kijelző Lábjegyzet 2 Indulóár: 549 990 Ft",
+    "dimensionColor": "burgundi",
+    "dimensionCapacity": "256 GB Lábjegyzet 1 549 990 Ft"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3 hüvelykes kijelző Lábjegyzet 2 Indulóár: 549 990 Ft",
+     "iPhone 18 Pro Max 6,9 hüvelykes kijelző Lábjegyzet 2 Indulóár: 599 990 Ft"
+    ],
+    "dimensionColor": [
+     "burgundi",
+     "gleccserszín",
+     "ezüst",
+     "fekete"
+    ],
+    "dimensionCapacity": [
+     "256 GB Lábjegyzet 1 549 990 Ft",
+     "512 GB Lábjegyzet 1 649 990 Ft",
+     "1 TB Lábjegyzet 1 849 990 Ft",
+     "2 TB Lábjegyzet 1 1 149 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 599990,
+   "totalFrom": "summary",
+   "totalText": "599 990 Ft | 599 990 Ft | 599 990 Ft",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9 hüvelykes kijelző Lábjegyzet 2 Indulóár: 599 990 Ft",
+    "dimensionColor": "burgundi",
+    "dimensionCapacity": "256 GB Lábjegyzet 1 599 990 Ft"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3 hüvelykes kijelző Lábjegyzet 2 Indulóár: 549 990 Ft",
+     "iPhone 18 Pro Max 6,9 hüvelykes kijelző Lábjegyzet 2 Indulóár: 599 990 Ft"
+    ],
+    "dimensionColor": [
+     "burgundi",
+     "gleccserszín",
+     "ezüst",
+     "fekete"
+    ],
+    "dimensionCapacity": [
+     "256 GB Lábjegyzet 1 599 990 Ft",
+     "512 GB Lábjegyzet 1 699 990 Ft",
+     "1 TB Lábjegyzet 1 899 990 Ft",
+     "2 TB Lábjegyzet 1 1 199 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "page": "apple-watch-se",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:41.021Z",
+ "configs": {
+  "40-gps": {
+   "total": 279,
+   "totalFrom": "summary",
+   "totalText": "279,00 € | 279,00 € | 279,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Keskiyö",
+    "watch_cases-dimensionCaseSize": "40 mm Alkaen 279 €",
+    "watch_cases-dimensionConnection": "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 279 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 279,00 €",
+    "rubber-style": "Uudet värit Solo Loop 279,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Keskiyö",
+     "Tähti­valkea"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Alkaen 279 €",
+     "44 mm Alkaen 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 279 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 329 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 279,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 279 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 329 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 279,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 279,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 279,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 309,
+   "totalFrom": "summary",
+   "totalText": "309,00 € | 309,00 € | 309,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Keskiyö",
+    "watch_cases-dimensionCaseSize": "44 mm Alkaen 309 €",
+    "watch_cases-dimensionConnection": "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 309 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 309,00 €",
+    "rubber-style": "Uudet värit Solo Loop 309,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Keskiyö",
+     "Tähti­valkea"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Alkaen 279 €",
+     "44 mm Alkaen 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 309 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 359 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 309,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 309 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 359 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 309,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 309,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 309,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen",
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 329,
+   "totalFrom": "summary",
+   "totalText": "329,00 € | 329,00 € | 329,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Keskiyö",
+    "watch_cases-dimensionCaseSize": "40 mm Alkaen 279 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 329 €",
+    "category": "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 329,00 €",
+    "rubber-style": "Uudet värit Solo Loop 329,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+    "rubber-sololoop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Keskiyö",
+     "Tähti­valkea"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Alkaen 279 €",
+     "44 mm Alkaen 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Puhu puheluita ja lähetä tekstiviestejä, kun iPhonesi on lähellä. Alkaen 279 €",
+     "GPS + Cellular Soita puheluja ja lähetä viestejä pelkällä Apple Watchilla. Lasten Apple Watchin käyttö vaatii GPS + Cellular ‑mallin. Alkaen 329 €"
+    ],
+    "category": [
+     "Kumi Joustavat, mukavat, uinnin­kestävät rannekkeet. 329,00 €",
+     "Tekstiili Pehmeitä ja kevyitä materiaaleja. Loistava valinta päivittäiseen käyttöön. Alkaen 329 €",
+     "Ruostumaton teräs Teräksestä valmistetuilla malleilla hienostunutta ja ylellistä ilmettä. Alkaen 379 €"
+    ],
+    "rubber-style": [
+     "Uudet värit Solo Loop 329,00 € Joustava, ilman solkia tai lukkoja, täydellinen istuvuus",
+     "Uudet värit Urheiluranneke 329,00 € Kestävä, nastakiinnitys, säädettävä",
+     "Uudet värit Nike Sport ‑ranneke 329,00 € Hengittävä, nastakiinnitys, säädettävä"
+    ],
+    "rubber-sololoop-color": [
+     "Viininpunainen",
+     "Oliivinvihreä",
+     "Musteensininen",
+     "Niittykukan sininen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  }
+ }
+}

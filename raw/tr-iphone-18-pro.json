@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:12.481Z",
+ "configs": {
+  "pro": {
+   "total": 137999,
+   "totalFrom": "summary",
+   "totalText": "137.999,00 TL | 137.999,00 TL | 137.999,00 TL",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3 inç ekran Dipnot 2 Başlangıç fiyatı: 137.999 TL",
+    "dimensionColor": "Burgonya",
+    "dimensionCapacity": "256 GB Dipnot 1 137.999,00 TL"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3 inç ekran Dipnot 2 Başlangıç fiyatı: 137.999 TL",
+     "iPhone 18 Pro Max 6.9 inç ekran Dipnot 2 Başlangıç fiyatı: 149.999 TL"
+    ],
+    "dimensionColor": [
+     "Burgonya",
+     "Buzul Rengi",
+     "Gümüş",
+     "Siyah"
+    ],
+    "dimensionCapacity": [
+     "256 GB Dipnot 1 137.999,00 TL",
+     "512 GB Dipnot 1 154.999,00 TL",
+     "1 TB Dipnot 1 188.999,00 TL",
+     "2 TB Dipnot 1 243.999,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 149999,
+   "totalFrom": "summary",
+   "totalText": "149.999,00 TL | 149.999,00 TL | 149.999,00 TL",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9 inç ekran Dipnot 2 Başlangıç fiyatı: 149.999 TL",
+    "dimensionColor": "Burgonya",
+    "dimensionCapacity": "256 GB Dipnot 1 149.999,00 TL"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3 inç ekran Dipnot 2 Başlangıç fiyatı: 137.999 TL",
+     "iPhone 18 Pro Max 6.9 inç ekran Dipnot 2 Başlangıç fiyatı: 149.999 TL"
+    ],
+    "dimensionColor": [
+     "Burgonya",
+     "Buzul Rengi",
+     "Gümüş",
+     "Siyah"
+    ],
+    "dimensionCapacity": [
+     "256 GB Dipnot 1 149.999,00 TL",
+     "512 GB Dipnot 1 166.999,00 TL",
+     "1 TB Dipnot 1 200.999,00 TL",
+     "2 TB Dipnot 1 255.999,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

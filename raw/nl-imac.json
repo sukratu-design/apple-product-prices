@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:27.990Z",
+ "configs": {
+  "2port": {
+   "total": 1819,
+   "totalFrom": "summary",
+   "totalText": "€ 1.819,00 | € 1.819,00",
+   "selected": {
+    "chassis-dimensionColor": "Blauw",
+    "processor-cpuCoreCount-gpuCoreCount": "M6‑chip met twee Thunderbolt‑poorten 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Vanaf € 1.819",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "256 GB Meegeleverd",
+    "chassis-dimensionStandType": "Standaard Zet ’m op je bureau en kantel ’m omhoog of omlaag. Meegeleverd",
+    "ethernet_adapter-ethernetPortCount": "Geen ethernet Alleen verbinding via een wifinetwerk. Meegeleverd",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Ondersteunt Multi-Touch-gebaren zoals swipen en scrollen. Meegeleverd",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultracompact design dat geen millimeter onbenut laat. Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blauw",
+     "Paars",
+     "Roze",
+     "Oranje",
+     "Geel",
+     "Groen",
+     "Zilver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6‑chip met twee Thunderbolt‑poorten 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Vanaf € 1.819",
+     "M6‑chip met vier Thunderbolt-poorten 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.019"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd",
+     "24 GB + € 220,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Meegeleverd",
+     "512 GB + € 220,00",
+     "1 TB + € 550,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Standaard Zet ’m op je bureau en kantel ’m omhoog of omlaag. Meegeleverd",
+     "VESA-montageadapter Ingebouwd, dus geschikt om te bevestigen aan een muur of op een verstelbare arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Geen ethernet Alleen verbinding via een wifinetwerk. Meegeleverd",
+     "2,5‑Gigabit Ethernet-poort Standaard­netwerken, link­snelheden tot 2,5 Gb. + € 30,00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Ondersteunt Multi-Touch-gebaren zoals swipen en scrollen. Meegeleverd",
+     "Magic Trackpad Ondersteunt alle Multi-Touch-gebaren en Force Touch-technologie. + € 54,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultracompact design dat geen millimeter onbenut laat. Meegeleverd",
+     "Magic Keyboard met Touch ID en numeriek toetsenblok Uitgebreide indeling met navigatieregelaars. Snelle en makkelijke authenticatie met je vingerafdruk. + € 80,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2019,
+   "totalFrom": "summary",
+   "totalText": "€ 2.019,00 | € 2.019,00",
+   "selected": {
+    "chassis-dimensionColor": "Blauw",
+    "processor-cpuCoreCount-gpuCoreCount": "M6‑chip met vier Thunderbolt-poorten 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.019",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "256 GB Meegeleverd",
+    "display-dimensionFinish": "Standaardglas Ontwikkeld voor extreem weinig reflectie in elke omgeving. Meegeleverd",
+    "chassis-dimensionStandType": "Standaard Zet ’m op je bureau en kantel ’m omhoog of omlaag. Meegeleverd",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Ondersteunt Multi-Touch-gebaren zoals swipen en scrollen. Meegeleverd",
+    "keyboard-keyboardFormFactor": "Magic Keyboard met Touch ID Snelle en makkelijke authenticatie met je vingerafdruk. Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blauw",
+     "Paars",
+     "Roze",
+     "Oranje",
+     "Geel",
+     "Groen",
+     "Zilver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6‑chip met twee Thunderbolt‑poorten 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Vanaf € 1.819",
+     "M6‑chip met vier Thunderbolt-poorten 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.019"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd",
+     "24 GB + € 220,00",
+     "32 GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Meegeleverd",
+     "512 GB + € 220,00",
+     "1 TB + € 550,00",
+     "2 TB + € 1.100,00"
+    ],
+    "display-dimensionFinish": [
+     "Standaardglas Ontwikkeld voor extreem weinig reflectie in elke omgeving. Meegeleverd",
+     "Glas met nanotextuur Schittert en spiegelt nog minder bij fel licht. Alleen verkrijgbaar voor het model met vier poorten. + € 220,00"
+    ],
+    "chassis-dimensionStandType": [
+     "Standaard Zet ’m op je bureau en kantel ’m omhoog of omlaag. Meegeleverd",
+     "VESA-montageadapter Ingebouwd, dus geschikt om te bevestigen aan een muur of op een verstelbare arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Ondersteunt Multi-Touch-gebaren zoals swipen en scrollen. Meegeleverd",
+     "Magic Trackpad Ondersteunt alle Multi-Touch-gebaren en Force Touch-technologie. + € 54,00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard met Touch ID Snelle en makkelijke authenticatie met je vingerafdruk. Meegeleverd",
+     "Magic Keyboard met Touch ID en numeriek toetsenblok Uitgebreide indeling met navigatieregelaars. Snelle en makkelijke authenticatie met je vingerafdruk. + € 30,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

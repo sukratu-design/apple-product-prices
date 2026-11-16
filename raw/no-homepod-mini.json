@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:29:33.278Z",
+ "configs": {
+  "default": {
+   "total": 1790,
+   "totalFrom": "summary",
+   "totalText": "kr 190,00 | kr 1 790,00",
+   "selected": {
+    "dimensionColor": "hvit"
+   },
+   "options": {
+    "dimensionColor": [
+     "hvit",
+     "rosa",
+     "blå",
+     "grønn",
+     "midnatt"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

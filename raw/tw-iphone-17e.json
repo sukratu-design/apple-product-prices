@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:36.412Z",
+ "configs": {
+  "default": {
+   "total": 25900,
+   "totalFrom": "summary",
+   "totalText": "NT$25,900 | NT$25,900 | NT$25,900",
+   "selected": {
+    "dimensionColor": "嫩粉色",
+    "dimensionCapacity": "256GB 註腳 1 NT$25,900"
+   },
+   "options": {
+    "dimensionColor": [
+     "嫩粉色",
+     "白色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 註腳 1 NT$25,900",
+     "512GB 註腳 1 NT$32,900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

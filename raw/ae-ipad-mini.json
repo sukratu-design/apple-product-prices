@@ -2,12 +2,12 @@
  "page": "ipad-mini",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-mini",
- "scrapedAt": "2026-11-13T11:05:10.785Z",
+ "scrapedAt": "2026-11-16T12:35:03.435Z",
  "configs": {
   "wifi": {
    "total": 2849,
    "totalFrom": "summary",
-   "totalText": "AED 2,849.00",
+   "totalText": "AED 2,849.00 | AED 2,849.00 | AED 529.00 | AED 319.00 | AED 339.00 | AED 2,849.00",
    "selected": {
     "dimensionColor": "Midnight",
     "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From AED 2,849",
@@ -269,7 +269,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
@@ -285,7 +285,7 @@
   "cell": {
    "total": 3449,
    "totalFrom": "summary",
-   "totalText": "AED 3,449.00",
+   "totalText": "AED 3,449.00 | AED 3,449.00 | AED 529.00 | AED 319.00 | AED 339.00 | AED 3,449.00",
    "selected": {
     "dimensionColor": "Midnight",
     "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From AED 2,849",
@@ -547,7 +547,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
@@ -563,7 +563,7 @@
   "nano": {
    "total": 3249,
    "totalFrom": "summary",
-   "totalText": "AED 3,249.00",
+   "totalText": "AED 3,249.00 | AED 3,249.00 | AED 529.00 | AED 319.00 | AED 339.00 | AED 3,249.00",
    "selected": {
     "dimensionColor": "Midnight",
     "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From AED 3,249",
@@ -823,7 +823,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [

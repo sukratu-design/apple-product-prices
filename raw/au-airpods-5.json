@@ -2,12 +2,12 @@
  "page": "airpods-5",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-airpods/airpods-5",
- "scrapedAt": "2026-11-13T11:10:27.546Z",
+ "scrapedAt": "2026-11-16T13:25:06.028Z",
  "configs": {
   "default": {
    "total": 219,
-   "totalFrom": "label:dimensionCharging",
-   "totalText": "",
+   "totalFrom": "summary",
+   "totalText": "A$219.00",
    "selected": {
     "dimensionCharging": "AirPods 5 A$219.00",
     "engraving-option-select-app": null,

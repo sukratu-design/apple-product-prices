@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:06:26.449Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 749,
+   "totalFrom": "summary",
+   "totalText": "NZ$749.00 | NZ$749.00 | NZ$749.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42-mm From NZ$749",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From NZ$749",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$749.00",
+    "rubber-style": "New colours Solo Loop NZ$749.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$749",
+     "46-mm From NZ$849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$749",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$949"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$749.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$749",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$849"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$749.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$749.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$749.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "NZ$849.00 | NZ$849.00 | NZ$849.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46-mm From NZ$849",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From NZ$849",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$849.00",
+    "rubber-style": "New colours Solo Loop NZ$849.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$749",
+     "46-mm From NZ$849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$849",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,049"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$849.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$849",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$949"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$849.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$849.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$849.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 749,
+   "totalFrom": "summary",
+   "totalText": "NZ$749.00 | NZ$749.00 | NZ$749.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42-mm From NZ$749",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$949",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$949.00",
+    "rubber-style": "New colours Solo Loop NZ$949.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$749",
+     "46-mm From NZ$849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$749",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$949"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$949.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$949",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$1,049"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$949.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$949.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$949.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,049.00 | NZ$1,049.00 | NZ$1,049.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46-mm From NZ$849",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,049",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$1,049.00",
+    "rubber-style": "New colours Solo Loop NZ$1,049.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Grey"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$749",
+     "46-mm From NZ$849"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From NZ$849",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,049"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$1,049.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$1,049",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$1,149"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$1,049.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$1,049.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$1,049.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 1399,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,399.00 | NZ$1,399.00 | NZ$1,399.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "42-mm From NZ$1,399",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,399",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$1,399.00",
+    "rubber-style": "New colours Solo Loop NZ$1,399.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$1,399",
+     "46-mm From NZ$1,499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,399"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$1,399.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$1,399",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$1,499"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$1,399.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$1,399.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$1,399.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 1499,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,499.00 | NZ$1,499.00 | NZ$1,499.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "46-mm From NZ$1,499",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,499",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$1,499.00",
+    "rubber-style": "New colours Solo Loop NZ$1,499.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$1,399",
+     "46-mm From NZ$1,499"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,499"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$1,499.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$1,499",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$1,599"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$1,499.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$1,499.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$1,499.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1859,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,859.00 | NZ$1,859.00 | NZ$1,859.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "42-mm From NZ$1,859",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,859",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$1,859.00",
+    "rubber-style": "New colours Solo Loop NZ$1,859.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "New Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$1,859",
+     "46-mm From NZ$1,959"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,859"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$1,859.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$1,859",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$1,959"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$1,859.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$1,859.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$1,859.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1959,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,959.00 | NZ$1,959.00 | NZ$1,959.00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "46-mm From NZ$1,959",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,959",
+    "category": "Rubber Flexible, comfortable, swim-proof bands. NZ$1,959.00",
+    "rubber-style": "New colours Solo Loop NZ$1,959.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From NZ$749 Matt finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From NZ$1,399 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From NZ$1,859 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "New Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42-mm From NZ$1,859",
+     "46-mm From NZ$1,959"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From NZ$1,959"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swim-proof bands. NZ$1,959.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From NZ$1,959",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From NZ$2,059"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop NZ$1,959.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band NZ$1,959.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band NZ$1,959.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:55:22.639Z",
+ "configs": {
+  "m6": {
+   "total": 1799,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,799.00 | NZ$1,799.00",
+   "selected": {
+    "processor-dimensionChip": "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From NZ$1,799",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From NZ$1,799",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From NZ$3,499"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + NZ$400.00",
+     "32GB + NZ$800.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + NZ$400.00",
+     "1TB + NZ$1,000.00",
+     "2TB + NZ$2,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + NZ$200.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "NZ$3,499.00 | NZ$3,499.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From NZ$3,499",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From NZ$1,799",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From NZ$3,499"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + NZ$400.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + NZ$1,200.00",
+     "64GB + NZ$2,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + NZ$600.00",
+     "2TB + NZ$1,600.00",
+     "4TB + NZ$3,600.00",
+     "8TB + NZ$7,600.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + NZ$200.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 3899,
+   "totalFrom": "summary",
+   "totalText": "NZ$3,899.00 | NZ$3,899.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From NZ$3,499",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From NZ$1,799",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From NZ$3,499"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − NZ$400.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + NZ$1,200.00",
+     "64GB + NZ$2,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + NZ$600.00",
+     "2TB + NZ$1,600.00",
+     "4TB + NZ$3,600.00",
+     "8TB + NZ$7,600.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + NZ$200.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

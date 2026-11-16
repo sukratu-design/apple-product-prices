@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:27:27.786Z",
+ "configs": {
+  "default": {
+   "total": 2399,
+   "totalFrom": "summary",
+   "totalText": "HK$349 | HK$2,399",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

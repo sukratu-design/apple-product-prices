@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:24.436Z",
+ "configs": {
+  "14-m6": {
+   "total": 26995,
+   "totalFrom": "summary",
+   "totalText": "26 995,00 kr | 26 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "Nyhet M6-chip Blixtsnabb med senaste generationens prestanda för de privata, jobbrelaterade och kreativa uppgifterna du gör varje dag. 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 26 995 kr",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Ingår",
+    "memory-dimensionMemory": "16 GB Ingår",
+    "storage-dimensionCapacity": "1 TB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "Nyhet M6-chip Blixtsnabb med senaste generationens prestanda för de privata, jobbrelaterade och kreativa uppgifterna du gör varje dag. 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 26 995 kr",
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Ingår"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Ingår",
+     "24 GB + 2 600,00 kr",
+     "32 GB + 5 200,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Ingår",
+     "2 TB + 6 500,00 kr",
+     "4 TB + 19 500,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 34995,
+   "totalFrom": "summary",
+   "totalText": "34 995,00 kr | 34 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑kärnig processor, 16‑kärnig grafik Ingår",
+    "memory-dimensionMemory": "24 GB Ingår",
+    "storage-dimensionCapacity": "1 TB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "Nyhet M6-chip Blixtsnabb med senaste generationens prestanda för de privata, jobbrelaterade och kreativa uppgifterna du gör varje dag. 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 26 995 kr",
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑kärnig processor, 16‑kärnig grafik Ingår",
+     "18‑kärnig processor, 20‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering för intensiva uppgifter som spel, kodning och kreativt arbete. + 2 600,00 kr"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Ingår",
+     "48 GB + 7 800,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Ingår",
+     "2 TB + 6 500,00 kr",
+     "4 TB + 19 500,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 37595,
+   "totalFrom": "summary",
+   "totalText": "37 595,00 kr | 37 595,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kärnig processor, 20‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering för intensiva uppgifter som spel, kodning och kreativt arbete.",
+    "memory-dimensionMemory": "24 GB Ingår",
+    "storage-dimensionCapacity": "1 TB Ingår",
+    "power_adapter-wattage": "Ingen strömadapter"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "Nyhet M6-chip Blixtsnabb med senaste generationens prestanda för de privata, jobbrelaterade och kreativa uppgifterna du gör varje dag. 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 26 995 kr",
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑kärnig processor, 16‑kärnig grafik − 2 600,00 kr",
+     "18‑kärnig processor, 20‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering för intensiva uppgifter som spel, kodning och kreativt arbete."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Ingår",
+     "48 GB + 7 800,00 kr",
+     "64 GB + 13 000,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Ingår",
+     "2 TB + 6 500,00 kr",
+     "4 TB + 19 500,00 kr"
+    ],
+    "power_adapter-wattage": [
+     "Ingen strömadapter",
+     "96 W Snabbladdning, stöd för Högprestandaläge med M5 Pro- och M5 Max-chippet. + 1 045,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 56995,
+   "totalFrom": "summary",
+   "totalText": "56 995,00 kr | 56 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-kärnig processor, 32‑kärnig grafik Ingår",
+    "memory-dimensionMemory": "36 GB Ingår",
+    "storage-dimensionCapacity": "2 TB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "Nyhet M6-chip Blixtsnabb med senaste generationens prestanda för de privata, jobbrelaterade och kreativa uppgifterna du gör varje dag. 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 26 995 kr",
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-kärnig processor, 32‑kärnig grafik Ingår",
+     "18‑kärnig processor, 40‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering, och snabba upp uppgifter som att köra stora språk­modeller och redigera video i 8K. + 3 900,00 kr Det här valet innebär att du måste uppgradera till 48 GB minne, vilket kommer att öka totalsumman för din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Ingår"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Ingår",
+     "4 TB + 13 000,00 kr",
+     "8 TB + 39 000,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 64795,
+   "totalFrom": "summary",
+   "totalText": "64 795,00 kr | 64 795,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kärnig processor, 40‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering, och snabba upp uppgifter som att köra stora språk­modeller och redigera video i 8K. Det här valet innebär att du måste uppgradera till 48 GB minne, vilket kommer att öka totalsumman för din Mac.",
+    "memory-dimensionMemory": "48 GB Ingår",
+    "storage-dimensionCapacity": "2 TB Ingår",
+    "power_adapter-wattage": "Ingen strömadapter"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "Nyhet M6-chip Blixtsnabb med senaste generationens prestanda för de privata, jobbrelaterade och kreativa uppgifterna du gör varje dag. 12-kärnig processor, 12-kärnig grafik, dubbel 16-kärnig Neural Engine Från 26 995 kr",
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 34 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 56 995 kr"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-kärnig processor, 32‑kärnig grafik − 3 900,00 kr",
+     "18‑kärnig processor, 40‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering, och snabba upp uppgifter som att köra stora språk­modeller och redigera video i 8K. Det här valet innebär att du måste uppgradera till 48 GB minne, vilket kommer att öka totalsumman för din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Ingår",
+     "64 GB + 5 200,00 kr",
+     "128 GB + 26 000,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Ingår",
+     "4 TB + 13 000,00 kr",
+     "8 TB + 39 000,00 kr"
+    ],
+    "power_adapter-wattage": [
+     "Ingen strömadapter",
+     "96 W Snabbladdning, stöd för Högprestandaläge med M5 Pro- och M5 Max-chippet. + 1 045,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 41995,
+   "totalFrom": "summary",
+   "totalText": "41 995,00 kr | 41 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 18‑kärnig processor, 20‑kärnig grafik, 16‑kärnig Neural Engine Från 41 995 kr",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kärnig processor, 20‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering för intensiva uppgifter som spel, kodning och kreativt arbete. Ingår",
+    "memory-dimensionMemory": "24 GB Ingår",
+    "storage-dimensionCapacity": "1 TB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 18‑kärnig processor, 20‑kärnig grafik, 16‑kärnig Neural Engine Från 41 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 60 995 kr"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑kärnig processor, 20‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering för intensiva uppgifter som spel, kodning och kreativt arbete. Ingår"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Ingår",
+     "48 GB + 7 800,00 kr",
+     "64 GB + 13 000,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Ingår",
+     "2 TB + 6 500,00 kr",
+     "4 TB + 19 500,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 60995,
+   "totalFrom": "summary",
+   "totalText": "60 995,00 kr | 60 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 60 995 kr",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-kärnig processor, 32‑kärnig grafik Ingår",
+    "memory-dimensionMemory": "36 GB Ingår",
+    "storage-dimensionCapacity": "2 TB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 18‑kärnig processor, 20‑kärnig grafik, 16‑kärnig Neural Engine Från 41 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 60 995 kr"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-kärnig processor, 32‑kärnig grafik Ingår",
+     "18‑kärnig processor, 40‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering, och snabba upp uppgifter som att köra stora språk­modeller och redigera video i 8K. + 4 100,00 kr Det här valet innebär att du måste uppgradera till 48 GB minne, vilket kommer att öka totalsumman för din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Ingår"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Ingår",
+     "4 TB + 13 000,00 kr",
+     "8 TB + 39 000,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 68995,
+   "totalFrom": "summary",
+   "totalText": "68 995,00 kr | 68 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr",
+    "chassis-dimensionColor": "Rymdsvart",
+    "display-dimensionFinish": "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+    "processor-dimensionChip": "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 60 995 kr",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kärnig processor, 40‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering, och snabba upp uppgifter som att köra stora språk­modeller och redigera video i 8K. Det här valet innebär att du måste uppgradera till 48 GB minne, vilket kommer att öka totalsumman för din Mac.",
+    "memory-dimensionMemory": "48 GB Ingår",
+    "storage-dimensionCapacity": "2 TB Ingår",
+    "power_adapter-wattage": "Ingen strömadapter"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tum Finns med M6-, M5 Pro- eller M5 Max-chip. Från 26 995 kr",
+     "16 tum Finns med M5 Pro- eller M5 Max-chip. Från 41 995 kr"
+    ],
+    "chassis-dimensionColor": [
+     "Rymdsvart",
+     "silver"
+    ],
+    "display-dimensionFinish": [
+     "Standardskärm Byggd för låg reflektion för mindre blänk från omgivningen. Ingår",
+     "Nanotexturskärm Ger ännu mindre blänk och reflexer i starkt ljus. + 1 950,00 kr"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Mer prestanda och möjlighet att välja större minne för mer krävande arbetsflöden. 18‑kärnig processor, 20‑kärnig grafik, 16‑kärnig Neural Engine Från 41 995 kr",
+     "M5 Max-chip Vårt kraftfullaste chip som någonsin byggts för en bärbar proffsdator. Gjort för extrema arbetsflöden. 2 alternativ med 16-kärnig Neural Engine Från 60 995 kr"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-kärnig processor, 32‑kärnig grafik − 4 100,00 kr",
+     "18‑kärnig processor, 40‑kärnig grafik Boosta hastigheten för bearbetning och grafikrendering, och snabba upp uppgifter som att köra stora språk­modeller och redigera video i 8K. Det här valet innebär att du måste uppgradera till 48 GB minne, vilket kommer att öka totalsumman för din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Ingår",
+     "64 GB + 5 200,00 kr",
+     "128 GB + 26 000,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Ingår",
+     "4 TB + 13 000,00 kr",
+     "8 TB + 39 000,00 kr"
+    ],
+    "power_adapter-wattage": [
+     "Ingen strömadapter",
+     "140 W Snabbladdning, stöd för Högprestandaläge med M5 Pro- och M5 Max-chippet. + 1 395,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

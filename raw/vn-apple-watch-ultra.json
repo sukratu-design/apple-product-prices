@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:11:05.440Z",
+ "configs": {
+  "band": {
+   "total": 23999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 23.999.000đ",
+   "selected": {
+    "watch_cases-dimensionColor": "Đen",
+    "style": "Các Màu Mới Dây Quấn Alpine Cho những cuộc phiêu lưu ngoài trời và đi bộ đường dài. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+    "alpineloop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "Nhỏ Vừa với cổ tay 130–160mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Đen",
+     "Tự Nhiên"
+    ],
+    "style": [
+     "Các Màu Mới Dây Quấn Alpine Cho những cuộc phiêu lưu ngoài trời và đi bộ đường dài. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+     "Các Màu Mới Dây Quấn Trail Cho tất cả các môn thể thao và tập luyện. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+     "Các Màu Mới Dây Đeo Ocean Dành cho các môn thể thao dưới nước và lặn giải trí. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+     "Dây Quấn Milan Titan Thiết kế để sử dụng ngoài biển, nhưng vẫn trang nhã phù hợp cho mọi dịp. 26.999.000đ hoặc 1.099.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "alpineloop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu Đậm",
+     "Sa Mạc"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Nhỏ Vừa với cổ tay 130–160mm.",
+     "Trung Bình Dây vừa với cổ tay cỡ 145–190mm.",
+     "Lớn Dây vừa với cổ tay cỡ 165–210mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 26999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 26.999.000đ",
+   "selected": {
+    "watch_cases-dimensionColor": "Đen",
+    "style": "Dây Quấn Milan Titan Thiết kế để sử dụng ngoài biển, nhưng vẫn trang nhã phù hợp cho mọi dịp. 26.999.000đ hoặc 1.099.000đ/tháng mỗi tháng trong 24 tháng",
+    "ti_milaneseloop-color": "Đen",
+    "watch_bands-dimensionbandsize": "Nhỏ Vừa với cổ tay 130–160mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Đen",
+     "Tự Nhiên"
+    ],
+    "style": [
+     "Các Màu Mới Dây Quấn Alpine Cho những cuộc phiêu lưu ngoài trời và đi bộ đường dài. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+     "Các Màu Mới Dây Quấn Trail Cho tất cả các môn thể thao và tập luyện. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+     "Các Màu Mới Dây Đeo Ocean Dành cho các môn thể thao dưới nước và lặn giải trí. 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng",
+     "Dây Quấn Milan Titan Thiết kế để sử dụng ngoài biển, nhưng vẫn trang nhã phù hợp cho mọi dịp. 26.999.000đ hoặc 1.099.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "ti_milaneseloop-color": [
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Nhỏ Vừa với cổ tay 130–160mm.",
+     "Trung Bình Vừa với cổ tay 155–185mm.",
+     "Lớn Vừa với cổ tay 180–210mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

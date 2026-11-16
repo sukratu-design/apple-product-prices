@@ -1,0 +1,86 @@
+{
+ "page": "ipad",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-ipad/ipad",
+ "scrapedAt": "2026-11-16T12:36:41.619Z",
+ "configs": {
+  "wifi": {
+   "total": 6398,
+   "totalFrom": "summary",
+   "totalText": "R$ 6.398,00 | R$ 6.398,00 | R$ 899,00 | R$ 1.099,00 | R$ 2.499,00 | R$ 6.398,00",
+   "selected": {
+    "dimensionColor": "Prateado",
+    "dimensionCapacity": "128 GB A partir de R$ 5.499",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 5.499,00",
+    "acc_pencil_first": "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+    "acc_magic_keyboard": "Adicionar Magic Keyboard Folio R$ 2.499,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Prateado",
+     "Rosa",
+     "Azul",
+     "Amarelo"
+    ],
+    "dimensionCapacity": [
+     "128 GB A partir de R$ 5.499",
+     "256 GB A partir de R$ 6.699",
+     "512 GB A partir de R$ 9.099"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 5.499,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 7.499,00"
+    ],
+    "acc_pencil_first": [
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Adicionar Apple Pencil (1ª geração) R$ 1.099,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_magic_keyboard": [
+     "Adicionar Magic Keyboard Folio R$ 2.499,00",
+     "Sem teclado"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "cell": {
+   "total": 8398,
+   "totalFrom": "summary",
+   "totalText": "R$ 8.398,00 | R$ 8.398,00 | R$ 899,00 | R$ 1.099,00 | R$ 2.499,00 | R$ 8.398,00",
+   "selected": {
+    "dimensionColor": "Prateado",
+    "dimensionCapacity": "128 GB A partir de R$ 5.499",
+    "dimensionConnection": "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 7.499,00",
+    "acc_pencil_first": "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+    "acc_magic_keyboard": "Adicionar Magic Keyboard Folio R$ 2.499,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Prateado",
+     "Rosa",
+     "Azul",
+     "Amarelo"
+    ],
+    "dimensionCapacity": [
+     "128 GB A partir de R$ 5.499",
+     "256 GB A partir de R$ 6.699",
+     "512 GB A partir de R$ 9.099"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 5.499,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 7.499,00"
+    ],
+    "acc_pencil_first": [
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Adicionar Apple Pencil (1ª geração) R$ 1.099,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_magic_keyboard": [
+     "Adicionar Magic Keyboard Folio R$ 2.499,00",
+     "Sem teclado"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

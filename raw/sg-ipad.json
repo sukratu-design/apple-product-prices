@@ -2,7 +2,7 @@
  "page": "ipad",
  "country": "sg",
  "url": "https://www.apple.com/sg/shop/buy-ipad/ipad",
- "scrapedAt": "2026-11-14T03:48:47.881Z",
+ "scrapedAt": "2026-11-16T12:40:29.643Z",
  "configs": {
   "wifi": {
    "total": 649,
@@ -10,7 +10,7 @@
    "totalText": "S$649.00 | S$649.00 | S$119.00 | S$149.00 | S$379.00 | S$649.00",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From S$649",
+    "dimensionCapacity": "128GB From S$649",
     "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$649.00",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
@@ -29,9 +29,9 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From S$649",
-     "256GB Footnote 2 From S$799",
-     "512GB Footnote 2 From S$1,099"
+     "128GB From S$649",
+     "256GB From S$799",
+     "512GB From S$1,099"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$649.00",
@@ -271,7 +271,7 @@
    "totalText": "S$879.00 | S$879.00 | S$119.00 | S$149.00 | S$379.00 | S$879.00",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From S$649",
+    "dimensionCapacity": "128GB From S$649",
     "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. S$879.00",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
@@ -290,9 +290,9 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From S$649",
-     "256GB Footnote 2 From S$799",
-     "512GB Footnote 2 From S$1,099"
+     "128GB From S$649",
+     "256GB From S$799",
+     "512GB From S$1,099"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. S$649.00",

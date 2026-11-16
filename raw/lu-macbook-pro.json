@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "lu",
+ "url": "https://www.apple.com/lu/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:04.630Z",
+ "configs": {
+  "14-m6": {
+   "total": 2252,
+   "totalFrom": "summary",
+   "totalText": "2 252,00 € | 2 252,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 252 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Inclus",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 252 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Inclus"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 212,73 €",
+     "32 Go + 425,46 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 531,82 €",
+     "4 To + 1 595,46 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2852,
+   "totalFrom": "summary",
+   "totalText": "2 851,51 € | 2 851,51 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15 cœurs, GPU 16 cœurs Inclus",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 252 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 cœurs, GPU 16 cœurs Inclus",
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs. + 241,73 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 638,18 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 531,82 €",
+     "4 To + 1 595,46 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3093,
+   "totalFrom": "summary",
+   "totalText": "3 093,25 € | 3 093,25 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs.",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus",
+    "power_adapter-wattage": "Pas d’adaptateur secteur"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 252 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 cœurs, GPU 16 cœurs − 241,73 €",
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs."
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 638,18 €",
+     "64 Go + 1 063,64 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 531,82 €",
+     "4 To + 1 595,46 €"
+    ],
+    "power_adapter-wattage": [
+     "Pas d’adaptateur secteur",
+     "96 W Charge rapide, prise en charge du mode Performance avec les puces M5 Pro et M5 Max. + 82,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4689,
+   "totalFrom": "summary",
+   "totalText": "4 688,70 € | 4 688,70 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 32 cœurs Inclus",
+    "memory-dimensionMemory": "36 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 252 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs Inclus",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. + 319,08 € Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 063,64 €",
+     "8 To + 3 190,91 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5327,
+   "totalFrom": "summary",
+   "totalText": "5 326,89 € | 5 326,89 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac.",
+    "memory-dimensionMemory": "48 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus",
+    "power_adapter-wattage": "Pas d’adaptateur secteur"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Nouveau Puce M6 Ultra-rapide, offrant des performances de pointe pour les tâches personnelles, professionnelles et créatives que vous effectuez chaque jour. CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 252 €",
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. 2 options avec Neural Engine 16 cœurs À partir de 2 851,51 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 688,70 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs − 319,08 €",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 Go Inclus",
+     "64 Go + 425,46 €",
+     "128 Go + 2 127,28 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 063,64 €",
+     "8 To + 3 190,91 €"
+    ],
+    "power_adapter-wattage": [
+     "Pas d’adaptateur secteur",
+     "96 W Charge rapide, prise en charge du mode Performance avec les puces M5 Pro et M5 Max. + 82,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3335,
+   "totalFrom": "summary",
+   "totalText": "3 334,98 € | 3 334,98 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 334,98 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs. Inclus",
+    "memory-dimensionMemory": "24 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 334,98 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 978,78 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 20 cœurs Boostez votre vitesse de traitement et de rendu graphique pour les tâches les plus exigeantes telles que le gaming, la programmation et les projets créatifs. Inclus"
+    ],
+    "memory-dimensionMemory": [
+     "24 Go Inclus",
+     "48 Go + 638,18 €",
+     "64 Go + 1 063,64 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 531,82 €",
+     "4 To + 1 595,46 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 4979,
+   "totalFrom": "summary",
+   "totalText": "4 978,78 € | 4 978,78 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 978,78 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 32 cœurs Inclus",
+    "memory-dimensionMemory": "36 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 334,98 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 978,78 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs Inclus",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. + 261,07 € Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 063,64 €",
+     "8 To + 3 190,91 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5559,
+   "totalFrom": "summary",
+   "totalText": "5 558,95 € | 5 558,95 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €",
+    "chassis-dimensionColor": "Noir sidéral",
+    "display-dimensionFinish": "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+    "processor-dimensionChip": "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 978,78 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac.",
+    "memory-dimensionMemory": "48 Go Inclus",
+    "storage-dimensionCapacity": "2 To Inclus",
+    "power_adapter-wattage": "Pas d’adaptateur secteur"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pouces Disponible avec la puce M6, M5 Pro ou M5 Max. À partir de 2 252 €",
+     "16 pouces Disponible avec la puce M5 Pro ou M5 Max. À partir de 3 334,98 €"
+    ],
+    "chassis-dimensionColor": [
+     "Noir sidéral",
+     "Argent"
+    ],
+    "display-dimensionFinish": [
+     "Écran standard Conçu pour garantir une réflectance faible et ainsi réduire les reflets, quel que soit votre environnement. Inclus",
+     "Écran nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. + 159,54 €"
+    ],
+    "processor-dimensionChip": [
+     "Puce M5 Pro Des performances accrues et des options de mémoire plus élevées pour les workflows les plus exigeants. CPU 18 cœurs, GPU 20 cœurs, Neural Engine 16 cœurs À partir de 3 334,98 €",
+     "Puce M5 Max Notre puce la plus puissante à ce jour pour un ordinateur portable pro. Taillée pour les workflows extrêmes. 2 options avec Neural Engine 16 cœurs À partir de 4 978,78 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs − 261,07 €",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 Go Inclus",
+     "64 Go + 425,46 €",
+     "128 Go + 2 127,28 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 To Inclus",
+     "4 To + 1 063,64 €",
+     "8 To + 3 190,91 €"
+    ],
+    "power_adapter-wattage": [
+     "Pas d’adaptateur secteur",
+     "140 W Charge rapide, prise en charge du mode Performance avec les puces M5 Pro et M5 Max. + 115,07 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

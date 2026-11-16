@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:27.400Z",
+ "configs": {
+  "default": {
+   "total": 74900,
+   "totalFrom": "summary",
+   "totalText": "NT$74,900 | NT$74,900 | NT$74,900",
+   "selected": {
+    "dimensionColor": "星光白色",
+    "dimensionCapacity": "256GB 註腳 1 NT$74,900"
+   },
+   "options": {
+    "dimensionColor": [
+     "星光白色",
+     "夜空色"
+    ],
+    "dimensionCapacity": [
+     "256GB 註腳 1 NT$74,900",
+     "512GB 註腳 1 NT$81,900",
+     "1TB 註腳 1 NT$96,900",
+     "2TB 註腳 1 NT$118,900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

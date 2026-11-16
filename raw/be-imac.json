@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "be",
+ "url": "https://www.apple.com/be-fr/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:27.489Z",
+ "configs": {
+  "2port": {
+   "total": 1819,
+   "totalFrom": "summary",
+   "totalText": "1 819,00 € | 1 819,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Bleu",
+    "processor-cpuCoreCount-gpuCoreCount": "Puce M6 avec deux ports Thunderbolt CPU 10 cœurs, GPU 10 cœurs, deux Neural Engine 16 cœurs À partir de 1 819 €",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "256 Go Inclus",
+    "chassis-dimensionStandType": "Support Installez-le sur votre bureau et ajustez l’inclinaison vers le haut ou vers le bas. Inclus",
+    "ethernet_adapter-ethernetPortCount": "Pas de port Ethernet Connexion uniquement via un réseau Wi‑Fi. Inclus",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Prend en charge les gestes Multi-Touch tels que le balayage et le défilement. Inclus",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Design bord à bord ultra‑compact. Inclus"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Bleu",
+     "Violet",
+     "Rose",
+     "Orange",
+     "Jaune",
+     "Vert",
+     "Argent"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Puce M6 avec deux ports Thunderbolt CPU 10 cœurs, GPU 10 cœurs, deux Neural Engine 16 cœurs À partir de 1 819 €",
+     "Puce M6 avec quatre ports Thunderbolt CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 019 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Go Inclus",
+     "512 Go + 220,00 €",
+     "1 To + 550,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Support Installez-le sur votre bureau et ajustez l’inclinaison vers le haut ou vers le bas. Inclus",
+     "Kit de montage VESA Intégré pour permettre la fixation de l’iMac au mur ou sur un bras articulé."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Pas de port Ethernet Connexion uniquement via un réseau Wi‑Fi. Inclus",
+     "Port 2,5 Gigabit Ethernet Connectivité réseau standard, vitesses de liaison jusqu’à 2,5 Gbit. + 30,00 €"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Prend en charge les gestes Multi-Touch tels que le balayage et le défilement. Inclus",
+     "Magic Trackpad Prend en charge tous les gestes Multi‑Touch et la technologie Force Touch. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Design bord à bord ultra‑compact. Inclus",
+     "Magic Keyboard avec Touch ID et pavé numérique Format étendu avec commandes de navigation. Permet une authentification rapide et facile par empreinte digitale. + 80,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2019,
+   "totalFrom": "summary",
+   "totalText": "2 019,00 € | 2 019,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Bleu",
+    "processor-cpuCoreCount-gpuCoreCount": "Puce M6 avec quatre ports Thunderbolt CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 019 €",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "256 Go Inclus",
+    "display-dimensionFinish": "Verre standard Conçu pour garantir une réflectance extrêmement faible et ainsi réduire les reflets dans n’importe quel environnement. Inclus",
+    "chassis-dimensionStandType": "Support Installez-le sur votre bureau et ajustez l’inclinaison vers le haut ou vers le bas. Inclus",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Prend en charge les gestes Multi-Touch tels que le balayage et le défilement. Inclus",
+    "keyboard-keyboardFormFactor": "Magic Keyboard avec Touch ID Permet une authentification rapide et facile par empreinte digitale. Inclus"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Bleu",
+     "Violet",
+     "Rose",
+     "Orange",
+     "Jaune",
+     "Vert",
+     "Argent"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Puce M6 avec deux ports Thunderbolt CPU 10 cœurs, GPU 10 cœurs, deux Neural Engine 16 cœurs À partir de 1 819 €",
+     "Puce M6 avec quatre ports Thunderbolt CPU 12 cœurs, GPU 12 cœurs, deux Neural Engine 16 cœurs À partir de 2 019 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Go Inclus",
+     "512 Go + 220,00 €",
+     "1 To + 550,00 €",
+     "2 To + 1 100,00 €"
+    ],
+    "display-dimensionFinish": [
+     "Verre standard Conçu pour garantir une réflectance extrêmement faible et ainsi réduire les reflets dans n’importe quel environnement. Inclus",
+     "Verre nano-texturé Pour réduire plus encore les reflets dans les environnements très lumineux. Disponible uniquement avec le modèle à quatre ports. + 220,00 €"
+    ],
+    "chassis-dimensionStandType": [
+     "Support Installez-le sur votre bureau et ajustez l’inclinaison vers le haut ou vers le bas. Inclus",
+     "Kit de montage VESA Intégré pour permettre la fixation de l’iMac au mur ou sur un bras articulé."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Prend en charge les gestes Multi-Touch tels que le balayage et le défilement. Inclus",
+     "Magic Trackpad Prend en charge tous les gestes Multi‑Touch et la technologie Force Touch. + 54,00 €"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard avec Touch ID Permet une authentification rapide et facile par empreinte digitale. Inclus",
+     "Magic Keyboard avec Touch ID et pavé numérique Format étendu avec commandes de navigation. Permet une authentification rapide et facile par empreinte digitale. + 30,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

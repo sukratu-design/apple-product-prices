@@ -2,17 +2,17 @@
  "page": "ipad-mini",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-ipad/ipad-mini",
- "scrapedAt": "2026-11-13T10:59:13.971Z",
+ "scrapedAt": "2026-11-16T12:35:10.675Z",
  "configs": {
   "wifi": {
-   "total": 82900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 13317,
+   "totalFrom": "summary",
    "totalText": "From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-    "dimensionFinish": "Standard glass From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹82900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+    "dimensionFinish": "Standard glass From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹82900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -30,16 +30,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹94900.00 Footnote †",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From ₹19317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹118900.00 Footnote †"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or ₹94900.00",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From ₹19317.00/mo. Per Month with instant cashback and No Cost EMI or ₹118900.00"
     ],
     "dimensionFinish": [
-     "Standard glass From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †"
+     "Standard glass From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹82900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹16317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹100900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹82900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹16317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹100900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -264,16 +264,16 @@
      "Nano-texture glass Available in models with 256GB and 512GB storage"
     ],
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
-     "New Add Smart Folio From ₹1483.00/mo. Per Month Footnote ※ or MRP ₹8500.00 (inclusive of all taxes)",
+     "New Add Smart Folio From ₹1483.00/mo. Per Month or MRP ₹8500.00 (inclusive of all taxes)",
      "No Smart Folio"
     ],
     "smart_folioGroup_dimensionColor": [
@@ -283,14 +283,14 @@
    }
   },
   "cell": {
-   "total": 100900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 16317,
+   "totalFrom": "summary",
    "totalText": "From ₹16317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-    "dimensionFinish": "Standard glass From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹16317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹100900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+    "dimensionFinish": "Standard glass From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹16317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹100900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -308,16 +308,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹94900.00 Footnote †",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From ₹19317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹118900.00 Footnote †"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or ₹94900.00",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From ₹19317.00/mo. Per Month with instant cashback and No Cost EMI or ₹118900.00"
     ],
     "dimensionFinish": [
-     "Standard glass From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †"
+     "Standard glass From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹82900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹16317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹100900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹82900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹16317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹100900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -542,16 +542,16 @@
      "Nano-texture glass Available in models with 256GB and 512GB storage"
     ],
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
-     "New Add Smart Folio From ₹1483.00/mo. Per Month Footnote ※ or MRP ₹8500.00 (inclusive of all taxes)",
+     "New Add Smart Folio From ₹1483.00/mo. Per Month or MRP ₹8500.00 (inclusive of all taxes)",
      "No Smart Folio"
     ],
     "smart_folioGroup_dimensionColor": [
@@ -561,14 +561,14 @@
    }
   },
   "nano": {
-   "total": 94900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 15317,
+   "totalFrom": "summary",
    "totalText": "From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹94900.00 Footnote †",
-    "dimensionFinish": "Standard glass From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹94900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹94900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or ₹94900.00",
+    "dimensionFinish": "Standard glass From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or ₹94900.00",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹94900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -586,17 +586,17 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹82900.00 Footnote †",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹94900.00 Footnote †",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From ₹19317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹118900.00 Footnote †"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From ₹13317.00/mo. Per Month with instant cashback and No Cost EMI or ₹82900.00",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or ₹94900.00",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From ₹19317.00/mo. Per Month with instant cashback and No Cost EMI or ₹118900.00"
     ],
     "dimensionFinish": [
-     "Standard glass From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹94900.00 Footnote †",
-     "Nano-texture glass Available in models with 256GB and 512GB storage From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹106900.00 Footnote †"
+     "Standard glass From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or ₹94900.00",
+     "Nano-texture glass Available in models with 256GB and 512GB storage From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or ₹106900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹15317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹94900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹18317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹112900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹15317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹94900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹18317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹112900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -818,16 +818,16 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
-     "New Add Smart Folio From ₹1483.00/mo. Per Month Footnote ※ or MRP ₹8500.00 (inclusive of all taxes)",
+     "New Add Smart Folio From ₹1483.00/mo. Per Month or MRP ₹8500.00 (inclusive of all taxes)",
      "No Smart Folio"
     ],
     "smart_folioGroup_dimensionColor": [

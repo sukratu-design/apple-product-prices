@@ -2,12 +2,12 @@
  "page": "homepod-mini",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-homepod/homepod-mini",
- "scrapedAt": "2026-11-13T05:04:46.750Z",
+ "scrapedAt": "2026-11-16T13:33:51.159Z",
  "configs": {
   "default": {
    "total": 18900,
-   "totalFrom": "page",
-   "totalText": "From ₹382.00/mo. Per Month Footnote ◊◊",
+   "totalFrom": "summary",
+   "totalText": "From ₹382.00/mo. Per Month Footnote ◊◊ | From ₹3299.00/mo. per month with EMI Footnote ◊◊, or MRP ₹18900.00 (Incl. of all taxes)",
    "selected": {
     "dimensionColor": "White"
    },

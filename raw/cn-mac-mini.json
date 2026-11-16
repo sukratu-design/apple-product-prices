@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T13:24:22.826Z",
+ "configs": {
+  "m6": {
+   "total": 6999,
+   "totalFrom": "summary",
+   "totalText": "RMB 6999 或 RMB 292/月 (24 期) 起 | RMB 6999 或 RMB 292/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 6999 起 或 RMB 292/月 (24 期) 起",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "已含",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "256GB 已含",
+    "ethernet_adapter-ethernetBandwidth": "2.5Gb 以太网端口 标配网络连接，支持最高 2.5Gb 链路速度。 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 6999 起 或 RMB 292/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任各种高难度工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 12,999 起 或 RMB 542/月 (24 期) 起"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "已含"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含",
+     "24GB + RMB 1,500",
+     "32GB + RMB 3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 已含",
+     "512GB + RMB 1,500",
+     "1TB + RMB 3,750",
+     "2TB + RMB 7,500"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5Gb 以太网端口 标配网络连接，支持最高 2.5Gb 链路速度。 已含",
+     "10Gb 以太网端口 连接带宽更高，支持最高 10Gb 链路速度。 + RMB 750"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 12999,
+   "totalFrom": "summary",
+   "totalText": "RMB 12,999 或 RMB 542/月 (24 期) 起 | RMB 12,999 或 RMB 542/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任各种高难度工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 12,999 起 或 RMB 542/月 (24 期) 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 核中央处理器、16 核图形处理器 已含",
+    "memory-dimensionMemory": "24GB 已含",
+    "storage-dimensionCapacity": "512GB 已含",
+    "ethernet_adapter-ethernetBandwidth": "2.5Gb 以太网端口 标配网络连接，支持最高 2.5Gb 链路速度。 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 6999 起 或 RMB 292/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任各种高难度工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 12,999 起 或 RMB 542/月 (24 期) 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核中央处理器、16 核图形处理器 已含",
+     "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可加速运行大语言模型、更快处理 8K 视频剪辑等任务。 + RMB 1,500"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已含",
+     "48GB + RMB 4,500",
+     "64GB + RMB 7,500"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已含",
+     "1TB + RMB 2,250",
+     "2TB + RMB 6,000",
+     "4TB + RMB 13,500",
+     "8TB + RMB 28,500"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5Gb 以太网端口 标配网络连接，支持最高 2.5Gb 链路速度。 已含",
+     "10Gb 以太网端口 连接带宽更高，支持最高 10Gb 链路速度。 + RMB 750"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 14499,
+   "totalFrom": "summary",
+   "totalText": "RMB 14,499 或 RMB 605/月 (24 期) 起 | RMB 14,499 或 RMB 605/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任各种高难度工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 12,999 起 或 RMB 542/月 (24 期) 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可加速运行大语言模型、更快处理 8K 视频剪辑等任务。",
+    "memory-dimensionMemory": "24GB 已含",
+    "storage-dimensionCapacity": "512GB 已含",
+    "ethernet_adapter-ethernetBandwidth": "2.5Gb 以太网端口 标配网络连接，支持最高 2.5Gb 链路速度。 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 6999 起 或 RMB 292/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任各种高难度工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 12,999 起 或 RMB 542/月 (24 期) 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核中央处理器、16 核图形处理器 − RMB 1,500",
+     "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可加速运行大语言模型、更快处理 8K 视频剪辑等任务。"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已含",
+     "48GB + RMB 4,500",
+     "64GB + RMB 7,500"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已含",
+     "1TB + RMB 2,250",
+     "2TB + RMB 6,000",
+     "4TB + RMB 13,500",
+     "8TB + RMB 28,500"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5Gb 以太网端口 标配网络连接，支持最高 2.5Gb 链路速度。 已含",
+     "10Gb 以太网端口 连接带宽更高，支持最高 10Gb 链路速度。 + RMB 750"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

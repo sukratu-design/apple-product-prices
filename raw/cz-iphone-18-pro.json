@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:10.254Z",
+ "configs": {
+  "pro": {
+   "total": 34990,
+   "totalFrom": "summary",
+   "totalText": "34 990,00 Kč | 34 990,00 Kč | 34 990,00 Kč",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3palcový displej Poznámka 2 Od 34 990 Kč",
+    "dimensionColor": "burgundsky červená",
+    "dimensionCapacity": "256 GB Poznámka 1 34 990,00 Kč"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3palcový displej Poznámka 2 Od 34 990 Kč",
+     "iPhone 18 Pro Max 6,9palcový displej Poznámka 2 Od 37 990 Kč"
+    ],
+    "dimensionColor": [
+     "burgundsky červená",
+     "ledovcově modrá",
+     "stříbrný",
+     "černá"
+    ],
+    "dimensionCapacity": [
+     "256 GB Poznámka 1 34 990,00 Kč",
+     "512 GB Poznámka 1 40 990,00 Kč",
+     "1 TB Poznámka 1 52 990,00 Kč",
+     "2 TB Poznámka 1 70 990,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 37990,
+   "totalFrom": "summary",
+   "totalText": "37 990,00 Kč | 37 990,00 Kč | 37 990,00 Kč",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9palcový displej Poznámka 2 Od 37 990 Kč",
+    "dimensionColor": "burgundsky červená",
+    "dimensionCapacity": "256 GB Poznámka 1 37 990,00 Kč"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3palcový displej Poznámka 2 Od 34 990 Kč",
+     "iPhone 18 Pro Max 6,9palcový displej Poznámka 2 Od 37 990 Kč"
+    ],
+    "dimensionColor": [
+     "burgundsky červená",
+     "ledovcově modrá",
+     "stříbrný",
+     "černá"
+    ],
+    "dimensionCapacity": [
+     "256 GB Poznámka 1 37 990,00 Kč",
+     "512 GB Poznámka 1 43 990,00 Kč",
+     "1 TB Poznámka 1 55 990,00 Kč",
+     "2 TB Poznámka 1 73 990,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

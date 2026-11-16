@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:05:23.492Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "RMB 2,999",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+    "aluminum-watch_cases-dimensionColor": "新款 深古铜色",
+    "watch_cases-dimensionCaseSize": "42 毫米 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2999 或 RMB 125/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 2999 或 RMB 125/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "新款 深古铜色",
+     "新款 浅金色",
+     "新款 黑色",
+     "深空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "46 毫米 RMB 3399 起 或 RMB 142/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 3799 起 或 RMB 159/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2999 或 RMB 125/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 3399 起 或 RMB 142/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 2999 或 RMB 125/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 2999 或 RMB 125/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 2999 或 RMB 125/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 3399,
+   "totalFrom": "summary",
+   "totalText": "RMB 3,399",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+    "aluminum-watch_cases-dimensionColor": "新款 深古铜色",
+    "watch_cases-dimensionCaseSize": "46 毫米 RMB 3399 起 或 RMB 142/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 3399 起 或 RMB 142/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 3399 或 RMB 142/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 3399 或 RMB 142/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "新款 深古铜色",
+     "新款 浅金色",
+     "新款 黑色",
+     "深空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "46 毫米 RMB 3399 起 或 RMB 142/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 3399 起 或 RMB 142/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 4199 起 或 RMB 175/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 3399 或 RMB 142/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 3399 起 或 RMB 142/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 3799 起 或 RMB 159/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 3399 或 RMB 142/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 3399 或 RMB 142/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 3399 或 RMB 142/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "RMB 2,999",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+    "aluminum-watch_cases-dimensionColor": "新款 深古铜色",
+    "watch_cases-dimensionCaseSize": "42 毫米 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 3799 起 或 RMB 159/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 3799 或 RMB 159/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 3799 或 RMB 159/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "新款 深古铜色",
+     "新款 浅金色",
+     "新款 黑色",
+     "深空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "46 毫米 RMB 3399 起 或 RMB 142/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 3799 起 或 RMB 159/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 3799 或 RMB 159/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 3799 起 或 RMB 159/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 4199 起 或 RMB 175/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 3799 或 RMB 159/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 3799 或 RMB 159/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 3799 或 RMB 159/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 4199,
+   "totalFrom": "summary",
+   "totalText": "RMB 4,199",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+    "aluminum-watch_cases-dimensionColor": "新款 深古铜色",
+    "watch_cases-dimensionCaseSize": "46 毫米 RMB 3399 起 或 RMB 142/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 4199 起 或 RMB 175/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 4199 或 RMB 175/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 4199 或 RMB 175/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "新款 深古铜色",
+     "新款 浅金色",
+     "新款 黑色",
+     "深空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 2999 起 或 RMB 125/月 (24 期) 起",
+     "46 毫米 RMB 3399 起 或 RMB 142/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 3399 起 或 RMB 142/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 4199 起 或 RMB 175/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 4199 或 RMB 175/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 4199 起 或 RMB 175/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 4599 起 或 RMB 192/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 4199 或 RMB 175/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 4199 或 RMB 175/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 4199 或 RMB 175/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 5799,
+   "totalFrom": "summary",
+   "totalText": "RMB 5,799",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+    "titanium-watch_cases-dimensionColor": "新款 炫金色",
+    "watch_cases-dimensionCaseSize": "42 毫米 RMB 5799 起 或 RMB 242/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 5799 起 或 RMB 242/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 5799 或 RMB 242/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 5799 或 RMB 242/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "新款 炫金色",
+     "原色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 5799 起 或 RMB 242/月 (24 期) 起",
+     "46 毫米 RMB 6199 起 或 RMB 259/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 5799 起 或 RMB 242/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 5799 或 RMB 242/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 5799 起 或 RMB 242/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 6199 起 或 RMB 259/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 5799 或 RMB 242/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 5799 或 RMB 242/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 5799 或 RMB 242/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。"
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 6199,
+   "totalFrom": "summary",
+   "totalText": "RMB 6,199",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+    "titanium-watch_cases-dimensionColor": "新款 炫金色",
+    "watch_cases-dimensionCaseSize": "46 毫米 RMB 6199 起 或 RMB 259/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 6199 起 或 RMB 259/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 6199 或 RMB 259/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 6199 或 RMB 259/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "新款 炫金色",
+     "原色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 5799 起 或 RMB 242/月 (24 期) 起",
+     "46 毫米 RMB 6199 起 或 RMB 259/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 6199 起 或 RMB 259/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 6199 或 RMB 259/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 6199 起 或 RMB 259/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 6599 起 或 RMB 275/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 6199 或 RMB 259/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 6199 或 RMB 259/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 6199 或 RMB 259/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。"
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 7499,
+   "totalFrom": "summary",
+   "totalText": "RMB 7,499",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。",
+    "ceramic-watch_cases-dimensionColor": "新款 珍珠白色",
+    "watch_cases-dimensionCaseSize": "42 毫米 RMB 7499 起 或 RMB 313/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 7499 起 或 RMB 313/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 7499 或 RMB 313/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 7499 或 RMB 313/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "新款 珍珠白色",
+     "新款 夜蓝色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 7499 起 或 RMB 313/月 (24 期) 起",
+     "46 毫米 RMB 7899 起 或 RMB 330/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 7499 起 或 RMB 313/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 7499 或 RMB 313/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 7499 起 或 RMB 313/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 7899 起 或 RMB 330/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 7499 或 RMB 313/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 7499 或 RMB 313/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 7499 或 RMB 313/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。"
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 7899,
+   "totalFrom": "summary",
+   "totalText": "RMB 7,899",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。",
+    "ceramic-watch_cases-dimensionColor": "新款 珍珠白色",
+    "watch_cases-dimensionCaseSize": "46 毫米 RMB 7899 起 或 RMB 330/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 7899 起 或 RMB 330/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 7899 或 RMB 330/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 7899 或 RMB 330/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "新外观 铝金属 可选 GPS 或 GPS + 蜂窝网络 RMB 2999 起 或 RMB 125/月 (24 期) 起 亚光外观，搭配耐用的超瓷晶面板 2 显示屏。",
+     "新外观 钛金属 提供 GPS + 蜂窝网络 RMB 5799 起 或 RMB 242/月 (24 期) 起 抛光航空级钛金属搭配耐用的蓝宝石玻璃表镜。",
+     "新款 陶瓷 提供 GPS + 蜂窝网络 RMB 7499 起 或 RMB 313/月 (24 期) 起 精美的抛光外观极具质感，还具有抗刮划能力，搭配耐用的蓝宝石玻璃表镜。"
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "新款 珍珠白色",
+     "新款 夜蓝色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 毫米 RMB 7499 起 或 RMB 313/月 (24 期) 起",
+     "46 毫米 RMB 7899 起 或 RMB 330/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 7899 起 或 RMB 330/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 7899 或 RMB 330/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 7899 起 或 RMB 330/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 8299 起 或 RMB 346/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 7899 或 RMB 330/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 7899 或 RMB 330/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 7899 或 RMB 330/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。"
+    ]
+   }
+  }
+ }
+}

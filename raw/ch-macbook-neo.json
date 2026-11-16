@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:12.558Z",
+ "configs": {
+  "256": {
+   "total": 679,
+   "totalFrom": "summary",
+   "totalText": "CHF 679.00 | CHF 679.00 | CHF 679.00",
+   "selected": {
+    "chassis-dimensionColor": "Silber",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Ab CHF 679.–"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silber",
+     "Rosa",
+     "Zitrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Ab CHF 679.–",
+     "512 GB Magic Keyboard mit Touch ID Ab CHF 779.–"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 779,
+   "totalFrom": "summary",
+   "totalText": "CHF 779.00 | CHF 779.00 | CHF 779.00",
+   "selected": {
+    "chassis-dimensionColor": "Silber",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard mit Touch ID Ab CHF 779.–"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silber",
+     "Rosa",
+     "Zitrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Ab CHF 679.–",
+     "512 GB Magic Keyboard mit Touch ID Ab CHF 779.–"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

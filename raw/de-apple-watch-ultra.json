@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:09:55.375Z",
+ "configs": {
+  "band": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "899 € oder 74,92 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 899 € oder 74,92 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Schwarz",
+    "style": "Neue Farben Alpine Loop Für Outdoor-Abenteuer und Wanderungen. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "alpineloop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "Small Armband für 130–160 mm Umfang."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Schwarz",
+     "Natur"
+    ],
+    "style": [
+     "Neue Farben Alpine Loop Für Outdoor-Abenteuer und Wanderungen. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Neue Farben Trail Loop Für alle Sportarten und Workouts. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Neue Farben Ocean Armband Für Wassersport­arten und Sporttauchen. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Milanaise Armband Titan Entwickelt für Wassersport und gleichzeitig bei jedem Anlass elegant. 999 € oder 83,25 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "alpineloop-color": [
+     "Burgunder",
+     "Dunkeloliv",
+     "Wüstensand"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Armband für 130–160 mm Umfang.",
+     "Medium Armband für 145–190 mm Umfang.",
+     "Large Armband für 165–210 mm Umfang."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "999 € oder 83,25 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊ | 999 € oder 83,25 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ◊◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Schwarz",
+    "style": "Milanaise Armband Titan Entwickelt für Wassersport und gleichzeitig bei jedem Anlass elegant. 999 € oder 83,25 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "ti_milaneseloop-color": "Schwarz",
+    "watch_bands-dimensionbandsize": "Small Armband für 130–160 mm Umfang."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Schwarz",
+     "Natur"
+    ],
+    "style": [
+     "Neue Farben Alpine Loop Für Outdoor-Abenteuer und Wanderungen. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Neue Farben Trail Loop Für alle Sportarten und Workouts. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Neue Farben Ocean Armband Für Wassersport­arten und Sporttauchen. 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "Milanaise Armband Titan Entwickelt für Wassersport und gleichzeitig bei jedem Anlass elegant. 999 € oder 83,25 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "ti_milaneseloop-color": [
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Armband für 130–160 mm Umfang.",
+     "Medium Armband für 155–185 mm Umfang.",
+     "Large Armband für 180–210 mm Umfang."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

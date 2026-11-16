@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:00.173Z",
+ "configs": {
+  "band": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Negro",
+    "style": "Nuevos colores Correa Loop Alpine Perfecta para hacer senderismo y otras actividades al aire libre. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "alpineloop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "Pequeña Para muñecas de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Negro",
+     "Natural"
+    ],
+    "style": [
+     "Nuevos colores Correa Loop Alpine Perfecta para hacer senderismo y otras actividades al aire libre. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Nuevos colores Correa Loop Trail Máxima comodidad en cualquier deporte. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Nuevos colores Correa Ocean Para deportes acuáticos y buceo recreativo. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Pulsera Milanese Loop en titanio Diseñada para el mar, pero elegante en cualquier situación. 999,00 € o 34,61 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "alpineloop-color": [
+     "Burdeos",
+     "Oliva oscuro",
+     "Desierto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Pequeña Para muñecas de 130 a 160 mm.",
+     "Mediana Para muñecas de 145 a 190 mm.",
+     "Grande Para muñecas de 165 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "999,00 € o 34,61 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 999,00 € o 34,61 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Negro",
+    "style": "Pulsera Milanese Loop en titanio Diseñada para el mar, pero elegante en cualquier situación. 999,00 € o 34,61 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "ti_milaneseloop-color": "Negro",
+    "watch_bands-dimensionbandsize": "Pequeña Para muñecas de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Negro",
+     "Natural"
+    ],
+    "style": [
+     "Nuevos colores Correa Loop Alpine Perfecta para hacer senderismo y otras actividades al aire libre. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Nuevos colores Correa Loop Trail Máxima comodidad en cualquier deporte. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Nuevos colores Correa Ocean Para deportes acuáticos y buceo recreativo. 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Pulsera Milanese Loop en titanio Diseñada para el mar, pero elegante en cualquier situación. 999,00 € o 34,61 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "ti_milaneseloop-color": [
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Pequeña Para muñecas de 130 a 160 mm.",
+     "Mediana Para muñecas de 155 a 185 mm",
+     "Grande Para muñecas de 180 a 210 mm"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:28.220Z",
+ "configs": {
+  "2port": {
+   "total": 11499,
+   "totalFrom": "summary",
+   "totalText": "HK$11,499 | HK$11,499",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine From HK$11,499",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "chassis-dimensionStandType": "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+    "ethernet_adapter-ethernetPortCount": "No Ethernet Connect only through a Wi‑Fi network. Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultracompact, edge-to-edge design. Included"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blue",
+     "Purple",
+     "Pink",
+     "Orange",
+     "Yellow",
+     "Green",
+     "Silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine From HK$11,499",
+     "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From HK$12,999"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + HK$1,500"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + HK$1,500",
+     "1TB + HK$3,750"
+    ],
+    "chassis-dimensionStandType": [
+     "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+     "VESA Mount Adapter Built in so you can mount to a wall or an adjustable arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "No Ethernet Connect only through a Wi‑Fi network. Included",
+     "2.5 Gigabit Ethernet port Standard networking, up to 2.5Gb link speeds. + HK$200"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+     "Magic Trackpad Supports full range of Multi-Touch gestures and Force Touch technology. + HK$350"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultracompact, edge-to-edge design. Included",
+     "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + HK$520"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 12999,
+   "totalFrom": "summary",
+   "totalText": "HK$12,999 | HK$12,999",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From HK$12,999",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "display-dimensionFinish": "Standard glass Engineered for low reflectivity to reduce glare in your environment. Included",
+    "chassis-dimensionStandType": "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blue",
+     "Purple",
+     "Pink",
+     "Orange",
+     "Yellow",
+     "Green",
+     "Silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine From HK$11,499",
+     "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine From HK$12,999"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + HK$1,500",
+     "32GB + HK$3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + HK$1,500",
+     "1TB + HK$3,750",
+     "2TB + HK$7,500"
+    ],
+    "display-dimensionFinish": [
+     "Standard glass Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture glass Further reduces reflections and glare in bright lighting conditions. Available with four-port model only. + HK$1,500"
+    ],
+    "chassis-dimensionStandType": [
+     "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+     "VESA Mount Adapter Built in so you can mount to a wall or an adjustable arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+     "Magic Trackpad Supports full range of Multi-Touch gestures and Force Touch technology. + HK$350"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included",
+     "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + HK$200"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:05:50.311Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 13900,
+   "totalFrom": "summary",
+   "totalText": "NT$13,900 | NT$13,900 | NT$13,900",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+    "aluminum-watch_cases-dimensionColor": "全新 深古銅色",
+    "watch_cases-dimensionCaseSize": "42 公釐 NT$13,900 起",
+    "watch_cases-dimensionConnection": "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$13,900 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$13,900",
+    "rubber-style": "新色 單圈錶環 NT$13,900 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "全新 深古銅色",
+     "全新 淺金色",
+     "全新 黑色",
+     "太空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$13,900 起",
+     "46 公釐 NT$15,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$13,900 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$16,900 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$13,900",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$13,900 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$15,400 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$13,900 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$13,900 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$13,900 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 15400,
+   "totalFrom": "summary",
+   "totalText": "NT$15,400 | NT$15,400 | NT$15,400",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+    "aluminum-watch_cases-dimensionColor": "全新 深古銅色",
+    "watch_cases-dimensionCaseSize": "46 公釐 NT$15,400 起",
+    "watch_cases-dimensionConnection": "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$15,400 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$15,400",
+    "rubber-style": "新色 單圈錶環 NT$15,400 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "全新 深古銅色",
+     "全新 淺金色",
+     "全新 黑色",
+     "太空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$13,900 起",
+     "46 公釐 NT$15,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$15,400 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$18,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$15,400",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$15,400 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$16,900 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$15,400 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$15,400 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$15,400 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 16900,
+   "totalFrom": "summary",
+   "totalText": "NT$16,900 | NT$16,900 | NT$16,900",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+    "aluminum-watch_cases-dimensionColor": "全新 深古銅色",
+    "watch_cases-dimensionCaseSize": "42 公釐 NT$13,900 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$16,900 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$16,900",
+    "rubber-style": "新色 單圈錶環 NT$16,900 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "全新 深古銅色",
+     "全新 淺金色",
+     "全新 黑色",
+     "太空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$13,900 起",
+     "46 公釐 NT$15,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$13,900 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$16,900 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$16,900",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$16,900 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$18,400 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$16,900 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$16,900 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$16,900 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 18400,
+   "totalFrom": "summary",
+   "totalText": "NT$18,400 | NT$18,400 | NT$18,400",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+    "aluminum-watch_cases-dimensionColor": "全新 深古銅色",
+    "watch_cases-dimensionCaseSize": "46 公釐 NT$15,400 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$18,400 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$18,400",
+    "rubber-style": "新色 單圈錶環 NT$18,400 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "全新 深古銅色",
+     "全新 淺金色",
+     "全新 黑色",
+     "太空灰色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$13,900 起",
+     "46 公釐 NT$15,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$15,400 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$18,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$18,400",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$18,400 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$19,900 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$18,400 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$18,400 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$18,400 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 24900,
+   "totalFrom": "summary",
+   "totalText": "NT$24,900 | NT$24,900 | NT$24,900",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+    "titanium-watch_cases-dimensionColor": "全新 燦金色",
+    "watch_cases-dimensionCaseSize": "42 公釐 NT$24,900 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$24,900 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$24,900",
+    "rubber-style": "新色 單圈錶環 NT$24,900 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "全新 燦金色",
+     "原色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$24,900 起",
+     "46 公釐 NT$26,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$24,900 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$24,900",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$24,900 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$26,400 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$24,900 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$24,900 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$24,900 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。"
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 26400,
+   "totalFrom": "summary",
+   "totalText": "NT$26,400 | NT$26,400 | NT$26,400",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+    "titanium-watch_cases-dimensionColor": "全新 燦金色",
+    "watch_cases-dimensionCaseSize": "46 公釐 NT$26,400 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$26,400 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$26,400",
+    "rubber-style": "新色 單圈錶環 NT$26,400 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "全新 燦金色",
+     "原色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$24,900 起",
+     "46 公釐 NT$26,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$26,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$26,400",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$26,400 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$27,900 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$26,400 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$26,400 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$26,400 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。"
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 32900,
+   "totalFrom": "summary",
+   "totalText": "NT$32,900 | NT$32,900 | NT$32,900",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。",
+    "ceramic-watch_cases-dimensionColor": "全新 珍珠白色",
+    "watch_cases-dimensionCaseSize": "42 公釐 NT$32,900 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$32,900 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$32,900",
+    "rubber-style": "新色 單圈錶環 NT$32,900 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "全新 珍珠白色",
+     "全新 夜藍色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$32,900 起",
+     "46 公釐 NT$34,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$32,900 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$32,900",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$32,900 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$34,400 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$32,900 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$32,900 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$32,900 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。"
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 32900,
+   "totalFrom": "summary",
+   "totalText": "NT$32,900 | NT$32,900 | NT$32,900",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。",
+    "ceramic-watch_cases-dimensionColor": "全新 珍珠白色",
+    "watch_cases-dimensionCaseSize": "46 公釐 NT$34,400 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$34,400 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$34,400",
+    "rubber-style": "新色 單圈錶環 NT$34,400 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "全新外觀 鋁金屬 可選擇 GPS 或 GPS + 行動網路 NT$13,900 起 霧面外觀與經久耐用的顯示器，配備超瓷晶盾 2。",
+     "全新外觀 鈦金屬 具備 GPS + 行動網路 NT$24,900 起 拋光航太等級鈦金屬，搭配經久耐用的藍寶石玻璃錶面。",
+     "全新 精密陶瓷 具備 GPS + 行動網路 NT$32,900 起 質感精緻的拋光外觀，具備抗刮能力，搭配耐用的藍寶石玻璃顯示器。"
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "全新 珍珠白色",
+     "全新 夜藍色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 公釐 NT$32,900 起",
+     "46 公釐 NT$34,400 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$34,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$34,400",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$34,400 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$35,900 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$34,400 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$34,400 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$34,400 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。"
+    ]
+   }
+  }
+ }
+}

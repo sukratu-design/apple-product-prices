@@ -2,7 +2,7 @@
  "page": "macbook-neo",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-mac/macbook-neo",
- "scrapedAt": "2026-11-13T11:05:22.500Z",
+ "scrapedAt": "2026-11-16T12:40:14.895Z",
  "configs": {
   "256": {
    "total": 949,
@@ -10,7 +10,7 @@
    "totalText": "$949.00",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "256GB Magic Keyboard From $949 or $42.91/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    "storage-dimensionCapacity": "256GB Magic Keyboard From $949 or $42.91/mo. per month for 24 mo. months at 7.99% APR"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -20,8 +20,8 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From $949 or $42.91/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
-     "512 GB Magic Keyboard with Touch ID From $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+     "256GB Magic Keyboard From $949 or $42.91/mo. per month for 24 mo. months at 7.99% APR",
+     "512 GB Magic Keyboard with Touch ID From $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR"
     ]
    },
    "disabledOptions": {}
@@ -29,10 +29,10 @@
   "512": {
    "total": 1149,
    "totalFrom": "summary",
-   "totalText": "$1,149.00",
+   "totalText": "$1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR Footnote ◊ | $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR Footnote ◊ | $1,149.00",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -42,8 +42,8 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From $949 or $42.91/mo. per month for 24 mo. months at 7.99% APR Footnote ◊",
-     "512 GB Magic Keyboard with Touch ID From $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR Footnote ◊"
+     "256GB Magic Keyboard From $949 or $42.91/mo. per month for 24 mo. months at 7.99% APR",
+     "512 GB Magic Keyboard with Touch ID From $1149 or $51.96/mo. per month for 24 mo. months at 7.99% APR"
     ]
    },
    "disabledOptions": {}

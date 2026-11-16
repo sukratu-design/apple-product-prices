@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:28.616Z",
+ "configs": {
+  "default": {
+   "total": 319990,
+   "totalFrom": "summary",
+   "totalText": "319 990 Ft | 319 990 Ft | 319 990 Ft",
+   "selected": {
+    "dimensionColor": "halvány rózsaszín",
+    "dimensionCapacity": "256 GB Lábjegyzet 1 319 990 Ft"
+   },
+   "options": {
+    "dimensionColor": [
+     "halvány rózsaszín",
+     "fehér",
+     "fekete"
+    ],
+    "dimensionCapacity": [
+     "256 GB Lábjegyzet 1 319 990 Ft",
+     "512 GB Lábjegyzet 1 419 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

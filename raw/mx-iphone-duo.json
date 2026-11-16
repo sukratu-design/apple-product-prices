@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:27.123Z",
+ "configs": {
+  "default": {
+   "total": 47999,
+   "totalFrom": "summary",
+   "totalText": "$47,999.00 de contado o 18 MSI desde $2,666.61. Nota al pie ◊ | $47,999.00 de contado o 18 MSI desde $2,666.61. Nota al pie ◊ | $47,999.00",
+   "selected": {
+    "dimensionColor": "Blanco estrella",
+    "dimensionCapacity": "256 GB Nota al pie 1 $47,999.00 de contado o 18 MSI desde $2,666.61. Nota al pie ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Blanco estrella",
+     "Cielo nocturno"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota al pie 1 $47,999.00 de contado o 18 MSI desde $2,666.61. Nota al pie ◊",
+     "512 GB Nota al pie 1 $52,999.00 de contado o 18 MSI desde $2,944.39. Nota al pie ◊",
+     "1 TB Nota al pie 1 $62,999.00 de contado o 18 MSI desde $3,499.94. Nota al pie ◊",
+     "2 TB Nota al pie 1 $77,999.00 de contado o 18 MSI desde $4,333.28. Nota al pie ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

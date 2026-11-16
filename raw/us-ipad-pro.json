@@ -2,12 +2,12 @@
  "page": "ipad-pro",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-ipad/ipad-pro",
- "scrapedAt": "2026-11-13T10:57:58.189Z",
+ "scrapedAt": "2026-11-16T12:06:07.682Z",
  "configs": {
   "11-wifi": {
    "total": 1199,
    "totalFrom": "summary",
-   "totalText": "Buy for $1,199.00 or $99.91/mo. per month for 12 mo. months Footnote ‡ Lease from $24.99/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $1,199.00 or $99.91/mo. per month for 12 mo. months Footnote ‡ Lease from $24.99/mo. per month for 36 mo. months Footnote ※ | Buy for $1,199.00 or $99.91/mo. per month for 12 mo. months Footnote ‡ Lease from $24.99/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display Buy from $1199 or $99.91/mo. per month for 12 mo. months Footnote ‡ Lease from $24.99/mo. per month for 36 mo. months Footnote ※",
     "dimensionColor": "Space Black",
@@ -304,7 +304,7 @@
   "11-cell": {
    "total": 1399,
    "totalFrom": "summary",
-   "totalText": "Buy for $1,399.00 or $116.58/mo. per month for 12 mo. months Footnote ‡ Lease from $29.16/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $1,399.00 or $116.58/mo. per month for 12 mo. months Footnote ‡ Lease from $29.16/mo. per month for 36 mo. months Footnote ※ | Buy for $1,399.00 or $116.58/mo. per month for 12 mo. months Footnote ‡ Lease from $29.16/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display Buy from $1199 or $99.91/mo. per month for 12 mo. months Footnote ‡ Lease from $24.99/mo. per month for 36 mo. months Footnote ※",
     "dimensionColor": "Space Black",
@@ -601,7 +601,7 @@
   "13-wifi": {
    "total": 1499,
    "totalFrom": "summary",
-   "totalText": "Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ‡ Lease from $30.99/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ‡ Lease from $30.99/mo. per month for 36 mo. months Footnote ※ | Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ‡ Lease from $30.99/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ‡ Lease from $30.99/mo. per month for 36 mo. months Footnote ※",
     "dimensionColor": "Space Black",
@@ -899,7 +899,7 @@
   "13-cell": {
    "total": 1699,
    "totalFrom": "summary",
-   "totalText": "Buy for $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡ Lease from $35.13/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡ Lease from $35.13/mo. per month for 36 mo. months Footnote ※ | Buy for $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡ Lease from $35.13/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ‡ Lease from $30.99/mo. per month for 36 mo. months Footnote ※",
     "dimensionColor": "Space Black",
@@ -1197,7 +1197,7 @@
   "nano": {
    "total": 1799,
    "totalFrom": "summary",
-   "totalText": "Buy for $1,799.00 or $149.91/mo. per month for 12 mo. months Footnote ‡ Lease from $37.50/mo. per month for 36 mo. months Footnote ※",
+   "totalText": "Buy for $1,799.00 or $149.91/mo. per month for 12 mo. months Footnote ‡ Lease from $37.50/mo. per month for 36 mo. months Footnote ※ | Buy for $1,799.00 or $149.91/mo. per month for 12 mo. months Footnote ‡ Lease from $37.50/mo. per month for 36 mo. months Footnote ※",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display Buy from $1199 or $99.91/mo. per month for 12 mo. months Footnote ‡ Lease from $24.99/mo. per month for 36 mo. months Footnote ※",
     "dimensionColor": "Space Black",

@@ -2,17 +2,17 @@
  "page": "ipad-air",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-ipad/ipad-air",
- "scrapedAt": "2026-11-13T10:57:14.021Z",
+ "scrapedAt": "2026-11-16T12:29:36.152Z",
  "configs": {
   "11-wifi": {
-   "total": 89900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 14150,
+   "totalFrom": "summary",
    "totalText": "From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "dimensionScreensize": "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
+    "dimensionScreensize": "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹89900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "128GB From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹89900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -28,8 +28,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †"
+     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00"
     ],
     "dimensionColor": [
      "Purple",
@@ -38,14 +38,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-     "256GB Footnote 2 From ₹16150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹101900.00 Footnote †",
-     "512GB Footnote 2 From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹125900.00 Footnote †",
-     "1TB Footnote 2 From ₹26150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹161900.00 Footnote †"
+     "128GB From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+     "256GB From ₹16150.00/mo. Per Month with instant cashback and No Cost EMI or ₹101900.00",
+     "512GB From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹125900.00",
+     "1TB From ₹26150.00/mo. Per Month with instant cashback and No Cost EMI or ₹161900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹89900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹17150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹107900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹89900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹17150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹107900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -271,16 +271,16 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad Air From ₹4695.00/mo. Per Month Footnote ※ or MRP ₹26900.00 (inclusive of all taxes)",
+     "Add Magic Keyboard for iPad Air From ₹4695.00/mo. Per Month or MRP ₹26900.00 (inclusive of all taxes)",
      "No keyboard"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
@@ -288,7 +288,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirFrom ₹5218.00/mo.Per Month Footnote ※ or MRP ₹29900.00 (inclusive of all taxes)"
+     "Add Magic Keyboard for iPad Air From ₹5218.00/mo. Per Month or MRP ₹29900.00 (inclusive of all taxes)"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -297,14 +297,14 @@
    }
   },
   "11-cell": {
-   "total": 107900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 17150,
+   "totalFrom": "summary",
    "totalText": "From ₹17150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "dimensionScreensize": "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
+    "dimensionScreensize": "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹17150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹107900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "128GB From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹17150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹107900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -320,8 +320,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †"
+     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00"
     ],
     "dimensionColor": [
      "Purple",
@@ -330,14 +330,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-     "256GB Footnote 2 From ₹16150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹101900.00 Footnote †",
-     "512GB Footnote 2 From ₹20150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹125900.00 Footnote †",
-     "1TB Footnote 2 From ₹26150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹161900.00 Footnote †"
+     "128GB From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+     "256GB From ₹16150.00/mo. Per Month with instant cashback and No Cost EMI or ₹101900.00",
+     "512GB From ₹20150.00/mo. Per Month with instant cashback and No Cost EMI or ₹125900.00",
+     "1TB From ₹26150.00/mo. Per Month with instant cashback and No Cost EMI or ₹161900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹89900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹17150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹107900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹89900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹17150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹107900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -563,16 +563,16 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad Air From ₹4695.00/mo. Per Month Footnote ※ or MRP ₹26900.00 (inclusive of all taxes)",
+     "Add Magic Keyboard for iPad Air From ₹4695.00/mo. Per Month or MRP ₹26900.00 (inclusive of all taxes)",
      "No keyboard"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
@@ -580,7 +580,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirFrom ₹5218.00/mo.Per Month Footnote ※ or MRP ₹29900.00 (inclusive of all taxes)"
+     "Add Magic Keyboard for iPad Air From ₹5218.00/mo. Per Month or MRP ₹29900.00 (inclusive of all taxes)"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -589,14 +589,14 @@
    }
   },
   "13-wifi": {
-   "total": 119900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 19150,
+   "totalFrom": "summary",
    "totalText": "From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "dimensionScreensize": "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †",
+    "dimensionScreensize": "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹119900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "128GB From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹119900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -612,8 +612,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †"
+     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00"
     ],
     "dimensionColor": [
      "Purple",
@@ -622,14 +622,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †",
-     "256GB Footnote 2 From ₹21150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹131900.00 Footnote †",
-     "512GB Footnote 2 From ₹25150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹155900.00 Footnote †",
-     "1TB Footnote 2 From ₹31150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹191900.00 Footnote †"
+     "128GB From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00",
+     "256GB From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹131900.00",
+     "512GB From ₹25150.00/mo. Per Month with instant cashback and No Cost EMI or ₹155900.00",
+     "1TB From ₹31150.00/mo. Per Month with instant cashback and No Cost EMI or ₹191900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹119900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹22150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹137900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹119900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹22150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹137900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -857,23 +857,23 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad AirFrom ₹4695.00/mo.Per Month Footnote ※ or MRP ₹26900.00 (inclusive of all taxes)"
+     "Add Magic Keyboard for iPad Air From ₹4695.00/mo. Per Month or MRP ₹26900.00 (inclusive of all taxes)"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirFrom ₹5218.00/mo.Per Month Footnote ※ or MRP ₹29900.00 (inclusive of all taxes)"
+     "Add Magic Keyboard for iPad Air From ₹5218.00/mo. Per Month or MRP ₹29900.00 (inclusive of all taxes)"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -882,14 +882,14 @@
    }
   },
   "13-cell": {
-   "total": 137900,
-   "totalFrom": "label:dimensionConnection",
+   "total": 22150,
+   "totalFrom": "summary",
    "totalText": "From ₹22150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
-    "dimensionScreensize": "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †",
+    "dimensionScreensize": "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹22150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹137900.00 (Incl. of all taxes)",
+    "dimensionCapacity": "128GB From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹22150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹137900.00 (Incl. of all taxes)",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -905,8 +905,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹89900.00 Footnote †",
-     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †"
+     "27.59 cm-11″ iPad Air From ₹14150.00/mo. Per Month with instant cashback and No Cost EMI or ₹89900.00",
+     "32.78 cm-13″ iPad Air From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00"
     ],
     "dimensionColor": [
      "Purple",
@@ -915,14 +915,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹119900.00 Footnote †",
-     "256GB Footnote 2 From ₹21150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹131900.00 Footnote †",
-     "512GB Footnote 2 From ₹25150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹155900.00 Footnote †",
-     "1TB Footnote 2 From ₹31150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹191900.00 Footnote †"
+     "128GB From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or ₹119900.00",
+     "256GB From ₹21150.00/mo. Per Month with instant cashback and No Cost EMI or ₹131900.00",
+     "512GB From ₹25150.00/mo. Per Month with instant cashback and No Cost EMI or ₹155900.00",
+     "1TB From ₹31150.00/mo. Per Month with instant cashback and No Cost EMI or ₹191900.00"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹19150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹119900.00 (Incl. of all taxes)",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹22150.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹137900.00 (Incl. of all taxes)"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. From ₹19150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹119900.00 (Incl. of all taxes)",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. From ₹22150.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹137900.00 (Incl. of all taxes)"
     ],
     "engraving-option-select-app": [
      "Add engraving In seven regional languages and English. Free",
@@ -1150,23 +1150,23 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month Footnote ※ or MRP ₹11900.00 (inclusive of all taxes)",
-     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month Footnote ※ or MRP ₹7900.00 (inclusive of all taxes)",
+     "Free engraving Add Apple Pencil Pro From ₹2077.00/mo. Per Month or MRP ₹11900.00 (inclusive of all taxes)",
+     "Add Apple Pencil (USB‑C) From ₹1379.00/mo. Per Month or MRP ₹7900.00 (inclusive of all taxes)",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad AirFrom ₹4695.00/mo.Per Month Footnote ※ or MRP ₹26900.00 (inclusive of all taxes)"
+     "Add Magic Keyboard for iPad Air From ₹4695.00/mo. Per Month or MRP ₹26900.00 (inclusive of all taxes)"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirFrom ₹5218.00/mo.Per Month Footnote ※ or MRP ₹29900.00 (inclusive of all taxes)"
+     "Add Magic Keyboard for iPad Air From ₹5218.00/mo. Per Month or MRP ₹29900.00 (inclusive of all taxes)"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",

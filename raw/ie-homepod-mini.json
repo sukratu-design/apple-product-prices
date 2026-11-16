@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:27:58.886Z",
+ "configs": {
+  "default": {
+   "total": 169,
+   "totalFrom": "summary",
+   "totalText": "€19.00 | €169.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

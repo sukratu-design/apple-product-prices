@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:23.447Z",
+ "configs": {
+  "256": {
+   "total": 8499,
+   "totalFrom": "summary",
+   "totalText": "R$ 8.499,00 | R$ 8.499,00 | R$ 8.499,00",
+   "selected": {
+    "chassis-dimensionColor": "Prateado",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard A partir de R$ 8.499"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Prateado",
+     "Blush",
+     "Amarelo-cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard A partir de R$ 8.499",
+     "512 GB Magic Keyboard com Touch ID A partir de R$ 9.699"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 9699,
+   "totalFrom": "summary",
+   "totalText": "R$ 9.699,00 | R$ 9.699,00 | R$ 9.699,00",
+   "selected": {
+    "chassis-dimensionColor": "Prateado",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard com Touch ID A partir de R$ 9.699"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Prateado",
+     "Blush",
+     "Amarelo-cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard A partir de R$ 8.499",
+     "512 GB Magic Keyboard com Touch ID A partir de R$ 9.699"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

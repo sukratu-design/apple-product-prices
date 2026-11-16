@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:49.515Z",
+ "configs": {
+  "band": {
+   "total": 6499,
+   "totalFrom": "summary",
+   "totalText": "HK$6,499 | HK$6,499 | HK$6,499",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colors Alpine Loop For outdoor adventure and hiking. HK$6,499",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Band fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colors Alpine Loop For outdoor adventure and hiking. HK$6,499",
+     "New colors Trail Loop For all sports and workouts. HK$6,499",
+     "New colors Ocean Band For water sports and recreational diving. HK$6,499",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. HK$7,299"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130–160mm wrists.",
+     "Medium Band fits 145–190mm wrists.",
+     "Large Band fits 165–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 7299,
+   "totalFrom": "summary",
+   "totalText": "HK$7,299 | HK$7,299 | HK$7,299",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. HK$7,299",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Band fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colors Alpine Loop For outdoor adventure and hiking. HK$6,499",
+     "New colors Trail Loop For all sports and workouts. HK$6,499",
+     "New colors Ocean Band For water sports and recreational diving. HK$6,499",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. HK$7,299"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130–160mm wrists.",
+     "Medium Band fits 155–185mm wrists.",
+     "Large Band fits 180–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

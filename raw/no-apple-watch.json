@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:28.776Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 4990,
+   "totalFrom": "summary",
+   "totalText": "kr 4 990,00 | kr 4 990,00 | kr 4 990,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Ny mørk bronse",
+    "watch_cases-dimensionCaseSize": "42 mm Fra kr 4 990",
+    "watch_cases-dimensionConnection": "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 4 990",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 4 990,00",
+    "rubber-style": "Nye farger Solo Loop kr 4 990,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Ny mørk bronse",
+     "Ny lys gull",
+     "Ny svart",
+     "stellargrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 4 990",
+     "46 mm Fra kr 5 690"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 4 990",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 6 290"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 4 990,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 4 990",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 5 690"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 4 990,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 4 990,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 4 990,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 5690,
+   "totalFrom": "summary",
+   "totalText": "kr 5 690,00 | kr 5 690,00 | kr 5 690,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Ny mørk bronse",
+    "watch_cases-dimensionCaseSize": "46 mm Fra kr 5 690",
+    "watch_cases-dimensionConnection": "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 5 690",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 5 690,00",
+    "rubber-style": "Nye farger Solo Loop kr 5 690,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Ny mørk bronse",
+     "Ny lys gull",
+     "Ny svart",
+     "stellargrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 4 990",
+     "46 mm Fra kr 5 690"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 5 690",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 6 990"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 5 690,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 5 690",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 6 390"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 5 690,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 5 690,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 5 690,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 6290,
+   "totalFrom": "summary",
+   "totalText": "kr 6 290,00 | kr 6 290,00 | kr 6 290,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Ny mørk bronse",
+    "watch_cases-dimensionCaseSize": "42 mm Fra kr 4 990",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 6 290",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 6 290,00",
+    "rubber-style": "Nye farger Solo Loop kr 6 290,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Ny mørk bronse",
+     "Ny lys gull",
+     "Ny svart",
+     "stellargrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 4 990",
+     "46 mm Fra kr 5 690"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 4 990",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 6 290"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 6 290,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 6 290",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 6 990"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 6 290,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 6 290,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 6 290,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 6990,
+   "totalFrom": "summary",
+   "totalText": "kr 6 990,00 | kr 6 990,00 | kr 6 990,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Ny mørk bronse",
+    "watch_cases-dimensionCaseSize": "46 mm Fra kr 5 690",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 6 990",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 6 990,00",
+    "rubber-style": "Nye farger Solo Loop kr 6 990,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Ny mørk bronse",
+     "Ny lys gull",
+     "Ny svart",
+     "stellargrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 4 990",
+     "46 mm Fra kr 5 690"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 5 690",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 6 990"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 6 990,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 6 990",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 7 690"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 6 990,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 6 990,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 6 990,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 8990,
+   "totalFrom": "summary",
+   "totalText": "kr 8 990,00 | kr 8 990,00 | kr 8 990,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+    "titanium-watch_cases-dimensionColor": "Ny glødende gull",
+    "watch_cases-dimensionCaseSize": "42 mm Fra kr 8 990",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 8 990",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 8 990,00",
+    "rubber-style": "Nye farger Solo Loop kr 8 990,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Ny glødende gull",
+     "naturlig"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 8 990",
+     "46 mm Fra kr 9 690"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 8 990"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 8 990,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 8 990",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 9 690"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 8 990,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 8 990,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 8 990,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 9690,
+   "totalFrom": "summary",
+   "totalText": "kr 9 690,00 | kr 9 690,00 | kr 9 690,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+    "titanium-watch_cases-dimensionColor": "Ny glødende gull",
+    "watch_cases-dimensionCaseSize": "46 mm Fra kr 9 690",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 9 690",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 9 690,00",
+    "rubber-style": "Nye farger Solo Loop kr 9 690,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Ny glødende gull",
+     "naturlig"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 8 990",
+     "46 mm Fra kr 9 690"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 9 690"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 9 690,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 9 690",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 10 390"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 9 690,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 9 690,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 9 690,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 11490,
+   "totalFrom": "summary",
+   "totalText": "kr 11 490,00 | kr 11 490,00 | kr 11 490,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass.",
+    "ceramic-watch_cases-dimensionColor": "Ny perlehvit",
+    "watch_cases-dimensionCaseSize": "42 mm Fra kr 11 490",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 11 490",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 11 490,00",
+    "rubber-style": "Nye farger Solo Loop kr 11 490,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Ny perlehvit",
+     "Ny nattblå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 11 490",
+     "46 mm Fra kr 12 190"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 11 490"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 11 490,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 11 490",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 12 190"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 11 490,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 11 490,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 11 490,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 12190,
+   "totalFrom": "summary",
+   "totalText": "kr 12 190,00 | kr 12 190,00 | kr 12 190,00",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass.",
+    "ceramic-watch_cases-dimensionColor": "Ny perlehvit",
+    "watch_cases-dimensionCaseSize": "46 mm Fra kr 12 190",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 12 190",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 12 190,00",
+    "rubber-style": "Nye farger Solo Loop kr 12 190,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nye finisher Aluminium Velg GPS eller GPS + Cellular Fra kr 4 990 Matt finish og en solid skjerm med Ceramic Shield 2.",
+     "Ny finish Titan Med GPS + Cellular Fra kr 8 990 Polert titan i romfartskvalitet, og slitesterk skjerm av safirglass.",
+     "Ny Keramisk Med GPS + Cellular Fra kr 11 490 Sofistikert og ripefast, med en flott, polert finish og en solid skjerm av safirglass."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Ny perlehvit",
+     "Ny nattblå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Fra kr 11 490",
+     "46 mm Fra kr 12 190"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 12 190"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 12 190,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 12 190",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 12 890"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 12 190,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 12 190,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 12 190,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten."
+    ]
+   }
+  }
+ }
+}

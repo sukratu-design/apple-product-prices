@@ -2,12 +2,12 @@
  "page": "iphone-air",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
- "scrapedAt": "2026-11-13T10:59:43.419Z",
+ "scrapedAt": "2026-11-16T11:59:30.037Z",
  "configs": {
   "default": {
    "total": 4699,
    "totalFrom": "summary",
-   "totalText": "AED 4,699.00",
+   "totalText": "AED 4,699.00 | AED 4,699.00 | AED 4,699.00",
    "selected": {
     "dimensionColor": "Sky Blue",
     "dimensionCapacity": "256GB Footnote 1 AED 4,699.00"

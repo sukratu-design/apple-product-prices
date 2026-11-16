@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:30.907Z",
+ "configs": {
+  "14-m6": {
+   "total": 57990,
+   "totalFrom": "summary",
+   "totalText": "57 990,00 Kč | 57 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Novinka Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 57 990 Kč",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "V základu",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "1 TB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Novinka Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 57 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "V základu"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu",
+     "24 GB + 6 000,00 Kč",
+     "32 GB + 12 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB V základu",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 72990,
+   "totalFrom": "summary",
+   "totalText": "72 990,00 Kč | 72 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15jádrové CPU, 16jádrové GPU V základu",
+    "memory-dimensionMemory": "24 GB V základu",
+    "storage-dimensionCapacity": "1 TB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Novinka Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 57 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15jádrové CPU, 16jádrové GPU V základu",
+     "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na náročné úlohy jako hraní her, kódování a tvůrčí práci. + 6 000,00 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB V základu",
+     "48 GB + 18 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB V základu",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 78990,
+   "totalFrom": "summary",
+   "totalText": "78 990,00 Kč | 78 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na náročné úlohy jako hraní her, kódování a tvůrčí práci.",
+    "memory-dimensionMemory": "24 GB V základu",
+    "storage-dimensionCapacity": "1 TB V základu",
+    "power_adapter-wattage": "Bez napájecího adaptéru"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Novinka Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 57 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15jádrové CPU, 16jádrové GPU − 6 000,00 Kč",
+     "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na náročné úlohy jako hraní her, kódování a tvůrčí práci."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB V základu",
+     "48 GB + 18 000,00 Kč",
+     "64 GB + 30 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB V základu",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč"
+    ],
+    "power_adapter-wattage": [
+     "Bez napájecího adaptéru",
+     "96W Rychlonabíjení, díky čipu M5 Pro a M5 Max podporuje režim vysokého výkonu. + 2 290,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 119990,
+   "totalFrom": "summary",
+   "totalText": "119 990,00 Kč | 119 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 32jádrové GPU V základu",
+    "memory-dimensionMemory": "36 GB V základu",
+    "storage-dimensionCapacity": "2 TB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Novinka Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 57 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 32jádrové GPU V základu",
+     "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. + 9 000,00 Kč Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB V základu"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB V základu",
+     "4 TB + 30 000,00 Kč",
+     "8 TB + 90 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 137990,
+   "totalFrom": "summary",
+   "totalText": "137 990,00 Kč | 137 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu.",
+    "memory-dimensionMemory": "48 GB V základu",
+    "storage-dimensionCapacity": "2 TB V základu",
+    "power_adapter-wattage": "Bez napájecího adaptéru"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Novinka Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU, dvojitý 16jádrový Neural Engine Od 57 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 2 varianty se 16jádrovým Neural Enginem Od 72 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 119 990 Kč"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 32jádrové GPU − 9 000,00 Kč",
+     "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB V základu",
+     "64 GB + 12 000,00 Kč",
+     "128 GB + 60 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB V základu",
+     "4 TB + 30 000,00 Kč",
+     "8 TB + 90 000,00 Kč"
+    ],
+    "power_adapter-wattage": [
+     "Bez napájecího adaptéru",
+     "96W Rychlonabíjení, díky čipu M5 Pro a M5 Max podporuje režim vysokého výkonu. + 2 290,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 85990,
+   "totalFrom": "summary",
+   "totalText": "85 990,00 Kč | 85 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 18jádrové CPU, 20jádrové GPU, 16jádrový Neural Engine Od 85 990 Kč",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na náročné úlohy jako hraní her, kódování a tvůrčí práci. V základu",
+    "memory-dimensionMemory": "24 GB V základu",
+    "storage-dimensionCapacity": "1 TB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 18jádrové CPU, 20jádrové GPU, 16jádrový Neural Engine Od 85 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 127 990 Kč"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na náročné úlohy jako hraní her, kódování a tvůrčí práci. V základu"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB V základu",
+     "48 GB + 18 000,00 Kč",
+     "64 GB + 30 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB V základu",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 127990,
+   "totalFrom": "summary",
+   "totalText": "127 990,00 Kč | 127 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 127 990 Kč",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 32jádrové GPU V základu",
+    "memory-dimensionMemory": "36 GB V základu",
+    "storage-dimensionCapacity": "2 TB V základu"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 18jádrové CPU, 20jádrové GPU, 16jádrový Neural Engine Od 85 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 127 990 Kč"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 32jádrové GPU V základu",
+     "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. + 9 000,00 Kč Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB V základu"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB V základu",
+     "4 TB + 30 000,00 Kč",
+     "8 TB + 90 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 145990,
+   "totalFrom": "summary",
+   "totalText": "145 990,00 Kč | 145 990,00 Kč",
+   "selected": {
+    "chassis-dimensionScreensize": "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč",
+    "chassis-dimensionColor": "vesmírně černý",
+    "display-dimensionFinish": "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+    "processor-dimensionChip": "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 127 990 Kč",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu.",
+    "memory-dimensionMemory": "48 GB V základu",
+    "storage-dimensionCapacity": "2 TB V základu",
+    "power_adapter-wattage": "Bez napájecího adaptéru"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14palcový V konfiguraci s čipem M6, M5 Pro nebo M5 Max. Od 57 990 Kč",
+     "16palcový K dispozici s čipem M5 Pro nebo M5 Max. Od 85 990 Kč"
+    ],
+    "chassis-dimensionColor": [
+     "vesmírně černý",
+     "stříbrný"
+    ],
+    "display-dimensionFinish": [
+     "Standardní displej Vyvinuto pro nízkou odrazivost a omezení odlesků v pracovním prostředí. V základu",
+     "Displej s nanotexturou Další stupeň ochrany proti odleskům a odrazům v jasném světle. + 4 500,00 Kč"
+    ],
+    "processor-dimensionChip": [
+     "Čip M5 Pro Podává vyšší výkon a dá se nakonfigurovat s větší pamětí na ještě náročnější projekty. 18jádrové CPU, 20jádrové GPU, 16jádrový Neural Engine Od 85 990 Kč",
+     "Čip M5 Max Neskutečně výkonný čip pro profesionální notebooky. Zvládne i extrémní pracovní zápřah. 2 varianty se 16jádrovým Neural Enginem Od 127 990 Kč"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 32jádrové GPU − 9 000,00 Kč",
+     "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB V základu",
+     "64 GB + 12 000,00 Kč",
+     "128 GB + 60 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB V základu",
+     "4 TB + 30 000,00 Kč",
+     "8 TB + 90 000,00 Kč"
+    ],
+    "power_adapter-wattage": [
+     "Bez napájecího adaptéru",
+     "140W Rychlonabíjení, díky čipu M5 Pro a M5 Max podporuje režim vysokého výkonu. + 2 890,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

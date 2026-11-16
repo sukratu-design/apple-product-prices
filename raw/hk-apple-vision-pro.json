@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-16T13:11:21.961Z",
+ "configs": {
+  "default": {
+   "total": 29999,
+   "totalFrom": "summary",
+   "totalText": "From HK$29,999 | From HK$29,999",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB From HK$29,999",
+     "512GB From HK$31,499",
+     "1TB From HK$33,749"
+    ]
+   }
+  }
+ }
+}

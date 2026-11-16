@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:28.395Z",
+ "configs": {
+  "default": {
+   "total": 17499,
+   "totalFrom": "summary",
+   "totalText": "HK$17,499 | HK$17,499 | HK$17,499",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 HK$17,499"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 HK$17,499",
+     "512GB Footnote 1 HK$19,299",
+     "1TB Footnote 1 HK$22,799",
+     "2TB Footnote 1 HK$27,999"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

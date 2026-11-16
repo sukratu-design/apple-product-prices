@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:03.218Z",
+ "configs": {
+  "m5max-32": {
+   "total": 32990,
+   "totalFrom": "summary",
+   "totalText": "kr 32 990,00 | kr 32 990,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max-chip Seriøs hastighet og funksjonalitet for kreative prosjekter og profesjonelle arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 32 990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-kjerners CPU, 32-kjerners GPU Inkludert",
+    "memory-dimensionMemory": "36 GB Inkludert",
+    "storage-dimensionCapacity": "512 GB Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighet og funksjonalitet for kreative prosjekter og profesjonelle arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 32 990",
+     "M5 Ultra-chip Vår kraftigste chip, med enestående ytelse for de mest krevende arbeidsflytene. 2 alternativer med 32-kjerners Neural Engine Fra kr 72 990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-kjerners CPU, 32-kjerners GPU Inkludert",
+     "18-kjerners CPU, 40-kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. + kr 4 500,00 Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Inkludert"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkludert",
+     "1 TB + kr 4 500,00",
+     "2 TB + kr 12 000,00",
+     "4 TB + kr 27 000,00",
+     "8 TB + kr 57 000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 41990,
+   "totalFrom": "summary",
+   "totalText": "kr 41 990,00 | kr 41 990,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max-chip Seriøs hastighet og funksjonalitet for kreative prosjekter og profesjonelle arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 32 990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-kjerners CPU, 40-kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen.",
+    "memory-dimensionMemory": "48 GB Inkludert",
+    "storage-dimensionCapacity": "512 GB Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighet og funksjonalitet for kreative prosjekter og profesjonelle arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 32 990",
+     "M5 Ultra-chip Vår kraftigste chip, med enestående ytelse for de mest krevende arbeidsflytene. 2 alternativer med 32-kjerners Neural Engine Fra kr 72 990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-kjerners CPU, 32-kjerners GPU − kr 4 500,00",
+     "18-kjerners CPU, 40-kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Inkludert",
+     "64 GB + kr 6 000,00",
+     "128 GB + kr 30 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkludert",
+     "1 TB + kr 4 500,00",
+     "2 TB + kr 12 000,00",
+     "4 TB + kr 27 000,00",
+     "8 TB + kr 57 000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 72990,
+   "totalFrom": "summary",
+   "totalText": "kr 72 990,00 | kr 72 990,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra-chip Vår kraftigste chip, med enestående ytelse for de mest krevende arbeidsflytene. 2 alternativer med 32-kjerners Neural Engine Fra kr 72 990",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-kjerners CPU, 64-kjerners GPU Inkludert",
+    "memory-dimensionMemory": "96 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighet og funksjonalitet for kreative prosjekter og profesjonelle arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 32 990",
+     "M5 Ultra-chip Vår kraftigste chip, med enestående ytelse for de mest krevende arbeidsflytene. 2 alternativer med 32-kjerners Neural Engine Fra kr 72 990"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-kjerners CPU, 64-kjerners GPU Inkludert",
+     "36-kjerners CPU, 80-kjerners GPU Få bedre databehandling, grafikk og kunstig intelligens for krevende arbeidsflyter, som å kjøre store språkmodeller, bruke visuelle effekter og fargegradering av film. + kr 19 500,00"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Inkludert",
+     "256 GB + kr 60 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkludert",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00",
+     "8 TB + kr 52 500,00",
+     "16 TB + kr 112 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 92490,
+   "totalFrom": "summary",
+   "totalText": "kr 92 490,00 | kr 92 490,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra-chip Vår kraftigste chip, med enestående ytelse for de mest krevende arbeidsflytene. 2 alternativer med 32-kjerners Neural Engine Fra kr 72 990",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-kjerners CPU, 80-kjerners GPU Få bedre databehandling, grafikk og kunstig intelligens for krevende arbeidsflyter, som å kjøre store språkmodeller, bruke visuelle effekter og fargegradering av film.",
+    "memory-dimensionMemory": "96 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Seriøs hastighet og funksjonalitet for kreative prosjekter og profesjonelle arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 32 990",
+     "M5 Ultra-chip Vår kraftigste chip, med enestående ytelse for de mest krevende arbeidsflytene. 2 alternativer med 32-kjerners Neural Engine Fra kr 72 990"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-kjerners CPU, 64-kjerners GPU − kr 19 500,00",
+     "36-kjerners CPU, 80-kjerners GPU Få bedre databehandling, grafikk og kunstig intelligens for krevende arbeidsflyter, som å kjøre store språkmodeller, bruke visuelle effekter og fargegradering av film."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Inkludert",
+     "256 GB + kr 60 000,00",
+     "512 GB + kr 232 500,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkludert",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00",
+     "8 TB + kr 52 500,00",
+     "16 TB + kr 112 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

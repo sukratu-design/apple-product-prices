@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:28.578Z",
+ "configs": {
+  "band": {
+   "total": 349990,
+   "totalFrom": "summary",
+   "totalText": "349 990 Ft | 349 990 Ft | 349 990 Ft",
+   "selected": {
+    "watch_cases-dimensionColor": "fekete",
+    "style": "Új színek Alpesi pánt Természeti kalandokhoz és túrázáshoz. 349 990 Ft",
+    "alpineloop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "S 130–160 mm körméretű csuklóra illik."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "fekete",
+     "natúr"
+    ],
+    "style": [
+     "Új színek Alpesi pánt Természeti kalandokhoz és túrázáshoz. 349 990 Ft",
+     "Új színek Terep pánt Minden sporthoz és edzéshez. 349 990 Ft",
+     "Új színek Óceán szíj Vízi­ sportokhoz és hobbi­búvárkodáshoz. 349 990 Ft",
+     "Titán milánói szíj Mély vizekhez és minden alkalomhoz. 399 990 Ft"
+    ],
+    "alpineloop-color": [
+     "burgundi",
+     "sötét olíva",
+     "sivatagszín"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 130–160 mm körméretű csuklóra illik.",
+     "M A szíj 145–190 mm körméretű csuklóra illik.",
+     "L A szíj 165–210 mm körméretű csuklóra illik."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 399990,
+   "totalFrom": "summary",
+   "totalText": "399 990 Ft | 399 990 Ft | 399 990 Ft",
+   "selected": {
+    "watch_cases-dimensionColor": "fekete",
+    "style": "Titán milánói szíj Mély vizekhez és minden alkalomhoz. 399 990 Ft",
+    "ti_milaneseloop-color": "fekete",
+    "watch_bands-dimensionbandsize": "S 130–160 mm körméretű csuklóra illik."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "fekete",
+     "natúr"
+    ],
+    "style": [
+     "Új színek Alpesi pánt Természeti kalandokhoz és túrázáshoz. 349 990 Ft",
+     "Új színek Terep pánt Minden sporthoz és edzéshez. 349 990 Ft",
+     "Új színek Óceán szíj Vízi­ sportokhoz és hobbi­búvárkodáshoz. 349 990 Ft",
+     "Titán milánói szíj Mély vizekhez és minden alkalomhoz. 399 990 Ft"
+    ],
+    "ti_milaneseloop-color": [
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 130–160 mm körméretű csuklóra illik.",
+     "M A szíj 155–185 mm körméretű csuklóra illik.",
+     "L A szíj 180–210 mm körméretű csuklóra illik."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:26.703Z",
+ "configs": {
+  "default": {
+   "total": 4499,
+   "totalFrom": "summary",
+   "totalText": "4 499,00 zł | 4 499,00 zł | 4 499,00 zł",
+   "selected": {
+    "dimensionColor": "lawendowy",
+    "dimensionCapacity": "256 GB Przypis 1 4 499,00 zł"
+   },
+   "options": {
+    "dimensionColor": [
+     "lawendowy",
+     "gołębi",
+     "biały",
+     "szałwia",
+     "czarny"
+    ],
+    "dimensionCapacity": [
+     "256 GB Przypis 1 4 499,00 zł",
+     "512 GB Przypis 1 5 499,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

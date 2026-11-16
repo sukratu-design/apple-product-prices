@@ -1,0 +1,140 @@
+{
+ "page": "macbook-air",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:40.936Z",
+ "configs": {
+  "15": {
+   "total": 11999,
+   "totalFrom": "summary",
+   "totalText": "RMB 11,999 或 RMB 500/月 (24 期) 起 | RMB 11,999 或 RMB 500/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "15 英寸 RMB 11,999 起 或 RMB 500/月 (24 期) 起",
+    "chassis-dimensionColor": "天蓝色",
+    "processor-cpuCoreCount-gpuCoreCount": "10 核中央处理器、10 核图形处理器、16 核神经网络引擎 处理性能和图形渲染速度进一步提升，为游戏和创意工作等繁重任务更添助力。 RMB 11,999 起 或 RMB 500/月 (24 期) 起",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "512GB 已含",
+    "power_adapter-wattage": "40W 动态电源适配器 (最高 60W) 小巧紧凑，可提供最高 60 瓦功率，大幅提升充电速度。 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 英寸 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "15 英寸 RMB 11,999 起 或 RMB 500/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "天蓝色",
+     "银色",
+     "星光色",
+     "午夜色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 核中央处理器、10 核图形处理器、16 核神经网络引擎 处理性能和图形渲染速度进一步提升，为游戏和创意工作等繁重任务更添助力。 RMB 11,999 起 或 RMB 500/月 (24 期) 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含",
+     "24GB + RMB 1,500",
+     "32GB + RMB 3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已含",
+     "1TB + RMB 2,250",
+     "2TB + RMB 6,000",
+     "4TB + RMB 13,500"
+    ],
+    "power_adapter-wattage": [
+     "40W 动态电源适配器 (最高 60W) 小巧紧凑，可提供最高 60 瓦功率，大幅提升充电速度。 已含",
+     "35W 双 USB‑C 端口 外形小巧，配备两个端口，可同时为两部设备充电。 + RMB 150",
+     "70W USB-C 支持快速充电，约 30 分钟最多可充至 50% 电量。 + RMB 150"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 9999,
+   "totalFrom": "summary",
+   "totalText": "RMB 9999 或 RMB 417/月 (24 期) 起 | RMB 9999 或 RMB 417/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "13 英寸 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+    "chassis-dimensionColor": "天蓝色",
+    "processor-cpuCoreCount-gpuCoreCount": "10 核中央处理器、8 核图形处理器、16 核神经网络引擎 各种操作，样样又快又流畅。 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "512GB 已含",
+    "power_adapter-wattage": "40W 动态电源适配器 (最高 60W) 小巧紧凑，可提供最高 60 瓦功率，大幅提升充电速度。 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 英寸 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "15 英寸 RMB 11,999 起 或 RMB 500/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "天蓝色",
+     "银色",
+     "星光色",
+     "午夜色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 核中央处理器、8 核图形处理器、16 核神经网络引擎 各种操作，样样又快又流畅。 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "10 核中央处理器、10 核图形处理器、16 核神经网络引擎 处理性能和图形渲染速度进一步提升，为游戏和创意工作等繁重任务更添助力。 RMB 10,749 起 或 RMB 448/月 (24 期) 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已含"
+    ],
+    "power_adapter-wattage": [
+     "40W 动态电源适配器 (最高 60W) 小巧紧凑，可提供最高 60 瓦功率，大幅提升充电速度。 已含",
+     "35W 双 USB‑C 端口 外形小巧，配备两个端口，可同时为两部设备充电。 + RMB 150",
+     "70W USB-C 支持快速充电，约 30 分钟最多可充至 50% 电量。 + RMB 150"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 12249,
+   "totalFrom": "summary",
+   "totalText": "RMB 12,249 或 RMB 511/月 (24 期) 起 | RMB 12,249 或 RMB 511/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "13 英寸 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+    "chassis-dimensionColor": "天蓝色",
+    "processor-cpuCoreCount-gpuCoreCount": "10 核中央处理器、10 核图形处理器、16 核神经网络引擎 处理性能和图形渲染速度进一步提升，为游戏和创意工作等繁重任务更添助力。 RMB 10,749 起 或 RMB 448/月 (24 期) 起",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W 动态电源适配器 (最高 60W) 小巧紧凑，可提供最高 60 瓦功率，大幅提升充电速度。 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 英寸 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "15 英寸 RMB 11,999 起 或 RMB 500/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "天蓝色",
+     "银色",
+     "星光色",
+     "午夜色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 核中央处理器、8 核图形处理器、16 核神经网络引擎 各种操作，样样又快又流畅。 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "10 核中央处理器、10 核图形处理器、16 核神经网络引擎 处理性能和图形渲染速度进一步提升，为游戏和创意工作等繁重任务更添助力。 RMB 10,749 起 或 RMB 448/月 (24 期) 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含",
+     "24GB + RMB 1,500",
+     "32GB + RMB 3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − RMB 2,250",
+     "1TB",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250"
+    ],
+    "power_adapter-wattage": [
+     "40W 动态电源适配器 (最高 60W) 小巧紧凑，可提供最高 60 瓦功率，大幅提升充电速度。 已含",
+     "35W 双 USB‑C 端口 外形小巧，配备两个端口，可同时为两部设备充电。 + RMB 150",
+     "70W USB-C 支持快速充电，约 30 分钟最多可充至 50% 电量。 + RMB 150"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

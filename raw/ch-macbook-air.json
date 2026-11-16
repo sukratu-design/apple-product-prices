@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:04.981Z",
+ "configs": {
+  "15": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 449.00 | CHF 1 449.00",
+   "selected": {
+    "chassis-dimensionScreensize": "15 Zoll Ab CHF 1449.–",
+    "chassis-dimensionColor": "Himmelblau",
+    "processor-cpuCoreCount-gpuCoreCount": "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab CHF 1449.–",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 Zoll Ab CHF 1249.–",
+     "15 Zoll Ab CHF 1449.–"
+    ],
+    "chassis-dimensionColor": [
+     "Himmelblau",
+     "Silber",
+     "Polarstern",
+     "Mitternacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab CHF 1449.–"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + CHF 200.00",
+     "32 GB + CHF 400.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten",
+     "1 TB + CHF 300.00",
+     "2 TB + CHF 800.00",
+     "4 TB + CHF 1 800.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1249,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 249.00 | CHF 1 249.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13 Zoll Ab CHF 1249.–",
+    "chassis-dimensionColor": "Himmelblau",
+    "processor-cpuCoreCount-gpuCoreCount": "10-Core CPU, 8-Core GPU, 16-Core Neural Engine Macht alles schneller und flüssiger. Ab CHF 1249.–",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 Zoll Ab CHF 1249.–",
+     "15 Zoll Ab CHF 1449.–"
+    ],
+    "chassis-dimensionColor": [
+     "Himmelblau",
+     "Silber",
+     "Polarstern",
+     "Mitternacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-Core CPU, 8-Core GPU, 16-Core Neural Engine Macht alles schneller und flüssiger. Ab CHF 1249.–",
+     "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab CHF 1349.–"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1549,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 549.00 | CHF 1 549.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13 Zoll Ab CHF 1249.–",
+    "chassis-dimensionColor": "Himmelblau",
+    "processor-cpuCoreCount-gpuCoreCount": "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab CHF 1349.–",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 Zoll Ab CHF 1249.–",
+     "15 Zoll Ab CHF 1449.–"
+    ],
+    "chassis-dimensionColor": [
+     "Himmelblau",
+     "Silber",
+     "Polarstern",
+     "Mitternacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-Core CPU, 8-Core GPU, 16-Core Neural Engine Macht alles schneller und flüssiger. Ab CHF 1249.–",
+     "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab CHF 1349.–"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + CHF 200.00",
+     "32 GB + CHF 400.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − CHF 300.00",
+     "1 TB",
+     "2 TB + CHF 500.00",
+     "4 TB + CHF 1 500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

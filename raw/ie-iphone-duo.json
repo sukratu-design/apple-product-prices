@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:26.620Z",
+ "configs": {
+  "default": {
+   "total": 2369,
+   "totalFrom": "summary",
+   "totalText": "€2,369.00 | €2,369.00 | €2,369.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 €2,369.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 €2,369.00",
+     "512GB Footnote 1 €2,619.00",
+     "1TB Footnote 1 €3,119.00",
+     "2TB Footnote 1 €3,869.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

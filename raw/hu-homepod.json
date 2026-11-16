@@ -1,0 +1,11 @@
+{
+ "page": "homepod",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:27:45.990Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/hu/)"
+  }
+ }
+}

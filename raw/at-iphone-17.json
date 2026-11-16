@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:15.282Z",
+ "configs": {
+  "default": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1.099,00 € | 1.099,00 € | 1.099,00 €",
+   "selected": {
+    "dimensionColor": "Lavendel",
+    "dimensionCapacity": "256 GB Fußnote 1 1.099,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavendel",
+     "Nebelblau",
+     "Weiß",
+     "Salbei",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.099,00 €",
+     "512 GB Fußnote 1 1.349,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

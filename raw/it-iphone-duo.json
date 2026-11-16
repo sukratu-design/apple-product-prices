@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:28.539Z",
+ "configs": {
+  "default": {
+   "total": 2369,
+   "totalFrom": "summary",
+   "totalText": "€ 2.369,00 o € 98,71 al mese per 24 mesi, TAN fisso 0% Nota ① | € 2.369,00 o € 98,71 al mese per 24 mesi, TAN fisso 0% Nota ①",
+   "selected": {
+    "dimensionColor": "Bianco stellare",
+    "dimensionCapacity": "256GB Nota 1 € 2.369,00 o € 98,71 al mese per 24 mesi, TAN fisso 0% Nota ①"
+   },
+   "options": {
+    "dimensionColor": [
+     "Bianco stellare",
+     "Cielo notturno"
+    ],
+    "dimensionCapacity": [
+     "256GB Nota 1 € 2.369,00 o € 98,71 al mese per 24 mesi, TAN fisso 0% Nota ①",
+     "512GB Nota 1 € 2.619,00 o € 109,13 al mese per 24 mesi, TAN fisso 0% Nota ①",
+     "1TB Nota 1 € 3.119,00 o € 129,96 al mese per 24 mesi, TAN fisso 0% Nota ①",
+     "2TB Nota 1 € 3.869,00 o € 161,21 al mese per 24 mesi, TAN fisso 0% Nota ①"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

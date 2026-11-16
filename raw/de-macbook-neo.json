@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:52.202Z",
+ "configs": {
+  "256": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799 € oder 66,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ① | 799 € oder 66,58 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "chassis-dimensionColor": "Silber",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silber",
+     "Rosa",
+     "Zitrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "512 GB Magic Keyboard mit Touch ID Ab 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "899 € oder 74,92 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ① | 899 € oder 74,92 €/Rate pro Rate bei 12 Raten mit 0 % eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "chassis-dimensionColor": "Silber",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard mit Touch ID Ab 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silber",
+     "Rosa",
+     "Zitrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Ab 799 € oder 66,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "512 GB Magic Keyboard mit Touch ID Ab 899 € oder 74,92 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

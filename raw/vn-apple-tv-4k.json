@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:31:55.929Z",
+ "configs": {
+  "default": {
+   "total": 8799000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 8.799.000đ",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:50.323Z",
+ "configs": {
+  "pro": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "1.449,00 € | 1.449,00 € | 1.449,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab 1.449 €",
+    "dimensionColor": "Burgunder",
+    "dimensionCapacity": "256 GB Fußnote 1 1.449,00 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab 1.449 €",
+     "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab 1.599 €"
+    ],
+    "dimensionColor": [
+     "Burgunder",
+     "Polar",
+     "Silber",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.449,00 €",
+     "512 GB Fußnote 1 1.699,00 €",
+     "1TB Fußnote 1 2.199,00 €",
+     "2TB Fußnote 1 2.949,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1599,
+   "totalFrom": "summary",
+   "totalText": "1.599,00 € | 1.599,00 € | 1.599,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab 1.599 €",
+    "dimensionColor": "Burgunder",
+    "dimensionCapacity": "256 GB Fußnote 1 1.599,00 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab 1.449 €",
+     "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab 1.599 €"
+    ],
+    "dimensionColor": [
+     "Burgunder",
+     "Polar",
+     "Silber",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.599,00 €",
+     "512 GB Fußnote 1 1.849,00 €",
+     "1TB Fußnote 1 2.349,00 €",
+     "2TB Fußnote 1 3.099,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

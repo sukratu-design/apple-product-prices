@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:27.268Z",
+ "configs": {
+  "default": {
+   "total": 25990,
+   "totalFrom": "summary",
+   "totalText": "25 990,00 Kč | 25 990,00 Kč | 25 990,00 Kč",
+   "selected": {
+    "dimensionColor": "levandulová",
+    "dimensionCapacity": "256 GB Poznámka 1 25 990,00 Kč"
+   },
+   "options": {
+    "dimensionColor": [
+     "levandulová",
+     "mlhově modrá",
+     "bílá",
+     "šalvějově zelená",
+     "černá"
+    ],
+    "dimensionCapacity": [
+     "256 GB Poznámka 1 25 990,00 Kč",
+     "512 GB Poznámka 1 31 990,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

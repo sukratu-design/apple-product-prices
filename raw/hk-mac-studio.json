@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T13:24:29.153Z",
+ "configs": {
+  "m5max-32": {
+   "total": 19999,
+   "totalFrom": "summary",
+   "totalText": "HK$19,999 | HK$19,999",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From HK$19,999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From HK$19,999",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From HK$44,999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Included",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + HK$2,250 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + HK$2,250",
+     "2TB + HK$6,000",
+     "4TB + HK$13,500",
+     "8TB + HK$28,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 24499,
+   "totalFrom": "summary",
+   "totalText": "HK$24,499 | HK$24,499",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From HK$19,999",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From HK$19,999",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From HK$44,999"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − HK$2,250",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Included",
+     "64GB + HK$3,000",
+     "128GB + HK$15,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + HK$2,250",
+     "2TB + HK$6,000",
+     "4TB + HK$13,500",
+     "8TB + HK$28,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 44999,
+   "totalFrom": "summary",
+   "totalText": "HK$44,999 | HK$44,999",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From HK$44,999",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From HK$19,999",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From HK$44,999"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Included",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film. + HK$9,750"
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + HK$30,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + HK$3,750",
+     "4TB + HK$11,250",
+     "8TB + HK$26,250",
+     "16TB + HK$56,250"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 54749,
+   "totalFrom": "summary",
+   "totalText": "HK$54,749 | HK$54,749",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From HK$44,999",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film.",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From HK$19,999",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From HK$44,999"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − HK$9,750",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film."
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + HK$30,000",
+     "512GB + HK$116,250"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + HK$3,750",
+     "4TB + HK$11,250",
+     "8TB + HK$26,250",
+     "16TB + HK$56,250"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

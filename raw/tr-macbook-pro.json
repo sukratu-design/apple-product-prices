@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:32.857Z",
+ "configs": {
+  "14-m6": {
+   "total": 137999,
+   "totalFrom": "summary",
+   "totalText": "137.999,00 TL | 137.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "Yeni M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 137.999 TL",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Dahil",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "1 TB Dahil",
+    "power_adapter-wattage": "70 W Kompakt boyut, verimli şarj. Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "Yeni M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 137.999 TL",
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Dahil"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil",
+     "24 GB + 14.000,00 TL",
+     "32 GB + 28.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Dahil",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL"
+    ],
+    "power_adapter-wattage": [
+     "70 W Kompakt boyut, verimli şarj. Dahil",
+     "96 W Hızlı şarj, M5 Pro ve M5 Max çipler ile Yüksek Güç Modu desteği. + 1.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 174999,
+   "totalFrom": "summary",
+   "totalText": "174.999,00 TL | 174.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 çekirdekli CPU, 16 çekirdekli GPU Dahil",
+    "memory-dimensionMemory": "24 GB Dahil",
+    "storage-dimensionCapacity": "1 TB Dahil",
+    "power_adapter-wattage": "70 W Kompakt boyut, verimli şarj. Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "Yeni M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 137.999 TL",
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 çekirdekli CPU, 16 çekirdekli GPU Dahil",
+     "18 çekirdekli CPU, 20 çekirdekli GPU Oyun, kod yazma ve yaratıcı çalışmalar gibi yoğun görevler için işlem ve grafik oluşturma hızınızı artırın. + 15.000,00 TL"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Dahil",
+     "48 GB + 42.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Dahil",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL"
+    ],
+    "power_adapter-wattage": [
+     "70 W Kompakt boyut, verimli şarj. Dahil",
+     "96 W Hızlı şarj, M5 Pro ve M5 Max çipler ile Yüksek Güç Modu desteği. + 1.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 189999,
+   "totalFrom": "summary",
+   "totalText": "189.999,00 TL | 189.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 çekirdekli CPU, 20 çekirdekli GPU Oyun, kod yazma ve yaratıcı çalışmalar gibi yoğun görevler için işlem ve grafik oluşturma hızınızı artırın.",
+    "memory-dimensionMemory": "24 GB Dahil",
+    "storage-dimensionCapacity": "1 TB Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "Yeni M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 137.999 TL",
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 çekirdekli CPU, 16 çekirdekli GPU − 15.000,00 TL",
+     "18 çekirdekli CPU, 20 çekirdekli GPU Oyun, kod yazma ve yaratıcı çalışmalar gibi yoğun görevler için işlem ve grafik oluşturma hızınızı artırın."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Dahil",
+     "48 GB + 42.000,00 TL",
+     "64 GB + 70.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Dahil",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 289999,
+   "totalFrom": "summary",
+   "totalText": "289.999,00 TL | 289.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 çekirdekli CPU, 32 çekirdekli GPU Dahil",
+    "memory-dimensionMemory": "36 GB Dahil",
+    "storage-dimensionCapacity": "2 TB Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "Yeni M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 137.999 TL",
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 çekirdekli CPU, 32 çekirdekli GPU Dahil",
+     "18 çekirdekli CPU, 40 çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. + 21.000,00 TL Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Dahil"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Dahil",
+     "4 TB + 70.000,00 TL",
+     "8 TB + 210.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 331999,
+   "totalFrom": "summary",
+   "totalText": "331.999,00 TL | 331.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 çekirdekli CPU, 40 çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir.",
+    "memory-dimensionMemory": "48 GB Dahil",
+    "storage-dimensionCapacity": "2 TB Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "Yeni M6 çip Her gün yaptığınız kişisel, profesyonel ve yaratıcı işlerde yüksek hız ve üst düzey performans elde edin. 12 çekirdekli CPU, 12 çekirdekli GPU, Çift 16 Çekirdekli Neural Engine Başlangıç fiyatı: 137.999 TL",
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 289.999 TL"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 çekirdekli CPU, 32 çekirdekli GPU − 21.000,00 TL",
+     "18 çekirdekli CPU, 40 çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Dahil",
+     "64 GB + 28.000,00 TL",
+     "128 GB + 140.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Dahil",
+     "4 TB + 70.000,00 TL",
+     "8 TB + 210.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 209999,
+   "totalFrom": "summary",
+   "totalText": "209.999,00 TL | 209.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 18 çekirdekli CPU, 20 çekirdekli GPU, 16 çekirdekli Neural Engine Başlangıç fiyatı: 209.999 TL",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 çekirdekli CPU, 20 çekirdekli GPU Oyun, kod yazma ve yaratıcı çalışmalar gibi yoğun görevler için işlem ve grafik oluşturma hızınızı artırın. Dahil",
+    "memory-dimensionMemory": "24 GB Dahil",
+    "storage-dimensionCapacity": "1 TB Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 18 çekirdekli CPU, 20 çekirdekli GPU, 16 çekirdekli Neural Engine Başlangıç fiyatı: 209.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 307.999 TL"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 çekirdekli CPU, 20 çekirdekli GPU Oyun, kod yazma ve yaratıcı çalışmalar gibi yoğun görevler için işlem ve grafik oluşturma hızınızı artırın. Dahil"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Dahil",
+     "48 GB + 42.000,00 TL",
+     "64 GB + 70.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Dahil",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 307999,
+   "totalFrom": "summary",
+   "totalText": "307.999,00 TL | 307.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 307.999 TL",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 çekirdekli CPU, 32 çekirdekli GPU Dahil",
+    "memory-dimensionMemory": "36 GB Dahil",
+    "storage-dimensionCapacity": "2 TB Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 18 çekirdekli CPU, 20 çekirdekli GPU, 16 çekirdekli Neural Engine Başlangıç fiyatı: 209.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 307.999 TL"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 çekirdekli CPU, 32 çekirdekli GPU Dahil",
+     "18 çekirdekli CPU, 40 çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. + 21.000,00 TL Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Dahil"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Dahil",
+     "4 TB + 70.000,00 TL",
+     "8 TB + 210.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 349999,
+   "totalFrom": "summary",
+   "totalText": "349.999,00 TL | 349.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL",
+    "chassis-dimensionColor": "Uzay Siyahı",
+    "display-dimensionFinish": "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+    "processor-dimensionChip": "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 307.999 TL",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 çekirdekli CPU, 40 çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir.",
+    "memory-dimensionMemory": "48 GB Dahil",
+    "storage-dimensionCapacity": "2 TB Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inç M6, M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 137.999 TL",
+     "16 inç M5 Pro ve M5 Max çip seçenekleriyle sunuluyor. Başlangıç fiyatı: 209.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Uzay Siyahı",
+     "Gümüş"
+    ],
+    "display-dimensionFinish": [
+     "Standart ekran Ortamınızdaki parlamayı azaltmak için yansımayı son derece düşük bir düzeyde tutacak şekilde tasarlandı. Dahil",
+     "Nano-texture ekran Parlak aydınlatma koşullarında yansımayı ve parlamayı daha da azaltıyor. + 10.500,00 TL"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro çip Daha zorlu iş akışları için daha yüksek performans ve daha fazla bellek seçeneği sunuyor. 18 çekirdekli CPU, 20 çekirdekli GPU, 16 çekirdekli Neural Engine Başlangıç fiyatı: 209.999 TL",
+     "M5 Max çip Profesyonel laptoplar için inanılmaz güçlü bir çip. En zorlu iş akışları için tasarlandı. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 307.999 TL"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 çekirdekli CPU, 32 çekirdekli GPU − 21.000,00 TL",
+     "18 çekirdekli CPU, 40 çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Dahil",
+     "64 GB + 28.000,00 TL",
+     "128 GB + 140.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Dahil",
+     "4 TB + 70.000,00 TL",
+     "8 TB + 210.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

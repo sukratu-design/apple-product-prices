@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:29:10.866Z",
+ "configs": {
+  "default": {
+   "total": 1499,
+   "totalFrom": "summary",
+   "totalText": "RM 199.00 | RM 1,499.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

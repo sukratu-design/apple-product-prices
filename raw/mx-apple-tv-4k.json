@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:28:58.115Z",
+ "configs": {
+  "default": {
+   "total": 6299,
+   "totalFrom": "summary",
+   "totalText": "$6,299.00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:07.681Z",
+ "configs": {
+  "default": {
+   "total": 1349,
+   "totalFrom": "summary",
+   "totalText": "1 349,00 € | 1 349,00 € | 1 349,00 €",
+   "selected": {
+    "dimensionColor": "Azul‑céu",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 1 349,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Azul‑céu",
+     "Branco‑nuvem",
+     "Preto sideral",
+     "Dourado‑claro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 1 349,00 €",
+     "512 GB Nota de rodapé 1 1 599,00 €",
+     "1TB Nota de rodapé 1 2 099,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "page": "ipad-mini",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-ipad/ipad-mini",
+ "scrapedAt": "2026-11-16T12:30:34.287Z",
+ "configs": {
+  "wifi": {
+   "total": 9998,
+   "totalFrom": "summary",
+   "totalText": "R$ 9.998,00 | R$ 9.998,00 | R$ 1.499,00 | R$ 899,00 | R$ 799,00 | R$ 9.998,00",
+   "selected": {
+    "dimensionColor": "Meia-noite",
+    "dimensionCapacity": "128 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 8.499",
+    "dimensionFinish": "Vidro convencional A partir de R$ 8.499",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 8.499,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "smart_folio": "Novo Adicionar Smart Folio R$ 799,00",
+    "smart_folioGroup_dimensionColor": "Azul-marinho"
+   },
+   "options": {
+    "dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "dimensionCapacity": [
+     "128 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 8.499",
+     "256 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 9.699",
+     "512 GB Chip A20 Pro: CPU de 6 núcleos, GPU de 7 núcleos Duplo Neural Engine de 16 núcleos A partir de R$ 12.099"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 8.499"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 8.499,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 10.499,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "smart_folio": [
+     "Novo Adicionar Smart Folio R$ 799,00",
+     "Sem Smart Folio"
+    ],
+    "smart_folioGroup_dimensionColor": [
+     "Azul-marinho",
+     "Cinza-castanho"
+    ]
+   },
+   "disabledOptions": {
+    "dimensionFinish": [
+     "Vidro nano-texture Disponível em modelos com 256 GB ou 512 GB de armazenamento"
+    ]
+   }
+  },
+  "cell": {
+   "total": 11998,
+   "totalFrom": "summary",
+   "totalText": "R$ 11.998,00 | R$ 11.998,00 | R$ 1.499,00 | R$ 899,00 | R$ 799,00 | R$ 11.998,00",
+   "selected": {
+    "dimensionColor": "Meia-noite",
+    "dimensionCapacity": "128 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 8.499",
+    "dimensionFinish": "Vidro convencional A partir de R$ 8.499",
+    "dimensionConnection": "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 10.499,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "smart_folio": "Novo Adicionar Smart Folio R$ 799,00",
+    "smart_folioGroup_dimensionColor": "Azul-marinho"
+   },
+   "options": {
+    "dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "dimensionCapacity": [
+     "128 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 8.499",
+     "256 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 9.699",
+     "512 GB Chip A20 Pro: CPU de 6 núcleos, GPU de 7 núcleos Duplo Neural Engine de 16 núcleos A partir de R$ 12.099"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 8.499"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 8.499,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 10.499,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "smart_folio": [
+     "Novo Adicionar Smart Folio R$ 799,00",
+     "Sem Smart Folio"
+    ],
+    "smart_folioGroup_dimensionColor": [
+     "Azul-marinho",
+     "Cinza-castanho"
+    ]
+   },
+   "disabledOptions": {
+    "dimensionFinish": [
+     "Vidro nano-texture Disponível em modelos com 256 GB ou 512 GB de armazenamento"
+    ]
+   }
+  },
+  "nano": {
+   "total": 11198,
+   "totalFrom": "summary",
+   "totalText": "R$ 11.198,00 | R$ 11.198,00 | R$ 1.499,00 | R$ 899,00 | R$ 799,00 | R$ 11.198,00",
+   "selected": {
+    "dimensionColor": "Meia-noite",
+    "dimensionCapacity": "256 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 9.699",
+    "dimensionFinish": "Vidro convencional A partir de R$ 9.699",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 9.699,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "smart_folio": "Novo Adicionar Smart Folio R$ 799,00",
+    "smart_folioGroup_dimensionColor": "Azul-marinho"
+   },
+   "options": {
+    "dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "dimensionCapacity": [
+     "128 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 8.499",
+     "256 GB Chip A20 Pro: CPU de 5 núcleos, GPU de 7 núcleos Neural Engine de 16 núcleos A partir de R$ 9.699",
+     "512 GB Chip A20 Pro: CPU de 6 núcleos, GPU de 7 núcleos Duplo Neural Engine de 16 núcleos A partir de R$ 12.099"
+    ],
+    "dimensionFinish": [
+     "Vidro convencional A partir de R$ 9.699",
+     "Vidro nano-texture Disponível em modelos com 256 GB ou 512 GB de armazenamento A partir de R$ 10.899"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 9.699,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 11.699,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "smart_folio": [
+     "Novo Adicionar Smart Folio R$ 799,00",
+     "Sem Smart Folio"
+    ],
+    "smart_folioGroup_dimensionColor": [
+     "Azul-marinho",
+     "Cinza-castanho"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

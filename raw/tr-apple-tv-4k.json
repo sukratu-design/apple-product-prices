@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:31:13.477Z",
+ "configs": {
+  "default": {
+   "total": 22499,
+   "totalFrom": "summary",
+   "totalText": "22.499,00 TL",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

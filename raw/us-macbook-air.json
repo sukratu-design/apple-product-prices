@@ -2,15 +2,24 @@
  "page": "macbook-air",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-mac/macbook-air",
- "scrapedAt": "2026-11-13T04:52:22.770Z",
+ "scrapedAt": "2026-11-16T13:18:41.878Z",
  "configs": {
   "15": {
    "total": 1499,
-   "totalText": "Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #",
+   "totalFrom": "summary",
+   "totalText": "Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote # | Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 Buy from $1299 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
-     "15-inch Footnote 1 Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #"
+     "13-inch Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "15-inch Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -19,33 +28,43 @@
      "Midnight"
     ],
     "processor-cpuCoreCount-gpuCoreCount": [
-     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1499 or $124.91/mo. per month for 12 mo.months Footnote ※ Lease from From $28.99/mo.per month for 36 mo.months with Apple Upgrade Footnote #"
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ $200.00",
-     "32GB+ $400.00"
+     "16GB Included",
+     "24GB + $200.00",
+     "32GB + $400.00"
     ],
     "storage-dimensionCapacity": [
-     "512GBIncluded",
-     "1TB+ $300.00",
-     "2TB+ $800.00",
-     "4TB+ $1,800.00"
+     "512GB Included",
+     "1TB + $300.00",
+     "2TB + $800.00",
+     "4TB + $1,800.00"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortCompact size with two ports to charge two devices at once.+ $20.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ¶+ $20.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Compact size with two ports to charge two devices at once. + $20.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + $20.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "13-8gpu": {
    "total": 1299,
-   "totalText": "Buy for $1,299.00 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
+   "totalFrom": "summary",
+   "totalText": "Buy for $1,299.00 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote # | Buy for $1,299.00 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 Buy from $1299 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
-     "15-inch Footnote 1 Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #"
+     "13-inch Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "15-inch Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -54,29 +73,39 @@
      "Midnight"
     ],
     "processor-cpuCoreCount-gpuCoreCount": [
-     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. Buy from $1299 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
-     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1399 or $116.58/mo. per month for 12 mo. months Footnote ※ Lease from $27.07/mo. per month for 36 mo. months Footnote #"
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1399 or $116.58/mo. per month for 12 mo. months Lease from From $27.07/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded"
+     "16GB Included"
     ],
     "storage-dimensionCapacity": [
-     "512GBIncluded"
+     "512GB Included"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortCompact size with two ports to charge two devices at once.+ $20.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ¶+ $20.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Compact size with two ports to charge two devices at once. + $20.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + $20.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "13-10gpu": {
    "total": 1599,
-   "totalText": "$1599 or $133.25/mo. per month for 12 mo. months Footnote ※ Lease from $31.28/mo. per month for 36 mo. months Footnote #",
+   "totalFrom": "summary",
+   "totalText": "Buy for $1,599.00 or $133.25/mo. per month for 12 mo. months Footnote ※ Lease from $31.28/mo. per month for 36 mo. months Footnote # | Buy for $1,599.00 or $133.25/mo. per month for 12 mo. months Footnote ※ Lease from $31.28/mo. per month for 36 mo. months Footnote #",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1399 or $116.58/mo. per month for 12 mo. months Lease from From $27.07/mo. per month for 36 mo. months with Apple Upgrade",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 Buy from $1299 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
-     "15-inch Footnote 1 Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #"
+     "13-inch Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "15-inch Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -85,26 +114,27 @@
      "Midnight"
     ],
     "processor-cpuCoreCount-gpuCoreCount": [
-     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. Buy from $1299 or $108.25/mo. per month for 12 mo. months Footnote ※ Lease from $24.99/mo. per month for 36 mo. months Footnote #",
-     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1399 or $116.58/mo. per month for 12 mo. months Footnote ※ Lease from $27.07/mo. per month for 36 mo. months Footnote #"
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. Buy from $1299 or $108.25/mo. per month for 12 mo. months Lease from From $24.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. Buy from $1399 or $116.58/mo. per month for 12 mo. months Lease from From $27.07/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ $200.00",
-     "32GB+ $400.00"
+     "16GB Included",
+     "24GB + $200.00",
+     "32GB + $400.00"
     ],
     "storage-dimensionCapacity": [
-     "512GB− $300.00",
+     "512GB − $300.00",
      "1TB",
-     "2TB+ $500.00",
-     "4TB+ $1,500.00"
+     "2TB + $500.00",
+     "4TB + $1,500.00"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortCompact size with two ports to charge two devices at once.+ $20.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote ¶+ $20.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Compact size with two ports to charge two devices at once. + $20.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + $20.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

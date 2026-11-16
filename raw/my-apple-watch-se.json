@@ -1,0 +1,220 @@
+{
+ "page": "apple-watch-se",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:09:33.576Z",
+ "configs": {
+  "40-gps": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "From RM 1,049 | From RM 1,049",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From RM 1,049",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From RM 1,049",
+    "category": null
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From RM 1,049",
+     "44mm From RM 1,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From RM 1,049",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From RM 1,299"
+    ],
+    "category": []
+   },
+   "disabledOptions": {
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps.",
+     "Textile Soft, lightweight materials. Great for everyday wear.",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look."
+    ]
+   }
+  },
+  "44-gps": {
+   "total": 1199,
+   "totalFrom": "summary",
+   "totalText": "RM 1,199.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From RM 1,199",
+    "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From RM 1,199",
+    "category": "Rubber Flexible, comfortable, swimproof straps. RM 1,199.00",
+    "rubber-style": "New colours Solo Loop RM 1,199.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From RM 1,049",
+     "44mm From RM 1,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From RM 1,199",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From RM 1,449"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. RM 1,199.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From RM 1,199",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From RM 1,449"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop RM 1,199.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band RM 1,199.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band RM 1,199.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "RM 1,299.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From RM 1,049",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From RM 1,299",
+    "category": "Rubber Flexible, comfortable, swimproof straps. RM 1,299.00",
+    "rubber-style": "New colours Solo Loop RM 1,299.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From RM 1,049",
+     "44mm From RM 1,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From RM 1,049",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From RM 1,299"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. RM 1,299.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From RM 1,299",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From RM 1,549"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop RM 1,299.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band RM 1,299.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band RM 1,299.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "RM 1,449.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From RM 1,199",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From RM 1,449",
+    "category": "Rubber Flexible, comfortable, swimproof straps. RM 1,449.00",
+    "rubber-style": "New colours Solo Loop RM 1,449.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From RM 1,049",
+     "44mm From RM 1,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send texts with your iPhone nearby. From RM 1,199",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From RM 1,449"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof straps. RM 1,449.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From RM 1,449",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From RM 1,699"
+    ],
+    "rubber-style": [
+     "New colours Solo Loop RM 1,449.00 Stretchable, closure-free, precise fit",
+     "New colours Sport Band RM 1,449.00 Durable, pin-and-tuck closure, adjustable",
+     "New colours Nike Sport Band RM 1,449.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

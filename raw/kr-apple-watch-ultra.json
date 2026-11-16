@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:52.951Z",
+ "configs": {
+  "band": {
+   "total": 1249000,
+   "totalFrom": "summary",
+   "totalText": "₩1,249,000 | ₩1,249,000 | ₩1,249,000",
+   "selected": {
+    "watch_cases-dimensionColor": "블랙",
+    "style": "새로운 컬러 알파인 루프 오지 모험과 하이킹에 안성맞춤. ₩1,249,000",
+    "alpineloop-color": "버건디",
+    "watch_bands-dimensionbandsize": "S 손목 둘레 130-160mm에 알맞은 사이즈."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "블랙",
+     "내추럴"
+    ],
+    "style": [
+     "새로운 컬러 알파인 루프 오지 모험과 하이킹에 안성맞춤. ₩1,249,000",
+     "새로운 컬러 트레일 루프 모든 스포츠와 운동에 안성맞춤. ₩1,249,000",
+     "새로운 컬러 오션 밴드 워터 스포츠 및 레크리에이션 다이빙용. ₩1,249,000",
+     "티타늄 밀레니즈 루프 해양 활동을 위해 만들어졌으나, 그 밖에 어떤 상황에서도 우아한 밴드. ₩1,399,000"
+    ],
+    "alpineloop-color": [
+     "버건디",
+     "다크 올리브",
+     "데저트"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 손목 둘레 130-160mm에 알맞은 사이즈.",
+     "M 손목 둘레 145–190mm에 맞는 밴드.",
+     "L 손목 둘레 165–210mm에 맞는 밴드."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1399000,
+   "totalFrom": "summary",
+   "totalText": "₩1,399,000 | ₩1,399,000 | ₩1,399,000",
+   "selected": {
+    "watch_cases-dimensionColor": "블랙",
+    "style": "티타늄 밀레니즈 루프 해양 활동을 위해 만들어졌으나, 그 밖에 어떤 상황에서도 우아한 밴드. ₩1,399,000",
+    "ti_milaneseloop-color": "블랙",
+    "watch_bands-dimensionbandsize": "S 손목 둘레 130-160mm에 알맞은 사이즈."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "블랙",
+     "내추럴"
+    ],
+    "style": [
+     "새로운 컬러 알파인 루프 오지 모험과 하이킹에 안성맞춤. ₩1,249,000",
+     "새로운 컬러 트레일 루프 모든 스포츠와 운동에 안성맞춤. ₩1,249,000",
+     "새로운 컬러 오션 밴드 워터 스포츠 및 레크리에이션 다이빙용. ₩1,249,000",
+     "티타늄 밀레니즈 루프 해양 활동을 위해 만들어졌으나, 그 밖에 어떤 상황에서도 우아한 밴드. ₩1,399,000"
+    ],
+    "ti_milaneseloop-color": [
+     "블랙"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 손목 둘레 130-160mm에 알맞은 사이즈.",
+     "M 손목 둘레 155–185mm에 맞는 밴드.",
+     "L 손목 둘레 180–210mm에 맞는 밴드."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

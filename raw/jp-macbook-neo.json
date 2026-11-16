@@ -2,7 +2,7 @@
  "page": "macbook-neo",
  "country": "jp",
  "url": "https://www.apple.com/jp/shop/buy-mac/macbook-neo",
- "scrapedAt": "2026-11-14T03:48:24.911Z",
+ "scrapedAt": "2026-11-16T12:41:43.945Z",
  "configs": {
   "256": {
    "total": 119800,
@@ -10,7 +10,7 @@
    "totalText": "119,800円",
    "selected": {
     "chassis-dimensionColor": "シルバー",
-    "storage-dimensionCapacity": "256GB Magic Keyboard 119,800円から 、または4,991円/月 月額 の24回払いから 脚注 #"
+    "storage-dimensionCapacity": "256GB Magic Keyboard 119,800円から 、または4,991円/月 月額 の24回払いから"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -20,8 +20,8 @@
      "インディゴ"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard 119,800円から 、または4,991円/月 月額 の24回払いから 脚注 #",
-     "512GB Touch ID搭載Magic Keyboard 137,800円から 、または5,741円/月 月額 の24回払いから 脚注 #"
+     "256GB Magic Keyboard 119,800円から 、または4,991円/月 月額 の24回払いから",
+     "512GB Touch ID搭載Magic Keyboard 137,800円から 、または5,741円/月 月額 の24回払いから"
     ]
    },
    "disabledOptions": {}
@@ -32,7 +32,7 @@
    "totalText": "137,800円",
    "selected": {
     "chassis-dimensionColor": "シルバー",
-    "storage-dimensionCapacity": "512GB Touch ID搭載Magic Keyboard 137,800円から 、または5,741円/月 月額 の24回払いから 脚注 #"
+    "storage-dimensionCapacity": "512GB Touch ID搭載Magic Keyboard 137,800円から 、または5,741円/月 月額 の24回払いから"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -42,8 +42,8 @@
      "インディゴ"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard 119,800円から 、または4,991円/月 月額 の24回払いから 脚注 #",
-     "512GB Touch ID搭載Magic Keyboard 137,800円から 、または5,741円/月 月額 の24回払いから 脚注 #"
+     "256GB Magic Keyboard 119,800円から 、または4,991円/月 月額 の24回払いから",
+     "512GB Touch ID搭載Magic Keyboard 137,800円から 、または5,741円/月 月額 の24回払いから"
     ]
    },
    "disabledOptions": {}

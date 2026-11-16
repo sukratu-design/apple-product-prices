@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:11.605Z",
+ "configs": {
+  "m6": {
+   "total": 19999,
+   "totalFrom": "summary",
+   "totalText": "$19,999 de contado o 18 MSI desde $1,111.06. Nota al pie ∆ | $19,999 de contado o 18 MSI desde $1,111.06. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $19,999 de contado o 18 MSI desde $1,111.06.",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluido",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2.5 Gb Conexión de red estándar, velocidades de enlace de hasta 2.5 Gb. Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $19,999 de contado o 18 MSI desde $1,111.06.",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para flujos de trabajo exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17."
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluido"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $5,000.00",
+     "32 GB + $10,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + $5,000.00",
+     "1 TB + $12,500.00",
+     "2 TB + $25,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2.5 Gb Conexión de red estándar, velocidades de enlace de hasta 2.5 Gb. Incluido",
+     "Ethernet de 10 Gb Ancho de banda con mayor conectividad, velocidades de enlace de hasta 10 Gb. + $2,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 39999,
+   "totalFrom": "summary",
+   "totalText": "$39,999 de contado o 18 MSI desde $2,222.17. Nota al pie ∆ | $39,999 de contado o 18 MSI desde $2,222.17. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para flujos de trabajo exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17.",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 15 núcleos, GPU de 16 núcleos Incluido",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2.5 Gb Conexión de red estándar, velocidades de enlace de hasta 2.5 Gb. Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $19,999 de contado o 18 MSI desde $1,111.06.",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para flujos de trabajo exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17."
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos y acelera tareas como ejecutar modelos de lenguaje de gran tamaño y edición de video 8K. + $5,000.00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $15,000.00",
+     "64 GB + $25,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $7,500.00",
+     "2 TB + $20,000.00",
+     "4 TB + $45,000.00",
+     "8 TB + $95,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2.5 Gb Conexión de red estándar, velocidades de enlace de hasta 2.5 Gb. Incluido",
+     "Ethernet de 10 Gb Ancho de banda con mayor conectividad, velocidades de enlace de hasta 10 Gb. + $2,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 44999,
+   "totalFrom": "summary",
+   "totalText": "$44,999 de contado o 18 MSI desde $2,499.94. Nota al pie ∆ | $44,999 de contado o 18 MSI desde $2,499.94. Nota al pie ∆",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para flujos de trabajo exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17.",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos y acelera tareas como ejecutar modelos de lenguaje de gran tamaño y edición de video 8K.",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2.5 Gb Conexión de red estándar, velocidades de enlace de hasta 2.5 Gb. Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $19,999 de contado o 18 MSI desde $1,111.06.",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para flujos de trabajo exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17."
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos − $5,000.00",
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos y acelera tareas como ejecutar modelos de lenguaje de gran tamaño y edición de video 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $15,000.00",
+     "64 GB + $25,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $7,500.00",
+     "2 TB + $20,000.00",
+     "4 TB + $45,000.00",
+     "8 TB + $95,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2.5 Gb Conexión de red estándar, velocidades de enlace de hasta 2.5 Gb. Incluido",
+     "Ethernet de 10 Gb Ancho de banda con mayor conectividad, velocidades de enlace de hasta 10 Gb. + $2,500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

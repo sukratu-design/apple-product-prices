@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:59.830Z",
+ "configs": {
+  "default": {
+   "total": 1999,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 999.00 | CHF 1 999.00 | CHF 1 999.00",
+   "selected": {
+    "dimensionColor": "Sternenweiß",
+    "dimensionCapacity": "256 GB Fußnote 1 CHF 1 999.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sternenweiß",
+     "Nachthimmel"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 CHF 1 999.00",
+     "512 GB Fußnote 1 CHF 2 199.00",
+     "1TB Fußnote 1 CHF 2 599.00",
+     "2TB Fußnote 1 CHF 3 199.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

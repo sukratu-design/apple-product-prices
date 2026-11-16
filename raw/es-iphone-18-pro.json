@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:31.243Z",
+ "configs": {
+  "pro": {
+   "total": 1469,
+   "totalFrom": "summary",
+   "totalText": "1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊ | 1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Pantalla de 6,3″ Nota a pie de página 2 Desde 1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+    "dimensionColor": "Burdeos",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Pantalla de 6,3″ Nota a pie de página 2 Desde 1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "iPhone 18 Pro Max Pantalla de 6,9″ Nota a pie de página 2 Desde 1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+    ],
+    "dimensionColor": [
+     "Burdeos",
+     "Azul glacial",
+     "Plata",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "512 GB Nota a pie de página 1 1.719,00 € o 71,63 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "1 TB Nota a pie de página 1 2.219,00 € o 92,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "2 TB Nota a pie de página 1 2.969,00 € o 123,71 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1619,
+   "totalFrom": "summary",
+   "totalText": "1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊ | 1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max Pantalla de 6,9″ Nota a pie de página 2 Desde 1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+    "dimensionColor": "Burdeos",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Pantalla de 6,3″ Nota a pie de página 2 Desde 1.469,00 € o 61,21 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "iPhone 18 Pro Max Pantalla de 6,9″ Nota a pie de página 2 Desde 1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+    ],
+    "dimensionColor": [
+     "Burdeos",
+     "Azul glacial",
+     "Plata",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 1.619,00 € o 67,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "512 GB Nota a pie de página 1 1.869,00 € o 77,88 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "1 TB Nota a pie de página 1 2.369,00 € o 98,71 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "2 TB Nota a pie de página 1 3.119,00 € o 129,96 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

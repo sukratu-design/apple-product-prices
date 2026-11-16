@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:09.089Z",
+ "configs": {
+  "15": {
+   "total": 20495,
+   "totalFrom": "summary",
+   "totalText": "20 495,00 kr | 20 495,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "15 tum Från 20 495 kr",
+    "chassis-dimensionColor": "himmelsblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑kärnig processor, 10‑kärnig grafik, 16‑kärnig Neural Engine Ge intensiva uppgifter som spel och kreativt arbete en boost med högre hastighet för bearbetning och grafikrendering. Från 20 495 kr",
+    "memory-dimensionMemory": "16 GB Ingår",
+    "storage-dimensionCapacity": "512 GB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tum Från 17 995 kr",
+     "15 tum Från 20 495 kr"
+    ],
+    "chassis-dimensionColor": [
+     "himmelsblå",
+     "silver",
+     "stjärnglans",
+     "midnatt"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑kärnig processor, 10‑kärnig grafik, 16‑kärnig Neural Engine Ge intensiva uppgifter som spel och kreativt arbete en boost med högre hastighet för bearbetning och grafikrendering. Från 20 495 kr"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Ingår",
+     "24 GB + 2 600,00 kr",
+     "32 GB + 5 200,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Ingår",
+     "1 TB + 3 900,00 kr",
+     "2 TB + 10 400,00 kr",
+     "4 TB + 23 400,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 17995,
+   "totalFrom": "summary",
+   "totalText": "17 995,00 kr | 17 995,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "13 tum Från 17 995 kr",
+    "chassis-dimensionColor": "himmelsblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑kärnig processor, 8‑kärnig grafik, 16‑kärnig Neural Engine Allt du gör går snabbare och smidigare. Från 17 995 kr",
+    "memory-dimensionMemory": "16 GB Ingår",
+    "storage-dimensionCapacity": "512 GB Ingår"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tum Från 17 995 kr",
+     "15 tum Från 20 495 kr"
+    ],
+    "chassis-dimensionColor": [
+     "himmelsblå",
+     "silver",
+     "stjärnglans",
+     "midnatt"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑kärnig processor, 8‑kärnig grafik, 16‑kärnig Neural Engine Allt du gör går snabbare och smidigare. Från 17 995 kr",
+     "10‑kärnig processor, 10‑kärnig grafik, 16‑kärnig Neural Engine Ge intensiva uppgifter som spel och kreativt arbete en boost med högre hastighet för bearbetning och grafikrendering. Från 19 295 kr"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Ingår"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Ingår"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 21895,
+   "totalFrom": "summary",
+   "totalText": "21 895,00 kr | 21 895,00 kr",
+   "selected": {
+    "chassis-dimensionScreensize": "13 tum Från 17 995 kr",
+    "chassis-dimensionColor": "himmelsblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑kärnig processor, 10‑kärnig grafik, 16‑kärnig Neural Engine Ge intensiva uppgifter som spel och kreativt arbete en boost med högre hastighet för bearbetning och grafikrendering. Från 19 295 kr",
+    "memory-dimensionMemory": "16 GB Ingår",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tum Från 17 995 kr",
+     "15 tum Från 20 495 kr"
+    ],
+    "chassis-dimensionColor": [
+     "himmelsblå",
+     "silver",
+     "stjärnglans",
+     "midnatt"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑kärnig processor, 8‑kärnig grafik, 16‑kärnig Neural Engine Allt du gör går snabbare och smidigare. Från 17 995 kr",
+     "10‑kärnig processor, 10‑kärnig grafik, 16‑kärnig Neural Engine Ge intensiva uppgifter som spel och kreativt arbete en boost med högre hastighet för bearbetning och grafikrendering. Från 19 295 kr"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Ingår",
+     "24 GB + 2 600,00 kr",
+     "32 GB + 5 200,00 kr"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 3 900,00 kr",
+     "1 TB",
+     "2 TB + 6 500,00 kr",
+     "4 TB + 19 500,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

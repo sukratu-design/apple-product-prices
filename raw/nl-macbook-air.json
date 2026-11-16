@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:41.212Z",
+ "configs": {
+  "15": {
+   "total": 1729,
+   "totalFrom": "summary",
+   "totalText": "€ 1.729,00 | € 1.729,00",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch Vanaf € 1.729",
+    "chassis-dimensionColor": "Hemelsblauw",
+    "processor-cpuCoreCount-gpuCoreCount": "10-core CPU, 10-core GPU, 16-core Neural Engine Geef intensieve taken, zoals gamen en creatieve projecten, een boost met meer processorkracht en snellere rendering van graphics. Vanaf € 1.729",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "512 GB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch Vanaf € 1.429",
+     "15-inch Vanaf € 1.729"
+    ],
+    "chassis-dimensionColor": [
+     "Hemelsblauw",
+     "Zilver",
+     "Sterrenlicht",
+     "Middernacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-core CPU, 10-core GPU, 16-core Neural Engine Geef intensieve taken, zoals gamen en creatieve projecten, een boost met meer processorkracht en snellere rendering van graphics. Vanaf € 1.729"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd",
+     "24 GB + € 220,00",
+     "32 GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Meegeleverd",
+     "1 TB + € 330,00",
+     "2 TB + € 880,00",
+     "4 TB + € 1.980,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1429,
+   "totalFrom": "summary",
+   "totalText": "€ 1.429,00 | € 1.429,00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch Vanaf € 1.429",
+    "chassis-dimensionColor": "Hemelsblauw",
+    "processor-cpuCoreCount-gpuCoreCount": "10-core CPU, 8-core GPU, 16-core Neural Engine Zorgt voor meer snelheid bij alles wat je doet. Vanaf € 1.429",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "512 GB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch Vanaf € 1.429",
+     "15-inch Vanaf € 1.729"
+    ],
+    "chassis-dimensionColor": [
+     "Hemelsblauw",
+     "Zilver",
+     "Sterrenlicht",
+     "Middernacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-core CPU, 8-core GPU, 16-core Neural Engine Zorgt voor meer snelheid bij alles wat je doet. Vanaf € 1.429",
+     "10-core CPU, 10-core GPU, 16-core Neural Engine Geef intensieve taken, zoals gamen en creatieve projecten, een boost met meer processorkracht en snellere rendering van graphics. Vanaf € 1.539"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Meegeleverd"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1759,
+   "totalFrom": "summary",
+   "totalText": "€ 1.759,00 | € 1.759,00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch Vanaf € 1.429",
+    "chassis-dimensionColor": "Hemelsblauw",
+    "processor-cpuCoreCount-gpuCoreCount": "10-core CPU, 10-core GPU, 16-core Neural Engine Geef intensieve taken, zoals gamen en creatieve projecten, een boost met meer processorkracht en snellere rendering van graphics. Vanaf € 1.539",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch Vanaf € 1.429",
+     "15-inch Vanaf € 1.729"
+    ],
+    "chassis-dimensionColor": [
+     "Hemelsblauw",
+     "Zilver",
+     "Sterrenlicht",
+     "Middernacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-core CPU, 8-core GPU, 16-core Neural Engine Zorgt voor meer snelheid bij alles wat je doet. Vanaf € 1.429",
+     "10-core CPU, 10-core GPU, 16-core Neural Engine Geef intensieve taken, zoals gamen en creatieve projecten, een boost met meer processorkracht en snellere rendering van graphics. Vanaf € 1.539"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd",
+     "24 GB + € 220,00",
+     "32 GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − € 330,00",
+     "1 TB",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

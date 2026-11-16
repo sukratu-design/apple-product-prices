@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:36.236Z",
+ "configs": {
+  "default": {
+   "total": 5999,
+   "totalFrom": "summary",
+   "totalText": "HK$5,999 | HK$5,999 | HK$5,999",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 HK$5,999"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 HK$5,999",
+     "512GB Footnote 1 HK$7,799"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

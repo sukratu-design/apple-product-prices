@@ -1,0 +1,76 @@
+{
+ "page": "iphone-18-pro",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:32.049Z",
+ "configs": {
+  "pro": {
+   "total": 9999,
+   "totalFrom": "summary",
+   "totalText": "RMB 9,999",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3 英寸显示屏 脚注 2 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+    "dimensionColor": "勃艮第酒红色",
+    "dimensionCapacity": "256GB 脚注 1 RMB 9,999 或 RMB 417/月 (24 期) 起",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3 英寸显示屏 脚注 2 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "iPhone 18 Pro Max 6.9 英寸显示屏 脚注 2 RMB 10,999 起 或 RMB 459/月 (24 期) 起"
+    ],
+    "dimensionColor": [
+     "勃艮第酒红色",
+     "冰川蓝色",
+     "银色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 RMB 9,999 或 RMB 417/月 (24 期) 起",
+     "512GB 脚注 1 RMB 11,999 或 RMB 500/月 (24 期) 起",
+     "1TB 脚注 1 RMB 15,499 或 RMB 646/月 (24 期) 起",
+     "2TB 脚注 1 RMB 20,499 或 RMB 855/月 (24 期) 起"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 10999,
+   "totalFrom": "summary",
+   "totalText": "RMB 10,999",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9 英寸显示屏 脚注 2 RMB 10,999 起 或 RMB 459/月 (24 期) 起",
+    "dimensionColor": "勃艮第酒红色",
+    "dimensionCapacity": "256GB 脚注 1 RMB 10,999 或 RMB 459/月 (24 期) 起",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3 英寸显示屏 脚注 2 RMB 9999 起 或 RMB 417/月 (24 期) 起",
+     "iPhone 18 Pro Max 6.9 英寸显示屏 脚注 2 RMB 10,999 起 或 RMB 459/月 (24 期) 起"
+    ],
+    "dimensionColor": [
+     "勃艮第酒红色",
+     "冰川蓝色",
+     "银色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 RMB 10,999 或 RMB 459/月 (24 期) 起",
+     "512GB 脚注 1 RMB 12,999 或 RMB 542/月 (24 期) 起",
+     "1TB 脚注 1 RMB 16,499 或 RMB 688/月 (24 期) 起",
+     "2TB 脚注 1 RMB 21,499 或 RMB 896/月 (24 期) 起"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

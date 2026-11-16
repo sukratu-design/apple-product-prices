@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:40.268Z",
+ "configs": {
+  "pro": {
+   "total": 48900,
+   "totalFrom": "summary",
+   "totalText": "฿48,900.00 | ฿48,900.00 | ฿48,900.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro จอภาพขนาด 6.3 นิ้ว เชิงอรรถ 2 เริ่มต้นที่ ฿48,900",
+    "dimensionColor": "เบอร์กันดี",
+    "dimensionCapacity": "256GB เชิงอรรถ 1 ฿48,900.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro จอภาพขนาด 6.3 นิ้ว เชิงอรรถ 2 เริ่มต้นที่ ฿48,900",
+     "iPhone 18 Pro Max จอภาพขนาด 6.9 นิ้ว เชิงอรรถ 2 เริ่มต้นที่ ฿52,900"
+    ],
+    "dimensionColor": [
+     "เบอร์กันดี",
+     "ธารน้ำแข็ง",
+     "เงิน",
+     "ดำ"
+    ],
+    "dimensionCapacity": [
+     "256GB เชิงอรรถ 1 ฿48,900.00",
+     "512GB เชิงอรรถ 1 ฿56,900.00",
+     "1TB เชิงอรรถ 1 ฿72,900.00",
+     "2TB เชิงอรรถ 1 ฿96,900.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 52900,
+   "totalFrom": "summary",
+   "totalText": "฿52,900.00 | ฿52,900.00 | ฿52,900.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max จอภาพขนาด 6.9 นิ้ว เชิงอรรถ 2 เริ่มต้นที่ ฿52,900",
+    "dimensionColor": "เบอร์กันดี",
+    "dimensionCapacity": "256GB เชิงอรรถ 1 ฿52,900.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro จอภาพขนาด 6.3 นิ้ว เชิงอรรถ 2 เริ่มต้นที่ ฿48,900",
+     "iPhone 18 Pro Max จอภาพขนาด 6.9 นิ้ว เชิงอรรถ 2 เริ่มต้นที่ ฿52,900"
+    ],
+    "dimensionColor": [
+     "เบอร์กันดี",
+     "ธารน้ำแข็ง",
+     "เงิน",
+     "ดำ"
+    ],
+    "dimensionCapacity": [
+     "256GB เชิงอรรถ 1 ฿52,900.00",
+     "512GB เชิงอรรถ 1 ฿60,900.00",
+     "1TB เชิงอรรถ 1 ฿76,900.00",
+     "2TB เชิงอรรถ 1 ฿100,900.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

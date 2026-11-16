@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:29:41.852Z",
+ "configs": {
+  "default": {
+   "total": 599,
+   "totalFrom": "summary",
+   "totalText": "NZ$89.00 | NZ$599.00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:29:23.591Z",
+ "configs": {
+  "default": {
+   "total": 169,
+   "totalFrom": "summary",
+   "totalText": "€ 19,00 | € 169,00",
+   "selected": {
+    "dimensionColor": "Wit"
+   },
+   "options": {
+    "dimensionColor": [
+     "Wit",
+     "Roze",
+     "Blauw",
+     "Groen",
+     "Middernacht"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

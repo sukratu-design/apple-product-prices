@@ -1,0 +1,48 @@
+{
+  "_about": "Every Apple Store the site covers. store: URL prefix before buy-iphone/... ; marker: regex for the currency sign printed next to prices on that store (before or after the number); symbol/suffix/locale: how the site shows prices; tax: whether store prices include sales tax/VAT. Add a store here, then scrape it with COUNTRIES=<code> node scripts/scrape.js all.",
+  "countries": {
+    "us": {"label": "United States", "short": "US", "currency": "USD", "symbol": "$", "locale": "en-US", "store": "https://www.apple.com/shop/", "marker": "(?<![A-Za-z])\\$", "tax": "excluded"},
+    "ca": {"label": "Canada", "short": "Canada", "currency": "CAD", "symbol": "CA$", "locale": "en-CA", "store": "https://www.apple.com/ca/shop/", "marker": "(?<![A-Za-z])\\$", "tax": "excluded"},
+    "mx": {"label": "Mexico", "short": "Mexico", "currency": "MXN", "symbol": "MX$", "locale": "es-MX", "store": "https://www.apple.com/mx/shop/", "marker": "(?<![A-Za-z])\\$", "tax": "included"},
+    "br": {"label": "Brazil", "short": "Brazil", "currency": "BRL", "symbol": "R$", "locale": "pt-BR", "store": "https://www.apple.com/br/shop/", "marker": "R\\$", "tax": "included"},
+    "cl": {"label": "Chile", "short": "Chile", "currency": "CLP", "symbol": "CLP$", "locale": "es-CL", "store": "https://www.apple.com/cl/shop/", "marker": "(?<![A-Za-z])\\$", "tax": "included"},
+
+    "uk": {"label": "United Kingdom", "short": "UK", "currency": "GBP", "symbol": "£", "locale": "en-GB", "store": "https://www.apple.com/uk/shop/", "marker": "£", "tax": "included"},
+    "ie": {"label": "Ireland", "short": "Ireland", "currency": "EUR", "symbol": "€", "locale": "en-IE", "store": "https://www.apple.com/ie/shop/", "marker": "€", "tax": "included"},
+    "fr": {"label": "France", "short": "France", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "fr-FR", "store": "https://www.apple.com/fr/shop/", "marker": "€", "tax": "included"},
+    "de": {"label": "Germany", "short": "Germany", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "de-DE", "store": "https://www.apple.com/de/shop/", "marker": "€", "tax": "included"},
+    "it": {"label": "Italy", "short": "Italy", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "it-IT", "store": "https://www.apple.com/it/shop/", "marker": "€", "tax": "included"},
+    "es": {"label": "Spain", "short": "Spain", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "es-ES", "store": "https://www.apple.com/es/shop/", "marker": "€", "tax": "included"},
+    "pt": {"label": "Portugal", "short": "Portugal", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "pt-PT", "store": "https://www.apple.com/pt/shop/", "marker": "€", "tax": "included"},
+    "nl": {"label": "Netherlands", "short": "Netherlands", "currency": "EUR", "symbol": "€", "locale": "nl-NL", "store": "https://www.apple.com/nl/shop/", "marker": "€", "tax": "included"},
+    "be": {"label": "Belgium", "short": "Belgium", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "fr-BE", "store": "https://www.apple.com/be-fr/shop/", "marker": "€", "tax": "included"},
+    "lu": {"label": "Luxembourg", "short": "Luxembourg", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "fr-LU", "store": "https://www.apple.com/lu/shop/", "marker": "€", "tax": "included"},
+    "at": {"label": "Austria", "short": "Austria", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "de-AT", "store": "https://www.apple.com/at/shop/", "marker": "€", "tax": "included"},
+    "fi": {"label": "Finland", "short": "Finland", "currency": "EUR", "symbol": "€", "suffix": true, "locale": "fi-FI", "store": "https://www.apple.com/fi/shop/", "marker": "€", "tax": "included"},
+    "ch": {"label": "Switzerland", "short": "Switzerland", "currency": "CHF", "symbol": "CHF ", "locale": "de-CH", "store": "https://www.apple.com/ch-de/shop/", "marker": "CHF", "tax": "included"},
+    "se": {"label": "Sweden", "short": "Sweden", "currency": "SEK", "symbol": "kr", "suffix": true, "locale": "sv-SE", "store": "https://www.apple.com/se/shop/", "marker": "kr\\.?(?![A-Za-zåäö])", "tax": "included"},
+    "no": {"label": "Norway", "short": "Norway", "currency": "NOK", "symbol": "kr", "suffix": true, "locale": "nb-NO", "store": "https://www.apple.com/no/shop/", "marker": "kr\\.?(?![A-Za-zæøå])", "tax": "included"},
+    "dk": {"label": "Denmark", "short": "Denmark", "currency": "DKK", "symbol": "kr.", "suffix": true, "locale": "da-DK", "store": "https://www.apple.com/dk/shop/", "marker": "kr\\.?(?![A-Za-zæøå])", "tax": "included"},
+    "pl": {"label": "Poland", "short": "Poland", "currency": "PLN", "symbol": "zł", "suffix": true, "locale": "pl-PL", "store": "https://www.apple.com/pl/shop/", "marker": "zł", "tax": "included"},
+    "cz": {"label": "Czechia", "short": "Czechia", "currency": "CZK", "symbol": "Kč", "suffix": true, "locale": "cs-CZ", "store": "https://www.apple.com/cz/shop/", "marker": "Kč", "tax": "included"},
+    "hu": {"label": "Hungary", "short": "Hungary", "currency": "HUF", "symbol": "Ft", "suffix": true, "locale": "hu-HU", "store": "https://www.apple.com/hu/shop/", "marker": "Ft", "tax": "included"},
+    "tr": {"label": "Türkiye", "short": "Türkiye", "currency": "TRY", "symbol": "TL", "suffix": true, "locale": "tr-TR", "store": "https://www.apple.com/tr/shop/", "marker": "TL", "tax": "included"},
+
+    "ae": {"label": "United Arab Emirates", "short": "UAE", "currency": "AED", "symbol": "AED ", "locale": "en-AE", "store": "https://www.apple.com/ae/shop/", "marker": "AED", "tax": "included"},
+    "sa": {"label": "Saudi Arabia", "short": "Saudi Arabia", "currency": "SAR", "symbol": "SAR ", "locale": "en-SA", "store": "https://www.apple.com/sa-en/shop/", "marker": "SAR", "tax": "included"},
+    "in": {"label": "India", "short": "India", "currency": "INR", "symbol": "₹", "locale": "en-IN", "store": "https://www.apple.com/in/shop/", "marker": "₹", "tax": "included"},
+
+    "cn": {"label": "China mainland", "short": "China", "currency": "CNY", "symbol": "RMB ", "locale": "zh-CN", "store": "https://www.apple.com.cn/shop/", "marker": "RMB", "tax": "included"},
+    "hk": {"label": "Hong Kong", "short": "Hong Kong", "currency": "HKD", "symbol": "HK$", "locale": "en-HK", "store": "https://www.apple.com/hk/shop/", "marker": "HK\\$", "tax": "included"},
+    "tw": {"label": "Taiwan", "short": "Taiwan", "currency": "TWD", "symbol": "NT$", "locale": "zh-TW", "store": "https://www.apple.com/tw/shop/", "marker": "NT\\$", "tax": "included"},
+    "jp": {"label": "Japan", "short": "Japan", "currency": "JPY", "symbol": "¥", "locale": "ja-JP", "store": "https://www.apple.com/jp/shop/", "marker": "円|¥", "tax": "included"},
+    "kr": {"label": "South Korea", "short": "Korea", "currency": "KRW", "symbol": "₩", "locale": "ko-KR", "store": "https://www.apple.com/kr/shop/", "marker": "₩", "tax": "included"},
+    "sg": {"label": "Singapore", "short": "Singapore", "currency": "SGD", "symbol": "S$", "locale": "en-SG", "store": "https://www.apple.com/sg/shop/", "marker": "S\\$", "tax": "included"},
+    "my": {"label": "Malaysia", "short": "Malaysia", "currency": "MYR", "symbol": "RM", "locale": "en-MY", "store": "https://www.apple.com/my/shop/", "marker": "RM", "tax": "included"},
+    "th": {"label": "Thailand", "short": "Thailand", "currency": "THB", "symbol": "฿", "locale": "th-TH", "store": "https://www.apple.com/th/shop/", "marker": "฿", "tax": "included"},
+    "ph": {"label": "Philippines", "short": "Philippines", "currency": "PHP", "symbol": "₱", "locale": "en-PH", "store": "https://www.apple.com/ph/shop/", "marker": "₱", "tax": "included"},
+    "vn": {"label": "Vietnam", "short": "Vietnam", "currency": "VND", "symbol": "₫", "suffix": true, "locale": "vi-VN", "store": "https://www.apple.com/vn/shop/", "marker": "đ|₫", "tax": "included"},
+    "au": {"label": "Australia", "short": "Australia", "currency": "AUD", "symbol": "A$", "locale": "en-AU", "store": "https://www.apple.com/au/shop/", "marker": "A\\$", "tax": "included"},
+    "nz": {"label": "New Zealand", "short": "New Zealand", "currency": "NZD", "symbol": "NZ$", "locale": "en-NZ", "store": "https://www.apple.com/nz/shop/", "marker": "NZ\\$", "tax": "included"}
+  }
+}

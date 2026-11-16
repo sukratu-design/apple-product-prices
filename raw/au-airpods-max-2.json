@@ -2,12 +2,12 @@
  "page": "airpods-max-2",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-airpods/airpods-max-2",
- "scrapedAt": "2026-11-13T11:14:02.609Z",
+ "scrapedAt": "2026-11-16T13:25:10.979Z",
  "configs": {
   "default": {
    "total": 999,
-   "totalFrom": "page-first",
-   "totalText": "",
+   "totalFrom": "summary",
+   "totalText": "A$999.00",
    "selected": {
     "dimensionColor": "Purple",
     "engraving-option-select-app": null,

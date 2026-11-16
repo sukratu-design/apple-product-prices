@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:27:09.220Z",
+ "configs": {
+  "default": {
+   "total": 399,
+   "totalFrom": "summary",
+   "totalText": "39,00 € | 399,00 €",
+   "selected": {
+    "dimensionColor": "Valkoinen"
+   },
+   "options": {
+    "dimensionColor": [
+     "Valkoinen",
+     "Keskiyö"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

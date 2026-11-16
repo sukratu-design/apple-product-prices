@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:10.399Z",
+ "configs": {
+  "256": {
+   "total": 819,
+   "totalFrom": "summary",
+   "totalText": "819,00 € | 819,00 € | 819,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Hopea",
+    "storage-dimensionCapacity": "256 Gt Magic Keyboard Alkaen 819 €"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Hopea",
+     "Roosa",
+     "Sitrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Gt Magic Keyboard Alkaen 819 €",
+     "512 Gt Magic Keyboard Touch ID:llä Alkaen 919 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 919,
+   "totalFrom": "summary",
+   "totalText": "919,00 € | 919,00 € | 919,00 €",
+   "selected": {
+    "chassis-dimensionColor": "Hopea",
+    "storage-dimensionCapacity": "512 Gt Magic Keyboard Touch ID:llä Alkaen 919 €"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Hopea",
+     "Roosa",
+     "Sitrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Gt Magic Keyboard Alkaen 819 €",
+     "512 Gt Magic Keyboard Touch ID:llä Alkaen 919 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

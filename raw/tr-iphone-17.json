@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:27.429Z",
+ "configs": {
+  "default": {
+   "total": 99999,
+   "totalFrom": "summary",
+   "totalText": "99.999,00 TL | 99.999,00 TL | 99.999,00 TL",
+   "selected": {
+    "dimensionColor": "Lavanta",
+    "dimensionCapacity": "256 GB Dipnot 1 99.999,00 TL"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavanta",
+     "Sis Mavisi",
+     "Beyaz",
+     "Ada Çayı",
+     "Siyah"
+    ],
+    "dimensionCapacity": [
+     "256 GB Dipnot 1 99.999,00 TL",
+     "512 GB Dipnot 1 116.999,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

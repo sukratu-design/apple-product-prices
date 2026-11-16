@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:19.230Z",
+ "configs": {
+  "default": {
+   "total": 9490,
+   "totalFrom": "summary",
+   "totalText": "kr 9 490,00 | kr 9 490,00 | kr 9 490,00",
+   "selected": {
+    "dimensionColor": "myk rosa",
+    "dimensionCapacity": "256 GB Fotnote 1 kr 9 490,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "myk rosa",
+     "hvit",
+     "svart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnote 1 kr 9 490,00",
+     "512 GB Fotnote 1 kr 12 490,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

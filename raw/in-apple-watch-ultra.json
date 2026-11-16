@@ -2,15 +2,15 @@
  "page": "apple-watch-ultra",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-watch/apple-watch-ultra",
- "scrapedAt": "2026-11-13T05:01:07.065Z",
+ "scrapedAt": "2026-11-16T13:10:40.649Z",
  "configs": {
   "band": {
-   "total": 109900,
-   "totalFrom": "label:style",
+   "total": 17317,
+   "totalFrom": "summary",
    "totalText": "From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "watch_cases-dimensionColor": "Black",
-    "style": "New colours Alpine Loop For outdoor adventure and hiking. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
     "alpineloop-color": "Burgundy",
     "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
    },
@@ -20,10 +20,10 @@
      "Natural"
     ],
     "style": [
-     "New colours Alpine Loop For outdoor adventure and hiking. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
-     "New colours Trail Loop For all sports and workouts. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
-     "New colours Ocean Band For water sports and recreational diving. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
-     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. From ₹19817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹124900.00 (Incl. of all taxes)"
+     "New colours Alpine Loop For outdoor adventure and hiking. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
+     "New colours Trail Loop For all sports and workouts. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
+     "New colours Ocean Band For water sports and recreational diving. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. From ₹19817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹124900.00 (Incl. of all taxes)"
     ],
     "alpineloop-color": [
      "Burgundy"
@@ -33,15 +33,16 @@
      "Medium Strap fits 145–190mm wrists.",
      "Large Strap fits 165–210mm wrists."
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "milanese": {
-   "total": 124900,
-   "totalFrom": "label:style",
+   "total": 19817,
+   "totalFrom": "summary",
    "totalText": "From ₹19817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊",
    "selected": {
     "watch_cases-dimensionColor": "Black",
-    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. From ₹19817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹124900.00 (Incl. of all taxes)",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. From ₹19817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹124900.00 (Incl. of all taxes)",
     "ti_milaneseloop-color": "Black",
     "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
    },
@@ -51,10 +52,10 @@
      "Natural"
     ],
     "style": [
-     "New colours Alpine Loop For outdoor adventure and hiking. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
-     "New colours Trail Loop For all sports and workouts. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
-     "New colours Ocean Band For water sports and recreational diving. From ₹17317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹109900.00 (Incl. of all taxes)",
-     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. From ₹19817.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or MRP ₹124900.00 (Incl. of all taxes)"
+     "New colours Alpine Loop For outdoor adventure and hiking. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
+     "New colours Trail Loop For all sports and workouts. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
+     "New colours Ocean Band For water sports and recreational diving. From ₹17317.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹109900.00 (Incl. of all taxes)",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. From ₹19817.00/mo. Per Month with instant cashback and No Cost EMI or MRP ₹124900.00 (Incl. of all taxes)"
     ],
     "ti_milaneseloop-color": [
      "Black"
@@ -64,7 +65,8 @@
      "Medium Strap fits 155–185mm wrists.",
      "Large Strap fits 180–210mm wrists."
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

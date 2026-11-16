@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "be",
+ "url": "https://www.apple.com/be-fr/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:36.451Z",
+ "configs": {
+  "40-gps": {
+   "total": 269,
+   "totalFrom": "summary",
+   "totalText": "269,00 € | 269,00 € | 269,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "40 mm À partir de 269 €",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 269 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 269,00 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 269,00 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 269 €",
+     "44 mm À partir de 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 269 €",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. À partir de 319 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 269,00 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 269 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 319 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 269,00 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 269,00 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 269,00 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "299,00 € | 299,00 € | 299,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "44 mm À partir de 299 €",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 299 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 299,00 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 299,00 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 269 €",
+     "44 mm À partir de 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 299 €",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. À partir de 349 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 299,00 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 299 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 349 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 299,00 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 299,00 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 299,00 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 319,
+   "totalFrom": "summary",
+   "totalText": "319,00 € | 319,00 € | 319,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "40 mm À partir de 269 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. À partir de 319 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 319,00 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 319,00 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 269 €",
+     "44 mm À partir de 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 269 €",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. À partir de 319 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 319,00 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 319 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 369 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 319,00 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 319,00 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 319,00 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 349,
+   "totalFrom": "summary",
+   "totalText": "349,00 € | 349,00 € | 349,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "44 mm À partir de 299 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. À partir de 349 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 349,00 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 349,00 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 269 €",
+     "44 mm À partir de 299 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 299 €",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. À partir de 349 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 349,00 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 349 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 399 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 349,00 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 349,00 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 349,00 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

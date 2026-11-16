@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:43.628Z",
+ "configs": {
+  "default": {
+   "total": 43900,
+   "totalFrom": "summary",
+   "totalText": "฿43,900.00 | ฿43,900.00 | ฿43,900.00",
+   "selected": {
+    "dimensionColor": "สกายบลู",
+    "dimensionCapacity": "256GB เชิงอรรถ 1 ฿43,900.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "สกายบลู",
+     "ขาวปุยเมฆ",
+     "ดำสเปซแบล็ค",
+     "ทองอ่อน"
+    ],
+    "dimensionCapacity": [
+     "256GB เชิงอรรถ 1 ฿43,900.00",
+     "512GB เชิงอรรถ 1 ฿51,900.00",
+     "1TB เชิงอรรถ 1 ฿67,900.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

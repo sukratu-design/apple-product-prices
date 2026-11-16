@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:27.320Z",
+ "configs": {
+  "40-gps": {
+   "total": 279,
+   "totalFrom": "summary",
+   "totalText": "279,00 € | 279,00 € | 279,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "40 mm Desde 279 €",
+    "watch_cases-dimensionConnection": "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 279 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 279,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 279,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Luz das estrelas"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde 279 €",
+     "44 mm Desde 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 279 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 329 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 279,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 279 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 329 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 279,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 279,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 279,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 309,
+   "totalFrom": "summary",
+   "totalText": "309,00 € | 309,00 € | 309,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "44 mm Desde 309 €",
+    "watch_cases-dimensionConnection": "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 309 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 309,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 309,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Luz das estrelas"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde 279 €",
+     "44 mm Desde 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 309 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 359 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 309,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 309 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 359 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 309,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 309,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 309,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 329,
+   "totalFrom": "summary",
+   "totalText": "329,00 € | 329,00 € | 329,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "40 mm Desde 279 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 329 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 329,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 329,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Luz das estrelas"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde 279 €",
+     "44 mm Desde 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 279 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 329 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 329,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 329 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 379 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 329,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 329,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 329,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 359,
+   "totalFrom": "summary",
+   "totalText": "359,00 € | 359,00 € | 359,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "44 mm Desde 309 €",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 359 €",
+    "category": "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 359,00 €",
+    "rubber-style": "Novas cores Bracelete Solo 359,00 € Ajuste preciso, sem fecho, extensível",
+    "rubber-sololoop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Luz das estrelas"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde 279 €",
+     "44 mm Desde 309 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça chamadas e envie mensagens com o iPhone por perto. Desde 309 €",
+     "GPS + Cellular Faça chamadas e envie mensagens usando apenas o Apple Watch. Desde 359 €"
+    ],
+    "category": [
+     "Borracha Braceletes flexíveis, confortáveis e adequadas para natação. 359,00 €",
+     "Têxteis Materiais leves e confortáveis. Ideal para usar no dia a dia. Desde 359 €",
+     "Aço inoxidável Design em aço cuidadosamente concebido para um visual sofisticado. Desde 409 €"
+    ],
+    "rubber-style": [
+     "Novas cores Bracelete Solo 359,00 € Ajuste preciso, sem fecho, extensível",
+     "Novas cores Bracelete desportiva 359,00 € Fecho de clip, resistente, ajustável",
+     "Novas cores Bracelete desportiva Nike 359,00 € Fecho de clip, respirável, ajustável"
+    ],
+    "rubber-sololoop-color": [
+     "Bordô",
+     "Azeitona",
+     "Azul Navy",
+     "Azul silvestre",
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

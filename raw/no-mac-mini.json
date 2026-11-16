@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:09.567Z",
+ "configs": {
+  "m6": {
+   "total": 11990,
+   "totalFrom": "summary",
+   "totalText": "kr 11 990,00 | kr 11 990,00",
+   "selected": {
+    "processor-dimensionChip": "M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU med dobbel 16-kjerners Neural Engine Fra kr 11 990",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Inkludert",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "256 GB Inkludert",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardnettverk, dataoverføring på opptil 2,5 Gb Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU med dobbel 16-kjerners Neural Engine Fra kr 11 990",
+     "M5 Pro-chip Bedre ytelse og mer minne for krevende arbeidsoppgaver. 2 alternativer med 16-kjerners Neural Engine Fra kr 22 990"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Inkludert"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert",
+     "24 GB + kr 3 000,00",
+     "32 GB + kr 6 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Inkludert",
+     "512 GB + kr 3 000,00",
+     "1 TB + kr 7 500,00",
+     "2 TB + kr 15 000,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardnettverk, dataoverføring på opptil 2,5 Gb Inkludert",
+     "10 Gigabit Ethernet Større båndbredde, dataoverføring på opptil 10 Gb. + kr 1 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 22990,
+   "totalFrom": "summary",
+   "totalText": "kr 22 990,00 | kr 22 990,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro-chip Bedre ytelse og mer minne for krevende arbeidsoppgaver. 2 alternativer med 16-kjerners Neural Engine Fra kr 22 990",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑kjerners CPU, 16‑kjerners GPU Inkludert",
+    "memory-dimensionMemory": "24 GB Inkludert",
+    "storage-dimensionCapacity": "512 GB Inkludert",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardnettverk, dataoverføring på opptil 2,5 Gb Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU med dobbel 16-kjerners Neural Engine Fra kr 11 990",
+     "M5 Pro-chip Bedre ytelse og mer minne for krevende arbeidsoppgaver. 2 alternativer med 16-kjerners Neural Engine Fra kr 22 990"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑kjerners CPU, 16‑kjerners GPU Inkludert",
+     "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. + kr 3 000,00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkludert",
+     "48 GB + kr 9 000,00",
+     "64 GB + kr 15 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkludert",
+     "1 TB + kr 4 500,00",
+     "2 TB + kr 12 000,00",
+     "4 TB + kr 27 000,00",
+     "8 TB + kr 57 000,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardnettverk, dataoverføring på opptil 2,5 Gb Inkludert",
+     "10 Gigabit Ethernet Større båndbredde, dataoverføring på opptil 10 Gb. + kr 1 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 25990,
+   "totalFrom": "summary",
+   "totalText": "kr 25 990,00 | kr 25 990,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro-chip Bedre ytelse og mer minne for krevende arbeidsoppgaver. 2 alternativer med 16-kjerners Neural Engine Fra kr 22 990",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video.",
+    "memory-dimensionMemory": "24 GB Inkludert",
+    "storage-dimensionCapacity": "512 GB Inkludert",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardnettverk, dataoverføring på opptil 2,5 Gb Inkludert"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU med dobbel 16-kjerners Neural Engine Fra kr 11 990",
+     "M5 Pro-chip Bedre ytelse og mer minne for krevende arbeidsoppgaver. 2 alternativer med 16-kjerners Neural Engine Fra kr 22 990"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑kjerners CPU, 16‑kjerners GPU − kr 3 000,00",
+     "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkludert",
+     "48 GB + kr 9 000,00",
+     "64 GB + kr 15 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkludert",
+     "1 TB + kr 4 500,00",
+     "2 TB + kr 12 000,00",
+     "4 TB + kr 27 000,00",
+     "8 TB + kr 57 000,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardnettverk, dataoverføring på opptil 2,5 Gb Inkludert",
+     "10 Gigabit Ethernet Større båndbredde, dataoverføring på opptil 10 Gb. + kr 1 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

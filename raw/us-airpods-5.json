@@ -2,7 +2,7 @@
  "page": "airpods-5",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-airpods/airpods-5",
- "scrapedAt": "2026-11-13T05:01:53.544Z",
+ "scrapedAt": "2026-11-16T13:32:03.899Z",
  "configs": {
   "default": {
    "total": 129,
@@ -235,7 +235,8 @@
      "􀚻",
      "􀚼"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

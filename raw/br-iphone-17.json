@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T11:59:55.189Z",
+ "configs": {
+  "default": {
+   "total": 8299,
+   "totalFrom": "summary",
+   "totalText": "R$ 8.299,00 | R$ 8.299,00 | R$ 8.299,00",
+   "selected": {
+    "dimensionColor": "Lavanda",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 R$ 8.299,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavanda",
+     "Azul-névoa",
+     "Branco",
+     "Sálvia",
+     "Preto"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 R$ 8.299,00",
+     "512 GB Nota de rodapé 1 R$ 9.799,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

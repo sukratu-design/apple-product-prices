@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:38.398Z",
+ "configs": {
+  "256": {
+   "total": 5499,
+   "totalFrom": "summary",
+   "totalText": "HK$5,499 | HK$5,499 | HK$5,499",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From HK$5,499"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From HK$5,499",
+     "512 GB Magic Keyboard with Touch ID From HK$6,499"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 6499,
+   "totalFrom": "summary",
+   "totalText": "HK$6,499 | HK$6,499 | HK$6,499",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard with Touch ID From HK$6,499"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From HK$5,499",
+     "512 GB Magic Keyboard with Touch ID From HK$6,499"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

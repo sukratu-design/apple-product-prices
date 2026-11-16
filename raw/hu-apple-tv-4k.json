@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:27:40.811Z",
+ "configs": {
+  "default": {
+   "total": 129990,
+   "totalFrom": "summary",
+   "totalText": "129 990 Ft",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

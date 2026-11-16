@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:34.195Z",
+ "configs": {
+  "15": {
+   "total": 1699,
+   "totalFrom": "summary",
+   "totalText": "1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "15 pouces À partir de 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Bleu ciel",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pouces À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "15 pouces À partir de 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Bleu ciel",
+     "Argent",
+     "Lumière stellaire",
+     "Minuit"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus",
+     "1 To + 330,00 €",
+     "2 To + 880,00 €",
+     "4 To + 1 980,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1399,
+   "totalFrom": "summary",
+   "totalText": "1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pouces À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Bleu ciel",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 cœurs, GPU 8 cœurs, Neural Engine 16 cœurs Apporte rapidité et fluidité à tout ce que vous faites. À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pouces À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "15 pouces À partir de 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Bleu ciel",
+     "Argent",
+     "Lumière stellaire",
+     "Minuit"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 cœurs, GPU 8 cœurs, Neural Engine 16 cœurs Apporte rapidité et fluidité à tout ce que vous faites. À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 509 € ou 45,08 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1729,
+   "totalFrom": "summary",
+   "totalText": "1 729 € ou 51,66 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊ | 1 729 € ou 51,66 €/mois par mois pour 36 mois à 4.79 % taux débiteur Note de bas de page ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pouces À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "chassis-dimensionColor": "Bleu ciel",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 509 € ou 45,08 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "1 To"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pouces À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "15 pouces À partir de 1 699 € ou 50,76 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "chassis-dimensionColor": [
+     "Bleu ciel",
+     "Argent",
+     "Lumière stellaire",
+     "Minuit"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 cœurs, GPU 8 cœurs, Neural Engine 16 cœurs Apporte rapidité et fluidité à tout ce que vous faites. À partir de 1 399 € ou 41,80 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 509 € ou 45,08 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go − 330,00 €",
+     "1 To",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

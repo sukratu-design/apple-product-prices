@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:27:57.288Z",
+ "configs": {
+  "default": {
+   "total": 399,
+   "totalFrom": "summary",
+   "totalText": "€39.00 | €399.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

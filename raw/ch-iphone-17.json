@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:23.480Z",
+ "configs": {
+  "default": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "CHF 899.00 | CHF 899.00 | CHF 899.00",
+   "selected": {
+    "dimensionColor": "Lavendel",
+    "dimensionCapacity": "256 GB Fußnote 1 CHF 899.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavendel",
+     "Nebelblau",
+     "Weiß",
+     "Salbei",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 CHF 899.00",
+     "512 GB Fußnote 1 CHF 1 099.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

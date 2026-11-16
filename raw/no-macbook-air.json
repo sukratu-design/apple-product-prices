@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:11.819Z",
+ "configs": {
+  "15": {
+   "total": 19990,
+   "totalFrom": "summary",
+   "totalText": "kr 19 990,00 | kr 19 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "15 tommer Fra kr 19 990",
+    "chassis-dimensionColor": "himmelblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑kjerners CPU, 10‑kjerners GPU, 16‑kjerners Neural Engine Få fart på krevende aktiviteter som spilling og kreativt arbeid med mer prosessorkraft og raskere rendring av grafikk. Fra kr 19 990",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "512 GB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tommer Fra kr 17 490",
+     "15 tommer Fra kr 19 990"
+    ],
+    "chassis-dimensionColor": [
+     "himmelblå",
+     "sølv",
+     "stjerneskinn",
+     "midnatt"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑kjerners CPU, 10‑kjerners GPU, 16‑kjerners Neural Engine Få fart på krevende aktiviteter som spilling og kreativt arbeid med mer prosessorkraft og raskere rendring av grafikk. Fra kr 19 990"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert",
+     "24 GB + kr 3 000,00",
+     "32 GB + kr 6 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkludert",
+     "1 TB + kr 4 500,00",
+     "2 TB + kr 12 000,00",
+     "4 TB + kr 27 000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 17490,
+   "totalFrom": "summary",
+   "totalText": "kr 17 490,00 | kr 17 490,00",
+   "selected": {
+    "chassis-dimensionScreensize": "13 tommer Fra kr 17 490",
+    "chassis-dimensionColor": "himmelblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑kjerners CPU, 8‑kjerners GPU, 16‑kjerners Neural Engine Få bedre hastighet og flyt i alt du gjør. Fra kr 17 490",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "512 GB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tommer Fra kr 17 490",
+     "15 tommer Fra kr 19 990"
+    ],
+    "chassis-dimensionColor": [
+     "himmelblå",
+     "sølv",
+     "stjerneskinn",
+     "midnatt"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑kjerners CPU, 8‑kjerners GPU, 16‑kjerners Neural Engine Få bedre hastighet og flyt i alt du gjør. Fra kr 17 490",
+     "10‑kjerners CPU, 10‑kjerners GPU, 16‑kjerners Neural Engine Få fart på krevende aktiviteter som spilling og kreativt arbeid med mer prosessorkraft og raskere rendring av grafikk. Fra kr 18 990"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Inkludert"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 21990,
+   "totalFrom": "summary",
+   "totalText": "kr 21 990,00 | kr 21 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "13 tommer Fra kr 17 490",
+    "chassis-dimensionColor": "himmelblå",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑kjerners CPU, 10‑kjerners GPU, 16‑kjerners Neural Engine Få fart på krevende aktiviteter som spilling og kreativt arbeid med mer prosessorkraft og raskere rendring av grafikk. Fra kr 18 990",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 tommer Fra kr 17 490",
+     "15 tommer Fra kr 19 990"
+    ],
+    "chassis-dimensionColor": [
+     "himmelblå",
+     "sølv",
+     "stjerneskinn",
+     "midnatt"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑kjerners CPU, 8‑kjerners GPU, 16‑kjerners Neural Engine Få bedre hastighet og flyt i alt du gjør. Fra kr 17 490",
+     "10‑kjerners CPU, 10‑kjerners GPU, 16‑kjerners Neural Engine Få fart på krevende aktiviteter som spilling og kreativt arbeid med mer prosessorkraft og raskere rendring av grafikk. Fra kr 18 990"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert",
+     "24 GB + kr 3 000,00",
+     "32 GB + kr 6 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − kr 4 500,00",
+     "1 TB",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

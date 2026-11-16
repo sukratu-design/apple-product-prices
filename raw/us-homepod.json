@@ -2,17 +2,22 @@
  "page": "homepod",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-homepod/homepod",
- "scrapedAt": "2026-11-13T04:56:49.706Z",
+ "scrapedAt": "2026-11-16T13:31:44.496Z",
  "configs": {
   "default": {
    "total": 349,
+   "totalFrom": "summary",
    "totalText": "$349.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
    "options": {
     "dimensionColor": [
      "White",
      "Midnight"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

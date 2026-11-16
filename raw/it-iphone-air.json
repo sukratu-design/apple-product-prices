@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:05.579Z",
+ "configs": {
+  "default": {
+   "total": 1339,
+   "totalFrom": "summary",
+   "totalText": "€ 1.339,00 o € 55,79 al mese per 24 mesi, TAN fisso 0% Nota ① | € 1.339,00 o € 55,79 al mese per 24 mesi, TAN fisso 0% Nota ①",
+   "selected": {
+    "dimensionColor": "Celeste",
+    "dimensionCapacity": "256GB Nota 1 € 1.339,00 o € 55,79 al mese per 24 mesi, TAN fisso 0% Nota ①"
+   },
+   "options": {
+    "dimensionColor": [
+     "Celeste",
+     "Bianco nuvola",
+     "Nero siderale",
+     "Oro chiaro"
+    ],
+    "dimensionCapacity": [
+     "256GB Nota 1 € 1.339,00 o € 55,79 al mese per 24 mesi, TAN fisso 0% Nota ①",
+     "512GB Nota 1 € 1.589,00 o € 66,21 al mese per 24 mesi, TAN fisso 0% Nota ①",
+     "1TB Nota 1 € 2.089,00 o € 87,04 al mese per 24 mesi, TAN fisso 0% Nota ①"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

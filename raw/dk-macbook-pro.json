@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:26.211Z",
+ "configs": {
+  "14-m6": {
+   "total": 17999,
+   "totalFrom": "summary",
+   "totalText": "17.999,00 kr. | 17.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "Nyhed M6-chip Lynhurtig med ydeevne i topklasse til de personlige, professionelle og kreative opgaver, du udfører hver dag. 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 17.999 kr.",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Inkluderet",
+    "memory-dimensionMemory": "16 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "Nyhed M6-chip Lynhurtig med ydeevne i topklasse til de personlige, professionelle og kreative opgaver, du udfører hver dag. 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 17.999 kr.",
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr."
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Inkluderet"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkluderet",
+     "24 GB + 2.000,00 kr.",
+     "32 GB + 4.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkluderet",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 22999,
+   "totalFrom": "summary",
+   "totalText": "22.999,00 kr. | 22.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Inkluderet",
+    "memory-dimensionMemory": "24 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "Nyhed M6-chip Lynhurtig med ydeevne i topklasse til de personlige, professionelle og kreative opgaver, du udfører hver dag. 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 17.999 kr.",
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr."
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Inkluderet",
+     "18‑core CPU, 20‑core GPU Optimer din processorkraft og grafiske ydeevne til krævende opgaver som spil, kodning og kreative opgaver. + 2.000,00 kr."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkluderet",
+     "48 GB + 6.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkluderet",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 24999,
+   "totalFrom": "summary",
+   "totalText": "24.999,00 kr. | 24.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Optimer din processorkraft og grafiske ydeevne til krævende opgaver som spil, kodning og kreative opgaver.",
+    "memory-dimensionMemory": "24 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB Inkluderet",
+    "power_adapter-wattage": "Ingen strømforsyning"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "Nyhed M6-chip Lynhurtig med ydeevne i topklasse til de personlige, professionelle og kreative opgaver, du udfører hver dag. 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 17.999 kr.",
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr."
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − 2.000,00 kr.",
+     "18‑core CPU, 20‑core GPU Optimer din processorkraft og grafiske ydeevne til krævende opgaver som spil, kodning og kreative opgaver."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkluderet",
+     "48 GB + 6.000,00 kr.",
+     "64 GB + 10.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkluderet",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr."
+    ],
+    "power_adapter-wattage": [
+     "Ingen strømforsyning",
+     "96 W Hurtig opladning, understøtter energikrævende tilstand med M5 Pro- og M5 Max-chippen. + 679,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 38999,
+   "totalFrom": "summary",
+   "totalText": "38.999,00 kr. | 38.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Inkluderet",
+    "memory-dimensionMemory": "36 GB Inkluderet",
+    "storage-dimensionCapacity": "2 TB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "Nyhed M6-chip Lynhurtig med ydeevne i topklasse til de personlige, professionelle og kreative opgaver, du udfører hver dag. 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 17.999 kr.",
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Inkluderet",
+     "18‑core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. + 3.000,00 kr. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Inkluderet"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkluderet",
+     "4 TB + 10.000,00 kr.",
+     "8 TB + 30.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 44999,
+   "totalFrom": "summary",
+   "totalText": "44.999,00 kr. | 44.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac.",
+    "memory-dimensionMemory": "48 GB Inkluderet",
+    "storage-dimensionCapacity": "2 TB Inkluderet",
+    "power_adapter-wattage": "Ingen strømforsyning"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "Nyhed M6-chip Lynhurtig med ydeevne i topklasse til de personlige, professionelle og kreative opgaver, du udfører hver dag. 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 17.999 kr.",
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 22.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 38.999 kr."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − 3.000,00 kr.",
+     "18‑core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Inkluderet",
+     "64 GB + 4.000,00 kr.",
+     "128 GB + 20.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkluderet",
+     "4 TB + 10.000,00 kr.",
+     "8 TB + 30.000,00 kr."
+    ],
+    "power_adapter-wattage": [
+     "Ingen strømforsyning",
+     "96 W Hurtig opladning, understøtter energikrævende tilstand med M5 Pro- og M5 Max-chippen. + 679,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 26999,
+   "totalFrom": "summary",
+   "totalText": "26.999,00 kr. | 26.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 18-core CPU, 20-core GPU, 16-core Neural Engine Fra 26.999 kr.",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Optimer din processorkraft og grafiske ydeevne til krævende opgaver som spil, kodning og kreative opgaver. Inkluderet",
+    "memory-dimensionMemory": "24 GB Inkluderet",
+    "storage-dimensionCapacity": "1 TB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 18-core CPU, 20-core GPU, 16-core Neural Engine Fra 26.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 40.999 kr."
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 20‑core GPU Optimer din processorkraft og grafiske ydeevne til krævende opgaver som spil, kodning og kreative opgaver. Inkluderet"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkluderet",
+     "48 GB + 6.000,00 kr.",
+     "64 GB + 10.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkluderet",
+     "2 TB + 5.000,00 kr.",
+     "4 TB + 15.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 40999,
+   "totalFrom": "summary",
+   "totalText": "40.999,00 kr. | 40.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 40.999 kr.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Inkluderet",
+    "memory-dimensionMemory": "36 GB Inkluderet",
+    "storage-dimensionCapacity": "2 TB Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 18-core CPU, 20-core GPU, 16-core Neural Engine Fra 26.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 40.999 kr."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Inkluderet",
+     "18‑core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. + 3.000,00 kr. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Inkluderet"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkluderet",
+     "4 TB + 10.000,00 kr.",
+     "8 TB + 30.000,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 46999,
+   "totalFrom": "summary",
+   "totalText": "46.999,00 kr. | 46.999,00 kr.",
+   "selected": {
+    "chassis-dimensionScreensize": "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr.",
+    "chassis-dimensionColor": "space black",
+    "display-dimensionFinish": "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "processor-dimensionChip": "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 40.999 kr.",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac.",
+    "memory-dimensionMemory": "48 GB Inkluderet",
+    "storage-dimensionCapacity": "2 TB Inkluderet",
+    "power_adapter-wattage": "Ingen strømforsyning"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Fås med M6-, M5 Pro- eller M5 Max-chip. Fra 17.999 kr.",
+     "16\" Fås med M5 Pro- eller M5 Max-chip. Fra 26.999 kr."
+    ],
+    "chassis-dimensionColor": [
+     "space black",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskærm Udviklet med lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Skærm med nanotekstur Reducerer endnu mere genskin og refleksioner i omgivelser med skarpt lys. + 1.500,00 kr."
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Leverer bedre ydeevne og mere hukommelse til dine mest krævende arbejdsgange. 18-core CPU, 20-core GPU, 16-core Neural Engine Fra 26.999 kr.",
+     "M5 Max-chip Den stærkeste chip, vi nogensinde har lavet til en avanceret bærbar. Skabt til ekstreme arbejdsgange. 2 muligheder med 16-core Neural Engine Fra 40.999 kr."
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − 3.000,00 kr.",
+     "18‑core CPU, 40‑core GPU Optimer din processorkraft og grafiske ydeevne, og sæt turbo på store sprogmodeller og redigering af 8K-video. Dette valg forudsætter en opgradering til 48 GB hukommelse, hvilket øger den samlede pris på din Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Inkluderet",
+     "64 GB + 4.000,00 kr.",
+     "128 GB + 20.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkluderet",
+     "4 TB + 10.000,00 kr.",
+     "8 TB + 30.000,00 kr."
+    ],
+    "power_adapter-wattage": [
+     "Ingen strømforsyning",
+     "140 W Hurtig opladning, understøtter energikrævende tilstand med M5 Pro- og M5 Max-chippen. + 849,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

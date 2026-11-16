@@ -2,12 +2,12 @@
  "page": "airpods-pro-3",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-airpods/airpods-pro-3",
- "scrapedAt": "2026-11-13T11:13:55.154Z",
+ "scrapedAt": "2026-11-16T13:25:12.519Z",
  "configs": {
   "default": {
    "total": 429,
-   "totalFrom": "page-first",
-   "totalText": "",
+   "totalFrom": "summary",
+   "totalText": "A$429.00",
    "selected": {
     "engraving-option-select-app": null,
     "app_0_0_0": null,

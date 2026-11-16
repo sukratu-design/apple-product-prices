@@ -2,16 +2,16 @@
  "page": "ipad-air",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
- "scrapedAt": "2026-11-13T11:02:38.417Z",
+ "scrapedAt": "2026-11-16T12:29:26.419Z",
  "configs": {
   "11-wifi": {
    "total": 2999,
    "totalFrom": "summary",
-   "totalText": "AED 2,999.00",
+   "totalText": "AED 2,999.00 | AED 2,999.00 | AED 529.00 | AED 319.00 | AED 1,099.00 | AED 1,199.00 | AED 2,999.00",
    "selected": {
     "dimensionScreensize": "11-inch model From AED 2,999",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From AED 2,999",
+    "dimensionCapacity": "128GB From AED 2,999",
     "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 2,999.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -38,10 +38,10 @@
      "Space Gray"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From AED 2,999",
-     "256GB Footnote 2 From AED 3,399",
-     "512GB Footnote 2 From AED 4,199",
-     "1TB Footnote 2 From AED 5,399"
+     "128GB From AED 2,999",
+     "256GB From AED 3,399",
+     "512GB From AED 4,199",
+     "1TB From AED 5,399"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 2,999.00",
@@ -276,7 +276,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
@@ -288,7 +288,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirAED 1,199.00"
+     "Add Magic Keyboard for iPad Air AED 1,199.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -299,11 +299,11 @@
   "11-cell": {
    "total": 3599,
    "totalFrom": "summary",
-   "totalText": "AED 3,599.00",
+   "totalText": "AED 3,599.00 | AED 3,599.00 | AED 529.00 | AED 319.00 | AED 1,099.00 | AED 1,199.00 | AED 3,599.00",
    "selected": {
     "dimensionScreensize": "11-inch model From AED 2,999",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From AED 2,999",
+    "dimensionCapacity": "128GB From AED 2,999",
     "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. AED 3,599.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -330,10 +330,10 @@
      "Space Gray"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From AED 2,999",
-     "256GB Footnote 2 From AED 3,399",
-     "512GB Footnote 2 From AED 4,199",
-     "1TB Footnote 2 From AED 5,399"
+     "128GB From AED 2,999",
+     "256GB From AED 3,399",
+     "512GB From AED 4,199",
+     "1TB From AED 5,399"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 2,999.00",
@@ -568,7 +568,7 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
@@ -580,7 +580,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirAED 1,199.00"
+     "Add Magic Keyboard for iPad Air AED 1,199.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -591,11 +591,11 @@
   "13-wifi": {
    "total": 3999,
    "totalFrom": "summary",
-   "totalText": "AED 3,999.00",
+   "totalText": "AED 3,999.00 | AED 3,999.00 | AED 529.00 | AED 319.00 | AED 1,099.00 | AED 1,199.00 | AED 3,999.00",
    "selected": {
     "dimensionScreensize": "13-inch model From AED 3,999",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From AED 3,999",
+    "dimensionCapacity": "128GB From AED 3,999",
     "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 3,999.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -622,10 +622,10 @@
      "Space Gray"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From AED 3,999",
-     "256GB Footnote 2 From AED 4,399",
-     "512GB Footnote 2 From AED 5,199",
-     "1TB Footnote 2 From AED 6,399"
+     "128GB From AED 3,999",
+     "256GB From AED 4,399",
+     "512GB From AED 5,199",
+     "1TB From AED 6,399"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 3,999.00",
@@ -862,18 +862,18 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad AirAED 1,099.00"
+     "Add Magic Keyboard for iPad Air AED 1,099.00"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirAED 1,199.00"
+     "Add Magic Keyboard for iPad Air AED 1,199.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -884,11 +884,11 @@
   "13-cell": {
    "total": 4599,
    "totalFrom": "summary",
-   "totalText": "AED 4,599.00",
+   "totalText": "AED 4,599.00 | AED 4,599.00 | AED 529.00 | AED 319.00 | AED 1,099.00 | AED 1,199.00 | AED 4,599.00",
    "selected": {
     "dimensionScreensize": "13-inch model From AED 3,999",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From AED 3,999",
+    "dimensionCapacity": "128GB From AED 3,999",
     "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. AED 4,599.00",
     "engraving-option-select-app": null,
     "acc_pencil": null,
@@ -915,10 +915,10 @@
      "Space Gray"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From AED 3,999",
-     "256GB Footnote 2 From AED 4,399",
-     "512GB Footnote 2 From AED 5,199",
-     "1TB Footnote 2 From AED 6,399"
+     "128GB From AED 3,999",
+     "256GB From AED 4,399",
+     "512GB From AED 5,199",
+     "1TB From AED 6,399"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 3,999.00",
@@ -1155,18 +1155,18 @@
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad AirAED 1,099.00"
+     "Add Magic Keyboard for iPad Air AED 1,099.00"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad AirAED 1,199.00"
+     "Add Magic Keyboard for iPad Air AED 1,199.00"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",

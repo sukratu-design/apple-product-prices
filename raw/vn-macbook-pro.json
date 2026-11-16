@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:51:03.346Z",
+ "configs": {
+  "14-m6": {
+   "total": 54999000,
+   "totalFrom": "summary",
+   "totalText": "54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Mới Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Có sẵn",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "1TB Có sẵn",
+    "power_adapter-wattage": "70W Kích cỡ nhỏ gọn, sạc hiệu quả. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Mới Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Có sẵn"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn",
+     "24GB + 5.500.000đ",
+     "32GB + 11.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Có sẵn",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ"
+    ],
+    "power_adapter-wattage": [
+     "70W Kích cỡ nhỏ gọn, sạc hiệu quả. Có sẵn",
+     "96W Sạc nhanh, hỗ trợ Chế Độ Nguồn Điện Cao với chip M5 Pro và M5 Max. + 491.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 68999000,
+   "totalFrom": "summary",
+   "totalText": "68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15 lõi, GPU 16 lõi Có sẵn",
+    "memory-dimensionMemory": "24GB Có sẵn",
+    "storage-dimensionCapacity": "1TB Có sẵn",
+    "power_adapter-wattage": "70W Kích cỡ nhỏ gọn, sạc hiệu quả. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Mới Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 lõi, GPU 16 lõi Có sẵn",
+     "CPU 18 lõi, GPU 20 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa cho các tác vụ chuyên sâu như chơi game, viết code và công việc sáng tạo. + 6.250.000đ"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Có sẵn",
+     "48GB + 16.500.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Có sẵn",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ"
+    ],
+    "power_adapter-wattage": [
+     "70W Kích cỡ nhỏ gọn, sạc hiệu quả. Có sẵn",
+     "96W Sạc nhanh, hỗ trợ Chế Độ Nguồn Điện Cao với chip M5 Pro và M5 Max. + 491.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 75249000,
+   "totalFrom": "summary",
+   "totalText": "75.249.000đ hoặc 3.064.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 75.249.000đ hoặc 3.064.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 lõi, GPU 20 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa cho các tác vụ chuyên sâu như chơi game, viết code và công việc sáng tạo.",
+    "memory-dimensionMemory": "24GB Có sẵn",
+    "storage-dimensionCapacity": "1TB Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Mới Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15 lõi, GPU 16 lõi − 6.250.000đ",
+     "CPU 18 lõi, GPU 20 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa cho các tác vụ chuyên sâu như chơi game, viết code và công việc sáng tạo."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Có sẵn",
+     "48GB + 16.500.000đ",
+     "64GB + 27.500.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Có sẵn",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 112999000,
+   "totalFrom": "summary",
+   "totalText": "112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 lõi, GPU 32 lõi Có sẵn",
+    "memory-dimensionMemory": "36GB Có sẵn",
+    "storage-dimensionCapacity": "2TB Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Mới Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 lõi, GPU 32 lõi Có sẵn",
+     "CPU 18 lõi, GPU 40 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. + 8.250.000đ Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Có sẵn"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Có sẵn",
+     "4TB + 27.500.000đ",
+     "8TB + 82.500.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 129499000,
+   "totalFrom": "summary",
+   "totalText": "129.499.000đ hoặc 5.273.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 129.499.000đ hoặc 5.273.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 lõi, GPU 40 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn.",
+    "memory-dimensionMemory": "48GB Có sẵn",
+    "storage-dimensionCapacity": "2TB Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Mới Chip M6 Nhanh như chớp, với hiệu suất vượt trội hơn, phù hợp cho các tác vụ cá nhân, công việc và sáng tạo hàng ngày. CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. 2 tùy chọn với Neural Engine 16 lõi Từ 68.999.000đ hoặc 2.809.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 112.999.000đ hoặc 4.601.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 lõi, GPU 32 lõi − 8.250.000đ",
+     "CPU 18 lõi, GPU 40 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Có sẵn",
+     "64GB + 11.000.000đ",
+     "128GB + 55.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Có sẵn",
+     "4TB + 27.500.000đ",
+     "8TB + 82.500.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 81999000,
+   "totalFrom": "summary",
+   "totalText": "81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. CPU 18 lõi, GPU 20 lõi, Neural Engine 16 lõi Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 lõi, GPU 20 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa cho các tác vụ chuyên sâu như chơi game, viết code và công việc sáng tạo. Có sẵn",
+    "memory-dimensionMemory": "24GB Có sẵn",
+    "storage-dimensionCapacity": "1TB Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. CPU 18 lõi, GPU 20 lõi, Neural Engine 16 lõi Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 lõi, GPU 20 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa cho các tác vụ chuyên sâu như chơi game, viết code và công việc sáng tạo. Có sẵn"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Có sẵn",
+     "48GB + 16.500.000đ",
+     "64GB + 27.500.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Có sẵn",
+     "2TB + 13.750.000đ",
+     "4TB + 41.250.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 119999000,
+   "totalFrom": "summary",
+   "totalText": "119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 lõi, GPU 32 lõi Có sẵn",
+    "memory-dimensionMemory": "36GB Có sẵn",
+    "storage-dimensionCapacity": "2TB Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. CPU 18 lõi, GPU 20 lõi, Neural Engine 16 lõi Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 lõi, GPU 32 lõi Có sẵn",
+     "CPU 18 lõi, GPU 40 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. + 6.750.000đ Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Có sẵn"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Có sẵn",
+     "4TB + 27.500.000đ",
+     "8TB + 82.500.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 134999000,
+   "totalFrom": "summary",
+   "totalText": "134.999.000đ hoặc 5.497.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 134.999.000đ hoặc 5.497.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+    "chassis-dimensionColor": "Đen Không Gian",
+    "display-dimensionFinish": "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "processor-dimensionChip": "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 lõi, GPU 40 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn.",
+    "memory-dimensionMemory": "48GB Có sẵn",
+    "storage-dimensionCapacity": "2TB Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 inch Có chip M6, M5 Pro hoặc M5 Max. Từ 54.999.000đ hoặc 2.239.000đ/tháng mỗi tháng trong 24 tháng",
+     "16 inch Có chip M5 Pro hoặc M5 Max. Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "chassis-dimensionColor": [
+     "Đen Không Gian",
+     "Bạc"
+    ],
+    "display-dimensionFinish": [
+     "Màn hình tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Màn hình Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. + 4.125.000đ"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Cung cấp thêm hiệu suất và các tùy chọn bộ nhớ lớn hơn cho các luồng công việc phức tạp hơn. CPU 18 lõi, GPU 20 lõi, Neural Engine 16 lõi Từ 81.999.000đ hoặc 3.339.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M5 Max Một con chip vô cùng mạnh mẽ được thiết kế cho những chiếc laptop pro. Được thiết kế cho những luồng công việc cực kỳ phức tạp. 2 tùy chọn với Neural Engine 16 lõi Từ 119.999.000đ hoặc 4.886.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 lõi, GPU 32 lõi − 6.750.000đ",
+     "CPU 18 lõi, GPU 40 lõi Tăng cường tốc độ xử lý và kết xuất đồ họa, đồng thời đẩy nhanh tiến độ cho các tác vụ như chạy mô hình ngôn ngữ lớn và chỉnh sửa video 8K. Tùy chọn này yêu cầu phải nâng cấp bộ nhớ lên 48GB và sẽ làm tăng tổng giá tiền cho Mac của bạn."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Có sẵn",
+     "64GB + 11.000.000đ",
+     "128GB + 55.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Có sẵn",
+     "4TB + 27.500.000đ",
+     "8TB + 82.500.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

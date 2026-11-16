@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:01:54.709Z",
+ "configs": {
+  "default": {
+   "total": 6999,
+   "totalFrom": "summary",
+   "totalText": "R$ 6.999,00 | R$ 6.999,00 | R$ 6.999,00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 Tela de 6,1 polegadas Nota de rodapé 1Vem com 128 GB de armazenamento A partir de R$ 6.999",
+    "dimensionColor": "Ultramarino"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 Tela de 6,1 polegadas Nota de rodapé 1Vem com 128 GB de armazenamento A partir de R$ 6.999"
+    ],
+    "dimensionColor": [
+     "Ultramarino",
+     "Verde-acinzentado",
+     "Branco",
+     "Rosa",
+     "Preto"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

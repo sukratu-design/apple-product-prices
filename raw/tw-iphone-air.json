@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:37.265Z",
+ "configs": {
+  "default": {
+   "total": 39900,
+   "totalFrom": "summary",
+   "totalText": "NT$39,900 | NT$39,900 | NT$39,900",
+   "selected": {
+    "dimensionColor": "天藍色",
+    "dimensionCapacity": "256GB 註腳 1 NT$39,900"
+   },
+   "options": {
+    "dimensionColor": [
+     "天藍色",
+     "雲白色",
+     "太空黑色",
+     "淺金色"
+    ],
+    "dimensionCapacity": [
+     "256GB 註腳 1 NT$39,900",
+     "512GB 註腳 1 NT$46,900",
+     "1TB 註腳 1 NT$61,900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:27:00.295Z",
+ "configs": {
+  "default": {
+   "total": 169,
+   "totalFrom": "summary",
+   "totalText": "19,00 € | 169,00 €",
+   "selected": {
+    "dimensionColor": "Blanco"
+   },
+   "options": {
+    "dimensionColor": [
+     "Blanco",
+     "Rosa",
+     "Azul",
+     "Verde",
+     "Medianoche"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,7 +2,7 @@
  "page": "ipad-mini",
  "country": "jp",
  "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-mini",
- "scrapedAt": "2026-11-14T03:48:05.965Z",
+ "scrapedAt": "2026-11-16T12:36:17.515Z",
  "configs": {
   "wifi": {
    "total": 119800,
@@ -10,9 +10,9 @@
    "totalText": "23,800円 | 14,800円 | 14,800円 | 119,800円",
    "selected": {
     "dimensionColor": "ミッドナイト",
-    "dimensionCapacity": "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-    "dimensionFinish": "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 119,800円 、または9,983円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから",
+    "dimensionFinish": "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 119,800円 、または9,983円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -30,16 +30,16 @@
      "スターライト"
     ],
     "dimensionCapacity": [
-     "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-     "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから 脚注 #",
-     "512GB A20 Proチップ： 6コアCPU、7コアGPU デュアル16コアNeural Engine 171,800円から 、または14,316円/月 月額 の12回払いから 脚注 #"
+     "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから",
+     "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから",
+     "512GB A20 Proチップ： 6コアCPU、7コアGPU デュアル16コアNeural Engine 171,800円から 、または14,316円/月 月額 の12回払いから"
     ],
     "dimensionFinish": [
-     "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #"
+     "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 119,800円 、または9,983円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 144,800円 、または12,066円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 119,800円 、または9,983円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 144,800円 、または12,066円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -269,7 +269,7 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "smart_folio": [
@@ -288,9 +288,9 @@
    "totalText": "23,800円 | 14,800円 | 14,800円 | 144,800円",
    "selected": {
     "dimensionColor": "ミッドナイト",
-    "dimensionCapacity": "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-    "dimensionFinish": "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 144,800円 、または12,066円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから",
+    "dimensionFinish": "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 144,800円 、または12,066円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -308,16 +308,16 @@
      "スターライト"
     ],
     "dimensionCapacity": [
-     "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-     "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから 脚注 #",
-     "512GB A20 Proチップ： 6コアCPU、7コアGPU デュアル16コアNeural Engine 171,800円から 、または14,316円/月 月額 の12回払いから 脚注 #"
+     "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから",
+     "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから",
+     "512GB A20 Proチップ： 6コアCPU、7コアGPU デュアル16コアNeural Engine 171,800円から 、または14,316円/月 月額 の12回払いから"
     ],
     "dimensionFinish": [
-     "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #"
+     "標準ガラス 119,800円から 、または9,983円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 119,800円 、または9,983円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 144,800円 、または12,066円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 119,800円 、または9,983円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 144,800円 、または12,066円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -547,7 +547,7 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "smart_folio": [
@@ -566,9 +566,9 @@
    "totalText": "23,800円 | 14,800円 | 14,800円 | 136,800円",
    "selected": {
     "dimensionColor": "ミッドナイト",
-    "dimensionCapacity": "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから 脚注 #",
-    "dimensionFinish": "標準ガラス 136,800円から 、または11,400円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 136,800円 、または11,400円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから",
+    "dimensionFinish": "標準ガラス 136,800円から 、または11,400円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 136,800円 、または11,400円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -586,17 +586,17 @@
      "スターライト"
     ],
     "dimensionCapacity": [
-     "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから 脚注 #",
-     "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから 脚注 #",
-     "512GB A20 Proチップ： 6コアCPU、7コアGPU デュアル16コアNeural Engine 171,800円から 、または14,316円/月 月額 の12回払いから 脚注 #"
+     "128GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 119,800円から 、または9,983円/月 月額 の12回払いから",
+     "256GB A20 Proチップ： 5コアCPU、7コアGPU 16コアNeural Engine 136,800円から 、または11,400円/月 月額 の12回払いから",
+     "512GB A20 Proチップ： 6コアCPU、7コアGPU デュアル16コアNeural Engine 171,800円から 、または14,316円/月 月額 の12回払いから"
     ],
     "dimensionFinish": [
-     "標準ガラス 136,800円から 、または11,400円/月 月額 の12回払いから 脚注 #",
-     "Nano-textureガラス 256GBまたは512GBストレージ搭載モデルで選択可能 153,800円から 、または12,816円/月 月額 の12回払いから 脚注 #"
+     "標準ガラス 136,800円から 、または11,400円/月 月額 の12回払いから",
+     "Nano-textureガラス 256GBまたは512GBストレージ搭載モデルで選択可能 153,800円から 、または12,816円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 136,800円 、または11,400円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 161,800円 、または13,483円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 136,800円 、または11,400円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 161,800円 、または13,483円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -823,7 +823,7 @@
      "Apple Pencilを追加しない"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "刻印を追加する無料",
+     "刻印を追加する 無料",
      "刻印しない"
     ],
     "smart_folio": [

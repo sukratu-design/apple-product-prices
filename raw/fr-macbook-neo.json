@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:42.007Z",
+ "configs": {
+  "256": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799,00 € ou 23,87 €/mois par mois sur 36 mois mois à 4,79 % d’intérêt | 799,00 € ou 23,87 €/mois par mois sur 36 mois mois à 4,79 % d’intérêt",
+   "selected": {
+    "chassis-dimensionColor": "Argent",
+    "storage-dimensionCapacity": "256 Go Magic Keyboard À partir de 799 € ou 23,87 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Argent",
+     "Rose poudré",
+     "Jaune agrume",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Go Magic Keyboard À partir de 799 € ou 23,87 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "512 Go Magic Keyboard avec Touch ID À partir de 899 € ou 26,86 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "899,00 € ou 26,86 €/mois par mois sur 36 mois mois à 4,79 % d’intérêt | 899,00 € ou 26,86 €/mois par mois sur 36 mois mois à 4,79 % d’intérêt",
+   "selected": {
+    "chassis-dimensionColor": "Argent",
+    "storage-dimensionCapacity": "512 Go Magic Keyboard avec Touch ID À partir de 899 € ou 26,86 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Argent",
+     "Rose poudré",
+     "Jaune agrume",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 Go Magic Keyboard À partir de 799 € ou 23,87 €/mois par mois pour 36 mois à 4.79 % taux débiteur",
+     "512 Go Magic Keyboard avec Touch ID À partir de 899 € ou 26,86 €/mois par mois pour 36 mois à 4.79 % taux débiteur"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

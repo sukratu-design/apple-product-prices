@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:16.583Z",
+ "configs": {
+  "pro": {
+   "total": 5699,
+   "totalFrom": "summary",
+   "totalText": "SAR 5,699.00 | SAR 5,699.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From SAR 5,699",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 SAR 5,699.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From SAR 5,699",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From SAR 6,099"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 SAR 5,699.00",
+     "512GB Footnote 1 SAR 6,699.00",
+     "1TB Footnote 1 SAR 8,699.00",
+     "2TB Footnote 1 SAR 11,699.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 6099,
+   "totalFrom": "summary",
+   "totalText": "SAR 6,099.00 | SAR 6,099.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From SAR 6,099",
+    "dimensionColor": "Burgundy",
+    "dimensionCapacity": "256GB Footnote 1 SAR 6,099.00"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From SAR 5,699",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From SAR 6,099"
+    ],
+    "dimensionColor": [
+     "Burgundy",
+     "Glacier",
+     "Silver",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 SAR 6,099.00",
+     "512GB Footnote 1 SAR 7,099.00",
+     "1TB Footnote 1 SAR 9,099.00",
+     "2TB Footnote 1 SAR 12,099.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

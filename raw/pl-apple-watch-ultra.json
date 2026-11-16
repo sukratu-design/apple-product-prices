@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:22.747Z",
+ "configs": {
+  "band": {
+   "total": 3799,
+   "totalFrom": "summary",
+   "totalText": "3 799,00 zł | 3 799,00 zł | 3 799,00 zł",
+   "selected": {
+    "watch_cases-dimensionColor": "czarny",
+    "style": "Nowe kolory Opaska Alpine Do wspinaczki i wszelkich przygód na świeżym powietrzu. 3 799,00 zł",
+    "alpineloop-color": "burgund",
+    "watch_bands-dimensionbandsize": "S Na nadgarstki o obwodzie od 130 do 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "czarny",
+     "naturalny"
+    ],
+    "style": [
+     "Nowe kolory Opaska Alpine Do wspinaczki i wszelkich przygód na świeżym powietrzu. 3 799,00 zł",
+     "Nowe kolory Opaska Trail Do wszystkich sportów i treningów. 3 799,00 zł",
+     "Nowe kolory Pasek Ocean Do sportów wodnych i nurkowania rekreacyjnego. 3 799,00 zł",
+     "Bransoleta mediolańska z tytanu Zaprojektowana z myślą o szerokich wodach, elegancka w każdej sytuacji. 4 299,00 zł"
+    ],
+    "alpineloop-color": [
+     "burgund",
+     "Ciemna oliwka",
+     "Pustynia"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S Na nadgarstki o obwodzie od 130 do 160 mm.",
+     "M Pasek na nadgarstki o obwodzie 145–190 mm.",
+     "L Pasek na nadgarstki o obwodzie 165–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 4299,
+   "totalFrom": "summary",
+   "totalText": "4 299,00 zł | 4 299,00 zł | 4 299,00 zł",
+   "selected": {
+    "watch_cases-dimensionColor": "czarny",
+    "style": "Bransoleta mediolańska z tytanu Zaprojektowana z myślą o szerokich wodach, elegancka w każdej sytuacji. 4 299,00 zł",
+    "ti_milaneseloop-color": "czarny",
+    "watch_bands-dimensionbandsize": "S Na nadgarstki o obwodzie od 130 do 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "czarny",
+     "naturalny"
+    ],
+    "style": [
+     "Nowe kolory Opaska Alpine Do wspinaczki i wszelkich przygód na świeżym powietrzu. 3 799,00 zł",
+     "Nowe kolory Opaska Trail Do wszystkich sportów i treningów. 3 799,00 zł",
+     "Nowe kolory Pasek Ocean Do sportów wodnych i nurkowania rekreacyjnego. 3 799,00 zł",
+     "Bransoleta mediolańska z tytanu Zaprojektowana z myślą o szerokich wodach, elegancka w każdej sytuacji. 4 299,00 zł"
+    ],
+    "ti_milaneseloop-color": [
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S Na nadgarstki o obwodzie od 130 do 160 mm.",
+     "M Na nadgarstki o obwodzie od 155 do 185 mm.",
+     "L Na nadgarstki o obwodzie od 180 do 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

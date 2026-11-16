@@ -2,40 +2,51 @@
  "page": "apple-watch",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-watch/apple-watch",
- "scrapedAt": "2026-11-13T04:55:46.513Z",
+ "scrapedAt": "2026-11-16T13:00:26.947Z",
  "configs": {
   "al-42-gps": {
    "total": 399,
-   "totalText": "Buy for $399.00 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $399.00 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ | Buy for $399.00 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Gray"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $14.08/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $14.08/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -56,40 +67,52 @@
      "8",
      "9"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "al-46-gps": {
-   "total": 449,
-   "totalText": "Buy for $449.00 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※",
+   "total": 399,
+   "totalFrom": "summary",
+   "totalText": "Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ | Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Gray"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.50/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $499 or $41.58/mo. per month for 12 mo. months Lease from $15.50/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -113,40 +136,52 @@
      "11",
      "12"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "al-42-cell": {
    "total": 499,
-   "totalText": "Buy for $499.00 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $499.00 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※ | Buy for $499.00 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Gray"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $17.25/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $549 or $45.75/mo. per month for 12 mo. months Lease from $17.25/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $499 or $41.58/mo. per month for 12 mo. months Footnote ‡ Lease from $15.16/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $499 or $41.58/mo. per month for 12 mo. months Lease from $15.16/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -167,40 +202,52 @@
      "8",
      "9"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "al-46-cell": {
    "total": 549,
-   "totalText": "Buy for $549.00 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $549.00 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※ | Buy for $549.00 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Gray"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS Make calls and send messages with your iPhone nearby. Buy from $449 or $37.41/mo. per month for 12 mo. months Footnote ‡ Lease from $13.42/mo. per month for 24 mo. months Footnote ※",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※"
+     "GPS Make calls and send messages with your iPhone nearby. Buy from $449 or $37.41/mo. per month for 12 mo. months Lease from $13.42/mo. per month for 24 mo. months with Apple Upgrade",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $599 or $49.91/mo. per month for 12 mo. months Footnote ‡ Lease from $18.71/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $599 or $49.91/mo. per month for 12 mo. months Lease from $18.71/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $549 or $45.75/mo. per month for 12 mo. months Footnote ‡ Lease from $16.62/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $549 or $45.75/mo. per month for 12 mo. months Lease from $16.62/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -224,37 +271,49 @@
      "11",
      "12"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "ti-42": {
    "total": 699,
-   "totalText": "Buy for $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ | Buy for $699.00 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "42mm Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "titanium-watch_cases-dimensionColor": [
      "New Radiant Gold",
      "Natural"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $699 or $58.25/mo. per month for 12 mo.months Footnote ‡ Terms apply. Lease from $20.99/mo. per month for 24 mo.months with Apple Upgrade Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $23.08/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $23.08/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -274,38 +333,54 @@
      "7",
      "8",
      "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
     ]
    }
   },
   "ti-46": {
    "total": 749,
-   "totalText": "Buy for $749.00 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $749.00 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※ | Buy for $749.00 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "46mm Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "titanium-watch_cases-dimensionColor": [
      "New Radiant Gold",
      "Natural"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $749 or $62.41/mo. per month for 12 mo.months Footnote ‡ Terms apply. Lease from $22.45/mo. per month for 24 mo.months with Apple Upgrade Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $799 or $66.58/mo. per month for 12 mo. months Footnote ‡ Lease from $24.54/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $799 or $66.58/mo. per month for 12 mo. months Lease from $24.54/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $749 or $62.41/mo. per month for 12 mo. months Footnote ‡ Lease from $22.45/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $749 or $62.41/mo. per month for 12 mo. months Lease from $22.45/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -329,37 +404,53 @@
      "11",
      "12"
     ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
    }
   },
   "ce-42": {
    "total": 899,
-   "totalText": "Buy for $899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ | Buy for $899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "42mm Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "ceramic-watch_cases-dimensionColor": [
      "New Pearl White",
-     "Night Blue"
+     "New Night Blue"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $899 or $74.91/mo. per month for 12 mo.months Footnote ‡ Terms apply. Lease from $26.83/mo. per month for 24 mo.months with Apple Upgrade Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.91/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.91/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -380,37 +471,53 @@
      "8",
      "9"
     ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
    }
   },
   "ce-46": {
    "total": 949,
-   "totalText": "Buy for $949.00 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※",
+   "totalFrom": "summary",
+   "totalText": "Buy for $949.00 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※ | Buy for $949.00 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "46mm Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade",
+    "category": "Rubber Flexible, comfortable, swimproof bands. Buy for $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade",
+    "rubber-style": "New colors Solo Loop Buy for $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Footnote ‡ Lease from $11.99/mo. per month for 24 mo. months Footnote ※ Matte finish and a durable display with Ceramic Shield 2. Footnote †",
-     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Footnote ‡ Lease from $20.99/mo. per month for 24 mo. months Footnote ※ Polished aerospace-grade titanium with a durable sapphire crystal display.",
-     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※ Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+     "New finishes Aluminum Choice of GPS or GPS + Cellular Buy from $399 or $33.25/mo. per month for 12 mo. months Lease from $11.99/mo. per month for 24 mo. months with Apple Upgrade Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular Buy from $699 or $58.25/mo. per month for 12 mo. months Lease from $20.99/mo. per month for 24 mo. months with Apple Upgrade Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "ceramic-watch_cases-dimensionColor": [
      "New Pearl White",
-     "Night Blue"
+     "New Night Blue"
     ],
     "watch_cases-dimensionCaseSize": [
-     "42mm Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡ Lease from $26.83/mo. per month for 24 mo. months Footnote ※",
-     "46mm Buy from $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※"
+     "42mm Buy from $899 or $74.91/mo. per month for 12 mo. months Lease from $26.83/mo. per month for 24 mo. months with Apple Upgrade",
+     "46mm Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote # Buy from $949 or $79.08/mo. per month for 12 mo.months Footnote ‡ Terms apply. Lease from $28.28/mo. per month for 24 mo.months with Apple Upgrade Footnote ※"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "category": [
-     "Rubber Flexible, comfortable, swimproof bands. Buy for $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※",
-     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※",
-     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $999 or $83.25/mo. per month for 12 mo. months Footnote ‡ Lease from $30.37/mo. per month for 24 mo. months Footnote ※"
+     "Rubber Flexible, comfortable, swimproof bands. Buy for $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade",
+     "Textile Soft, lightweight materials. Great for everyday wear. Buy from $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. Buy from $999 or $83.25/mo. per month for 12 mo. months Lease from $30.37/mo. per month for 24 mo. months with Apple Upgrade"
     ],
     "rubber-style": [
-     "New colors Solo Loop Buy for $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※ Stretchable, closure-free, precise fit",
-     "New colors Sport Band Buy for $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※ Durable, pin-and-tuck closure, adjustable",
-     "New colors Nike Sport Band Buy for $949 or $79.08/mo. per month for 12 mo. months Footnote ‡ Lease from $28.28/mo. per month for 24 mo. months Footnote ※ Breathable, pin-and-tuck closure, adjustable"
+     "New colors Solo Loop Buy for $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade Stretchable, closure-free, precise fit",
+     "New colors Sport Band Buy for $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band Buy for $949 or $79.08/mo. per month for 12 mo. months Lease from $28.28/mo. per month for 24 mo. months with Apple Upgrade Breathable, pin-and-tuck closure, adjustable"
     ],
     "rubber-sololoop-color": [
      "Burgundy",
@@ -433,6 +540,11 @@
      "10",
      "11",
      "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
     ]
    }
   }

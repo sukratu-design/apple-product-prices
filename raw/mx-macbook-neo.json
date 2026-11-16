@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:23.455Z",
+ "configs": {
+  "256": {
+   "total": 15999,
+   "totalFrom": "summary",
+   "totalText": "$15,999.00",
+   "selected": {
+    "chassis-dimensionColor": "Color plata",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Desde $15,999 de contado o 18 MSI desde $888.83."
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Color plata",
+     "Rosa rubor",
+     "Amarillo cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Desde $15,999 de contado o 18 MSI desde $888.83.",
+     "512 GB Magic Keyboard con Touch ID Desde $18,499 de contado o 18 MSI desde $1,027.72."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 18499,
+   "totalFrom": "summary",
+   "totalText": "$18,499.00",
+   "selected": {
+    "chassis-dimensionColor": "Color plata",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard con Touch ID Desde $18,499 de contado o 18 MSI desde $1,027.72."
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Color plata",
+     "Rosa rubor",
+     "Amarillo cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Desde $15,999 de contado o 18 MSI desde $888.83.",
+     "512 GB Magic Keyboard con Touch ID Desde $18,499 de contado o 18 MSI desde $1,027.72."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

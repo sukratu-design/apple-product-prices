@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:29:11.869Z",
+ "configs": {
+  "default": {
+   "total": 649,
+   "totalFrom": "summary",
+   "totalText": "RM 89.00 | RM 649.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

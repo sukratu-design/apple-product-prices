@@ -1,0 +1,264 @@
+{
+ "page": "ipad-air",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-ipad/ipad-air",
+ "scrapedAt": "2026-11-16T12:21:56.638Z",
+ "configs": {
+  "11-wifi": {
+   "total": 10498,
+   "totalFrom": "summary",
+   "totalText": "R$ 10.498,00 | R$ 10.498,00 | R$ 1.499,00 | R$ 899,00 | R$ 2.999,00 | R$ 3.299,00 | R$ 10.498,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 11 polegadas A partir de R$ 8.999",
+    "dimensionColor": "Roxo",
+    "dimensionCapacity": "128 GB A partir de R$ 8.999",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 8.999,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Adicionar Magic Keyboard para iPad Air R$ 2.999,00",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Sem teclado",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas A partir de R$ 8.999",
+     "Modelo de 13 polegadas A partir de R$ 11.499"
+    ],
+    "dimensionColor": [
+     "Roxo",
+     "Azul",
+     "Estelar",
+     "Cinza-espacial"
+    ],
+    "dimensionCapacity": [
+     "128 GB A partir de R$ 8.999",
+     "256 GB A partir de R$ 10.199",
+     "512 GB A partir de R$ 12.599",
+     "1 TB A partir de R$ 16.199"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 8.999,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 10.999,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 2.999,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ],
+    "acc_keyboard_13inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": []
+   },
+   "disabledOptions": {
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 3.299,00"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  },
+  "11-cell": {
+   "total": 12498,
+   "totalFrom": "summary",
+   "totalText": "R$ 12.498,00 | R$ 12.498,00 | R$ 1.499,00 | R$ 899,00 | R$ 2.999,00 | R$ 3.299,00 | R$ 12.498,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 11 polegadas A partir de R$ 8.999",
+    "dimensionColor": "Roxo",
+    "dimensionCapacity": "128 GB A partir de R$ 8.999",
+    "dimensionConnection": "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 10.999,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Adicionar Magic Keyboard para iPad Air R$ 2.999,00",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Sem teclado",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas A partir de R$ 8.999",
+     "Modelo de 13 polegadas A partir de R$ 11.499"
+    ],
+    "dimensionColor": [
+     "Roxo",
+     "Azul",
+     "Estelar",
+     "Cinza-espacial"
+    ],
+    "dimensionCapacity": [
+     "128 GB A partir de R$ 8.999",
+     "256 GB A partir de R$ 10.199",
+     "512 GB A partir de R$ 12.599",
+     "1 TB A partir de R$ 16.199"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 8.999,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 10.999,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 2.999,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ],
+    "acc_keyboard_13inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": []
+   },
+   "disabledOptions": {
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 3.299,00"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  },
+  "13-wifi": {
+   "total": 12998,
+   "totalFrom": "summary",
+   "totalText": "R$ 12.998,00 | R$ 12.998,00 | R$ 1.499,00 | R$ 899,00 | R$ 2.999,00 | R$ 3.299,00 | R$ 12.998,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 13 polegadas A partir de R$ 11.499",
+    "dimensionColor": "Roxo",
+    "dimensionCapacity": "128 GB A partir de R$ 11.499",
+    "dimensionConnection": "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 11.499,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Sem teclado",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Adicionar Magic Keyboard para iPad Air R$ 3.299,00",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas A partir de R$ 8.999",
+     "Modelo de 13 polegadas A partir de R$ 11.499"
+    ],
+    "dimensionColor": [
+     "Roxo",
+     "Azul",
+     "Estelar",
+     "Cinza-espacial"
+    ],
+    "dimensionCapacity": [
+     "128 GB A partir de R$ 11.499",
+     "256 GB A partir de R$ 12.699",
+     "512 GB A partir de R$ 15.099",
+     "1 TB A partir de R$ 18.699"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 11.499,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 13.499,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [],
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 3.299,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   },
+   "disabledOptions": {
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 2.999,00"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  },
+  "13-cell": {
+   "total": 14998,
+   "totalFrom": "summary",
+   "totalText": "R$ 14.998,00 | R$ 14.998,00 | R$ 1.499,00 | R$ 899,00 | R$ 2.999,00 | R$ 3.299,00 | R$ 14.998,00",
+   "selected": {
+    "dimensionScreensize": "Modelo de 13 polegadas A partir de R$ 11.499",
+    "dimensionColor": "Roxo",
+    "dimensionCapacity": "128 GB A partir de R$ 11.499",
+    "dimensionConnection": "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 13.499,00",
+    "acc_pencil": "Adicionar Apple Pencil Pro R$ 1.499,00",
+    "acc_keyboard_11inch": "Sem teclado",
+    "acc_magickeyboard_11inch_dimensionColor": "Branco",
+    "acc_keyboard_13inch": "Adicionar Magic Keyboard para iPad Air R$ 3.299,00",
+    "acc_magickeyboard_13inch_dimensionColor": "Branco"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "Modelo de 11 polegadas A partir de R$ 8.999",
+     "Modelo de 13 polegadas A partir de R$ 11.499"
+    ],
+    "dimensionColor": [
+     "Roxo",
+     "Azul",
+     "Estelar",
+     "Cinza-espacial"
+    ],
+    "dimensionCapacity": [
+     "128 GB A partir de R$ 11.499",
+     "256 GB A partir de R$ 12.699",
+     "512 GB A partir de R$ 15.099",
+     "1 TB A partir de R$ 18.699"
+    ],
+    "dimensionConnection": [
+     "Wi-Fi Todos os modelos de iPad se conectam por Wi-Fi. R$ 11.499,00",
+     "Wi-Fi + Cellular O modelo Wi-Fi + Cellular permite se conectar mesmo sem Wi-Fi. R$ 13.499,00"
+    ],
+    "acc_pencil": [
+     "Adicionar Apple Pencil Pro R$ 1.499,00",
+     "Adicionar Apple Pencil (USB‑C) R$ 899,00",
+     "Sem Apple Pencil"
+    ],
+    "acc_keyboard_11inch": [
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [],
+    "acc_keyboard_13inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 3.299,00",
+     "Sem teclado"
+    ],
+    "acc_magickeyboard_13inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   },
+   "disabledOptions": {
+    "acc_keyboard_11inch": [
+     "Adicionar Magic Keyboard para iPad Air R$ 2.999,00"
+    ],
+    "acc_magickeyboard_11inch_dimensionColor": [
+     "Branco",
+     "Preto"
+    ]
+   }
+  }
+ }
+}

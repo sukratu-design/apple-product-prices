@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:27.735Z",
+ "configs": {
+  "default": {
+   "total": 9499,
+   "totalFrom": "summary",
+   "totalText": "SAR 9,499.00 | SAR 9,499.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 SAR 9,499.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 SAR 9,499.00",
+     "512GB Footnote 1 SAR 10,499.00",
+     "1TB Footnote 1 SAR 12,499.00",
+     "2TB Footnote 1 SAR 15,499.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

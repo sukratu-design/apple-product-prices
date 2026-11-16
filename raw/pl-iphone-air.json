@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:25.271Z",
+ "configs": {
+  "default": {
+   "total": 5799,
+   "totalFrom": "summary",
+   "totalText": "5 799,00 zł | 5 799,00 zł | 5 799,00 zł",
+   "selected": {
+    "dimensionColor": "błękitny",
+    "dimensionCapacity": "256 GB Przypis 1 5 799,00 zł"
+   },
+   "options": {
+    "dimensionColor": [
+     "błękitny",
+     "biały obłok",
+     "gwiezdna czerń",
+     "jasne złoto"
+    ],
+    "dimensionCapacity": [
+     "256 GB Przypis 1 5 799,00 zł",
+     "512 GB Przypis 1 6 799,00 zł",
+     "1 TB Przypis 1 8 799,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

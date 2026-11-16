@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:53.336Z",
+ "configs": {
+  "band": {
+   "total": 3699,
+   "totalFrom": "summary",
+   "totalText": "RM 3,699.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. RM 3,699 or RM 154.13/month per month for 24 months",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. RM 3,699 or RM 154.13/month per month for 24 months",
+     "New colours Trail Loop For all sports and workouts. RM 3,699 or RM 154.13/month per month for 24 months",
+     "New colours Ocean Band For water sports and recreational diving. RM 3,699 or RM 154.13/month per month for 24 months",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. RM 4,199 or RM 174.96/month per month for 24 months"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Strap fits 130–160mm wrists.",
+     "Medium Strap fits 145–190mm wrists.",
+     "Large Strap fits 165–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 4199,
+   "totalFrom": "summary",
+   "totalText": "RM 4,199.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. RM 4,199 or RM 174.96/month per month for 24 months",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. RM 3,699 or RM 154.13/month per month for 24 months",
+     "New colours Trail Loop For all sports and workouts. RM 3,699 or RM 154.13/month per month for 24 months",
+     "New colours Ocean Band For water sports and recreational diving. RM 3,699 or RM 154.13/month per month for 24 months",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. RM 4,199 or RM 174.96/month per month for 24 months"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Strap fits 130–160mm wrists.",
+     "Medium Strap fits 155–185mm wrists.",
+     "Large Strap fits 180–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

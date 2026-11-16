@@ -2,7 +2,7 @@
  "page": "ipad",
  "country": "jp",
  "url": "https://www.apple.com/jp/shop/buy-ipad/ipad",
- "scrapedAt": "2026-11-14T03:47:26.455Z",
+ "scrapedAt": "2026-11-16T12:40:18.325Z",
  "configs": {
   "wifi": {
    "total": 74800,
@@ -10,8 +10,8 @@
    "totalText": "14,800円 | 18,400円 | 46,800円 | 74,800円",
    "selected": {
     "dimensionColor": "シルバー",
-    "dimensionCapacity": "128GB 脚注 2 74,800円から 、または6,233円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 74,800円 、または6,233円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB 74,800円から 、または6,233円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 74,800円 、または6,233円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
     "acc_magic_keyboard": null,
@@ -29,13 +29,13 @@
      "イエロー"
     ],
     "dimensionCapacity": [
-     "128GB 脚注 2 74,800円から 、または6,233円/月 月額 の12回払いから 脚注 #",
-     "256GB 脚注 2 91,800円から 、または7,650円/月 月額 の12回払いから 脚注 #",
-     "512GB 脚注 2 126,800円から 、または10,566円/月 月額 の12回払いから 脚注 #"
+     "128GB 74,800円から 、または6,233円/月 月額 の12回払いから",
+     "256GB 91,800円から 、または7,650円/月 月額 の12回払いから",
+     "512GB 126,800円から 、または10,566円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 74,800円 、または6,233円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 99,800円 、または8,316円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 74,800円 、または6,233円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 99,800円 、または8,316円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",
@@ -271,8 +271,8 @@
    "totalText": "14,800円 | 18,400円 | 46,800円 | 99,800円",
    "selected": {
     "dimensionColor": "シルバー",
-    "dimensionCapacity": "128GB 脚注 2 74,800円から 、または6,233円/月 月額 の12回払いから 脚注 #",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 99,800円 、または8,316円/月 月額 の12回払いから 脚注 #",
+    "dimensionCapacity": "128GB 74,800円から 、または6,233円/月 月額 の12回払いから",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 99,800円 、または8,316円/月 月額 の12回払いから",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
     "acc_magic_keyboard": null,
@@ -290,13 +290,13 @@
      "イエロー"
     ],
     "dimensionCapacity": [
-     "128GB 脚注 2 74,800円から 、または6,233円/月 月額 の12回払いから 脚注 #",
-     "256GB 脚注 2 91,800円から 、または7,650円/月 月額 の12回払いから 脚注 #",
-     "512GB 脚注 2 126,800円から 、または10,566円/月 月額 の12回払いから 脚注 #"
+     "128GB 74,800円から 、または6,233円/月 月額 の12回払いから",
+     "256GB 91,800円から 、または7,650円/月 月額 の12回払いから",
+     "512GB 126,800円から 、または10,566円/月 月額 の12回払いから"
     ],
     "dimensionConnection": [
-     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 74,800円 、または6,233円/月 月額 の12回払いから 脚注 #",
-     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 99,800円 、または8,316円/月 月額 の12回払いから 脚注 #"
+     "Wi-Fi すべてのiPadがWi-Fiに接続できるので、いつもつながっていられます。 74,800円 、または6,233円/月 月額 の12回払いから",
+     "Wi-Fi + Cellular Wi-Fi + Cellularモデルなら、Wi-Fiネットワークが利用できない時でも接続できます。 99,800円 、または8,316円/月 月額 の12回払いから"
     ],
     "engraving-option-select-app": [
      "刻印する Appleでの返品または下取り額には影響しませ‍ん。 無料",

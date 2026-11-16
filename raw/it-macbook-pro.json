@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:46:20.314Z",
+ "configs": {
+  "14-m6": {
+   "total": 2349,
+   "totalFrom": "summary",
+   "totalText": "€ 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Novità Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Di serie",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "1TB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Novità Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Di serie"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie",
+     "24GB + € 220,00",
+     "32GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Di serie",
+     "2TB + € 550,00",
+     "4TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "€ 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15‑core, GPU 16‑core Di serie",
+    "memory-dimensionMemory": "24GB Di serie",
+    "storage-dimensionCapacity": "1TB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Novità Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑core, GPU 16‑core Di serie",
+     "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico per i flussi di lavoro più impegnativi, come il gaming, il coding e il lavoro creativo. + € 250,00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Di serie",
+     "48GB + € 660,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Di serie",
+     "2TB + € 550,00",
+     "4TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3249,
+   "totalFrom": "summary",
+   "totalText": "€ 3.249,00 o € 106,37 al mese per 36 mesi, TAN fisso 11% Nota ① | € 3.249,00 o € 106,37 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico per i flussi di lavoro più impegnativi, come il gaming, il coding e il lavoro creativo.",
+    "memory-dimensionMemory": "24GB Di serie",
+    "storage-dimensionCapacity": "1TB Di serie",
+    "power_adapter-wattage": "Nessun alimentatore"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Novità Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑core, GPU 16‑core − € 250,00",
+     "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico per i flussi di lavoro più impegnativi, come il gaming, il coding e il lavoro creativo."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Di serie",
+     "48GB + € 660,00",
+     "64GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Di serie",
+     "2TB + € 550,00",
+     "4TB + € 1.650,00"
+    ],
+    "power_adapter-wattage": [
+     "Nessun alimentatore",
+     "96W Ricarica rapida, supporta la modalità Prestazioni elevate con i chip M5 Pro e M5 Max. + € 85,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4899,
+   "totalFrom": "summary",
+   "totalText": "€ 4.899,00 | € 4.899,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 32‑core Di serie",
+    "memory-dimensionMemory": "36GB Di serie",
+    "storage-dimensionCapacity": "2TB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Novità Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core Di serie",
+     "CPU 18‑core, GPU 40‑core Aumenta la velocità di elaborazione e rendering grafico, e accelera attività come l’esecuzione di modelli linguistici di grandi dimensioni e l’editing di video in 8K. + € 330,00 Questa opzione richiede un upgrade a 48GB di memoria, pertanto il prezzo totale del tuo Mac aumenterà."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Di serie"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Di serie",
+     "4TB + € 1.100,00",
+     "8TB + € 3.300,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5559,
+   "totalFrom": "summary",
+   "totalText": "€ 5.559,00 | € 5.559,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 40‑core Aumenta la velocità di elaborazione e rendering grafico, e accelera attività come l’esecuzione di modelli linguistici di grandi dimensioni e l’editing di video in 8K. Questa opzione richiede un upgrade a 48GB di memoria, pertanto il prezzo totale del tuo Mac aumenterà.",
+    "memory-dimensionMemory": "48GB Di serie",
+    "storage-dimensionCapacity": "2TB Di serie",
+    "power_adapter-wattage": "Nessun alimentatore"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Novità Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core, due Neural Engine 16‑core Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.999,00 o € 98,18 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 4.899,00"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core − € 330,00",
+     "CPU 18‑core, GPU 40‑core Aumenta la velocità di elaborazione e rendering grafico, e accelera attività come l’esecuzione di modelli linguistici di grandi dimensioni e l’editing di video in 8K. Questa opzione richiede un upgrade a 48GB di memoria, pertanto il prezzo totale del tuo Mac aumenterà."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Di serie",
+     "64GB + € 440,00",
+     "128GB + € 2.200,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Di serie",
+     "4TB + € 1.100,00",
+     "8TB + € 3.300,00"
+    ],
+    "power_adapter-wattage": [
+     "Nessun alimentatore",
+     "96W Ricarica rapida, supporta la modalità Prestazioni elevate con i chip M5 Pro e M5 Max. + € 85,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "€ 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "chassis-dimensionScreensize": "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. CPU 18-core, GPU 20-core, Neural Engine 16-core Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico per i flussi di lavoro più impegnativi, come il gaming, il coding e il lavoro creativo. Di serie",
+    "memory-dimensionMemory": "24GB Di serie",
+    "storage-dimensionCapacity": "1TB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. CPU 18-core, GPU 20-core, Neural Engine 16-core Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 5.199,00"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico per i flussi di lavoro più impegnativi, come il gaming, il coding e il lavoro creativo. Di serie"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Di serie",
+     "48GB + € 660,00",
+     "64GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Di serie",
+     "2TB + € 550,00",
+     "4TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5199,
+   "totalFrom": "summary",
+   "totalText": "€ 5.199,00 | € 5.199,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 5.199,00",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 32‑core Di serie",
+    "memory-dimensionMemory": "36GB Di serie",
+    "storage-dimensionCapacity": "2TB Di serie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. CPU 18-core, GPU 20-core, Neural Engine 16-core Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 5.199,00"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core Di serie",
+     "CPU 18‑core, GPU 40‑core Aumenta la velocità di elaborazione e rendering grafico, e accelera attività come l’esecuzione di modelli linguistici di grandi dimensioni e l’editing di video in 8K. + € 270,00 Questa opzione richiede un upgrade a 48GB di memoria, pertanto il prezzo totale del tuo Mac aumenterà."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Di serie"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Di serie",
+     "4TB + € 1.100,00",
+     "8TB + € 3.300,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5799,
+   "totalFrom": "summary",
+   "totalText": "€ 5.799,00 | € 5.799,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+    "chassis-dimensionColor": "Nero siderale",
+    "display-dimensionFinish": "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+    "processor-dimensionChip": "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 5.199,00",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 40‑core Aumenta la velocità di elaborazione e rendering grafico, e accelera attività come l’esecuzione di modelli linguistici di grandi dimensioni e l’editing di video in 8K. Questa opzione richiede un upgrade a 48GB di memoria, pertanto il prezzo totale del tuo Mac aumenterà.",
+    "memory-dimensionMemory": "48GB Di serie",
+    "storage-dimensionCapacity": "2TB Di serie",
+    "power_adapter-wattage": "Nessun alimentatore"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14\" Disponibile con chip M6, M5 Pro o M5 Max. Da € 2.349,00 o € 76,90 al mese per 36 mesi, TAN fisso 10,99%",
+     "16\" Disponibile con chip M5 Pro o M5 Max. Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%"
+    ],
+    "chassis-dimensionColor": [
+     "Nero siderale",
+     "Argento"
+    ],
+    "display-dimensionFinish": [
+     "Display standard Progettato per ridurre la riflettanza e diminuire i riflessi in qualsiasi ambiente. Di serie",
+     "Display con nanotexture Riduce ancora di più riflessi e bagliori negli ambienti molto illuminati. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Chip con prestazioni superiori e opzioni con più memoria per lavori più impegnativi. CPU 18-core, GPU 20-core, Neural Engine 16-core Da € 3.499,00 o € 114,55 al mese per 36 mesi, TAN fisso 10,99%",
+     "Chip M5 Max Il nostro chip più potente mai creato per un portatile professionale. Progettato per i flussi di lavoro più estremi. 2 opzioni con Neural Engine 16‑core Da € 5.199,00"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core − € 270,00",
+     "CPU 18‑core, GPU 40‑core Aumenta la velocità di elaborazione e rendering grafico, e accelera attività come l’esecuzione di modelli linguistici di grandi dimensioni e l’editing di video in 8K. Questa opzione richiede un upgrade a 48GB di memoria, pertanto il prezzo totale del tuo Mac aumenterà."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Di serie",
+     "64GB + € 440,00",
+     "128GB + € 2.200,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB Di serie",
+     "4TB + € 1.100,00",
+     "8TB + € 3.300,00"
+    ],
+    "power_adapter-wattage": [
+     "Nessun alimentatore",
+     "140W Ricarica rapida, supporta la modalità Prestazioni elevate con i chip M5 Pro e M5 Max. + € 119,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:31.558Z",
+ "configs": {
+  "40-gps": {
+   "total": 5990,
+   "totalFrom": "summary",
+   "totalText": "5 990,00 Kč | 5 990,00 Kč | 5 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionColor": "temně inkoustová",
+    "watch_cases-dimensionCaseSize": "40 mm Od 5 990 Kč",
+    "watch_cases-dimensionConnection": "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 5 990 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 5 990,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 5 990,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "temně inkoustová",
+     "hvězdně bílá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 5 990 Kč",
+     "44 mm Od 6 790 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 5 990 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 7 490 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 5 990,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 5 990 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 7 490 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 5 990,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 5 990,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 5 990,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 6790,
+   "totalFrom": "summary",
+   "totalText": "6 790,00 Kč | 6 790,00 Kč | 6 790,00 Kč",
+   "selected": {
+    "watch_cases-dimensionColor": "temně inkoustová",
+    "watch_cases-dimensionCaseSize": "44 mm Od 6 790 Kč",
+    "watch_cases-dimensionConnection": "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 6 790 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 6 790,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 6 790,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "temně inkoustová",
+     "hvězdně bílá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 5 990 Kč",
+     "44 mm Od 6 790 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 6 790 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 8 290 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 6 790,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 6 790 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 8 290 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 6 790,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 6 790,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 6 790,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 5990,
+   "totalFrom": "summary",
+   "totalText": "5 990,00 Kč | 5 990,00 Kč | 5 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionColor": "temně inkoustová",
+    "watch_cases-dimensionCaseSize": "40 mm Od 5 990 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 7 490 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 7 490,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 7 490,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "temně inkoustová",
+     "hvězdně bílá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 5 990 Kč",
+     "44 mm Od 6 790 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 5 990 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 7 490 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 7 490,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 7 490 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 8 990 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 7 490,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 7 490,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 7 490,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 8290,
+   "totalFrom": "summary",
+   "totalText": "8 290,00 Kč | 8 290,00 Kč | 8 290,00 Kč",
+   "selected": {
+    "watch_cases-dimensionColor": "temně inkoustová",
+    "watch_cases-dimensionCaseSize": "44 mm Od 6 790 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 8 290 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 8 290,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 8 290,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "temně inkoustová",
+     "hvězdně bílá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 5 990 Kč",
+     "44 mm Od 6 790 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 6 790 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 8 290 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 8 290,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 8 290 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 9 790 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 8 290,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 8 290,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 8 290,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -14,28 +14,24 @@ RAW = ROOT / "raw"
 OUT = ROOT / "prices.js"
 problems = []
 
-# Order matters: it is the order of prices in every row and of the country buttons on the page.
-COUNTRIES = {
-    "us": {"currency": "USD", "label": "United States", "short": "US", "symbol": "$", "locale": "en-US", "store": "apple.com/shop",
-           "note": "Apple Store US list prices, before sales tax"},
-    "in": {"currency": "INR", "label": "India", "short": "India", "symbol": "₹", "locale": "en-IN", "store": "apple.com/in/shop",
-           "note": "Apple Store India MRP, including GST"},
-    "uk": {"currency": "GBP", "label": "United Kingdom", "short": "UK", "symbol": "£", "locale": "en-GB", "store": "apple.com/uk/shop",
-           "note": "Apple Store UK prices, including VAT"},
-    "ae": {"currency": "AED", "label": "United Arab Emirates", "short": "UAE", "symbol": "AED ", "locale": "en-AE", "store": "apple.com/ae/shop",
-           "note": "Apple Store UAE prices, including VAT"},
-    "ca": {"currency": "CAD", "label": "Canada", "short": "Canada", "symbol": "CA$", "locale": "en-CA", "store": "apple.com/ca/shop",
-           "note": "Apple Store Canada prices, before sales tax"},
-    "au": {"currency": "AUD", "label": "Australia", "short": "Australia", "symbol": "A$", "locale": "en-AU", "store": "apple.com/au/shop",
-           "note": "Apple Store Australia prices, including GST"},
-    "jp": {"currency": "JPY", "label": "Japan", "short": "Japan", "symbol": "¥", "locale": "ja-JP", "store": "apple.com/jp/shop",
-           "note": "Apple Store Japan prices, including consumption tax"},
-    "sg": {"currency": "SGD", "label": "Singapore", "short": "Singapore", "symbol": "S$", "locale": "en-SG", "store": "apple.com/sg/shop",
-           "note": "Apple Store Singapore prices, including GST"},
-}
+# Every store, its currency marker and display format live in scripts/countries.json (shared with scrape.js).
+# Order matters: it is the order of prices in every row.
+_C = json.loads((ROOT / "scripts" / "countries.json").read_text())["countries"]
+COUNTRIES = {}
+for k, c in _C.items():
+    store = re.sub(r"^https://www\.", "", c["store"]).rstrip("/")
+    if k == "in":
+        note = "Apple Store India MRP, including GST"
+    elif c["tax"] == "excluded":
+        note = f"Apple Store {c['label']} prices, before sales tax"
+    else:
+        note = f"Apple Store {c['label']} prices, including tax"
+    COUNTRIES[k] = {key: c[key] for key in ("currency", "label", "short", "symbol", "locale") if key in c}
+    COUNTRIES[k].update({"suffix": bool(c.get("suffix")), "store": store, "tax": c["tax"], "note": note})
 CC = list(COUNTRIES)
-CUR = {"us": r"\$", "ca": r"\$", "au": r"A\$", "uk": "£", "ae": r"AED\s?", "in": "₹", "sg": r"S\$"}
-NUM = r"([\d,]+(?:\.\d\d)?)"
+
+# Same price rules as scripts/scrape.js: a price is a number next to the store's currency marker, in any local format.
+NUM = r"\d{1,3}(?:[.,\s  '’]\d{3})+(?:[.,]\d{1,2})?|\d+(?:[.,]\d{1,2})?"
 
 
 def raw(country, page):
@@ -46,37 +42,68 @@ def raw(country, page):
     return json.loads(f.read_text())["configs"]
 
 
-def num(s):
-    return round(float(s.replace(",", "")))
+def to_number(s):
+    s = re.sub(r"[\s  '’]", "", s)
+    m = re.search(r"[.,](\d{1,2})$", s)
+    whole = re.sub(r"[.,]", "", s[: -len(m.group(0))] if m else s)
+    return round(float(whole + ("." + m.group(1) if m else "")))
+
+
+# Footnote markers ("Footnote 1", "脚注 1", "Lábjegyzet 1") sit right before prices on some stores; without
+# removing them "脚注 1 219,800円" would read as 1,219,800.
+FOOTNOTE = r"(?:Footnote|Fußnote|Note de bas de page|Nota al pie|Nota a pie de página|Nota de rodapé|Nota|Voetnoot|Fotnot|Fotnote|Fodnote|Alaviite|Przypis|Poznámka|Lábjegyzet|Dipnot|Dipnotu|حاشية|각주|脚注|註腳|註解|เชิงอรรถ|Chú thích)\s*[\d①-⑳*†‡§◊※#]+"
+
+
+# Model names with a number ("AirPods 5 149,00 €") would otherwise merge with the price as 5 149,00.
+MODEL = r"(?:AirPods|HomePod|iPhone|iPad|Watch|Series|Ultra|SE|Pro|Max|mini|Air)\s\d{1,2}(?![\d.,])"
+
+
+def price_matches(text, c):
+    """[(start, end, value)] for every price written next to this store's currency marker."""
+    t = re.sub(r"\s+", " ", re.sub(MODEL, " ", re.sub(FOOTNOTE, " ", text or "")))
+    mk = _C[c]["marker"]
+    out = []
+    for rx in (rf"(?:{mk})\s?({NUM})", rf"({NUM})\s?(?:{mk})"):
+        for m in re.finditer(rx, t):
+            out.append((m.start(), m.end(), to_number(m.group(1))))
+    return t, [x for x in out if x[2] > 0]
 
 
 def money(text, c):
-    """First full price in a label or summary, skipping monthly instalments (same rule as scripts/scrape.js)."""
-    t = re.sub(r"\s+", " ", text or "")
-    if c == "in":
-        m = re.search(r"MRP\s*₹\s?" + NUM, t)
-        if m:
-            return num(m.group(1))
-    if c == "jp":  # Japan writes the currency after the number: 219,800円; instalments are 6,105円/月
-        m = re.search(r"(?:^|[^\d,.])([\d,]+)\s?円(?!\s?/月)", t)
-        return num(m.group(1)) if m else None
-    for m in re.finditer(r"(?:^|[^A-Za-z])" + CUR[c] + r"\s?" + NUM + r"(?![\d.,]*/mo)", t):
-        return num(m.group(1))
-    return None
+    """The full price in a label or price box: the largest amount (instalments, lease and AppleCare are smaller)."""
+    _, ms = price_matches(text, c)
+    return max(v for _, _, v in ms) if ms else None
 
 
-def delta(label):
-    """'24GB + $200.00' -> 200, '512GB− £300.00' -> -300, '24GB + 36,000円' -> 36000, '1TB' or 'Included' -> 0."""
-    m = re.search(r"([+−-])\s?(?:[AS]\$|\$|£|₹|AED)\s?" + NUM, label) or re.search(r"([+−-])\s?([\d,]+)\s?円", label)
-    if not m:
+def delta(label, c):
+    """Price difference on an option label: '24GB + $200.00' -> 200, '512GB− 300,00 €' -> -300,
+    '24GB ₩340,000 +' -> 340000 (Korea puts the sign after), '1TB' or 'Included' -> 0."""
+    t, ms = price_matches(label, c)
+    if not ms:
         return 0
-    v = num(m.group(2))
-    return -v if m.group(1) in "−-" else v
+    start, end, v = ms[0]
+    before, after = t[max(0, start - 3):start], t[end:end + 3]
+    sign = re.search(r"[+−-]", before) or re.search(r"[+−-]", after)
+    if not sign:
+        return 0
+    return -v if sign.group(0) in "−-" else v
 
 
 def size(label):
-    m = re.match(r"\s*(\d+\s?(?:GB|TB))", label)
-    return m.group(1).replace(" ", "") if m else label.split(" ")[0]
+    """'256GB', '256 Go' (French), '1 To', '24 Gt' (Finnish), '512GB儲存裝置' -> '256GB', '1TB', '24GB', '512GB'."""
+    # the size can sit anywhere and touch local text: "512GB儲存裝置", "Dung lượng 256GB", "256 Go"
+    m = re.search(r"(?<![\d.,])(\d+)\s?(GB|TB|Go|To|Gt|Tt)(?![A-Za-z])", label)
+    if not m:
+        return label.split(" ")[0]
+    return m.group(1) + ("TB" if m.group(2) in ("TB", "To", "Tt") else "GB")
+
+
+def total_of(cfg, c):
+    """Configured price. Some stores (India) show only the monthly instalment in the price box and print the
+    full price on the selected option's label, so take the largest of the box and the selected labels."""
+    vals = [cfg.get("total")] + [money(l, c) for l in (cfg.get("selected") or {}).values() if l]
+    vals = [v for v in vals if v is not None]
+    return max(vals) if vals else None
 
 
 def opt(cfg, pattern, disabled=False):
@@ -113,8 +140,8 @@ def storage_row(id_, n, s, page, path="default", single_label="Standard"):
         labels = opt(cfg, r"Capacity$", disabled=True)
         if labels:
             by[c] = [(size(l), money(l, c)) for l in labels]
-        elif cfg.get("total") is not None:
-            by[c] = [(single_label, cfg["total"])]
+        elif total_of(cfg, c) is not None:
+            by[c] = [(single_label, total_of(cfg, c))]
     tiers = merge(by)
     if not tiers:
         problems.append(f"no prices for {n}")
@@ -150,13 +177,13 @@ def ipad(id_, n, s, page, wifi_path, cell_path, nano_on=(), nano_path=None):
 
 
 # ---------------- Mac: base configuration + memory and storage upgrades ----------------
-def mac_variant(cfg):
+def mac_variant(cfg, c):
     """Absolute prices for one chip variant: base (cheapest memory + storage), memory and storage options."""
-    total = cfg.get("total")
+    total = total_of(cfg, c)
     if total is None:
         return None
-    mem = [(size(l), delta(l)) for l in opt(cfg, r"Memory$")]
-    sto = [(size(l), delta(l)) for l in opt(cfg, r"Capacity$")]
+    mem = [(size(l), delta(l, c)) for l in opt(cfg, r"Memory$")]
+    sto = [(size(l), delta(l, c)) for l in opt(cfg, r"Capacity$")]
     mm = min((d for _, d in mem), default=0)
     ms = min((d for _, d in sto), default=0)
     base = total + mm + ms
@@ -169,7 +196,7 @@ def addon(page, path, group, choice):
     def f(c):
         for l in opt(raw(c, page).get(path, {}), group):
             if re.search(choice, l):
-                return delta(l) or None
+                return delta(l, c) or None
         return None
     return per_country(f)
 
@@ -181,7 +208,7 @@ def mac(id_, n, s, page, paths, chip_names, notes=None):
         r = raw(c, page)
         vs = []
         for p in paths:
-            v = mac_variant(r.get(p, {}))
+            v = mac_variant(r.get(p, {}), c)
             if v is None:
                 problems.append(f"{c} {page}/{p}: no total ({r.get(p, {}).get('error', 'not scraped')})")
             else:
@@ -243,7 +270,7 @@ def mac(id_, n, s, page, paths, chip_names, notes=None):
 def by_path(id_, n, s, page, paths, notes=None):
     tiers = []
     for p, label in paths:
-        prices = per_country(lambda c: raw(c, page).get(p, {}).get("total"))
+        prices = per_country(lambda c: total_of(raw(c, page).get(p, {}), c))
         if all(x is None for x in prices):
             problems.append(f"{page}/{p}: no total")
             continue
@@ -268,8 +295,8 @@ def single(id_, n, s, page, names=None):
                          for i, v in enumerate(priced)]
                 break
         else:
-            if cfg.get("total") is not None:
-                by[c] = [("Starting price", cfg["total"])]
+            if total_of(cfg, c) is not None:
+                by[c] = [("Starting price", total_of(cfg, c))]
     tiers = merge(by)
     if not tiers:
         problems.append(f"{page}: no prices")

@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:35.071Z",
+ "configs": {
+  "40-gps": {
+   "total": 99990,
+   "totalFrom": "summary",
+   "totalText": "99 990 Ft | 99 990 Ft | 99 990 Ft",
+   "selected": {
+    "watch_cases-dimensionColor": "éjfekete",
+    "watch_cases-dimensionCaseSize": "40 mm Indulóár: 99 990 Ft",
+    "watch_cases-dimensionConnection": "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 99 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 99 990 Ft",
+    "rubber-style": "Új színek Körpánt 99 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "éjfekete",
+     "csillagfény"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Indulóár: 99 990 Ft",
+     "44 mm Indulóár: 114 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 99 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 124 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 99 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 99 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 124 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 99 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 99 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 99 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 114990,
+   "totalFrom": "summary",
+   "totalText": "114 990 Ft | 114 990 Ft | 114 990 Ft",
+   "selected": {
+    "watch_cases-dimensionColor": "éjfekete",
+    "watch_cases-dimensionCaseSize": "44 mm Indulóár: 114 990 Ft",
+    "watch_cases-dimensionConnection": "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 114 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 114 990 Ft",
+    "rubber-style": "Új színek Körpánt 114 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "éjfekete",
+     "csillagfény"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Indulóár: 99 990 Ft",
+     "44 mm Indulóár: 114 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 114 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 139 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 114 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 114 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 139 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 114 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 114 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 114 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 124990,
+   "totalFrom": "summary",
+   "totalText": "124 990 Ft | 124 990 Ft | 124 990 Ft",
+   "selected": {
+    "watch_cases-dimensionColor": "éjfekete",
+    "watch_cases-dimensionCaseSize": "40 mm Indulóár: 99 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 124 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 124 990 Ft",
+    "rubber-style": "Új színek Körpánt 124 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "éjfekete",
+     "csillagfény"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Indulóár: 99 990 Ft",
+     "44 mm Indulóár: 114 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 99 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 124 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 124 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 124 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 149 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 124 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 124 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 124 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 139990,
+   "totalFrom": "summary",
+   "totalText": "139 990 Ft | 139 990 Ft | 139 990 Ft",
+   "selected": {
+    "watch_cases-dimensionColor": "éjfekete",
+    "watch_cases-dimensionCaseSize": "44 mm Indulóár: 114 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 139 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 139 990 Ft",
+    "rubber-style": "Új színek Körpánt 139 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "éjfekete",
+     "csillagfény"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Indulóár: 99 990 Ft",
+     "44 mm Indulóár: 114 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 114 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 139 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 139 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 139 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 164 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 139 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 139 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 139 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

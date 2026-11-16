@@ -2,12 +2,12 @@
  "page": "iphone-air",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
- "scrapedAt": "2026-11-13T10:59:41.957Z",
+ "scrapedAt": "2026-11-16T11:59:03.180Z",
  "configs": {
   "default": {
    "total": 1099,
    "totalFrom": "summary",
-   "totalText": "£1,099.00 or £36.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,099.00 or £36.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊ | £1,099.00 or £36.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Sky Blue",
     "dimensionCapacity": "256GB Footnote 1 £1,099.00 or £36.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊"

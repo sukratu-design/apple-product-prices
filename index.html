@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Apple Product Prices</title>
-<meta name="description" content="Price range of every current Apple product, from entry configuration to fully loaded, in the US, India, UK, UAE, Canada, Australia, Japan and Singapore.">
+<meta name="description" content="Price range of every current Apple product, from entry configuration to fully loaded, in 40 countries, from Apple's own stores.">
 <link rel="canonical" href="https://apple-product-prices.com/">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
@@ -15,7 +15,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Apple Product Prices">
 <meta property="og:title" content="Apple Product Prices">
-<meta property="og:description" content="Every current Apple product, from entry model to fully loaded, in 8 countries. Prices from Apple's own stores, checked monthly.">
+<meta property="og:description" content="Every current Apple product, from entry model to fully loaded, in 40 countries. Prices from Apple's own stores, checked monthly.">
 <meta property="og:url" content="https://apple-product-prices.com/">
 <meta property="og:image" content="https://apple-product-prices.com/assets/og.png">
 <meta property="og:image:width" content="1200">
@@ -80,7 +80,7 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 .stat .v small{font-family:var(--body);font-size:13px;color:var(--muted);letter-spacing:0;margin-left:6px;font-weight:400}
 
 .chart{display:flex;flex-direction:column;gap:6px;position:relative}
-.row{display:grid;grid-template-columns:150px minmax(0,1fr) 196px;align-items:center;gap:18px;padding:6px 0;border-radius:18px;cursor:pointer}
+.row{display:grid;grid-template-columns:150px minmax(0,1fr) 236px;align-items:center;gap:18px;padding:6px 0;border-radius:18px;cursor:pointer}
 .tile{background:var(--tile);border:1px solid var(--tile-edge);border-radius:16px;padding:10px 12px;min-height:66px;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;text-align:left;width:100%;cursor:pointer}
 .tile::after{content:"";position:absolute;inset:auto 0 0 0;height:3px;background:var(--accent,var(--t1));opacity:.85}
 .tile .n{font-family:var(--display);font-weight:600;font-size:17px;line-height:1.15;letter-spacing:-.01em}
@@ -96,10 +96,10 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 .dot:hover,.dot:focus-visible{transform:translateY(-50%) scale(1.2)}
 .offscale{position:absolute;top:50%;right:0;transform:translateY(-50%);font-family:var(--mono);font-size:11px;color:var(--muted);background:var(--panel-2);border:1px solid var(--line);border-radius:999px;padding:2px 8px;white-space:nowrap}
 .top{text-align:right}
-.top .p{white-space:nowrap;font-family:var(--mono);font-size:18px;font-weight:500;font-variant-numeric:tabular-nums}
+.top .p{white-space:nowrap;font-family:var(--mono);font-size:17px;font-weight:500;font-variant-numeric:tabular-nums}
 .top .l{font-size:12.5px;color:var(--muted);display:flex;justify-content:flex-end;align-items:center;gap:6px}
 .top .l i{width:7px;height:7px;border-radius:50%;background:var(--hi,var(--t4));display:inline-block;flex:none}
-.axis{display:grid;grid-template-columns:150px minmax(0,1fr) 196px;gap:18px;margin-top:6px}
+.axis{display:grid;grid-template-columns:150px minmax(0,1fr) 236px;gap:18px;margin-top:6px}
 .axis .ticks{position:relative;height:18px}
 .axis .ticks span{position:absolute;transform:translateX(-50%);font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap}
 .axis .lab{text-align:right;font-size:12.5px;color:var(--muted)}
@@ -252,15 +252,8 @@ const T = p => p.build().filter(t => t[1][CI()] != null).map(t => [t[0], t[1][CI
 
 // ---------- formatting ----------
 const C = () => P.countries[country];
-const fmt = n => C().symbol + Math.round(n).toLocaleString(C().locale);
-const fmtAxis = n => {
-  const sym = C().symbol;
-  if (n === 0) return sym + "0";
-  if (country === "in" && n >= 100000) return sym + +(n / 100000).toFixed(2) + "L";
-  if (n < 1000) return sym + n;
-  if (n >= 1000000) return sym + +(n / 1000000).toFixed(2) + "M";
-  return sym + +(n / 1000).toFixed(1) + "k";
-};
+const fmt = n => APP.fmt(country, n);
+const fmtAxis = n => APP.fmtShort(country, n);
 const noteText = n => Array.isArray(n) ? (n[1 + CI()] ? `${n[0]} ${fmt(n[1 + CI()])}` : "") : n;
 function niceStep(range, ticks = 5){
   const raw = range / ticks, mag = Math.pow(10, Math.floor(Math.log10(raw)));
@@ -311,7 +304,7 @@ function renderTabs(){
   $("tabs").innerHTML = P.order.map(k =>
     `<button role="tab" aria-selected="${k===cat}" data-k="${k}">${P.categories[k].name}</button>`).join("");
   $("tabs").querySelectorAll("button").forEach(b => b.onclick = () => go(b.dataset.k, "wifi"));
-  $("country").innerHTML = ORDER.map(k => { const v = P.countries[k];
+  $("country").innerHTML = APP.byName().map(k => { const v = P.countries[k];
     return `<option value="${k}"${k === country ? " selected" : ""}>${v.label} (${v.symbol.trim()})</option>`; }).join("");
   $("country").value = country;
   $("country").onchange = e => go(cat, variant, e.target.value);
@@ -365,7 +358,7 @@ function renderChart(c){
         ${dots}${off}
       </div>
       <div class="top" style="--hi:var(${hiVar})">
-        <div class="p">${len > 1 ? fmt(lo) + "–" + fmt(hi).slice(C().symbol.length) : fmt(lo)}</div>
+        <div class="p">${len > 1 ? (C().suffix ? fmt(lo).replace(/\s?\S+$/, "") + "–" + fmt(hi) : fmt(lo) + "–" + fmt(hi).slice(C().symbol.length)) : fmt(lo)}</div>
         <div class="l"><i></i>${len > 1 ? len + " configs" : "starting price"}</div>
       </div>
     </div>`;
@@ -455,11 +448,11 @@ function render(){
   renderTabs(); renderVariants(c); renderStats(c); renderChart(c); renderLadder(c); renderLegend(c);
 }
 {
-  const names = ORDER.map(k => P.countries[k].short);
+  const names = ORDER.map(k => P.countries[k].short), n = ORDER.length;
   const d = new Date(P.updated + "T00:00:00");
-  $("site-sub").textContent = `Every current Apple product, from entry configuration to fully loaded, in ${names.slice(0, -1).join(", ")} and ${names[names.length - 1]}.`;
+  $("site-sub").textContent = `Every current Apple product, from entry configuration to fully loaded, in ${n} countries.`;
   $("checked").textContent = "Prices checked " + d.toLocaleDateString("en-GB", {day:"numeric", month:"short", year:"numeric"});
-  $("fine").textContent = `Prices are read from Apple's online stores (${ORDER.map(k => P.countries[k].store).join(", ")}) and checked monthly. Not affiliated with Apple.`;
+  $("fine").textContent = `Prices are read from Apple's online stores in ${n} countries and checked monthly. Not affiliated with Apple.`;
 }
 window.addEventListener("hashchange", render);
 render();

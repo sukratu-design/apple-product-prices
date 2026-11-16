@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:06.981Z",
+ "configs": {
+  "default": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "849 € oder 35,38 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ② | 849 € oder 35,38 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ②",
+   "selected": {
+    "dimensionColor": "Hellrosa",
+    "dimensionCapacity": "256 GB Fußnote 1 849,00 € oder 35,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+   },
+   "options": {
+    "dimensionColor": [
+     "Hellrosa",
+     "Weiß",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 849,00 € oder 35,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "512 GB Fußnote 1 1.099,00 € oder 45,79 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

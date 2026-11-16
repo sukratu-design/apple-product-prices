@@ -1,0 +1,186 @@
+{
+ "page": "apple-watch-se",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:43.347Z",
+ "configs": {
+  "40-gps": {
+   "total": 269,
+   "totalFrom": "summary",
+   "totalText": "€ 269,00 | € 269,00 | € 269,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Middernacht",
+    "watch_cases-dimensionCaseSize": "40 mm Vanaf € 269",
+    "watch_cases-dimensionConnection": "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 269",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 269,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 269,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Middernacht",
+     "Sterrenlicht"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Vanaf € 269",
+     "44 mm Vanaf € 299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 269",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 319"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 269,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 269",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 319"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 269,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 269,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 269,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "€ 299,00 | € 299,00 | € 299,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Middernacht",
+    "watch_cases-dimensionCaseSize": "44 mm Vanaf € 299",
+    "watch_cases-dimensionConnection": "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 299",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 299,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 299,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Middernacht",
+     "Sterrenlicht"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Vanaf € 269",
+     "44 mm Vanaf € 299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 299",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 349"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 299,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 299",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 349"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 299,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 299,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 299,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw",
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 319,
+   "totalFrom": "summary",
+   "totalText": "€ 319,00 | € 319,00 | € 319,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Middernacht",
+    "watch_cases-dimensionCaseSize": "40 mm Vanaf € 269",
+    "watch_cases-dimensionConnection": "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 319",
+    "category": "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 319,00",
+    "rubber-style": "Nieuwe kleuren Solobandje € 319,00 Rekbaar, geen sluiting, past precies",
+    "rubber-sololoop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Middernacht",
+     "Sterrenlicht"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Vanaf € 269",
+     "44 mm Vanaf € 299"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Bel en stuur berichten met je iPhone in de buurt. Vanaf € 269",
+     "GPS + Cellular Bel en stuur berichten met alleen je Apple Watch. Vanaf € 319"
+    ],
+    "category": [
+     "Rubber Flexibele, comfortabele, zwembestendige bandjes. € 319,00",
+     "Textiel Zachte, lichte materialen. Bij uitstek geschikt voor elke dag. Vanaf € 319",
+     "Roestvrij staal Prachtige designs van roestvrij staal voor een stijlvolle uitstraling. Vanaf € 369"
+    ],
+    "rubber-style": [
+     "Nieuwe kleuren Solobandje € 319,00 Rekbaar, geen sluiting, past precies",
+     "Nieuwe kleuren Sportbandje € 319,00 Stevig, pinsluiting, verstelbaar",
+     "Nieuwe kleuren Sportbandje van Nike € 319,00 Ademend, pinsluiting, verstelbaar"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeauxrood",
+     "Olijfgroen",
+     "Marineblauw",
+     "Veldbloemblauw"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  }
+ }
+}

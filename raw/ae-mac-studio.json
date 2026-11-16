@@ -2,12 +2,12 @@
  "page": "mac-studio",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-mac/mac-studio",
- "scrapedAt": "2026-11-13T11:07:58.741Z",
+ "scrapedAt": "2026-11-16T13:24:30.052Z",
  "configs": {
   "m5max-32": {
    "total": 10499,
    "totalFrom": "summary",
-   "totalText": "AED 10,499.00",
+   "totalText": "AED 10,499.00 | AED 10,499.00",
    "selected": {
     "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From AED 10,499",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
@@ -39,7 +39,7 @@
   "m5max-40": {
    "total": 13199,
    "totalFrom": "summary",
-   "totalText": "AED 13,199.00",
+   "totalText": "AED 13,199.00 | AED 13,199.00",
    "selected": {
     "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From AED 10,499",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
@@ -73,7 +73,7 @@
   "m5ultra-64": {
    "total": 23999,
    "totalFrom": "summary",
-   "totalText": "AED 23,999.00",
+   "totalText": "AED 23,999.00 | AED 23,999.00",
    "selected": {
     "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From AED 23,999",
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
@@ -106,7 +106,7 @@
   "m5ultra-80": {
    "total": 29849,
    "totalFrom": "summary",
-   "totalText": "AED 29,849.00",
+   "totalText": "AED 29,849.00 | AED 29,849.00",
    "selected": {
     "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From AED 23,999",
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics, and AI compute performance for demanding workflows like running large language models, applying visual effects, and color grading film.",

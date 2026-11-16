@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:55.372Z",
+ "configs": {
+  "default": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,449.00 | NZ$1,449.00 | NZ$1,449.00",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 NZ$1,449.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 NZ$1,449.00",
+     "512GB Footnote 1 NZ$1,849.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

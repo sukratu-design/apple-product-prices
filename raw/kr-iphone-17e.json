@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:40.419Z",
+ "configs": {
+  "default": {
+   "total": 1150000,
+   "totalFrom": "summary",
+   "totalText": "₩1,150,000 | ₩1,150,000 | ₩1,150,000",
+   "selected": {
+    "dimensionColor": "소프트 핑크",
+    "dimensionCapacity": "256GB 각주 1 ₩1,150,000"
+   },
+   "options": {
+    "dimensionColor": [
+     "소프트 핑크",
+     "화이트",
+     "블랙"
+    ],
+    "dimensionCapacity": [
+     "256GB 각주 1 ₩1,150,000",
+     "512GB 각주 1 ₩1,450,000"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

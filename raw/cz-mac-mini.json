@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:24.515Z",
+ "configs": {
+  "m6": {
+   "total": 25990,
+   "totalFrom": "summary",
+   "totalText": "25 990,00 Kč | 25 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU s dvojitým 16jádrovým Neural Enginem Od 25 990 Kč",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "V základu",
+    "memory-dimensionMemory": "16 GB V základu",
+    "storage-dimensionCapacity": "256 GB V základu",
+    "ethernet_adapter-ethernetBandwidth": "2,5gigabitový ethernet Standardní síťové připojení, rychlost až 2,5 Gb/s. V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU s dvojitým 16jádrovým Neural Enginem Od 25 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se objednat v konfiguraci s větší pamětí pro náročné pracovní postupy. 2 varianty se 16jádrovým Neural Enginem Od 47 990 Kč"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "V základu"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB V základu",
+     "24 GB + 6 000,00 Kč",
+     "32 GB + 12 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB V základu",
+     "512 GB + 6 000,00 Kč",
+     "1 TB + 15 000,00 Kč",
+     "2 TB + 30 000,00 Kč"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5gigabitový ethernet Standardní síťové připojení, rychlost až 2,5 Gb/s. V základu",
+     "10gigabitový ethernet Připojení s větší šířkou pásma, rychlost až 10 Gb/s. + 3 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 47990,
+   "totalFrom": "summary",
+   "totalText": "47 990,00 Kč | 47 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M5 Pro Podává vyšší výkon a dá se objednat v konfiguraci s větší pamětí pro náročné pracovní postupy. 2 varianty se 16jádrovým Neural Enginem Od 47 990 Kč",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15jádrové CPU, 16jádrové GPU V základu",
+    "memory-dimensionMemory": "24 GB V základu",
+    "storage-dimensionCapacity": "512 GB V základu",
+    "ethernet_adapter-ethernetBandwidth": "2,5gigabitový ethernet Standardní síťové připojení, rychlost až 2,5 Gb/s. V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU s dvojitým 16jádrovým Neural Enginem Od 25 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se objednat v konfiguraci s větší pamětí pro náročné pracovní postupy. 2 varianty se 16jádrovým Neural Enginem Od 47 990 Kč"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15jádrové CPU, 16jádrové GPU V základu",
+     "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. + 6 000,00 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB V základu",
+     "48 GB + 18 000,00 Kč",
+     "64 GB + 30 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB V základu",
+     "1 TB + 9 000,00 Kč",
+     "2 TB + 24 000,00 Kč",
+     "4 TB + 54 000,00 Kč",
+     "8 TB + 114 000,00 Kč"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5gigabitový ethernet Standardní síťové připojení, rychlost až 2,5 Gb/s. V základu",
+     "10gigabitový ethernet Připojení s větší šířkou pásma, rychlost až 10 Gb/s. + 3 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 53990,
+   "totalFrom": "summary",
+   "totalText": "53 990,00 Kč | 53 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M5 Pro Podává vyšší výkon a dá se objednat v konfiguraci s větší pamětí pro náročné pracovní postupy. 2 varianty se 16jádrovým Neural Enginem Od 47 990 Kč",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa.",
+    "memory-dimensionMemory": "24 GB V základu",
+    "storage-dimensionCapacity": "512 GB V základu",
+    "ethernet_adapter-ethernetBandwidth": "2,5gigabitový ethernet Standardní síťové připojení, rychlost až 2,5 Gb/s. V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M6 Závratně rychlý čip s výkonem na dalším levelu pro osobní, profesionální i tvůrčí projekty, na kterých děláš den co den. 12jádrové CPU, 12jádrové GPU s dvojitým 16jádrovým Neural Enginem Od 25 990 Kč",
+     "Čip M5 Pro Podává vyšší výkon a dá se objednat v konfiguraci s větší pamětí pro náročné pracovní postupy. 2 varianty se 16jádrovým Neural Enginem Od 47 990 Kč"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15jádrové CPU, 16jádrové GPU − 6 000,00 Kč",
+     "18jádrové CPU, 20jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB V základu",
+     "48 GB + 18 000,00 Kč",
+     "64 GB + 30 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB V základu",
+     "1 TB + 9 000,00 Kč",
+     "2 TB + 24 000,00 Kč",
+     "4 TB + 54 000,00 Kč",
+     "8 TB + 114 000,00 Kč"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5gigabitový ethernet Standardní síťové připojení, rychlost až 2,5 Gb/s. V základu",
+     "10gigabitový ethernet Připojení s větší šířkou pásma, rychlost až 10 Gb/s. + 3 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

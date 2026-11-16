@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:48.176Z",
+ "configs": {
+  "default": {
+   "total": 64999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 64.999.000đ",
+   "selected": {
+    "dimensionColor": "Trắng Ánh Sao",
+    "dimensionCapacity": "256GB Chú thích 1 64.999.000đ hoặc 2.647.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Trắng Ánh Sao",
+     "Trời Đêm"
+    ],
+    "dimensionCapacity": [
+     "256GB Chú thích 1 64.999.000đ hoặc 2.647.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "512GB Chú thích 1 71.499.000đ hoặc 2.911.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "1TB Chú thích 1 84.499.000đ hoặc 3.441.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "2TB Chú thích 1 103.999.000đ hoặc 4.234.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

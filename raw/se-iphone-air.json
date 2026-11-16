@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:18.852Z",
+ "configs": {
+  "default": {
+   "total": 15495,
+   "totalFrom": "summary",
+   "totalText": "15 495,00 kr | 15 495,00 kr | 15 495,00 kr",
+   "selected": {
+    "dimensionColor": "himmelsblå",
+    "dimensionCapacity": "256 GB Fotnot 1 15 495,00 kr"
+   },
+   "options": {
+    "dimensionColor": [
+     "himmelsblå",
+     "molnvit",
+     "Rymdsvart",
+     "ljust guld"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnot 1 15 495,00 kr",
+     "512 GB Fotnot 1 18 495,00 kr",
+     "1 TB Fotnot 1 23 995,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

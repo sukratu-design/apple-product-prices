@@ -2,15 +2,15 @@
  "page": "apple-watch-ultra",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-watch/apple-watch-ultra",
- "scrapedAt": "2026-11-13T11:09:26.675Z",
+ "scrapedAt": "2026-11-16T13:09:38.971Z",
  "configs": {
   "band": {
    "total": 749,
    "totalFrom": "summary",
-   "totalText": "£749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "totalText": "£749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ∆∆ | £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
    "selected": {
     "watch_cases-dimensionColor": "Black",
-    "style": "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
     "alpineloop-color": "Burgundy",
     "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
    },
@@ -20,10 +20,10 @@
      "Natural"
     ],
     "style": [
-     "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
-     "New colours Trail Loop For all sports and workouts. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
-     "New colours Ocean Band For water sports and recreational diving. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
-     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+     "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
+     "New colours Trail Loop For all sports and workouts. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
+     "New colours Ocean Band For water sports and recreational diving. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest"
     ],
     "alpineloop-color": [
      "Burgundy",
@@ -41,10 +41,10 @@
   "milanese": {
    "total": 849,
    "totalFrom": "summary",
-   "totalText": "£849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
+   "totalText": "£849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ∆∆ | £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ∆∆",
    "selected": {
     "watch_cases-dimensionColor": "Black",
-    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest",
     "ti_milaneseloop-color": "Black",
     "watch_bands-dimensionbandsize": "Small Strap fits 130–160mm wrists."
    },
@@ -54,10 +54,10 @@
      "Natural"
     ],
     "style": [
-     "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
-     "New colours Trail Loop For all sports and workouts. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
-     "New colours Ocean Band For water sports and recreational diving. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆",
-     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest Footnote ∆∆"
+     "New colours Alpine Loop For outdoor adventure and hiking. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
+     "New colours Trail Loop For all sports and workouts. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
+     "New colours Ocean Band For water sports and recreational diving. £749 or £62.41/mo. per month for 12 mo. months at 0% interest interest",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. £849 or £70.75/mo. per month for 12 mo. months at 0% interest interest"
     ],
     "ti_milaneseloop-color": [
      "Black"

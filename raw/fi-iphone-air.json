@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:16.142Z",
+ "configs": {
+  "default": {
+   "total": 1359,
+   "totalFrom": "summary",
+   "totalText": "Alkaen 1 359 € | 1 359,00 € | 1 359,00 €",
+   "selected": {
+    "dimensionColor": "Taivaan­sininen",
+    "dimensionCapacity": "256 Gt Alaviite 1 1 359,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Taivaan­sininen",
+     "Poudan­valkea",
+     "Tähtimusta",
+     "Vaalea kulta"
+    ],
+    "dimensionCapacity": [
+     "256 Gt Alaviite 1 1 359,00 €",
+     "512 Gt Alaviite 1 1 609,00 €",
+     "1 Tt Alaviite 1 2 109,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

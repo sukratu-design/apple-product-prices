@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:12.784Z",
+ "configs": {
+  "m5max-32": {
+   "total": 69990,
+   "totalFrom": "summary",
+   "totalText": "69 990,00 Kč | 69 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M5 Max Pořádná rychlost a výkon na kreativní projekty a profesionální práci. 2 varianty se 16jádrovým Neural Enginem Od 69 990 Kč",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 32jádrové GPU V základu",
+    "memory-dimensionMemory": "36 GB V základu",
+    "storage-dimensionCapacity": "512 GB V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M5 Max Pořádná rychlost a výkon na kreativní projekty a profesionální práci. 2 varianty se 16jádrovým Neural Enginem Od 69 990 Kč",
+     "Čip M5 Ultra Náš nejvýkonnější čip s bezprecedentní rychlostí na nejnáročnější profesionální činnosti. 2 varianty s 32jádrovým Neural Enginem Od 154 990 Kč"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 32jádrové GPU V základu",
+     "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. + 9 000,00 Kč Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB V základu"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB V základu",
+     "1 TB + 9 000,00 Kč",
+     "2 TB + 24 000,00 Kč",
+     "4 TB + 54 000,00 Kč",
+     "8 TB + 114 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 87990,
+   "totalFrom": "summary",
+   "totalText": "87 990,00 Kč | 87 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M5 Max Pořádná rychlost a výkon na kreativní projekty a profesionální práci. 2 varianty se 16jádrovým Neural Enginem Od 69 990 Kč",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu.",
+    "memory-dimensionMemory": "48 GB V základu",
+    "storage-dimensionCapacity": "512 GB V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M5 Max Pořádná rychlost a výkon na kreativní projekty a profesionální práci. 2 varianty se 16jádrovým Neural Enginem Od 69 990 Kč",
+     "Čip M5 Ultra Náš nejvýkonnější čip s bezprecedentní rychlostí na nejnáročnější profesionální činnosti. 2 varianty s 32jádrovým Neural Enginem Od 154 990 Kč"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18jádrové CPU, 32jádrové GPU − 9 000,00 Kč",
+     "18jádrové CPU, 40jádrové GPU Získej vyšší rychlost zpracování úloh a rendrování grafiky na práci s velkými jazykovými modely a střih 8K videa. Tahle volba vyžaduje upgrade paměti na 48 GB, což zvýší celkovou cenu Macu."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB V základu",
+     "64 GB + 12 000,00 Kč",
+     "128 GB + 60 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB V základu",
+     "1 TB + 9 000,00 Kč",
+     "2 TB + 24 000,00 Kč",
+     "4 TB + 54 000,00 Kč",
+     "8 TB + 114 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 154990,
+   "totalFrom": "summary",
+   "totalText": "154 990,00 Kč | 154 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M5 Ultra Náš nejvýkonnější čip s bezprecedentní rychlostí na nejnáročnější profesionální činnosti. 2 varianty s 32jádrovým Neural Enginem Od 154 990 Kč",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30jádrové CPU, 64jádrové GPU V základu",
+    "memory-dimensionMemory": "96 GB V základu",
+    "storage-dimensionCapacity": "1 TB V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M5 Max Pořádná rychlost a výkon na kreativní projekty a profesionální práci. 2 varianty se 16jádrovým Neural Enginem Od 69 990 Kč",
+     "Čip M5 Ultra Náš nejvýkonnější čip s bezprecedentní rychlostí na nejnáročnější profesionální činnosti. 2 varianty s 32jádrovým Neural Enginem Od 154 990 Kč"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30jádrové CPU, 64jádrové GPU V základu",
+     "36jádrové CPU, 80jádrové GPU Získej vyšší rychlost zpracování úloh, rendrování grafiky a umělé inteligence na práci s velkými jazykovými modely, vytváření vizuálních efektů a color grading filmového materiálu. + 39 000,00 Kč"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB V základu",
+     "256 GB + 120 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB V základu",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč",
+     "8 TB + 105 000,00 Kč",
+     "16 TB + 225 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 193990,
+   "totalFrom": "summary",
+   "totalText": "193 990,00 Kč | 193 990,00 Kč",
+   "selected": {
+    "processor-dimensionChip": "Čip M5 Ultra Náš nejvýkonnější čip s bezprecedentní rychlostí na nejnáročnější profesionální činnosti. 2 varianty s 32jádrovým Neural Enginem Od 154 990 Kč",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36jádrové CPU, 80jádrové GPU Získej vyšší rychlost zpracování úloh, rendrování grafiky a umělé inteligence na práci s velkými jazykovými modely, vytváření vizuálních efektů a color grading filmového materiálu.",
+    "memory-dimensionMemory": "96 GB V základu",
+    "storage-dimensionCapacity": "1 TB V základu"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Čip M5 Max Pořádná rychlost a výkon na kreativní projekty a profesionální práci. 2 varianty se 16jádrovým Neural Enginem Od 69 990 Kč",
+     "Čip M5 Ultra Náš nejvýkonnější čip s bezprecedentní rychlostí na nejnáročnější profesionální činnosti. 2 varianty s 32jádrovým Neural Enginem Od 154 990 Kč"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30jádrové CPU, 64jádrové GPU − 39 000,00 Kč",
+     "36jádrové CPU, 80jádrové GPU Získej vyšší rychlost zpracování úloh, rendrování grafiky a umělé inteligence na práci s velkými jazykovými modely, vytváření vizuálních efektů a color grading filmového materiálu."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB V základu",
+     "256 GB + 120 000,00 Kč",
+     "512 GB + 465 000,00 Kč"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB V základu",
+     "2 TB + 15 000,00 Kč",
+     "4 TB + 45 000,00 Kč",
+     "8 TB + 105 000,00 Kč",
+     "16 TB + 225 000,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

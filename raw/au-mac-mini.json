@@ -2,14 +2,14 @@
  "page": "mac-mini",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-mac/mac-mini",
- "scrapedAt": "2026-11-13T11:07:48.554Z",
+ "scrapedAt": "2026-11-16T12:55:19.163Z",
  "configs": {
   "m6": {
    "total": 1449,
    "totalFrom": "summary",
-   "totalText": "A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "totalText": "A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ± | A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
    "selected": {
-    "processor-dimensionChip": "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "processor-dimensionChip": "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a.",
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
     "memory-dimensionMemory": "16GB Included",
     "storage-dimensionCapacity": "256GB Included",
@@ -17,8 +17,8 @@
    },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a.",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a."
     ],
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "Included"
@@ -44,9 +44,9 @@
   "m5pro-15": {
    "total": 2699,
    "totalFrom": "summary",
-   "totalText": "A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "totalText": "A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ± | A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
    "selected": {
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a.",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
     "memory-dimensionMemory": "24GB Included",
     "storage-dimensionCapacity": "512GB Included",
@@ -54,8 +54,8 @@
    },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a.",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a."
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU Included",
@@ -83,9 +83,9 @@
   "m5pro-18": {
    "total": 2999,
    "totalFrom": "summary",
-   "totalText": "A$2,999.00 or A$249.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+   "totalText": "A$2,999.00 or A$249.92/mo. per month for 12 mo. months at 0% p.a. Footnote ± | A$2,999.00 or A$249.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
    "selected": {
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a.",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
     "memory-dimensionMemory": "24GB Included",
     "storage-dimensionCapacity": "512GB Included",
@@ -93,8 +93,8 @@
    },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a. Footnote ±",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a. Footnote ±"
+     "M6 chip Blazing fast, with next-level performance, for the personal, professional and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine From A$1,449.00 or A$120.75/mo. per month for 12 mo. months at 0% p.a.",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From A$2,699.00 or A$224.92/mo. per month for 12 mo. months at 0% p.a."
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU − A$300.00",

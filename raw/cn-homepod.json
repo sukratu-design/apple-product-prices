@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:26:07.960Z",
+ "configs": {
+  "default": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "RMB 2,699",
+   "selected": {
+    "dimensionColor": "白色"
+   },
+   "options": {
+    "dimensionColor": [
+     "白色",
+     "午夜色"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

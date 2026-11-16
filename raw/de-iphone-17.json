@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:03.192Z",
+ "configs": {
+  "default": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1.099 € oder 45,79 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ② | 1.099 € oder 45,79 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ②",
+   "selected": {
+    "dimensionColor": "Lavendel",
+    "dimensionCapacity": "256 GB Fußnote 1 1.099,00 € oder 45,79 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavendel",
+     "Nebelblau",
+     "Weiß",
+     "Salbei",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.099,00 € oder 45,79 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "512 GB Fußnote 1 1.349,00 € oder 56,21 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:28.785Z",
+ "configs": {
+  "default": {
+   "total": 229999,
+   "totalFrom": "summary",
+   "totalText": "229.999,00 TL | 229.999,00 TL | 229.999,00 TL",
+   "selected": {
+    "dimensionColor": "Yıldız Rengi",
+    "dimensionCapacity": "256 GB Dipnot 1 229.999,00 TL"
+   },
+   "options": {
+    "dimensionColor": [
+     "Yıldız Rengi",
+     "Gece Rengi"
+    ],
+    "dimensionCapacity": [
+     "256 GB Dipnot 1 229.999,00 TL",
+     "512 GB Dipnot 1 246.999,00 TL",
+     "1 TB Dipnot 1 280.999,00 TL",
+     "2 TB Dipnot 1 335.999,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

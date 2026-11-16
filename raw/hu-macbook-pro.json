@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:30.987Z",
+ "configs": {
+  "14-m6": {
+   "total": 899990,
+   "totalFrom": "summary",
+   "totalText": "899 990 Ft | 899 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "Új M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 899 990 Ft",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Az alapcsomag része",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "Új M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 899 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Az alapcsomag része"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része",
+     "24 GB + 100 000 Ft",
+     "32 GB + 200 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Az alapcsomag része",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 1129990,
+   "totalFrom": "summary",
+   "totalText": "1 129 990 Ft | 1 129 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 magos CPU, 16 magos GPU Az alapcsomag része",
+    "memory-dimensionMemory": "24 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "Új M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 899 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 magos CPU, 16 magos GPU Az alapcsomag része",
+     "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet az olyan intenzív feladatokhoz, mint a játék, a kódírás és a kreatív műveletek. + 120 000 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Az alapcsomag része",
+     "48 GB + 300 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Az alapcsomag része",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 1249990,
+   "totalFrom": "summary",
+   "totalText": "1 249 990 Ft | 1 249 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet az olyan intenzív feladatokhoz, mint a játék, a kódírás és a kreatív műveletek.",
+    "memory-dimensionMemory": "24 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB Az alapcsomag része",
+    "power_adapter-wattage": "Hálózati adapter nélkül"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "Új M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 899 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 magos CPU, 16 magos GPU − 120 000 Ft",
+     "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet az olyan intenzív feladatokhoz, mint a játék, a kódírás és a kreatív műveletek."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Az alapcsomag része",
+     "48 GB + 300 000 Ft",
+     "64 GB + 500 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Az alapcsomag része",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft"
+    ],
+    "power_adapter-wattage": [
+     "Hálózati adapter nélkül",
+     "96 W Gyorstöltés, támogatja a Nagy teljesítményű módot az M5 Pro és az M5 Max chipes gépekkel. + 36 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 1899990,
+   "totalFrom": "summary",
+   "totalText": "1 899 990 Ft | 1 899 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 32 magos GPU Az alapcsomag része",
+    "memory-dimensionMemory": "36 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "2 TB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "Új M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 899 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 32 magos GPU Az alapcsomag része",
+     "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. + 150 000 Ft Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Az alapcsomag része"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Az alapcsomag része",
+     "4 TB + 500 000 Ft",
+     "8 TB + 1 500 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 2199990,
+   "totalFrom": "summary",
+   "totalText": "2 199 990 Ft | 2 199 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli.",
+    "memory-dimensionMemory": "48 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "2 TB Az alapcsomag része",
+    "power_adapter-wattage": "Hálózati adapter nélkül"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "Új M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 899 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 129 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 899 990 Ft"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 32 magos GPU − 150 000 Ft",
+     "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Az alapcsomag része",
+     "64 GB + 200 000 Ft",
+     "128 GB + 1 000 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Az alapcsomag része",
+     "4 TB + 500 000 Ft",
+     "8 TB + 1 500 000 Ft"
+    ],
+    "power_adapter-wattage": [
+     "Hálózati adapter nélkül",
+     "96 W Gyorstöltés, támogatja a Nagy teljesítményű módot az M5 Pro és az M5 Max chipes gépekkel. + 36 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 1349990,
+   "totalFrom": "summary",
+   "totalText": "1 349 990 Ft | 1 349 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 18 magos CPU, 20 magos GPU, 16 magos Neural Engine Indulóár: 1 349 990 Ft",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet az olyan intenzív feladatokhoz, mint a játék, a kódírás és a kreatív műveletek. Az alapcsomag része",
+    "memory-dimensionMemory": "24 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 18 magos CPU, 20 magos GPU, 16 magos Neural Engine Indulóár: 1 349 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 999 990 Ft"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet az olyan intenzív feladatokhoz, mint a játék, a kódírás és a kreatív műveletek. Az alapcsomag része"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Az alapcsomag része",
+     "48 GB + 300 000 Ft",
+     "64 GB + 500 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Az alapcsomag része",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 1999990,
+   "totalFrom": "summary",
+   "totalText": "1 999 990 Ft | 1 999 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 999 990 Ft",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 32 magos GPU Az alapcsomag része",
+    "memory-dimensionMemory": "36 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "2 TB Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 18 magos CPU, 20 magos GPU, 16 magos Neural Engine Indulóár: 1 349 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 999 990 Ft"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 32 magos GPU Az alapcsomag része",
+     "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. + 150 000 Ft Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Az alapcsomag része"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Az alapcsomag része",
+     "4 TB + 500 000 Ft",
+     "8 TB + 1 500 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 2299990,
+   "totalFrom": "summary",
+   "totalText": "2 299 990 Ft | 2 299 990 Ft",
+   "selected": {
+    "chassis-dimensionScreensize": "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft",
+    "chassis-dimensionColor": "asztrofekete",
+    "display-dimensionFinish": "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "processor-dimensionChip": "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 999 990 Ft",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli.",
+    "memory-dimensionMemory": "48 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "2 TB Az alapcsomag része",
+    "power_adapter-wattage": "Hálózati adapter nélkül"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 hüvelykes modell M6, M5 Pro és M5 Max chippel kapható. Indulóár: 899 990 Ft",
+     "16 hüvelykes modell M5 Pro és M5 Max chippel kapható. Indulóár: 1 349 990 Ft"
+    ],
+    "chassis-dimensionColor": [
+     "asztrofekete",
+     "ezüst"
+    ],
+    "display-dimensionFinish": [
+     "Normál kijelző Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált kijelző Még jobban csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. + 75 000 Ft"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 18 magos CPU, 20 magos GPU, 16 magos Neural Engine Indulóár: 1 349 990 Ft",
+     "M5 Max chip Hihetetlenül erős chip pro laptopokhoz. Extrém munkafolyamatokra termett. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 999 990 Ft"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 32 magos GPU − 150 000 Ft",
+     "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Az alapcsomag része",
+     "64 GB + 200 000 Ft",
+     "128 GB + 1 000 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Az alapcsomag része",
+     "4 TB + 500 000 Ft",
+     "8 TB + 1 500 000 Ft"
+    ],
+    "power_adapter-wattage": [
+     "Hálózati adapter nélkül",
+     "140 W Gyorstöltés, támogatja a Nagy teljesítményű módot az M5 Pro és az M5 Max chipes gépekkel. + 47 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

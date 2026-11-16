@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:11.529Z",
+ "configs": {
+  "2port": {
+   "total": 699990,
+   "totalFrom": "summary",
+   "totalText": "699 990 Ft | 699 990 Ft",
+   "selected": {
+    "chassis-dimensionColor": "kék",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip két Thunderbolt porttal 10 magos CPU, 10 magos GPU, két 16 magos Neural Engine Indulóár: 699 990 Ft",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "256 GB Az alapcsomag része",
+    "chassis-dimensionStandType": "Állvány Helyezd az asztalodra, és állítsd be felfelé vagy lefelé döntve. Az alapcsomag része",
+    "ethernet_adapter-ethernetPortCount": "Ethernet nélkül Csatlakozás csak Wi‑Fi-hálózaton keresztül. Az alapcsomag része",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Támogatja az olyan Multi‑Touch-mozdulatokat, mint a lapozás és a görgetés. Az alapcsomag része",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultrakompakt kialakítását teljesen betöltik a billentyűk. Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "kék",
+     "lila",
+     "rózsaszín",
+     "narancs",
+     "sárga",
+     "zöld",
+     "ezüst"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip két Thunderbolt porttal 10 magos CPU, 10 magos GPU, két 16 magos Neural Engine Indulóár: 699 990 Ft",
+     "M6 chip négy Thunderbolt porttal 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 799 990 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része",
+     "24 GB + 100 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Az alapcsomag része",
+     "512 GB + 100 000 Ft",
+     "1 TB + 250 000 Ft"
+    ],
+    "chassis-dimensionStandType": [
+     "Állvány Helyezd az asztalodra, és állítsd be felfelé vagy lefelé döntve. Az alapcsomag része",
+     "VESA-rögzítőadapter Beépített – rögzítsd vele a falra vagy egy állítható karra."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Ethernet nélkül Csatlakozás csak Wi‑Fi-hálózaton keresztül. Az alapcsomag része",
+     "2,5 gigabites Ethernet-port Hagyományos hálózatkezelés, akár 2,5 gigabites kapcsolatsebesség. + 16 000 Ft"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Támogatja az olyan Multi‑Touch-mozdulatokat, mint a lapozás és a görgetés. Az alapcsomag része",
+     "Magic Trackpad A Multi‑Touch-mozdulatok teljes skálája mellett a Force Touch technológiát is támogatja. + 21 000 Ft"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultrakompakt kialakítását teljesen betöltik a billentyűk. Az alapcsomag része",
+     "Magic Keyboard Touch ID-val és számbillentyűzettel Nagyobb felület további navigációs vezérlőkkel. Gyors és egyszerű azonosítást biztosít az ujjlenyomatoddal. + 41 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 799990,
+   "totalFrom": "summary",
+   "totalText": "799 990 Ft | 799 990 Ft",
+   "selected": {
+    "chassis-dimensionColor": "kék",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip négy Thunderbolt porttal 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 799 990 Ft",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "256 GB Az alapcsomag része",
+    "display-dimensionFinish": "Normál üveg Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+    "chassis-dimensionStandType": "Állvány Helyezd az asztalodra, és állítsd be felfelé vagy lefelé döntve. Az alapcsomag része",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Támogatja az olyan Multi‑Touch-mozdulatokat, mint a lapozás és a görgetés. Az alapcsomag része",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Touch ID‑val Gyors és egyszerű azonosítást biztosít az ujjlenyomatoddal. Az alapcsomag része"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "kék",
+     "lila",
+     "rózsaszín",
+     "narancs",
+     "sárga",
+     "zöld",
+     "ezüst"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip két Thunderbolt porttal 10 magos CPU, 10 magos GPU, két 16 magos Neural Engine Indulóár: 699 990 Ft",
+     "M6 chip négy Thunderbolt porttal 12 magos CPU, 12 magos GPU, két 16 magos Neural Engine Indulóár: 799 990 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része",
+     "24 GB + 100 000 Ft",
+     "32 GB + 200 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Az alapcsomag része",
+     "512 GB + 100 000 Ft",
+     "1 TB + 250 000 Ft",
+     "2 TB + 500 000 Ft"
+    ],
+    "display-dimensionFinish": [
+     "Normál üveg Alacsony szintű tükröződést biztosít, hogy csökkentse a környezeti becsillanást. Az alapcsomag része",
+     "Nanotexturált üveg Jelentős mértékben csökkenti a csillogást és a tükrö­ző­dést nagyon fényes környezetben. Csak a négyportos modellhez választható. + 100 000 Ft"
+    ],
+    "chassis-dimensionStandType": [
+     "Állvány Helyezd az asztalodra, és állítsd be felfelé vagy lefelé döntve. Az alapcsomag része",
+     "VESA-rögzítőadapter Beépített – rögzítsd vele a falra vagy egy állítható karra."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Támogatja az olyan Multi‑Touch-mozdulatokat, mint a lapozás és a görgetés. Az alapcsomag része",
+     "Magic Trackpad A Multi‑Touch-mozdulatok teljes skálája mellett a Force Touch technológiát is támogatja. + 21 000 Ft"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Touch ID‑val Gyors és egyszerű azonosítást biztosít az ujjlenyomatoddal. Az alapcsomag része",
+     "Magic Keyboard Touch ID-val és számbillentyűzettel Nagyobb felület további navigációs vezérlőkkel. Gyors és egyszerű azonosítást biztosít az ujjlenyomatoddal. + 16 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

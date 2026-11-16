@@ -1,0 +1,11 @@
+{
+ "page": "apple-vision-pro",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-16T13:11:17.890Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/hu/store)"
+  }
+ }
+}

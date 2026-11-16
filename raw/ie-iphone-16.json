@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:01:57.620Z",
+ "configs": {
+  "default": {
+   "total": 1029,
+   "totalFrom": "summary",
+   "totalText": "€1,029.00 | €1,029.00 | €1,029.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From €1,029",
+    "dimensionColor": "Ultramarine"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From €1,029"
+    ],
+    "dimensionColor": [
+     "Ultramarine",
+     "Teal",
+     "White",
+     "Pink",
+     "Black"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

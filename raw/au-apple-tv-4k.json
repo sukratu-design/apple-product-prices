@@ -2,12 +2,12 @@
  "page": "apple-tv-4k",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-tv/apple-tv-4k",
- "scrapedAt": "2026-11-13T11:13:44.274Z",
+ "scrapedAt": "2026-11-16T13:24:47.538Z",
  "configs": {
   "default": {
    "total": 449,
-   "totalFrom": "page-first",
-   "totalText": "",
+   "totalFrom": "summary",
+   "totalText": "A$449.00",
    "selected": {},
    "options": {},
    "disabledOptions": {}

@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:22.934Z",
+ "configs": {
+  "m6": {
+   "total": 4499,
+   "totalFrom": "summary",
+   "totalText": "4 499,00 zł | 4 499,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy silnik Neural Engine Od 4499 zł",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "W zestawie",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "256 GB W zestawie",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet 2,5 Gb Standardowa łączność sieciowa, z obsługą prędkości do 2,5 Gb. W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy silnik Neural Engine Od 4499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 8499 zł"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "W zestawie"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie",
+     "24 GB + 1 000,00 zł",
+     "32 GB + 2 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB W zestawie",
+     "512 GB + 1 000,00 zł",
+     "1 TB + 2 500,00 zł",
+     "2 TB + 5 000,00 zł"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet 2,5 Gb Standardowa łączność sieciowa, z obsługą prędkości do 2,5 Gb. W zestawie",
+     "10 Gigabit Ethernet Większa przepustowość, nawet do 10 Gb. + 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 8499,
+   "totalFrom": "summary",
+   "totalText": "8 499,00 zł | 8 499,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 8499 zł",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑rdzeniowe CPU, 16‑rdzeniowe GPU W zestawie",
+    "memory-dimensionMemory": "24 GB W zestawie",
+    "storage-dimensionCapacity": "512 GB W zestawie",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet 2,5 Gb Standardowa łączność sieciowa, z obsługą prędkości do 2,5 Gb. W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy silnik Neural Engine Od 4499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 8499 zł"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑rdzeniowe CPU, 16‑rdzeniowe GPU W zestawie",
+     "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. + 1 000,00 zł"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB W zestawie",
+     "48 GB + 3 000,00 zł",
+     "64 GB + 5 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB W zestawie",
+     "1 TB + 1 500,00 zł",
+     "2 TB + 4 000,00 zł",
+     "4 TB + 9 000,00 zł",
+     "8 TB + 19 000,00 zł"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet 2,5 Gb Standardowa łączność sieciowa, z obsługą prędkości do 2,5 Gb. W zestawie",
+     "10 Gigabit Ethernet Większa przepustowość, nawet do 10 Gb. + 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 9499,
+   "totalFrom": "summary",
+   "totalText": "9 499,00 zł | 9 499,00 zł",
+   "selected": {
+    "processor-dimensionChip": "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 8499 zł",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K.",
+    "memory-dimensionMemory": "24 GB W zestawie",
+    "storage-dimensionCapacity": "512 GB W zestawie",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet 2,5 Gb Standardowa łączność sieciowa, z obsługą prędkości do 2,5 Gb. W zestawie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy silnik Neural Engine Od 4499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 8499 zł"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑rdzeniowe CPU, 16‑rdzeniowe GPU − 1 000,00 zł",
+     "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB W zestawie",
+     "48 GB + 3 000,00 zł",
+     "64 GB + 5 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB W zestawie",
+     "1 TB + 1 500,00 zł",
+     "2 TB + 4 000,00 zł",
+     "4 TB + 9 000,00 zł",
+     "8 TB + 19 000,00 zł"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet 2,5 Gb Standardowa łączność sieciowa, z obsługą prędkości do 2,5 Gb. W zestawie",
+     "10 Gigabit Ethernet Większa przepustowość, nawet do 10 Gb. + 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

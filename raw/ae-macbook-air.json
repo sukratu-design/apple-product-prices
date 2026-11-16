@@ -2,24 +2,24 @@
  "page": "macbook-air",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-mac/macbook-air",
- "scrapedAt": "2026-11-13T11:05:39.888Z",
+ "scrapedAt": "2026-11-16T12:44:52.876Z",
  "configs": {
   "15": {
    "total": 6299,
    "totalFrom": "summary",
-   "totalText": "AED 6,299.00",
+   "totalText": "AED 6,299.00 | AED 6,299.00",
    "selected": {
-    "chassis-dimensionScreensize": "15-inch Footnote 1 From AED 6,299",
+    "chassis-dimensionScreensize": "15-inch From AED 6,299",
     "chassis-dimensionColor": "Sky Blue",
     "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From AED 6,299",
-    "memory-dimensionMemory": "16GBIncluded",
-    "storage-dimensionCapacity": "512GBIncluded",
-    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 From AED 5,499",
-     "15-inch Footnote 1 From AED 6,299"
+     "13-inch From AED 5,499",
+     "15-inch From AED 6,299"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -31,20 +31,20 @@
      "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From AED 6,299"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ AED 900.00",
-     "32GB+ AED 1,800.00"
+     "16GB Included",
+     "24GB + AED 900.00",
+     "32GB + AED 1,800.00"
     ],
     "storage-dimensionCapacity": [
-     "512GBIncluded",
-     "1TB+ AED 1,350.00",
-     "2TB+ AED 3,600.00",
-     "4TB+ AED 8,100.00"
+     "512GB Included",
+     "1TB + AED 1,350.00",
+     "2TB + AED 3,600.00",
+     "4TB + AED 8,100.00"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortTwo ports to charge two devices at once.+ AED 80.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote §+ AED 80.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + AED 80.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + AED 80.00"
     ]
    },
    "disabledOptions": {}
@@ -52,19 +52,19 @@
   "13-8gpu": {
    "total": 5499,
    "totalFrom": "summary",
-   "totalText": "AED 5,499.00",
+   "totalText": "AED 5,499.00 | AED 5,499.00",
    "selected": {
-    "chassis-dimensionScreensize": "13-inch Footnote 1 From AED 5,499",
+    "chassis-dimensionScreensize": "13-inch From AED 5,499",
     "chassis-dimensionColor": "Sky Blue",
     "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From AED 5,499",
-    "memory-dimensionMemory": "16GBIncluded",
-    "storage-dimensionCapacity": "512GBIncluded",
-    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 From AED 5,499",
-     "15-inch Footnote 1 From AED 6,299"
+     "13-inch From AED 5,499",
+     "15-inch From AED 6,299"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -77,15 +77,15 @@
      "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From AED 5,949"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded"
+     "16GB Included"
     ],
     "storage-dimensionCapacity": [
-     "512GBIncluded"
+     "512GB Included"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortTwo ports to charge two devices at once.+ AED 80.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote §+ AED 80.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + AED 80.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + AED 80.00"
     ]
    },
    "disabledOptions": {}
@@ -93,19 +93,19 @@
   "13-10gpu": {
    "total": 6849,
    "totalFrom": "summary",
-   "totalText": "AED 6,849.00",
+   "totalText": "AED 6,849.00 | AED 6,849.00",
    "selected": {
-    "chassis-dimensionScreensize": "13-inch Footnote 1 From AED 5,499",
+    "chassis-dimensionScreensize": "13-inch From AED 5,499",
     "chassis-dimensionColor": "Sky Blue",
     "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From AED 5,949",
-    "memory-dimensionMemory": "16GBIncluded",
+    "memory-dimensionMemory": "16GB Included",
     "storage-dimensionCapacity": "1TB",
-    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included"
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "13-inch Footnote 1 From AED 5,499",
-     "15-inch Footnote 1 From AED 6,299"
+     "13-inch From AED 5,499",
+     "15-inch From AED 6,299"
     ],
     "chassis-dimensionColor": [
      "Sky Blue",
@@ -118,20 +118,20 @@
      "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From AED 5,949"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ AED 900.00",
-     "32GB+ AED 1,800.00"
+     "16GB Included",
+     "24GB + AED 900.00",
+     "32GB + AED 1,800.00"
     ],
     "storage-dimensionCapacity": [
-     "512GB− AED 1,350.00",
+     "512GB − AED 1,350.00",
      "1TB",
-     "2TB+ AED 2,250.00",
-     "4TB+ AED 6,750.00"
+     "2TB + AED 2,250.00",
+     "4TB + AED 6,750.00"
     ],
     "power_adapter-wattage": [
-     "40W Dynamic Power Adapter with 60W MaxCompact with up to 60W for a powerful charging boost.Included",
-     "35W Dual USB-C PortTwo ports to charge two devices at once.+ AED 80.00",
-     "70W USB-CSupports fast charging up to 50% in around 30 minutes. Footnote §+ AED 80.00"
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + AED 80.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + AED 80.00"
     ]
    },
    "disabledOptions": {}

@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:34.554Z",
+ "configs": {
+  "2port": {
+   "total": 52900,
+   "totalFrom": "summary",
+   "totalText": "฿52,900.00 | ฿52,900.00",
+   "selected": {
+    "chassis-dimensionColor": "ฟ้า",
+    "processor-cpuCoreCount-gpuCoreCount": "ชิป M6 พร้อมพอร์ต Thunderbolt จำนวน 2 พอร์ต CPU แบบ 10-core, GPU แบบ 10-core, Neural Engine 16-core แบบคู่ เริ่มต้นที่ ฿52,900",
+    "memory-dimensionMemory": "16GB มีมาให้",
+    "storage-dimensionCapacity": "256GB มีมาให้",
+    "chassis-dimensionStandType": "ฐานตั้ง ตั้งวางบนโต๊ะของคุณ และปรับเอียงขึ้นหรือลงได้ มีมาให้",
+    "ethernet_adapter-ethernetPortCount": "ไม่มีอีเทอร์เน็ต เชื่อมต่อผ่านเครือข่าย Wi-Fi เท่านั้น มีมาให้",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse รองรับท่าทาง Multi-Touch เช่น การปัดและการเลื่อน มีมาให้",
+    "keyboard-keyboardFormFactor": "Magic Keyboard ดีไซน์ขนาดเล็กพิเศษแบบขอบจรดขอบ มีมาให้"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "ฟ้า",
+     "ม่วง",
+     "ชมพู",
+     "ส้ม",
+     "เหลือง",
+     "เขียว",
+     "เงิน"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "ชิป M6 พร้อมพอร์ต Thunderbolt จำนวน 2 พอร์ต CPU แบบ 10-core, GPU แบบ 10-core, Neural Engine 16-core แบบคู่ เริ่มต้นที่ ฿52,900",
+     "ชิป M6 พร้อมพอร์ต Thunderbolt จำนวน 4 พอร์ต CPU แบบ 12-core, GPU แบบ 12-core, Neural Engine 16-core แบบคู่ เริ่มต้นที่ ฿59,900"
+    ],
+    "memory-dimensionMemory": [
+     "16GB มีมาให้",
+     "24GB + ฿7,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB มีมาให้",
+     "512GB + ฿7,000.00",
+     "1TB + ฿17,500.00"
+    ],
+    "chassis-dimensionStandType": [
+     "ฐานตั้ง ตั้งวางบนโต๊ะของคุณ และปรับเอียงขึ้นหรือลงได้ มีมาให้",
+     "อะแดปเตอร์ตัวยึด VESA ติดตั้งมาในตัวเพื่อให้คุณสามารถยึดกับผนังหรือแขนปรับได้"
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "ไม่มีอีเทอร์เน็ต เชื่อมต่อผ่านเครือข่าย Wi-Fi เท่านั้น มีมาให้",
+     "พอร์ต 2.5 Gigabit Ethernet การเชื่อมต่อเครือข่ายมาตรฐานความเร็วลิงก์สูงสุด 2.5Gb + ฿1,000.00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse รองรับท่าทาง Multi-Touch เช่น การปัดและการเลื่อน มีมาให้",
+     "Magic Trackpad รองรับการใช้งาน Multi-Touch ครบทุกรูปแบบ และเทคโนโลยี Force Touch + ฿1,700.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard ดีไซน์ขนาดเล็กพิเศษแบบขอบจรดขอบ มีมาให้",
+     "Magic Keyboard พร้อม Touch ID และปุ่มตัวเลข เลย์เอาต์แบบขยายพร้อมปุ่มควบคุมการนำทาง มอบการยืนยันตัวตนที่รวดเร็วและง่ายดายด้วยลายนิ้วมือ + ฿2,700.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 59900,
+   "totalFrom": "summary",
+   "totalText": "฿59,900.00 | ฿59,900.00",
+   "selected": {
+    "chassis-dimensionColor": "ฟ้า",
+    "processor-cpuCoreCount-gpuCoreCount": "ชิป M6 พร้อมพอร์ต Thunderbolt จำนวน 4 พอร์ต CPU แบบ 12-core, GPU แบบ 12-core, Neural Engine 16-core แบบคู่ เริ่มต้นที่ ฿59,900",
+    "memory-dimensionMemory": "16GB มีมาให้",
+    "storage-dimensionCapacity": "256GB มีมาให้",
+    "display-dimensionFinish": "กระจกมาตรฐาน ออกแบบมาเพื่อให้มีการสะท้อนแสงต่ำเป็นพิเศษ เพื่อลดแสงสะท้อนในทุกสภาพแวดล้อม มีมาให้",
+    "chassis-dimensionStandType": "ฐานตั้ง ตั้งวางบนโต๊ะของคุณ และปรับเอียงขึ้นหรือลงได้ มีมาให้",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse รองรับท่าทาง Multi-Touch เช่น การปัดและการเลื่อน มีมาให้",
+    "keyboard-keyboardFormFactor": "Magic Keyboard พร้อม Touch ID มอบการยืนยันตัวตนที่รวดเร็วและง่ายดายด้วยลายนิ้วมือ มีมาให้"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "ฟ้า",
+     "ม่วง",
+     "ชมพู",
+     "ส้ม",
+     "เหลือง",
+     "เขียว",
+     "เงิน"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "ชิป M6 พร้อมพอร์ต Thunderbolt จำนวน 2 พอร์ต CPU แบบ 10-core, GPU แบบ 10-core, Neural Engine 16-core แบบคู่ เริ่มต้นที่ ฿52,900",
+     "ชิป M6 พร้อมพอร์ต Thunderbolt จำนวน 4 พอร์ต CPU แบบ 12-core, GPU แบบ 12-core, Neural Engine 16-core แบบคู่ เริ่มต้นที่ ฿59,900"
+    ],
+    "memory-dimensionMemory": [
+     "16GB มีมาให้",
+     "24GB + ฿7,000.00",
+     "32GB + ฿14,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB มีมาให้",
+     "512GB + ฿7,000.00",
+     "1TB + ฿17,500.00",
+     "2TB + ฿35,000.00"
+    ],
+    "display-dimensionFinish": [
+     "กระจกมาตรฐาน ออกแบบมาเพื่อให้มีการสะท้อนแสงต่ำเป็นพิเศษ เพื่อลดแสงสะท้อนในทุกสภาพแวดล้อม มีมาให้",
+     "กระจก Nano-texture ลดภาพสะท้อนและแสงสะท้อนได้ดียิ่งขึ้นเมื่ออยู่ในที่ที่มีแสงจ้า มีให้เลือกเฉพาะรุ่นที่มี 4 พอร์ตเท่านั้น + ฿7,000.00"
+    ],
+    "chassis-dimensionStandType": [
+     "ฐานตั้ง ตั้งวางบนโต๊ะของคุณ และปรับเอียงขึ้นหรือลงได้ มีมาให้",
+     "อะแดปเตอร์ตัวยึด VESA ติดตั้งมาในตัวเพื่อให้คุณสามารถยึดกับผนังหรือแขนปรับได้"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse รองรับท่าทาง Multi-Touch เช่น การปัดและการเลื่อน มีมาให้",
+     "Magic Trackpad รองรับการใช้งาน Multi-Touch ครบทุกรูปแบบ และเทคโนโลยี Force Touch + ฿1,700.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard พร้อม Touch ID มอบการยืนยันตัวตนที่รวดเร็วและง่ายดายด้วยลายนิ้วมือ มีมาให้",
+     "Magic Keyboard พร้อม Touch ID และปุ่มตัวเลข เลย์เอาต์แบบขยายพร้อมปุ่มควบคุมการนำทาง มอบการยืนยันตัวตนที่รวดเร็วและง่ายดายด้วยลายนิ้วมือ + ฿1,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

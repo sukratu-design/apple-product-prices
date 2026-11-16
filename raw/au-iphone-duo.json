@@ -2,15 +2,15 @@
  "page": "iphone-duo",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-iphone/iphone-duo",
- "scrapedAt": "2026-11-13T10:59:33.146Z",
+ "scrapedAt": "2026-11-16T11:57:03.930Z",
  "configs": {
   "default": {
    "total": 3499,
    "totalFrom": "summary",
-   "totalText": "A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ◊",
+   "totalText": "A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ± | A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
    "selected": {
     "dimensionColor": "Star White",
-    "dimensionCapacity": "256GB Footnote 1 A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ◊"
+    "dimensionCapacity": "256GB Footnote 1 A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
    },
    "options": {
     "dimensionColor": [
@@ -18,10 +18,10 @@
      "Night Sky"
     ],
     "dimensionCapacity": [
-     "256GB Footnote 1 A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ◊",
-     "512GB Footnote 1 A$3,899.00 or A$162.46/mo. per month for 24 mo. months at 0% p.a. Footnote ◊",
-     "1TB Footnote 1 A$4,699.00 or A$195.79/mo. per month for 24 mo. months at 0% p.a. Footnote ◊",
-     "2TB Footnote 1 A$5,899.00 or A$245.79/mo. per month for 24 mo. months at 0% p.a. Footnote ◊"
+     "256GB Footnote 1 A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "512GB Footnote 1 A$3,899.00 or A$162.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "1TB Footnote 1 A$4,699.00 or A$195.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "2TB Footnote 1 A$5,899.00 or A$245.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
     ]
    },
    "disabledOptions": {}

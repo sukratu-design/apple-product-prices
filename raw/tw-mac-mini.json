@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:51.445Z",
+ "configs": {
+  "m6": {
+   "total": 29900,
+   "totalFrom": "summary",
+   "totalText": "NT$29,900 | NT$29,900",
+   "selected": {
+    "processor-dimensionChip": "M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU 雙 16 核心神經網路引擎 NT$29,900 起",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "已配備",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "256GB 已配備",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit 乙太網路 標準網路功能，連結速度最高可達 2.5Gb。 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU 雙 16 核心神經網路引擎 NT$29,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$59,900 起"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "已配備"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備",
+     "24GB + NT$7,000",
+     "32GB + NT$14,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 已配備",
+     "512GB + NT$7,000",
+     "1TB + NT$17,500",
+     "2TB + NT$35,000"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit 乙太網路 標準網路功能，連結速度最高可達 2.5Gb。 已配備",
+     "10 Gigabit 乙太網路 更高的連線頻寬，連結速度最高可達 10Gb。 + NT$3,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 59900,
+   "totalFrom": "summary",
+   "totalText": "NT$59,900 | NT$59,900",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$59,900 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 核心 CPU、 16 核心 GPU 已配備",
+    "memory-dimensionMemory": "24GB 已配備",
+    "storage-dimensionCapacity": "512GB 已配備",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit 乙太網路 標準網路功能，連結速度最高可達 2.5Gb。 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU 雙 16 核心神經網路引擎 NT$29,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$59,900 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核心 CPU、 16 核心 GPU 已配備",
+     "18 核心 CPU、 20 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 + NT$7,000"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已配備",
+     "48GB + NT$21,000",
+     "64GB + NT$35,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已配備",
+     "1TB + NT$10,500",
+     "2TB + NT$28,000",
+     "4TB + NT$63,000",
+     "8TB + NT$133,000"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit 乙太網路 標準網路功能，連結速度最高可達 2.5Gb。 已配備",
+     "10 Gigabit 乙太網路 更高的連線頻寬，連結速度最高可達 10Gb。 + NT$3,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 66900,
+   "totalFrom": "summary",
+   "totalText": "NT$66,900 | NT$66,900",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$59,900 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、 20 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。",
+    "memory-dimensionMemory": "24GB 已配備",
+    "storage-dimensionCapacity": "512GB 已配備",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit 乙太網路 標準網路功能，連結速度最高可達 2.5Gb。 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 晶片 疾速飛快，效能表現躍升新境界，助你輕鬆搞定日常的個人、專業和創意任務。 12 核心 CPU、12 核心 GPU 雙 16 核心神經網路引擎 NT$29,900 起",
+     "M5 Pro 晶片 提供更強悍的的效能和更高的記憶體選項，可駕馭繁重的工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$59,900 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核心 CPU、 16 核心 GPU − NT$7,000",
+     "18 核心 CPU、 20 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已配備",
+     "48GB + NT$21,000",
+     "64GB + NT$35,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已配備",
+     "1TB + NT$10,500",
+     "2TB + NT$28,000",
+     "4TB + NT$63,000",
+     "8TB + NT$133,000"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit 乙太網路 標準網路功能，連結速度最高可達 2.5Gb。 已配備",
+     "10 Gigabit 乙太網路 更高的連線頻寬，連結速度最高可達 10Gb。 + NT$3,500"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,11 +2,21 @@
  "page": "airpods-max-2",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-airpods/airpods-max-2",
- "scrapedAt": "2026-11-13T04:56:41.969Z",
+ "scrapedAt": "2026-11-16T13:32:02.933Z",
  "configs": {
   "default": {
    "total": 549,
+   "totalFrom": "summary",
    "totalText": "$549.00",
+   "selected": {
+    "dimensionColor": "Purple",
+    "engraving-option-select-app": null,
+    "app_0_0_0": null,
+    "app_0_0_1": null,
+    "app_0_0_2": null,
+    "app_0_0_3": null,
+    "app_0_0_4": null
+   },
    "options": {
     "dimensionColor": [
      "Purple",
@@ -228,7 +238,8 @@
      "􀚻",
      "􀚼"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

@@ -1,0 +1,26 @@
+{
+ "page": "apple-vision-pro",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-vision/apple-vision-pro",
+ "scrapedAt": "2026-11-16T13:11:21.876Z",
+ "configs": {
+  "default": {
+   "total": 129900,
+   "totalFrom": "summary",
+   "totalText": "NT$129,900 起 | NT$129,900 起",
+   "selected": {
+    "apple_vision_pro_2025-dimensionCapacity": null
+   },
+   "options": {
+    "apple_vision_pro_2025-dimensionCapacity": []
+   },
+   "disabledOptions": {
+    "apple_vision_pro_2025-dimensionCapacity": [
+     "256GB NT$129,900 起",
+     "512GB NT$136,900 起",
+     "1TB NT$147,400 起"
+    ]
+   }
+  }
+ }
+}

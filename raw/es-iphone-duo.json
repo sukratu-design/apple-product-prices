@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:27.790Z",
+ "configs": {
+  "default": {
+   "total": 2339,
+   "totalFrom": "summary",
+   "totalText": "2.339,00 € o 97,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊ | 2.339,00 € o 97,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+   "selected": {
+    "dimensionColor": "Blanco estelar",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 2.339,00 € o 97,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Blanco estelar",
+     "Cielo nocturno"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 2.339,00 € o 97,46 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "512 GB Nota a pie de página 1 2.589,00 € o 107,88 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "1TB Nota a pie de página 1 3.089,00 € o 128,71 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊",
+     "2TB Nota a pie de página 1 3.839,00 € o 159,96 €/mes al mes durante 24 meses al 0 % TAE Nota a pie de página ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

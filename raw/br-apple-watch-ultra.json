@@ -1,0 +1,72 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:09:33.967Z",
+ "configs": {
+  "band": {
+   "total": 10499,
+   "totalFrom": "summary",
+   "totalText": "R$ 10.499,00 | R$ 10.499,00 | R$ 10.499,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Preto",
+    "style": "Novas cores Pulseira loop Alpina Para aventuras ao ar livre e trilhas. R$ 10.499,00",
+    "alpineloop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "P Para pulsos de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Preto",
+     "Natural"
+    ],
+    "style": [
+     "Novas cores Pulseira loop Alpina Para aventuras ao ar livre e trilhas. R$ 10.499,00",
+     "Novas cores Pulseira loop Trail Para todos os esportes e exercícios. R$ 10.499,00",
+     "Novas cores Pulseira Oceano Para esportes aquáticos e mergulho recreativo. R$ 10.499,00",
+     "Pulseira estilo milanês de titânio Feita para o oceano, elegante em qualquer ocasião. R$ 11.799,00"
+    ],
+    "alpineloop-color": [
+     "Bordô"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P Para pulsos de 130 a 160 mm.",
+     "M Para pulsos de 145 a 190 mm.",
+     "G Para pulsos de 165 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 10499,
+   "totalFrom": "summary",
+   "totalText": "R$ 10.499,00 | R$ 10.499,00 | R$ 10.499,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Preto",
+    "style": "Pulseira estilo milanês de titânio Feita para o oceano, elegante em qualquer ocasião. R$ 11.799,00",
+    "ti_milaneseloop-color": "Preto",
+    "watch_bands-dimensionbandsize": "P Para pulsos de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Preto",
+     "Natural"
+    ],
+    "style": [
+     "Novas cores Pulseira loop Alpina Para aventuras ao ar livre e trilhas. R$ 10.499,00",
+     "Novas cores Pulseira loop Trail Para todos os esportes e exercícios. R$ 10.499,00",
+     "Novas cores Pulseira Oceano Para esportes aquáticos e mergulho recreativo. R$ 10.499,00",
+     "Pulseira estilo milanês de titânio Feita para o oceano, elegante em qualquer ocasião. R$ 11.799,00"
+    ],
+    "ti_milaneseloop-color": [
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P Para pulsos de 130 a 160 mm.",
+     "M Para pulsos de 155 a 185 mm.",
+     "G Para pulsos de 180 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

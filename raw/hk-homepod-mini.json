@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:27:36.784Z",
+ "configs": {
+  "default": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "HK$149 | HK$1,099",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

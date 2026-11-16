@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:51.315Z",
+ "configs": {
+  "256": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "€ 799,00 o € 26,16 al mese per 36 mesi, TAN fisso 11% Nota ① | € 799,00 o € 26,16 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "chassis-dimensionColor": "Argento",
+    "storage-dimensionCapacity": "256GB Magic Keyboard Da € 799,00 o € 26,16 al mese per 36 mesi, TAN fisso 11%"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Argento",
+     "Rosa pastello",
+     "Giallo agrume",
+     "Indaco"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard Da € 799,00 o € 26,16 al mese per 36 mesi, TAN fisso 11%",
+     "512GB Magic Keyboard con Touch ID Da € 899,00 o € 29,43 al mese per 36 mesi, TAN fisso 10,99%"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "€ 899,00 o € 29,43 al mese per 36 mesi, TAN fisso 10,99% Nota ① | € 899,00 o € 29,43 al mese per 36 mesi, TAN fisso 10,99% Nota ①",
+   "selected": {
+    "chassis-dimensionColor": "Argento",
+    "storage-dimensionCapacity": "512GB Magic Keyboard con Touch ID Da € 899,00 o € 29,43 al mese per 36 mesi, TAN fisso 10,99%"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Argento",
+     "Rosa pastello",
+     "Giallo agrume",
+     "Indaco"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard Da € 799,00 o € 26,16 al mese per 36 mesi, TAN fisso 11%",
+     "512GB Magic Keyboard con Touch ID Da € 899,00 o € 29,43 al mese per 36 mesi, TAN fisso 10,99%"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

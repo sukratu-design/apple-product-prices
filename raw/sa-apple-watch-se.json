@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:55.342Z",
+ "configs": {
+  "40-gps": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "SAR 1,099.00 | SAR 1,099.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From SAR 1,099",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From SAR 1,099",
+    "category": "Rubber Flexible, comfortable, swimproof bands. SAR 1,099.00",
+    "rubber-style": "New colors Solo Loop SAR 1,099.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From SAR 1,099",
+     "44mm From SAR 1,229"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From SAR 1,099",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From SAR 1,319"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. SAR 1,099.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From SAR 1,099",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From SAR 1,299"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop SAR 1,099.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band SAR 1,099.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band SAR 1,099.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 1229,
+   "totalFrom": "summary",
+   "totalText": "SAR 1,229.00 | SAR 1,229.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From SAR 1,229",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From SAR 1,229",
+    "category": "Rubber Flexible, comfortable, swimproof bands. SAR 1,229.00",
+    "rubber-style": "New colors Solo Loop SAR 1,229.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From SAR 1,099",
+     "44mm From SAR 1,229"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From SAR 1,229",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From SAR 1,449"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. SAR 1,229.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From SAR 1,229",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From SAR 1,429"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop SAR 1,229.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band SAR 1,229.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band SAR 1,229.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 1319,
+   "totalFrom": "summary",
+   "totalText": "SAR 1,319.00 | SAR 1,319.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "40mm From SAR 1,099",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From SAR 1,319",
+    "category": "Rubber Flexible, comfortable, swimproof bands. SAR 1,319.00",
+    "rubber-style": "New colors Solo Loop SAR 1,319.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From SAR 1,099",
+     "44mm From SAR 1,229"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From SAR 1,099",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From SAR 1,319"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. SAR 1,319.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From SAR 1,319",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From SAR 1,519"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop SAR 1,319.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band SAR 1,319.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band SAR 1,319.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "SAR 1,449.00 | SAR 1,449.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Midnight",
+    "watch_cases-dimensionCaseSize": "44mm From SAR 1,229",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. From SAR 1,449",
+    "category": "Rubber Flexible, comfortable, swimproof bands. SAR 1,449.00",
+    "rubber-style": "New colors Solo Loop SAR 1,449.00 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Midnight",
+     "Starlight"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40mm From SAR 1,099",
+     "44mm From SAR 1,229"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From SAR 1,229",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. From SAR 1,449"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. SAR 1,449.00",
+     "Textile Soft, lightweight materials. Great for everyday wear. From SAR 1,449",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From SAR 1,649"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop SAR 1,449.00 Stretchable, closure-free, precise fit",
+     "New colors Sport Band SAR 1,449.00 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band SAR 1,449.00 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

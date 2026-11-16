@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "lu",
+ "url": "https://www.apple.com/lu/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:51.782Z",
+ "configs": {
+  "pro": {
+   "total": 1430,
+   "totalFrom": "summary",
+   "totalText": "1 430,10 € | 1 430,10 € | 1 430,10 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Écran de 6,3 pouces Note de bas de page 2 À partir de 1 430,10 €",
+    "dimensionColor": "Bordeaux",
+    "dimensionCapacity": "256 Go Note de bas de page 1 1 430,10 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Écran de 6,3 pouces Note de bas de page 2 À partir de 1 430,10 €",
+     "iPhone 18 Pro Max Écran de 6,9 pouces Note de bas de page 2 À partir de 1 575,15 €"
+    ],
+    "dimensionColor": [
+     "Bordeaux",
+     "Glacier",
+     "Argent",
+     "Noir"
+    ],
+    "dimensionCapacity": [
+     "256 Go Note de bas de page 1 1 430,10 €",
+     "512 Go Note de bas de page 1 1 671,85 €",
+     "1 To Note de bas de page 1 2 155,32 €",
+     "2 To Note de bas de page 1 2 880,52 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1575,
+   "totalFrom": "summary",
+   "totalText": "1 575,15 € | 1 575,15 € | 1 575,15 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max Écran de 6,9 pouces Note de bas de page 2 À partir de 1 575,15 €",
+    "dimensionColor": "Bordeaux",
+    "dimensionCapacity": "256 Go Note de bas de page 1 1 575,15 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Écran de 6,3 pouces Note de bas de page 2 À partir de 1 430,10 €",
+     "iPhone 18 Pro Max Écran de 6,9 pouces Note de bas de page 2 À partir de 1 575,15 €"
+    ],
+    "dimensionColor": [
+     "Bordeaux",
+     "Glacier",
+     "Argent",
+     "Noir"
+    ],
+    "dimensionCapacity": [
+     "256 Go Note de bas de page 1 1 575,15 €",
+     "512 Go Note de bas de page 1 1 816,88 €",
+     "1 To Note de bas de page 1 2 300,36 €",
+     "2 To Note de bas de page 1 3 025,56 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

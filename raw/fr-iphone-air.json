@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:02.583Z",
+ "configs": {
+  "default": {
+   "total": 1329,
+   "totalFrom": "summary",
+   "totalText": "1 329 € ou 55,38 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ◊◊ | 1 329 € ou 55,38 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "dimensionColor": "Bleu ciel",
+    "dimensionCapacity": "256 Go Note de bas de page 1 1 329,00 € ou 55,38 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ◊◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Bleu ciel",
+     "Blanc nuage",
+     "Noir sidéral",
+     "Or clair"
+    ],
+    "dimensionCapacity": [
+     "256 Go Note de bas de page 1 1 329,00 € ou 55,38 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ◊◊",
+     "512 Go Note de bas de page 1 1 579,00 € ou 65,79 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ◊◊",
+     "1 To Note de bas de page 1 2 079,00 € ou 86,63 €/mois par mois pour 24 mois à 0 % taux débiteur Note de bas de page ◊◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

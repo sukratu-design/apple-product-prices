@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:47.439Z",
+ "configs": {
+  "default": {
+   "total": 54990,
+   "totalFrom": "summary",
+   "totalText": "₱54,990.00 | ₱54,990.00 | ₱54,990.00",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 ₱54,990.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 ₱54,990.00",
+     "512GB Footnote 1 ₱70,990.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:08.045Z",
+ "configs": {
+  "m6": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "CHF 899.00 | CHF 899.00",
+   "selected": {
+    "processor-dimensionChip": "M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU mit Dual 16‑Core Neural Engine Ab CHF 899.–",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Enthalten",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "256 GB Enthalten",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardnetzwerk, Verbindungsgeschwindigkeit von bis zu 2,5 Gbit. Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU mit Dual 16‑Core Neural Engine Ab CHF 899.–",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvolle Workflows. 2 Optionen mit 16‑Core Neural Engine Ab CHF 1699.–"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Enthalten"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + CHF 200.00",
+     "32 GB + CHF 400.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Enthalten",
+     "512 GB + CHF 200.00",
+     "1 TB + CHF 500.00",
+     "2 TB + CHF 1 000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardnetzwerk, Verbindungsgeschwindigkeit von bis zu 2,5 Gbit. Enthalten",
+     "10 Gigabit Ethernet Konnektivität mit höherer Bandbreite bei Geschwindigkeiten bis zu 10 Gbit. + CHF 100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 1699,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 699.00 | CHF 1 699.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvolle Workflows. 2 Optionen mit 16‑Core Neural Engine Ab CHF 1699.–",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑Core CPU, 16‑Core GPU Enthalten",
+    "memory-dimensionMemory": "24 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardnetzwerk, Verbindungsgeschwindigkeit von bis zu 2,5 Gbit. Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU mit Dual 16‑Core Neural Engine Ab CHF 899.–",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvolle Workflows. 2 Optionen mit 16‑Core Neural Engine Ab CHF 1699.–"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑Core CPU, 16‑Core GPU Enthalten",
+     "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K. + CHF 200.00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Enthalten",
+     "48 GB + CHF 600.00",
+     "64 GB + CHF 1 000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten",
+     "1 TB + CHF 300.00",
+     "2 TB + CHF 800.00",
+     "4 TB + CHF 1 800.00",
+     "8 TB + CHF 3 800.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardnetzwerk, Verbindungsgeschwindigkeit von bis zu 2,5 Gbit. Enthalten",
+     "10 Gigabit Ethernet Konnektivität mit höherer Bandbreite bei Geschwindigkeiten bis zu 10 Gbit. + CHF 100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 1899,
+   "totalFrom": "summary",
+   "totalText": "CHF 1 899.00 | CHF 1 899.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvolle Workflows. 2 Optionen mit 16‑Core Neural Engine Ab CHF 1699.–",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K.",
+    "memory-dimensionMemory": "24 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standardnetzwerk, Verbindungsgeschwindigkeit von bis zu 2,5 Gbit. Enthalten"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 Chip Superschnell, mit Performance auf dem nächsten Level für persönliche, berufliche und kreative Aufgaben, die du jeden Tag erledigst. 12‑Core CPU, 12‑Core GPU mit Dual 16‑Core Neural Engine Ab CHF 899.–",
+     "M5 Pro Chip Bietet mehr Performance und größere Speicheroptionen für anspruchsvolle Workflows. 2 Optionen mit 16‑Core Neural Engine Ab CHF 1699.–"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑Core CPU, 16‑Core GPU − CHF 200.00",
+     "18‑Core CPU, 20‑Core GPU Steigere deine Rechenpower und die Rendergeschwindigkeit von Grafiken und beschleunige Aufgaben wie das Ausführen großer Sprachmodelle und die Bearbeitung von Video in 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Enthalten",
+     "48 GB + CHF 600.00",
+     "64 GB + CHF 1 000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten",
+     "1 TB + CHF 300.00",
+     "2 TB + CHF 800.00",
+     "4 TB + CHF 1 800.00",
+     "8 TB + CHF 3 800.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standardnetzwerk, Verbindungsgeschwindigkeit von bis zu 2,5 Gbit. Enthalten",
+     "10 Gigabit Ethernet Konnektivität mit höherer Bandbreite bei Geschwindigkeiten bis zu 10 Gbit. + CHF 100.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

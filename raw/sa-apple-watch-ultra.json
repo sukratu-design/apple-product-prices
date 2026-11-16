@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:37.986Z",
+ "configs": {
+  "band": {
+   "total": 3599,
+   "totalFrom": "summary",
+   "totalText": "SAR 3,599.00 | SAR 3,599.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colors Alpine Loop For outdoor adventure and hiking. SAR 3,599.00",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Band fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colors Alpine Loop For outdoor adventure and hiking. SAR 3,599.00",
+     "New colors Trail Loop For all sports and workouts. SAR 3,599.00",
+     "New colors Ocean Band For water sports and recreational diving. SAR 3,599.00",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. SAR 3,999.00"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130–160mm wrists.",
+     "Medium Band fits 145–190mm wrists.",
+     "Large Band fits 165–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 3999,
+   "totalFrom": "summary",
+   "totalText": "SAR 3,999.00 | SAR 3,999.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. SAR 3,999.00",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Band fits 130–160mm wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colors Alpine Loop For outdoor adventure and hiking. SAR 3,599.00",
+     "New colors Trail Loop For all sports and workouts. SAR 3,599.00",
+     "New colors Ocean Band For water sports and recreational diving. SAR 3,599.00",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. SAR 3,999.00"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130–160mm wrists.",
+     "Medium Band fits 155–185mm wrists.",
+     "Large Band fits 180–210mm wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

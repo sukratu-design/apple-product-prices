@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:16.947Z",
+ "configs": {
+  "m5max-32": {
+   "total": 1099990,
+   "totalFrom": "summary",
+   "totalText": "1 099 990 Ft | 1 099 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Komoly sebesség és képességek a kreatív projektekhez és a profi munka­folyamatokhoz. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 099 990 Ft",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 32 magos GPU Az alapcsomag része",
+    "memory-dimensionMemory": "36 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "512 GB Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Komoly sebesség és képességek a kreatív projektekhez és a profi munka­folyamatokhoz. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 099 990 Ft",
+     "M5 Ultra chip Az eddigi legerősebb Apple chip páratlan teljesítménnyel még a legnagyobb teljesítményigényű profi feladatokhoz is. 2 opció 32 magos Neural Engine‑nel Indulóár: 2 499 990 Ft"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 32 magos GPU Az alapcsomag része",
+     "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. + 150 000 Ft Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Az alapcsomag része"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Az alapcsomag része",
+     "1 TB + 150 000 Ft",
+     "2 TB + 400 000 Ft",
+     "4 TB + 900 000 Ft",
+     "8 TB + 1 900 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 1399990,
+   "totalFrom": "summary",
+   "totalText": "1 399 990 Ft | 1 399 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Komoly sebesség és képességek a kreatív projektekhez és a profi munka­folyamatokhoz. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 099 990 Ft",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli.",
+    "memory-dimensionMemory": "48 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "512 GB Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Komoly sebesség és képességek a kreatív projektekhez és a profi munka­folyamatokhoz. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 099 990 Ft",
+     "M5 Ultra chip Az eddigi legerősebb Apple chip páratlan teljesítménnyel még a legnagyobb teljesítményigényű profi feladatokhoz is. 2 opció 32 magos Neural Engine‑nel Indulóár: 2 499 990 Ft"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 magos CPU, 32 magos GPU − 150 000 Ft",
+     "18 magos CPU, 40 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. Ehhez a változathoz nagyobb, 48 GB‑os memória­méret szükséges, ami a Mac teljes vételárát is megnöveli."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Az alapcsomag része",
+     "64 GB + 200 000 Ft",
+     "128 GB + 1 000 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Az alapcsomag része",
+     "1 TB + 150 000 Ft",
+     "2 TB + 400 000 Ft",
+     "4 TB + 900 000 Ft",
+     "8 TB + 1 900 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 2499990,
+   "totalFrom": "summary",
+   "totalText": "2 499 990 Ft | 2 499 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Az eddigi legerősebb Apple chip páratlan teljesítménnyel még a legnagyobb teljesítményigényű profi feladatokhoz is. 2 opció 32 magos Neural Engine‑nel Indulóár: 2 499 990 Ft",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30 magos CPU, 64 magos GPU Az alapcsomag része",
+    "memory-dimensionMemory": "96 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Komoly sebesség és képességek a kreatív projektekhez és a profi munka­folyamatokhoz. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 099 990 Ft",
+     "M5 Ultra chip Az eddigi legerősebb Apple chip páratlan teljesítménnyel még a legnagyobb teljesítményigényű profi feladatokhoz is. 2 opció 32 magos Neural Engine‑nel Indulóár: 2 499 990 Ft"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 magos CPU, 64 magos GPU Az alapcsomag része",
+     "36 magos CPU, 80 magos GPU Ugrás a fel­dolgozási, grafikai és AI-számítási tel­jesítményben az olyan nagy gép­igényű feladatoknál, mint a nagy nyelvi modellek futtatása, a vizuális effektelés vagy a filmek fényelése. + 650 000 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Az alapcsomag része",
+     "256 GB + 2 000 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Az alapcsomag része",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft",
+     "8 TB + 1 750 000 Ft",
+     "16 TB + 3 750 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 3149990,
+   "totalFrom": "summary",
+   "totalText": "3 149 990 Ft | 3 149 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Az eddigi legerősebb Apple chip páratlan teljesítménnyel még a legnagyobb teljesítményigényű profi feladatokhoz is. 2 opció 32 magos Neural Engine‑nel Indulóár: 2 499 990 Ft",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36 magos CPU, 80 magos GPU Ugrás a fel­dolgozási, grafikai és AI-számítási tel­jesítményben az olyan nagy gép­igényű feladatoknál, mint a nagy nyelvi modellek futtatása, a vizuális effektelés vagy a filmek fényelése.",
+    "memory-dimensionMemory": "96 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "1 TB Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Komoly sebesség és képességek a kreatív projektekhez és a profi munka­folyamatokhoz. 2 opció 16 magos Neural Engine‑nel Indulóár: 1 099 990 Ft",
+     "M5 Ultra chip Az eddigi legerősebb Apple chip páratlan teljesítménnyel még a legnagyobb teljesítményigényű profi feladatokhoz is. 2 opció 32 magos Neural Engine‑nel Indulóár: 2 499 990 Ft"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 magos CPU, 64 magos GPU − 650 000 Ft",
+     "36 magos CPU, 80 magos GPU Ugrás a fel­dolgozási, grafikai és AI-számítási tel­jesítményben az olyan nagy gép­igényű feladatoknál, mint a nagy nyelvi modellek futtatása, a vizuális effektelés vagy a filmek fényelése."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Az alapcsomag része",
+     "256 GB + 2 000 000 Ft",
+     "512 GB + 7 750 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Az alapcsomag része",
+     "2 TB + 250 000 Ft",
+     "4 TB + 750 000 Ft",
+     "8 TB + 1 750 000 Ft",
+     "16 TB + 3 750 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

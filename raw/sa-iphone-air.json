@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:31.156Z",
+ "configs": {
+  "default": {
+   "total": 5199,
+   "totalFrom": "summary",
+   "totalText": "SAR 5,199.00 | SAR 5,199.00",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 SAR 5,199.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 SAR 5,199.00",
+     "512GB Footnote 1 SAR 6,199.00",
+     "1TB Footnote 1 SAR 8,199.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

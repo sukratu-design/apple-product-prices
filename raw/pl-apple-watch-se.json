@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:23.750Z",
+ "configs": {
+  "40-gps": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1 099,00 zł | 1 099,00 zł | 1 099,00 zł",
+   "selected": {
+    "watch_cases-dimensionColor": "północ",
+    "watch_cases-dimensionCaseSize": "40 mm Od 1099 zł",
+    "watch_cases-dimensionConnection": "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1099 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 1 099,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 1 099,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "północ",
+     "księżycowa poświata"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 1099 zł",
+     "44 mm Od 1299 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1099 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 1399 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 1 099,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 1099 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 1399 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 1 099,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 1 099,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 1 099,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "1 299,00 zł | 1 299,00 zł | 1 299,00 zł",
+   "selected": {
+    "watch_cases-dimensionColor": "północ",
+    "watch_cases-dimensionCaseSize": "44 mm Od 1299 zł",
+    "watch_cases-dimensionConnection": "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1299 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 1 299,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 1 299,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "północ",
+     "księżycowa poświata"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 1099 zł",
+     "44 mm Od 1299 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1299 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 1599 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 1 299,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 1299 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 1599 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 1 299,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 1 299,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 1 299,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 1399,
+   "totalFrom": "summary",
+   "totalText": "1 399,00 zł | 1 399,00 zł | 1 399,00 zł",
+   "selected": {
+    "watch_cases-dimensionColor": "północ",
+    "watch_cases-dimensionCaseSize": "40 mm Od 1099 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 1399 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 1 399,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 1 399,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "północ",
+     "księżycowa poświata"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 1099 zł",
+     "44 mm Od 1299 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1099 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 1399 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 1 399,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 1399 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 1699 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 1 399,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 1 399,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 1 399,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 1599,
+   "totalFrom": "summary",
+   "totalText": "1 599,00 zł | 1 599,00 zł | 1 599,00 zł",
+   "selected": {
+    "watch_cases-dimensionColor": "północ",
+    "watch_cases-dimensionCaseSize": "44 mm Od 1299 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 1599 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 1 599,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 1 599,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "północ",
+     "księżycowa poświata"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Od 1099 zł",
+     "44 mm Od 1299 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1299 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 1599 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 1 599,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 1599 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 1899 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 1 599,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 1 599,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 1 599,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

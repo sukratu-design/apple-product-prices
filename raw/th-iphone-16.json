@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:36.307Z",
+ "configs": {
+  "default": {
+   "total": 30900,
+   "totalFrom": "summary",
+   "totalText": "฿30,900.00 | ฿30,900.00 | ฿30,900.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 จอภาพขนาด 6.1 นิ้ว เชิงอรรถ 1มาพร้อมพื้นที่จัดเก็บข้อมูล 128GB¹ เริ่มต้นที่ ฿30,900",
+    "dimensionColor": "น้ำเงินอัลตร้ามารีน"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 จอภาพขนาด 6.1 นิ้ว เชิงอรรถ 1มาพร้อมพื้นที่จัดเก็บข้อมูล 128GB¹ เริ่มต้นที่ ฿30,900"
+    ],
+    "dimensionColor": [
+     "น้ำเงินอัลตร้ามารีน",
+     "เขียวอมฟ้า",
+     "ขาว",
+     "ชมพู",
+     "ดำ"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

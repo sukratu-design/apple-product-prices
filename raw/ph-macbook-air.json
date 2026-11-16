@@ -1,0 +1,140 @@
+{
+ "page": "macbook-air",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:44:01.833Z",
+ "configs": {
+  "15": {
+   "total": 104990,
+   "totalFrom": "summary",
+   "totalText": "₱104,990.00 | ₱104,990.00",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch From ₱104,990",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₱104,990",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From ₱89,990",
+     "15-inch From ₱104,990"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₱104,990"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + ₱13,000.00",
+     "32GB + ₱26,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + ₱19,500.00",
+     "2TB + ₱52,000.00",
+     "4TB + ₱117,000.00"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Compact size with two ports to charge two devices at once. + ₱700.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + ₱700.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 89990,
+   "totalFrom": "summary",
+   "totalText": "₱89,990.00 | ₱89,990.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From ₱89,990",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From ₱89,990",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From ₱89,990",
+     "15-inch From ₱104,990"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From ₱89,990",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₱96,490"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Compact size with two ports to charge two devices at once. + ₱700.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + ₱700.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 109490,
+   "totalFrom": "summary",
+   "totalText": "₱109,490.00 | ₱109,490.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From ₱89,990",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₱96,490",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From ₱89,990",
+     "15-inch From ₱104,990"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From ₱89,990",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From ₱96,490"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + ₱13,000.00",
+     "32GB + ₱26,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − ₱19,500.00",
+     "1TB",
+     "2TB + ₱32,500.00",
+     "4TB + ₱97,500.00"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Compact size with two ports to charge two devices at once. + ₱700.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + ₱700.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

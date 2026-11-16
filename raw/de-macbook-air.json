@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:37.175Z",
+ "configs": {
+  "15": {
+   "total": 1699,
+   "totalFrom": "summary",
+   "totalText": "1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ① | 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "chassis-dimensionScreensize": "15 Zoll Ab 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "chassis-dimensionColor": "Himmelblau",
+    "processor-cpuCoreCount-gpuCoreCount": "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 Zoll Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "15 Zoll Ab 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "chassis-dimensionColor": [
+     "Himmelblau",
+     "Silber",
+     "Polarstern",
+     "Mitternacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten",
+     "1 TB + 330,00 €",
+     "2 TB + 880,00 €",
+     "4 TB + 1.980,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1399,
+   "totalFrom": "summary",
+   "totalText": "1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ① | 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "chassis-dimensionScreensize": "13 Zoll Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "chassis-dimensionColor": "Himmelblau",
+    "processor-cpuCoreCount-gpuCoreCount": "10-Core CPU, 8-Core GPU, 16-Core Neural Engine Macht alles schneller und flüssiger. Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "512 GB Enthalten"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 Zoll Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "15 Zoll Ab 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "chassis-dimensionColor": [
+     "Himmelblau",
+     "Silber",
+     "Polarstern",
+     "Mitternacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-Core CPU, 8-Core GPU, 16-Core Neural Engine Macht alles schneller und flüssiger. Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab 1.509 € oder 125,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Enthalten"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1729,
+   "totalFrom": "summary",
+   "totalText": "1.729 € oder 144,08 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ① | 1.729 € oder 144,08 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ①",
+   "selected": {
+    "chassis-dimensionScreensize": "13 Zoll Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "chassis-dimensionColor": "Himmelblau",
+    "processor-cpuCoreCount-gpuCoreCount": "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab 1.509 € oder 125,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+    "memory-dimensionMemory": "16 GB Enthalten",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 Zoll Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "15 Zoll Ab 1.699 € oder 141,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "chassis-dimensionColor": [
+     "Himmelblau",
+     "Silber",
+     "Polarstern",
+     "Mitternacht"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-Core CPU, 8-Core GPU, 16-Core Neural Engine Macht alles schneller und flüssiger. Ab 1.399 € oder 116,58 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a.",
+     "10-Core CPU, 10-Core GPU, 16-Core Neural Engine Beschleunige anspruchsvolle Aufgaben wie Gaming und kreative Arbeit mit mehr Rechenleistung und schnellerer Grafikdarstellung. Ab 1.509 € oder 125,75 €/Rate pro Rate bei 12 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Enthalten",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 330,00 €",
+     "1 TB",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

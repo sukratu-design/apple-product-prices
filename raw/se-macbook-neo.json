@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:15.179Z",
+ "configs": {
+  "256": {
+   "total": 9495,
+   "totalFrom": "summary",
+   "totalText": "9 495,00 kr | 9 495,00 kr | 9 495,00 kr",
+   "selected": {
+    "chassis-dimensionColor": "silver",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Från 9 495 kr"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "silver",
+     "rosé",
+     "citrus",
+     "indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Från 9 495 kr",
+     "512 GB Magic Keyboard med Touch ID Från 10 995 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 10995,
+   "totalFrom": "summary",
+   "totalText": "10 995,00 kr | 10 995,00 kr | 10 995,00 kr",
+   "selected": {
+    "chassis-dimensionColor": "silver",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard med Touch ID Från 10 995 kr"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "silver",
+     "rosé",
+     "citrus",
+     "indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Från 9 495 kr",
+     "512 GB Magic Keyboard med Touch ID Från 10 995 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,11 +2,11 @@
  "page": "airpods-max-2",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-airpods/airpods-max-2",
- "scrapedAt": "2026-11-13T11:13:54.499Z",
+ "scrapedAt": "2026-11-16T13:31:55.456Z",
  "configs": {
   "default": {
    "total": 499,
-   "totalFrom": "page",
+   "totalFrom": "page-first",
    "totalText": "",
    "selected": {
     "dimensionColor": "Purple",

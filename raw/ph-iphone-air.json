@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:48.729Z",
+ "configs": {
+  "default": {
+   "total": 84990,
+   "totalFrom": "summary",
+   "totalText": "₱84,990.00 | ₱84,990.00 | ₱84,990.00",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 ₱84,990.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 ₱84,990.00",
+     "512GB Footnote 1 ₱100,990.00",
+     "1TB Footnote 1 ₱132,990.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

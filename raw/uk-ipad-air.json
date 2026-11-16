@@ -2,17 +2,17 @@
  "page": "ipad-air",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
- "scrapedAt": "2026-11-13T11:02:43.069Z",
+ "scrapedAt": "2026-11-16T12:23:51.102Z",
  "configs": {
   "11-wifi": {
    "total": 749,
    "totalFrom": "summary",
-   "totalText": "£749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
-    "dimensionScreensize": "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionScreensize": "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -28,8 +28,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionColor": [
      "Purple",
@@ -38,14 +38,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB Footnote 2 From £849 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB Footnote 2 From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "1TB Footnote 2 From £1,349 or £112.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "256GB From £849 or £70.75/mo. per month for 12 mo. months at 0% interest",
+     "512GB From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest",
+     "1TB From £1,349 or £112.41/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -271,16 +271,16 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad Air £269.00 or £67.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Add Magic Keyboard for iPad Air £269.00 or £67.25/mo. per month for 4 mo. months at 0% interest interest",
      "No keyboard"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
@@ -288,7 +288,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad Air£299.00 or £74.75/mo.per month for 4 mo.months at 0% interestinterest Footnote ◊◊"
+     "Add Magic Keyboard for iPad Air £299.00 or £74.75/mo. per month for 4 mo. months at 0% interest interest"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -299,12 +299,12 @@
   "11-cell": {
    "total": 899,
    "totalFrom": "summary",
-   "totalText": "£899.00 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£899.00 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
-    "dimensionScreensize": "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionScreensize": "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -320,8 +320,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionColor": [
      "Purple",
@@ -330,14 +330,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB Footnote 2 From £849 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB Footnote 2 From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "1TB Footnote 2 From £1,349 or £112.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "256GB From £849 or £70.75/mo. per month for 12 mo. months at 0% interest",
+     "512GB From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest",
+     "1TB From £1,349 or £112.41/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £749.00 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £899.00 or £74.91/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -563,16 +563,16 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad Air £269.00 or £67.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Add Magic Keyboard for iPad Air £269.00 or £67.25/mo. per month for 4 mo. months at 0% interest interest",
      "No keyboard"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
@@ -580,7 +580,7 @@
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad Air£299.00 or £74.75/mo.per month for 4 mo.months at 0% interestinterest Footnote ◊◊"
+     "Add Magic Keyboard for iPad Air £299.00 or £74.75/mo. per month for 4 mo. months at 0% interest interest"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -591,12 +591,12 @@
   "13-wifi": {
    "total": 949,
    "totalFrom": "summary",
-   "totalText": "£949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
-    "dimensionScreensize": "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionScreensize": "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB From £949 or £79.08/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -612,8 +612,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionColor": [
      "Purple",
@@ -622,14 +622,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB Footnote 2 From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB Footnote 2 From £1,249 or £104.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "1TB Footnote 2 From £1,549 or £129.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB From £949 or £79.08/mo. per month for 12 mo. months at 0% interest",
+     "256GB From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest",
+     "512GB From £1,249 or £104.08/mo. per month for 12 mo. months at 0% interest",
+     "1TB From £1,549 or £129.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -857,23 +857,23 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad Air£269.00 or £67.25/mo.per month for 4 mo.months at 0% interestinterest Footnote ◊◊"
+     "Add Magic Keyboard for iPad Air £269.00 or £67.25/mo. per month for 4 mo. months at 0% interest interest"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad Air£299.00 or £74.75/mo.per month for 4 mo.months at 0% interestinterest Footnote ◊◊"
+     "Add Magic Keyboard for iPad Air £299.00 or £74.75/mo. per month for 4 mo. months at 0% interest interest"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",
@@ -884,12 +884,12 @@
   "13-cell": {
    "total": 1099,
    "totalFrom": "summary",
-   "totalText": "£1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
-    "dimensionScreensize": "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionScreensize": "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest",
     "dimensionColor": "Purple",
-    "dimensionCapacity": "128GB Footnote 2 From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB From £949 or £79.08/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp_pro": null,
@@ -905,8 +905,8 @@
    },
    "options": {
     "dimensionScreensize": [
-     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "11-inch model From £749 or £62.41/mo. per month for 12 mo. months at 0% interest",
+     "13-inch model From £949 or £79.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionColor": [
      "Purple",
@@ -915,14 +915,14 @@
      "Space Grey"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From £949 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB Footnote 2 From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB Footnote 2 From £1,249 or £104.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "1TB Footnote 2 From £1,549 or £129.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB From £949 or £79.08/mo. per month for 12 mo. months at 0% interest",
+     "256GB From £1,049 or £87.41/mo. per month for 12 mo. months at 0% interest",
+     "512GB From £1,249 or £104.08/mo. per month for 12 mo. months at 0% interest",
+     "1TB From £1,549 or £129.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £1,099.00 or £91.58/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -1150,23 +1150,23 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp_pro": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "acc_keyboard_11inch": [
-     "Add Magic Keyboard for iPad Air£269.00 or £67.25/mo.per month for 4 mo.months at 0% interestinterest Footnote ◊◊"
+     "Add Magic Keyboard for iPad Air £269.00 or £67.25/mo. per month for 4 mo. months at 0% interest interest"
     ],
     "acc_magickeyboard_11inch_dimensionColor": [
      "White",
      "Black"
     ],
     "acc_keyboard_13inch": [
-     "Add Magic Keyboard for iPad Air£299.00 or £74.75/mo.per month for 4 mo.months at 0% interestinterest Footnote ◊◊"
+     "Add Magic Keyboard for iPad Air £299.00 or £74.75/mo. per month for 4 mo. months at 0% interest interest"
     ],
     "acc_magickeyboard_13inch_dimensionColor": [
      "White",

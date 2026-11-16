@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:56:30.148Z",
+ "configs": {
+  "m5max-32": {
+   "total": 3029,
+   "totalFrom": "summary",
+   "totalText": "€ 3.029,00 | € 3.029,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max-chip Enorme snelheid en kracht voor creatieve projecten en professionele workloads. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 3.029",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Meegeleverd",
+    "memory-dimensionMemory": "36 GB Meegeleverd",
+    "storage-dimensionCapacity": "512 GB Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Enorme snelheid en kracht voor creatieve projecten en professionele workloads. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 3.029",
+     "M5 Ultra‑chip Onze krachtigste chip, met ongekende prestaties voor de meest veeleisende professionele workflows. 2 uitvoeringen met 32‑core Neural Engine Vanaf € 6.649"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Meegeleverd",
+     "18-core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. + € 330,00 Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Meegeleverd"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Meegeleverd",
+     "1 TB + € 330,00",
+     "2 TB + € 880,00",
+     "4 TB + € 1.980,00",
+     "8 TB + € 4.180,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3689,
+   "totalFrom": "summary",
+   "totalText": "€ 3.689,00 | € 3.689,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max-chip Enorme snelheid en kracht voor creatieve projecten en professionele workloads. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 3.029",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt.",
+    "memory-dimensionMemory": "48 GB Meegeleverd",
+    "storage-dimensionCapacity": "512 GB Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Enorme snelheid en kracht voor creatieve projecten en professionele workloads. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 3.029",
+     "M5 Ultra‑chip Onze krachtigste chip, met ongekende prestaties voor de meest veeleisende professionele workflows. 2 uitvoeringen met 32‑core Neural Engine Vanaf € 6.649"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − € 330,00",
+     "18-core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Meegeleverd",
+     "64 GB + € 440,00",
+     "128 GB + € 2.200,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Meegeleverd",
+     "1 TB + € 330,00",
+     "2 TB + € 880,00",
+     "4 TB + € 1.980,00",
+     "8 TB + € 4.180,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 6649,
+   "totalFrom": "summary",
+   "totalText": "€ 6.649,00 | € 6.649,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra‑chip Onze krachtigste chip, met ongekende prestaties voor de meest veeleisende professionele workflows. 2 uitvoeringen met 32‑core Neural Engine Vanaf € 6.649",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Meegeleverd",
+    "memory-dimensionMemory": "96 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Enorme snelheid en kracht voor creatieve projecten en professionele workloads. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 3.029",
+     "M5 Ultra‑chip Onze krachtigste chip, met ongekende prestaties voor de meest veeleisende professionele workflows. 2 uitvoeringen met 32‑core Neural Engine Vanaf € 6.649"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Meegeleverd",
+     "36-core CPU, 80‑core GPU Geef je verwerkings­snelheid, grafische prestaties en AI-verwerking een boost voor veeleisende workflows zoals werken met LLM’s, visuele effecten en kleurcorrecties. + € 1.430,00"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Meegeleverd",
+     "256 GB + € 4.400,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Meegeleverd",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00",
+     "8 TB + € 3.850,00",
+     "16 TB + € 8.250,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 8079,
+   "totalFrom": "summary",
+   "totalText": "€ 8.079,00 | € 8.079,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra‑chip Onze krachtigste chip, met ongekende prestaties voor de meest veeleisende professionele workflows. 2 uitvoeringen met 32‑core Neural Engine Vanaf € 6.649",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Geef je verwerkings­snelheid, grafische prestaties en AI-verwerking een boost voor veeleisende workflows zoals werken met LLM’s, visuele effecten en kleurcorrecties.",
+    "memory-dimensionMemory": "96 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max-chip Enorme snelheid en kracht voor creatieve projecten en professionele workloads. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 3.029",
+     "M5 Ultra‑chip Onze krachtigste chip, met ongekende prestaties voor de meest veeleisende professionele workflows. 2 uitvoeringen met 32‑core Neural Engine Vanaf € 6.649"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − € 1.430,00",
+     "36-core CPU, 80‑core GPU Geef je verwerkings­snelheid, grafische prestaties en AI-verwerking een boost voor veeleisende workflows zoals werken met LLM’s, visuele effecten en kleurcorrecties."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Meegeleverd",
+     "256 GB + € 4.400,00",
+     "512 GB + € 17.050,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Meegeleverd",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00",
+     "8 TB + € 3.850,00",
+     "16 TB + € 8.250,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

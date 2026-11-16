@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:46:13.399Z",
+ "configs": {
+  "14-m6": {
+   "total": 2499990,
+   "totalFrom": "summary",
+   "totalText": "$2.499.990 o $104.166 al mes al mes por 24 meses meses Nota a pie de página ◊ | $2.499.990 o $104.166 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Nuevo Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluido",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido",
+    "power_adapter-wattage": "70 W Tamaño compacto con carga eficiente. Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Nuevo Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluido"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $240.000",
+     "32 GB + $480.000"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + $600.000",
+     "4 TB + $1.800.000"
+    ],
+    "power_adapter-wattage": [
+     "70 W Tamaño compacto con carga eficiente. Incluido",
+     "96 W Carga rápida, compatible con Modo de alto rendimiento con el chip M5 Pro y M5 Max. + $15.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2999990,
+   "totalFrom": "summary",
+   "totalText": "$2.999.990 o $125.000 al mes al mes por 24 meses meses Nota a pie de página ◊ | $2.999.990 o $125.000 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 15 núcleos, GPU de 16 núcleos Incluido",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido",
+    "power_adapter-wattage": "70 W Tamaño compacto con carga eficiente. Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Nuevo Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas para las tareas más exigentes como juegos avanzados, programación y trabajo creativo. + $300.000"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $720.000"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + $600.000",
+     "4 TB + $1.800.000"
+    ],
+    "power_adapter-wattage": [
+     "70 W Tamaño compacto con carga eficiente. Incluido",
+     "96 W Carga rápida, compatible con Modo de alto rendimiento con el chip M5 Pro y M5 Max. + $15.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3299990,
+   "totalFrom": "summary",
+   "totalText": "$3.299.990 o $137.500 al mes al mes por 24 meses meses Nota a pie de página ◊ | $3.299.990 o $137.500 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas para las tareas más exigentes como juegos avanzados, programación y trabajo creativo.",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Nuevo Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos − $300.000",
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas para las tareas más exigentes como juegos avanzados, programación y trabajo creativo."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $720.000",
+     "64 GB + $1.200.000"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + $600.000",
+     "4 TB + $1.800.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4999990,
+   "totalFrom": "summary",
+   "totalText": "$4.999.990 o $208.333 al mes al mes por 24 meses meses Nota a pie de página ◊ | $4.999.990 o $208.333 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+    "memory-dimensionMemory": "36 GB Incluido",
+    "storage-dimensionCapacity": "2 TB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Nuevo Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. + $360.000 Esta selección requiere aumentar la memoria a 48 GB, lo que aumentará el valor total de tu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluido"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluido",
+     "4 TB + $1.200.000",
+     "8 TB + $3.600.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5719990,
+   "totalFrom": "summary",
+   "totalText": "$5.719.990 o $238.333 al mes al mes por 24 meses meses Nota a pie de página ◊ | $5.719.990 o $238.333 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. Esta selección requiere aumentar la memoria a 48 GB, lo que aumentará el valor total de tu Mac.",
+    "memory-dimensionMemory": "48 GB Incluido",
+    "storage-dimensionCapacity": "2 TB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Nuevo Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. 2 opciones con Neural Engine de 16 núcleos Desde $2.999.990 o $125.000 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $4.999.990 o $208.333 al mes al mes por 24 meses meses"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − $360.000",
+     "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. Esta selección requiere aumentar la memoria a 48 GB, lo que aumentará el valor total de tu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluido",
+     "64 GB + $480.000",
+     "128 GB + $2.400.000"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluido",
+     "4 TB + $1.200.000",
+     "8 TB + $3.600.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3649990,
+   "totalFrom": "summary",
+   "totalText": "$3.649.990 o $152.083 al mes al mes por 24 meses meses Nota a pie de página ◊ | $3.649.990 o $152.083 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas para las tareas más exigentes como juegos avanzados, programación y trabajo creativo. Incluido",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $5.399.990 o $225.000 al mes al mes por 24 meses meses"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas para las tareas más exigentes como juegos avanzados, programación y trabajo creativo. Incluido"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $720.000",
+     "64 GB + $1.200.000"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + $600.000",
+     "4 TB + $1.800.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5399990,
+   "totalFrom": "summary",
+   "totalText": "$5.399.990 o $225.000 al mes al mes por 24 meses meses Nota a pie de página ◊ | $5.399.990 o $225.000 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $5.399.990 o $225.000 al mes al mes por 24 meses meses",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+    "memory-dimensionMemory": "36 GB Incluido",
+    "storage-dimensionCapacity": "2 TB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $5.399.990 o $225.000 al mes al mes por 24 meses meses"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. + $440.000 Esta selección requiere aumentar la memoria a 48 GB, lo que aumentará el valor total de tu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluido"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluido",
+     "4 TB + $1.200.000",
+     "8 TB + $3.600.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 6199990,
+   "totalFrom": "summary",
+   "totalText": "$6.199.990 o $258.333 al mes al mes por 24 meses meses Nota a pie de página ◊ | $6.199.990 o $258.333 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionScreensize": "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+    "chassis-dimensionColor": "Negro espacial",
+    "display-dimensionFinish": "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "processor-dimensionChip": "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $5.399.990 o $225.000 al mes al mes por 24 meses meses",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. Esta selección requiere aumentar la memoria a 48 GB, lo que aumentará el valor total de tu Mac.",
+    "memory-dimensionMemory": "48 GB Incluido",
+    "storage-dimensionCapacity": "2 TB Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 pulgadas Disponible con los chips M6, M5 Pro o M5 Max. Desde $2.499.990 o $104.166 al mes al mes por 24 meses meses",
+     "16 pulgadas Disponible con los chips M5 Pro o M5 Max. Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses"
+    ],
+    "chassis-dimensionColor": [
+     "Negro espacial",
+     "Plata"
+    ],
+    "display-dimensionFinish": [
+     "Pantalla estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Pantalla nanotexturizada Reduce aún más el reflejo en espacios con mucha luz. + $180.000"
+    ],
+    "processor-dimensionChip": [
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo más exigentes. CPU de 18 núcleos, GPU de 20 núcleos, Neural Engine de 16 núcleos Desde $3.649.990 o $152.083 al mes al mes por 24 meses meses",
+     "Chip M5 Max Un chip increíblemente poderoso, diseñado para los computadores pro y los flujos de trabajo más demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $5.399.990 o $225.000 al mes al mes por 24 meses meses"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − $440.000",
+     "CPU de 18 núcleos, GPU de 40 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. Esta selección requiere aumentar la memoria a 48 GB, lo que aumentará el valor total de tu Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluido",
+     "64 GB + $480.000",
+     "128 GB + $2.400.000"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluido",
+     "4 TB + $1.200.000",
+     "8 TB + $3.600.000"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

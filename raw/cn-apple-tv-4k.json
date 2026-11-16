@@ -1,0 +1,11 @@
+{
+ "page": "apple-tv-4k",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:26:04.542Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com.cn/)"
+  }
+ }
+}

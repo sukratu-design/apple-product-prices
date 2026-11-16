@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:24.876Z",
+ "configs": {
+  "default": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "3 499,00 zł | 3 499,00 zł | 3 499,00 zł",
+   "selected": {
+    "dimensionColor": "jasnoróżowy",
+    "dimensionCapacity": "256 GB Przypis 1 3 499,00 zł"
+   },
+   "options": {
+    "dimensionColor": [
+     "jasnoróżowy",
+     "biały",
+     "czarny"
+    ],
+    "dimensionCapacity": [
+     "256 GB Przypis 1 3 499,00 zł",
+     "512 GB Przypis 1 4 499,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:06:36.336Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 11499000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 11.499.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Mới Đồng Đậm",
+    "watch_cases-dimensionCaseSize": "42 mm Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Mới Đồng Đậm",
+     "Mới Vàng Nhạt",
+     "Mới Đen",
+     "Xám Không Gian"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 12999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 12.999.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Mới Đồng Đậm",
+    "watch_cases-dimensionCaseSize": "46mm Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Mới Đồng Đậm",
+     "Mới Vàng Nhạt",
+     "Mới Đen",
+     "Xám Không Gian"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 11499000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 11.499.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Mới Đồng Đậm",
+    "watch_cases-dimensionCaseSize": "42 mm Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Mới Đồng Đậm",
+     "Mới Vàng Nhạt",
+     "Mới Đen",
+     "Xám Không Gian"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 14.499.000đ hoặc 590.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 15999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 15.999.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Mới Đồng Đậm",
+    "watch_cases-dimensionCaseSize": "46mm Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Mới Đồng Đậm",
+     "Mới Vàng Nhạt",
+     "Mới Đen",
+     "Xám Không Gian"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 12.999.000đ hoặc 529.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 17.499.000đ hoặc 712.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 15.999.000đ hoặc 651.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 20999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 20.999.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+    "titanium-watch_cases-dimensionColor": "Mới Vàng Óng",
+    "watch_cases-dimensionCaseSize": "42 mm Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Mới Vàng Óng",
+     "Tự Nhiên"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 22499000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 22.499.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+    "titanium-watch_cases-dimensionColor": "Mới Vàng Óng",
+    "watch_cases-dimensionCaseSize": "46mm Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Mới Vàng Óng",
+     "Tự Nhiên"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 23.999.000đ hoặc 977.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 22.499.000đ hoặc 916.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 26799000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 26.799.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc.",
+    "ceramic-watch_cases-dimensionColor": "Mới Trắng Ngọc Trai",
+    "watch_cases-dimensionCaseSize": "42 mm Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Mới Trắng Ngọc Trai",
+     "Mới Xanh Đêm"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 26799000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 26.799.000đ",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc.",
+    "ceramic-watch_cases-dimensionColor": "Mới Trắng Ngọc Trai",
+    "watch_cases-dimensionCaseSize": "46mm Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Các màu mới Nhôm Có phiên bản GPS hoặc GPS + Cellular Từ 11.499.000đ hoặc 468.000đ/tháng mỗi tháng trong 24 tháng Bề mặt nhám cùng màn hình bền chắc với Ceramic Shield 2.",
+     "Màu mới Titan Có GPS + Cellular Từ 20.999.000đ hoặc 855.000đ/tháng mỗi tháng trong 24 tháng Vỏ titan chuẩn hàng không vũ trụ được đánh bóng cùng màn hình pha lê sapphire bền bỉ.",
+     "Mới Gốm Có GPS + Cellular Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng Tinh tế và chống trầy xước với bề mặt được đánh bóng láng mịn cùng màn hình bằng kính sapphire bền chắc."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Mới Trắng Ngọc Trai",
+     "Mới Xanh Đêm"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Từ 26.799.000đ hoặc 1.091.000đ/tháng mỗi tháng trong 24 tháng",
+     "46mm Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 29.799.000đ hoặc 1.213.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 28.299.000đ hoặc 1.152.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn."
+    ]
+   }
+  }
+ }
+}

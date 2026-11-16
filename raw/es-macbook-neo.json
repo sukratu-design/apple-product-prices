@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:50.611Z",
+ "configs": {
+  "256": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionColor": "Plata",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Plata",
+     "Rosa nube",
+     "Cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "512 GB Teclado Magic Keyboard con Touch ID Desde 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "chassis-dimensionColor": "Plata",
+    "storage-dimensionCapacity": "512 GB Teclado Magic Keyboard con Touch ID Desde 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Plata",
+     "Rosa nube",
+     "Cítrico",
+     "Índigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "512 GB Teclado Magic Keyboard con Touch ID Desde 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

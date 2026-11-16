@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:55.288Z",
+ "configs": {
+  "pro": {
+   "total": 38999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 38.999.000đ",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Màn hình 6,3 inch Chú thích 2 Từ 38.999.000đ hoặc 1.588.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+    "dimensionColor": "Đỏ Burgundy",
+    "dimensionCapacity": "256GB Chú thích 1 38.999.000đ hoặc 1.588.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Màn hình 6,3 inch Chú thích 2 Từ 38.999.000đ hoặc 1.588.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "iPhone 18 Pro Max Màn hình 6,9 inch Chú thích 2 Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ],
+    "dimensionColor": [
+     "Đỏ Burgundy",
+     "Băng Thanh",
+     "Bạc",
+     "Đen"
+    ],
+    "dimensionCapacity": [
+     "256GB Chú thích 1 38.999.000đ hoặc 1.588.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "512GB Chú thích 1 45.499.000đ hoặc 1.853.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "1TB Chú thích 1 58.499.000đ hoặc 2.382.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "2TB Chú thích 1 77.999.000đ hoặc 3.176.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 41999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 41.999.000đ",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max Màn hình 6,9 inch Chú thích 2 Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+    "dimensionColor": "Đỏ Burgundy",
+    "dimensionCapacity": "256GB Chú thích 1 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Màn hình 6,3 inch Chú thích 2 Từ 38.999.000đ hoặc 1.588.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "iPhone 18 Pro Max Màn hình 6,9 inch Chú thích 2 Từ 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ],
+    "dimensionColor": [
+     "Đỏ Burgundy",
+     "Băng Thanh",
+     "Bạc",
+     "Đen"
+    ],
+    "dimensionCapacity": [
+     "256GB Chú thích 1 41.999.000đ hoặc 1.710.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "512GB Chú thích 1 48.499.000đ hoặc 1.975.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "1TB Chú thích 1 61.499.000đ hoặc 2.504.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "2TB Chú thích 1 80.999.000đ hoặc 3.298.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

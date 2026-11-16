@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:43.934Z",
+ "configs": {
+  "band": {
+   "total": 27900,
+   "totalFrom": "summary",
+   "totalText": "NT$27,900 | NT$27,900 | NT$27,900",
+   "selected": {
+    "watch_cases-dimensionColor": "黑色",
+    "style": "新色 高山錶環 適合戶外冒險和健行。 NT$27,900",
+    "alpineloop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "S 錶帶適合手腕圍 130–160 公釐。"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "黑色",
+     "原色"
+    ],
+    "style": [
+     "新色 高山錶環 適合戶外冒險和健行。 NT$27,900",
+     "新色 越野錶環 適合所有運動和體能訓練。 NT$27,900",
+     "新色 海洋錶帶 適合水上運動與休閒潛水。 NT$27,900",
+     "鈦金屬米蘭式錶環 專為海洋活動打造，且外型優雅，適合各種場合佩戴。 NT$30,900"
+    ],
+    "alpineloop-color": [
+     "勃根地紅色",
+     "深橄欖色",
+     "沙漠色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 錶帶適合手腕圍 130–160 公釐。",
+     "M 錶帶適合手腕圍 145–190 公釐。",
+     "L 錶帶適合手腕圍 165–210 公釐。"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 30900,
+   "totalFrom": "summary",
+   "totalText": "NT$30,900 | NT$30,900 | NT$30,900",
+   "selected": {
+    "watch_cases-dimensionColor": "黑色",
+    "style": "鈦金屬米蘭式錶環 專為海洋活動打造，且外型優雅，適合各種場合佩戴。 NT$30,900",
+    "ti_milaneseloop-color": "黑色",
+    "watch_bands-dimensionbandsize": "S 錶帶適合手腕圍 130–160 公釐。"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "黑色",
+     "原色"
+    ],
+    "style": [
+     "新色 高山錶環 適合戶外冒險和健行。 NT$27,900",
+     "新色 越野錶環 適合所有運動和體能訓練。 NT$27,900",
+     "新色 海洋錶帶 適合水上運動與休閒潛水。 NT$27,900",
+     "鈦金屬米蘭式錶環 專為海洋活動打造，且外型優雅，適合各種場合佩戴。 NT$30,900"
+    ],
+    "ti_milaneseloop-color": [
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S 錶帶適合手腕圍 130–160 公釐。",
+     "M 錶帶適合手腕圍 155–185 公釐。",
+     "L 錶帶適合手腕圍 180–210 公釐。"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

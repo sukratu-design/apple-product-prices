@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:31:06.408Z",
+ "configs": {
+  "default": {
+   "total": 12900,
+   "totalFrom": "summary",
+   "totalText": "฿1,490.00 | ฿12,900.00",
+   "selected": {
+    "dimensionColor": "ขาว"
+   },
+   "options": {
+    "dimensionColor": [
+     "ขาว",
+     "มิดไนท์"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

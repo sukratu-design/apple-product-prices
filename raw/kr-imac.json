@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:34.028Z",
+ "configs": {
+  "2port": {
+   "total": 2490000,
+   "totalFrom": "summary",
+   "totalText": "₩2,490,000 | ₩2,490,000",
+   "selected": {
+    "chassis-dimensionColor": "블루",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 칩(Thunderbolt 포트 2개) 10코어 CPU, 10코어 GPU, 듀얼 16코어 Neural Engine ₩2,490,000부터",
+    "memory-dimensionMemory": "16GB 포함",
+    "storage-dimensionCapacity": "256GB 포함",
+    "chassis-dimensionStandType": "스탠드 책상에 배치하고 상향 및 하향 기울기 조절. 포함",
+    "ethernet_adapter-ethernetPortCount": "이더넷 없음 Wi-Fi 네트워크를 통해서만 연결. 포함",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse 스와이프와 스크롤 같은 Multi-Touch 제스처 지원. 포함",
+    "keyboard-keyboardFormFactor": "Magic Keyboard 초소형 에지 투 에지 디자인. 포함"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "블루",
+     "퍼플",
+     "핑크",
+     "오렌지",
+     "옐로",
+     "그린",
+     "실버"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 칩(Thunderbolt 포트 2개) 10코어 CPU, 10코어 GPU, 듀얼 16코어 Neural Engine ₩2,490,000부터",
+     "M6 칩(Thunderbolt 포트 4개) 12코어 CPU, 12코어 GPU, 듀얼 16코어 Neural Engine ₩2,890,000부터"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 포함",
+     "24GB ₩340,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 포함",
+     "512GB ₩340,000 +",
+     "1TB ₩850,000 +"
+    ],
+    "chassis-dimensionStandType": [
+     "스탠드 책상에 배치하고 상향 및 하향 기울기 조절. 포함",
+     "VESA 마운트 어댑터 벽면 또는 조절형 모니터암에 설치."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "이더넷 없음 Wi-Fi 네트워크를 통해서만 연결. 포함",
+     "2.5 기가비트 이더넷 포트 최대 2.5Gb 링크 속도의 표준 네트워킹. ₩50,000 +"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse 스와이프와 스크롤 같은 Multi-Touch 제스처 지원. 포함",
+     "Magic Trackpad 모든 유형의 Multi-Touch 제스처와 Force Touch 기술 지원. ₩70,000 +"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard 초소형 에지 투 에지 디자인. 포함",
+     "Touch ID 및 숫자 키패드 탑재형 Magic Keyboard 탐색 컨트롤을 갖춘 확장 레이아웃. 지문으로 빠르고 간편한 사용자 인증. ₩110,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2890000,
+   "totalFrom": "summary",
+   "totalText": "₩2,890,000 | ₩2,890,000",
+   "selected": {
+    "chassis-dimensionColor": "블루",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 칩(Thunderbolt 포트 4개) 12코어 CPU, 12코어 GPU, 듀얼 16코어 Neural Engine ₩2,890,000부터",
+    "memory-dimensionMemory": "16GB 포함",
+    "storage-dimensionCapacity": "256GB 포함",
+    "display-dimensionFinish": "스탠다드 글래스 어떤 환경에서도 눈부심을 줄여주는 초저 반사율. 포함",
+    "chassis-dimensionStandType": "스탠드 책상에 배치하고 상향 및 하향 기울기 조절. 포함",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse 스와이프와 스크롤 같은 Multi-Touch 제스처 지원. 포함",
+    "keyboard-keyboardFormFactor": "Touch ID 탑재형 Magic Keyboard 지문으로 빠르고 간편한 사용자 인증. 포함"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "블루",
+     "퍼플",
+     "핑크",
+     "오렌지",
+     "옐로",
+     "그린",
+     "실버"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 칩(Thunderbolt 포트 2개) 10코어 CPU, 10코어 GPU, 듀얼 16코어 Neural Engine ₩2,490,000부터",
+     "M6 칩(Thunderbolt 포트 4개) 12코어 CPU, 12코어 GPU, 듀얼 16코어 Neural Engine ₩2,890,000부터"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 포함",
+     "24GB ₩340,000 +",
+     "32GB ₩680,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 포함",
+     "512GB ₩340,000 +",
+     "1TB ₩850,000 +",
+     "2TB ₩1,700,000 +"
+    ],
+    "display-dimensionFinish": [
+     "스탠다드 글래스 어떤 환경에서도 눈부심을 줄여주는 초저 반사율. 포함",
+     "Nano-texture 글래스 밝은 환경에서도 한층 감소하는 눈부심과 반사. 4포트 모델에만 선택 가능. ₩340,000 +"
+    ],
+    "chassis-dimensionStandType": [
+     "스탠드 책상에 배치하고 상향 및 하향 기울기 조절. 포함",
+     "VESA 마운트 어댑터 벽면 또는 조절형 모니터암에 설치."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse 스와이프와 스크롤 같은 Multi-Touch 제스처 지원. 포함",
+     "Magic Trackpad 모든 유형의 Multi-Touch 제스처와 Force Touch 기술 지원. ₩70,000 +"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Touch ID 탑재형 Magic Keyboard 지문으로 빠르고 간편한 사용자 인증. 포함",
+     "Touch ID 및 숫자 키패드 탑재형 Magic Keyboard 탐색 컨트롤을 갖춘 확장 레이아웃. 지문으로 빠르고 간편한 사용자 인증. ₩50,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

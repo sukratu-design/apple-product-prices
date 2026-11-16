@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:26:17.353Z",
+ "configs": {
+  "default": {
+   "total": 7990,
+   "totalFrom": "summary",
+   "totalText": "7 990,00 Kč",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

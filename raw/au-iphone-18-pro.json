@@ -2,21 +2,21 @@
  "page": "iphone-18-pro",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
- "scrapedAt": "2026-11-13T10:59:51.250Z",
+ "scrapedAt": "2026-11-16T11:58:54.855Z",
  "configs": {
   "pro": {
    "total": 2099,
    "totalFrom": "summary",
-   "totalText": "A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+   "totalText": "A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ± | A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
    "selected": {
-    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+    "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
     "dimensionColor": "Burgundy",
-    "dimensionCapacity": "256GB Footnote 1 A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+    "dimensionCapacity": "256GB Footnote 1 A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
    },
    "options": {
     "dimensionScreensize": [
-     "iPhone 18 Pro 6.3-inch display Footnote 2 From A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
     ],
     "dimensionColor": [
      "Burgundy",
@@ -25,10 +25,10 @@
      "Black"
     ],
     "dimensionCapacity": [
-     "256GB Footnote 1 A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "512GB Footnote 1 A$2,499.00 or A$104.13/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "1TB Footnote 1 A$3,299.00 or A$137.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "2TB Footnote 1 A$4,499.00 or A$187.46/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+     "256GB Footnote 1 A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "512GB Footnote 1 A$2,499.00 or A$104.13/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "1TB Footnote 1 A$3,299.00 or A$137.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "2TB Footnote 1 A$4,499.00 or A$187.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
     ]
    },
    "disabledOptions": {}
@@ -36,16 +36,16 @@
   "promax": {
    "total": 2299,
    "totalFrom": "summary",
-   "totalText": "A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+   "totalText": "A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ± | A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
    "selected": {
-    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §",
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
     "dimensionColor": "Burgundy",
-    "dimensionCapacity": "256GB Footnote 1 A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+    "dimensionCapacity": "256GB Footnote 1 A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
    },
    "options": {
     "dimensionScreensize": [
-     "iPhone 18 Pro 6.3-inch display Footnote 2 From A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+     "iPhone 18 Pro 6.3-inch display Footnote 2 From A$2,099.00 or A$87.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "iPhone 18 Pro Max 6.9-inch display Footnote 2 From A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
     ],
     "dimensionColor": [
      "Burgundy",
@@ -54,10 +54,10 @@
      "Black"
     ],
     "dimensionCapacity": [
-     "256GB Footnote 1 A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "512GB Footnote 1 A$2,699.00 or A$112.46/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "1TB Footnote 1 A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote §",
-     "2TB Footnote 1 A$4,699.00 or A$195.79/mo. per month for 24 mo. months at 0% p.a. Footnote §"
+     "256GB Footnote 1 A$2,299.00 or A$95.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "512GB Footnote 1 A$2,699.00 or A$112.46/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "1TB Footnote 1 A$3,499.00 or A$145.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±",
+     "2TB Footnote 1 A$4,699.00 or A$195.79/mo. per month for 24 mo. months at 0% p.a. Footnote ±"
     ]
    },
    "disabledOptions": {}

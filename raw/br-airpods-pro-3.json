@@ -1,0 +1,16 @@
+{
+ "page": "airpods-pro-3",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-airpods/airpods-pro-3",
+ "scrapedAt": "2026-11-16T13:25:18.273Z",
+ "configs": {
+  "default": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "R$ 2.699,00",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

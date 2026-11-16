@@ -2,11 +2,16 @@
  "page": "iphone-17",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-iphone/iphone-17",
- "scrapedAt": "2026-11-13T04:50:18.494Z",
+ "scrapedAt": "2026-11-16T12:00:33.885Z",
  "configs": {
   "default": {
-   "total": null,
+   "total": 16483,
+   "totalFrom": "summary",
    "totalText": "From ₹16483.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 From ₹16483.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹99900.00 Footnote ‡ (Incl. of all taxes)"
+   },
    "options": {
     "dimensionColor": [
      "Lavender",
@@ -19,7 +24,8 @@
      "256GB Footnote 1 From ₹16483.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹99900.00 Footnote ‡ (Incl. of all taxes)",
      "512GB Footnote 1 From ₹20650.00/mo. Per Month with instant cashback Footnote ± and No Cost EMI Footnote ∆ or MRP ₹124900.00 Footnote ‡ (Incl. of all taxes)"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

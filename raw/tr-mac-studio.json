@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:27.117Z",
+ "configs": {
+  "m5max-32": {
+   "total": 174999,
+   "totalFrom": "summary",
+   "totalText": "174.999,00 TL | 174.999,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M5 Max çip Kreatif projeler ve profesyonel iş akışları için yüksek hız, büyük yetenek. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 Çekirdekli CPU, 32 Çekirdekli GPU Dahil",
+    "memory-dimensionMemory": "36 GB Dahil",
+    "storage-dimensionCapacity": "512 GB Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max çip Kreatif projeler ve profesyonel iş akışları için yüksek hız, büyük yetenek. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Ultra çip Profesyonel iş akışlarında bile eşi benzeri görülmemiş performans sunan en güçlü çipimiz. 32 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 384.999 TL"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 Çekirdekli CPU, 32 Çekirdekli GPU Dahil",
+     "18 Çekirdekli CPU, 40 Çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. + 21.000,00 TL Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Dahil"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Dahil",
+     "1 TB + 21.000,00 TL",
+     "2 TB + 56.000,00 TL",
+     "4 TB + 126.000,00 TL",
+     "8 TB + 266.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 216999,
+   "totalFrom": "summary",
+   "totalText": "216.999,00 TL | 216.999,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M5 Max çip Kreatif projeler ve profesyonel iş akışları için yüksek hız, büyük yetenek. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 Çekirdekli CPU, 40 Çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir.",
+    "memory-dimensionMemory": "48 GB Dahil",
+    "storage-dimensionCapacity": "512 GB Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max çip Kreatif projeler ve profesyonel iş akışları için yüksek hız, büyük yetenek. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Ultra çip Profesyonel iş akışlarında bile eşi benzeri görülmemiş performans sunan en güçlü çipimiz. 32 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 384.999 TL"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 Çekirdekli CPU, 32 Çekirdekli GPU − 21.000,00 TL",
+     "18 Çekirdekli CPU, 40 Çekirdekli GPU İşlem ve grafik oluşturma hızınızı artırın ve büyük dil modelleri çalıştırma, 8K video düzenleme gibi görevlerde hız kazanın. Bu seçenek için yapılandırmanızı 48 GB belleğe yükseltmeniz gerekiyor. Bu da Mac’inizin toplam fiyatını yükseltir."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Dahil",
+     "64 GB + 28.000,00 TL",
+     "128 GB + 140.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Dahil",
+     "1 TB + 21.000,00 TL",
+     "2 TB + 56.000,00 TL",
+     "4 TB + 126.000,00 TL",
+     "8 TB + 266.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 384999,
+   "totalFrom": "summary",
+   "totalText": "384.999,00 TL | 384.999,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra çip Profesyonel iş akışlarında bile eşi benzeri görülmemiş performans sunan en güçlü çipimiz. 32 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 384.999 TL",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30 Çekirdekli CPU, 64 Çekirdekli GPU Dahil",
+    "memory-dimensionMemory": "96 GB Dahil",
+    "storage-dimensionCapacity": "1 TB Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max çip Kreatif projeler ve profesyonel iş akışları için yüksek hız, büyük yetenek. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Ultra çip Profesyonel iş akışlarında bile eşi benzeri görülmemiş performans sunan en güçlü çipimiz. 32 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 384.999 TL"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 Çekirdekli CPU, 64 Çekirdekli GPU Dahil",
+     "36 Çekirdekli CPU, 80 Çekirdekli GPU Büyük dil modellerini çalıştırmak, görsel efektler uygulamak ve filmlere renk derecelendirme yapmak gibi zorlu iş akışları için işlemci, grafik ve yapay zeka bilgi işlem performansınızı artırın. + 91.000,00 TL"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Dahil",
+     "256 GB + 280.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Dahil",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL",
+     "8 TB + 245.000,00 TL",
+     "16 TB + 525.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 475999,
+   "totalFrom": "summary",
+   "totalText": "475.999,00 TL | 475.999,00 TL",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra çip Profesyonel iş akışlarında bile eşi benzeri görülmemiş performans sunan en güçlü çipimiz. 32 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 384.999 TL",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36 Çekirdekli CPU, 80 Çekirdekli GPU Büyük dil modellerini çalıştırmak, görsel efektler uygulamak ve filmlere renk derecelendirme yapmak gibi zorlu iş akışları için işlemci, grafik ve yapay zeka bilgi işlem performansınızı artırın.",
+    "memory-dimensionMemory": "96 GB Dahil",
+    "storage-dimensionCapacity": "1 TB Dahil"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max çip Kreatif projeler ve profesyonel iş akışları için yüksek hız, büyük yetenek. 16 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 174.999 TL",
+     "M5 Ultra çip Profesyonel iş akışlarında bile eşi benzeri görülmemiş performans sunan en güçlü çipimiz. 32 çekirdekli Neural Engine için 2 seçenek Başlangıç fiyatı: 384.999 TL"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 Çekirdekli CPU, 64 Çekirdekli GPU − 91.000,00 TL",
+     "36 Çekirdekli CPU, 80 Çekirdekli GPU Büyük dil modellerini çalıştırmak, görsel efektler uygulamak ve filmlere renk derecelendirme yapmak gibi zorlu iş akışları için işlemci, grafik ve yapay zeka bilgi işlem performansınızı artırın."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Dahil",
+     "256 GB + 280.000,00 TL",
+     "512 GB + 1.085.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Dahil",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL",
+     "8 TB + 245.000,00 TL",
+     "16 TB + 525.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

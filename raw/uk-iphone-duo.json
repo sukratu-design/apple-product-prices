@@ -2,12 +2,12 @@
  "page": "iphone-duo",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
- "scrapedAt": "2026-11-13T10:59:29.936Z",
+ "scrapedAt": "2026-11-16T11:57:04.206Z",
  "configs": {
   "default": {
    "total": 1999,
    "totalFrom": "summary",
-   "totalText": "£1,999.00 or £66.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,999.00 or £66.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊ | £1,999.00 or £66.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Star White",
     "dimensionCapacity": "256GB Footnote 1 £1,999.00 or £66.63/mo. per month for 30 mo. months at 0% interest Footnote ◊◊"

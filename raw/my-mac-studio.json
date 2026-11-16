@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:58:07.462Z",
+ "configs": {
+  "m5max-32": {
+   "total": 10999,
+   "totalFrom": "summary",
+   "totalText": "RM 10,999.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From RM 10,999 or RM 458.29/month per month for 24 months",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From RM 10,999 or RM 458.29/month per month for 24 months",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From RM 24,999 or RM 1,041.63/month per month for 24 months"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU Included",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + RM 1,350.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + RM 1,350.00",
+     "2TB + RM 3,600.00",
+     "4TB + RM 8,100.00",
+     "8TB + RM 17,100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 13699,
+   "totalFrom": "summary",
+   "totalText": "RM 13,699.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From RM 10,999 or RM 458.29/month per month for 24 months",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From RM 10,999 or RM 458.29/month per month for 24 months",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From RM 24,999 or RM 1,041.63/month per month for 24 months"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18-core CPU, 32‑core GPU − RM 1,350.00",
+     "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48GB Included",
+     "64GB + RM 1,800.00",
+     "128GB + RM 9,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + RM 1,350.00",
+     "2TB + RM 3,600.00",
+     "4TB + RM 8,100.00",
+     "8TB + RM 17,100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 24999,
+   "totalFrom": "summary",
+   "totalText": "RM 24,999.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From RM 24,999 or RM 1,041.63/month per month for 24 months",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From RM 10,999 or RM 458.29/month per month for 24 months",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From RM 24,999 or RM 1,041.63/month per month for 24 months"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU Included",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film. + RM 5,850.00"
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + RM 18,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + RM 2,250.00",
+     "4TB + RM 6,750.00",
+     "8TB + RM 15,750.00",
+     "16TB + RM 33,750.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 30849,
+   "totalFrom": "summary",
+   "totalText": "RM 30,849.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From RM 24,999 or RM 1,041.63/month per month for 24 months",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film.",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From RM 10,999 or RM 458.29/month per month for 24 months",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From RM 24,999 or RM 1,041.63/month per month for 24 months"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30-core CPU, 64‑core GPU − RM 5,850.00",
+     "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film."
+    ],
+    "memory-dimensionMemory": [
+     "96GB Included",
+     "256GB + RM 18,000.00",
+     "512GB + RM 69,750.00"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB Included",
+     "2TB + RM 2,250.00",
+     "4TB + RM 6,750.00",
+     "8TB + RM 15,750.00",
+     "16TB + RM 33,750.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:14.554Z",
+ "configs": {
+  "band": {
+   "total": 929,
+   "totalFrom": "summary",
+   "totalText": "929,00 € | 929,00 € | 929,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Musta",
+    "style": "Uudet värit Alpine‑ranneke Seikkailu- ja vaelluslajeihin. 929,00 €",
+    "alpineloop-color": "Viininpunainen",
+    "watch_bands-dimensionbandsize": "Pieni Sopii 130–160 mm ranteisiin."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Musta",
+     "Luonnon­­vaalea"
+    ],
+    "style": [
+     "Uudet värit Alpine‑ranneke Seikkailu- ja vaelluslajeihin. 929,00 €",
+     "Uudet värit Trail‑ranneke Kaikenlaiseen urheiluun ja treenaamiseen. 929,00 €",
+     "Uudet värit Ocean‑ranneke Vesi­urheiluun ja vapaa-ajan laitesukellukseen. 929,00 €",
+     "Titaaninen milanolaisranneke Suunniteltu vesiurheiluun, mutta tyylikäs missä tahansa. 1 049,00 €"
+    ],
+    "alpineloop-color": [
+     "Viininpunainen",
+     "Tummanoliivi",
+     "Aavikko"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Pieni Sopii 130–160 mm ranteisiin.",
+     "Keskikokoinen Ranneke sopii 145–190 mm ranteisiin.",
+     "Suuri Ranneke sopii 165–210 mm ranteisiin."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "1 049,00 € | 1 049,00 € | 1 049,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Musta",
+    "style": "Titaaninen milanolaisranneke Suunniteltu vesiurheiluun, mutta tyylikäs missä tahansa. 1 049,00 €",
+    "ti_milaneseloop-color": "Musta",
+    "watch_bands-dimensionbandsize": "Pieni Sopii 130–160 mm ranteisiin."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Musta",
+     "Luonnon­­vaalea"
+    ],
+    "style": [
+     "Uudet värit Alpine‑ranneke Seikkailu- ja vaelluslajeihin. 929,00 €",
+     "Uudet värit Trail‑ranneke Kaikenlaiseen urheiluun ja treenaamiseen. 929,00 €",
+     "Uudet värit Ocean‑ranneke Vesi­urheiluun ja vapaa-ajan laitesukellukseen. 929,00 €",
+     "Titaaninen milanolaisranneke Suunniteltu vesiurheiluun, mutta tyylikäs missä tahansa. 1 049,00 €"
+    ],
+    "ti_milaneseloop-color": [
+     "Musta"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Pieni Sopii 130–160 mm ranteisiin.",
+     "Keskikokoinen Ranneke sopii 155–185 mm ranteisiin.",
+     "Suuri Ranneke sopii 180–210 mm ranteisiin."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

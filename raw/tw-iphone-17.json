@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:38.552Z",
+ "configs": {
+  "default": {
+   "total": 32900,
+   "totalFrom": "summary",
+   "totalText": "NT$32,900 | NT$32,900 | NT$32,900",
+   "selected": {
+    "dimensionColor": "薰衣草紫色",
+    "dimensionCapacity": "256GB 註腳 1 NT$32,900"
+   },
+   "options": {
+    "dimensionColor": [
+     "薰衣草紫色",
+     "霧藍色",
+     "白色",
+     "鼠尾草綠色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 註腳 1 NT$32,900",
+     "512GB 註腳 1 NT$39,900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:49.212Z",
+ "configs": {
+  "default": {
+   "total": 28999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 28.999.000đ",
+   "selected": {
+    "dimensionColor": "Tím Oải Hương",
+    "dimensionCapacity": "256GB Chú thích 1 28.999.000đ hoặc 1.181.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Tím Oải Hương",
+     "Xanh Lam Khói",
+     "Trắng",
+     "Xanh Lá Xô Thơm",
+     "Đen"
+    ],
+    "dimensionCapacity": [
+     "256GB Chú thích 1 28.999.000đ hoặc 1.181.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "512GB Chú thích 1 35.499.000đ hoặc 1.445.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:30.953Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 1899,
+   "totalFrom": "summary",
+   "totalText": "1 899,00 zł | 1 899,00 zł | 1 899,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nowość Ciemny brąz",
+    "watch_cases-dimensionCaseSize": "42 mm Od 1899 zł",
+    "watch_cases-dimensionConnection": "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1899 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 1 899,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 1 899,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nowość Ciemny brąz",
+     "Nowość jasne złoto",
+     "Nowość czarny",
+     "gwiezdna szarość"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 1899 zł",
+     "46 mm Od 2199 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1899 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 2399 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 1 899,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 1899 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 2199 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 1 899,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 1 899,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 1 899,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 2199,
+   "totalFrom": "summary",
+   "totalText": "2 199,00 zł | 2 199,00 zł | 2 199,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nowość Ciemny brąz",
+    "watch_cases-dimensionCaseSize": "46 mm Od 2199 zł",
+    "watch_cases-dimensionConnection": "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 2199 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 2 199,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 2 199,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nowość Ciemny brąz",
+     "Nowość jasne złoto",
+     "Nowość czarny",
+     "gwiezdna szarość"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 1899 zł",
+     "46 mm Od 2199 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 2199 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 2699 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 2 199,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 2199 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 2499 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 2 199,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 2 199,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 2 199,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 2399,
+   "totalFrom": "summary",
+   "totalText": "2 399,00 zł | 2 399,00 zł | 2 399,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nowość Ciemny brąz",
+    "watch_cases-dimensionCaseSize": "42 mm Od 1899 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 2399 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 2 399,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 2 399,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nowość Ciemny brąz",
+     "Nowość jasne złoto",
+     "Nowość czarny",
+     "gwiezdna szarość"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 1899 zł",
+     "46 mm Od 2199 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 1899 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 2399 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 2 399,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 2399 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 2699 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 2 399,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 2 399,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 2 399,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "2 699,00 zł | 2 699,00 zł | 2 699,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nowość Ciemny brąz",
+    "watch_cases-dimensionCaseSize": "46 mm Od 2199 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 2699 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 2 699,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 2 699,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nowość Ciemny brąz",
+     "Nowość jasne złoto",
+     "Nowość czarny",
+     "gwiezdna szarość"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 1899 zł",
+     "46 mm Od 2199 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a. Od 2199 zł",
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 2699 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 2 699,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 2699 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 2999 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 2 699,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 2 699,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 2 699,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 3299,
+   "totalFrom": "summary",
+   "totalText": "3 299,00 zł | 3 299,00 zł | 3 299,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+    "titanium-watch_cases-dimensionColor": "Nowość Żywe złoto",
+    "watch_cases-dimensionCaseSize": "42 mm Od 3299 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 3299 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 3 299,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 3 299,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nowość Żywe złoto",
+     "naturalny"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 3299 zł",
+     "46 mm Od 3599 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 3299 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 3 299,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 3299 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 3599 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 3 299,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 3 299,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 3 299,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 3599,
+   "totalFrom": "summary",
+   "totalText": "3 599,00 zł | 3 599,00 zł | 3 599,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+    "titanium-watch_cases-dimensionColor": "Nowość Żywe złoto",
+    "watch_cases-dimensionCaseSize": "46 mm Od 3599 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 3599 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 3 599,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 3 599,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nowość Żywe złoto",
+     "naturalny"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 3299 zł",
+     "46 mm Od 3599 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 3599 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 3 599,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 3599 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 3899 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 3 599,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 3 599,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 3 599,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 4399,
+   "totalFrom": "summary",
+   "totalText": "4 399,00 zł | 4 399,00 zł | 4 399,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego.",
+    "ceramic-watch_cases-dimensionColor": "Nowość Biała perła",
+    "watch_cases-dimensionCaseSize": "42 mm Od 4399 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 4399 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 4 399,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 4 399,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nowość Biała perła",
+     "Nowość Granatowa noc"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 4399 zł",
+     "46 mm Od 4699 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 4399 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 4 399,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 4399 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 4699 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 4 399,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 4 399,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 4 399,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 4699,
+   "totalFrom": "summary",
+   "totalText": "4 699,00 zł | 4 699,00 zł | 4 699,00 zł",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego.",
+    "ceramic-watch_cases-dimensionColor": "Nowość Biała perła",
+    "watch_cases-dimensionCaseSize": "46 mm Od 4699 zł",
+    "watch_cases-dimensionConnection": "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 4699 zł",
+    "category": "Guma Elastyczne, wygodne i wodoodporne paski. 4 699,00 zł",
+    "rubber-style": "Nowe kolory Opaska Solo 4 699,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+    "rubber-sololoop-color": "burgund",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nowe kolory Aluminium Do wyboru model GPS lub GPS + Cellular Od 1899 zł Matowe wykończenie i wytrzymały wyświetlacz z warstwą Ceramic Shield 2.",
+     "Nowy kolor Tytan Dostępna dla modelu GPS + Cellular Od 3299 zł Polerowany tytan klasy lotniczej i wytrzymały wyświetlacz ze szkła szafirowego.",
+     "Nowość Ceramika Dostępna dla modelu GPS + Cellular Od 4399 zł Elegancka i odporna na zarysowania konstrukcja z polerowaną kopertą i wytrzymałym wyświetlaczem ze szkła szafirowego."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nowość Biała perła",
+     "Nowość Granatowa noc"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 4399 zł",
+     "46 mm Od 4699 zł"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Możesz dzwonić i wysyłać wiadomości za pomocą samego Apple Watch. Funkcja Apple Watch dla Twoich dzieci wymaga modelu GPS + Cellular. Od 4699 zł"
+    ],
+    "category": [
+     "Guma Elastyczne, wygodne i wodoodporne paski. 4 699,00 zł",
+     "Materiał tekstylny Miękkie i lekkie tkaniny. Świetne do codziennego noszenia. Od 4699 zł",
+     "Stal nierdzewna Wysokiej klasy stal nierdzewna i wyrafinowany, elegancki dizajn. Od 4999 zł"
+    ],
+    "rubber-style": [
+     "Nowe kolory Opaska Solo 4 699,00 zł Rozciągliwość, brak zapięcia, idealne dopasowanie",
+     "Nowe kolory Pasek sportowy 4 699,00 zł Wytrzymałość, zapięcie z napą i szlufką, regulacja",
+     "Nowe kolory Pasek sportowy Nike 4 699,00 zł Przewiewność, zapięcie z napą i szlufką, regulacja"
+    ],
+    "rubber-sololoop-color": [
+     "burgund",
+     "oliwka",
+     "granat",
+     "polny niebieski",
+     "czarny"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Dzwoń i wysyłaj wiadomości, mając w pobliżu iPhone’a."
+    ]
+   }
+  }
+ }
+}

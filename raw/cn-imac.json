@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:13.581Z",
+ "configs": {
+  "2port": {
+   "total": 12499,
+   "totalFrom": "summary",
+   "totalText": "RMB 12,499 或 RMB 521/月 (24 期) 起 | RMB 12,499 或 RMB 521/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionColor": "蓝色",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 芯片、两个雷雳端口 10 核中央处理器、10 核图形处理器、双 16 核神经网络引擎 RMB 12,499 起 或 RMB 521/月 (24 期) 起",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "256GB 已含",
+    "chassis-dimensionStandType": "支架 放置于桌面，支持上下调节倾斜角度。 已含",
+    "ethernet_adapter-ethernetPortCount": "无以太网端口 仅支持通过 Wi-Fi 网络连接上网。 已含",
+    "mouse_and_track_pad-pointingDeviceType": "妙控鼠标 支持轻扫和滚动等部分多点触控手势。 已含",
+    "keyboard-keyboardFormFactor": "妙控键盘 超紧凑的无边式设计。 已含"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "蓝色",
+     "紫色",
+     "粉色",
+     "橙色",
+     "黄色",
+     "绿色",
+     "银色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 芯片、两个雷雳端口 10 核中央处理器、10 核图形处理器、双 16 核神经网络引擎 RMB 12,499 起 或 RMB 521/月 (24 期) 起",
+     "M6 芯片、四个雷雳端口 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 13,999 起 或 RMB 584/月 (24 期) 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含",
+     "24GB + RMB 1,500"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 已含",
+     "512GB + RMB 1,500",
+     "1TB + RMB 3,750"
+    ],
+    "chassis-dimensionStandType": [
+     "支架 放置于桌面，支持上下调节倾斜角度。 已含",
+     "VESA 支架转换器 机身内置，方便安装至墙壁或可调节悬臂。"
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "无以太网端口 仅支持通过 Wi-Fi 网络连接上网。 已含",
+     "2.5Gb 以太网端口 支持常规网络连接，链路速度最高可达 2.5Gb。 + RMB 200"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "妙控鼠标 支持轻扫和滚动等部分多点触控手势。 已含",
+     "妙控板 支持全部多点触控手势以及力度触控技术。 + RMB 350"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "妙控键盘 超紧凑的无边式设计。 已含",
+     "妙控键盘 (带有触控 ID 和数字小键盘) 键盘布局有所延伸，并加入了导航控制键。支持简单快捷的指纹身份认证。 + RMB 520"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 13999,
+   "totalFrom": "summary",
+   "totalText": "RMB 13,999 或 RMB 584/月 (24 期) 起 | RMB 13,999 或 RMB 584/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionColor": "蓝色",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 芯片、四个雷雳端口 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 13,999 起 或 RMB 584/月 (24 期) 起",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "256GB 已含",
+    "display-dimensionFinish": "标准玻璃 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "chassis-dimensionStandType": "支架 放置于桌面，支持上下调节倾斜角度。 已含",
+    "mouse_and_track_pad-pointingDeviceType": "妙控鼠标 支持轻扫和滚动等部分多点触控手势。 已含",
+    "keyboard-keyboardFormFactor": "妙控键盘 (带有触控 ID) 支持简单快捷的指纹身份认证。 已含"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "蓝色",
+     "紫色",
+     "粉色",
+     "橙色",
+     "黄色",
+     "绿色",
+     "银色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 芯片、两个雷雳端口 10 核中央处理器、10 核图形处理器、双 16 核神经网络引擎 RMB 12,499 起 或 RMB 521/月 (24 期) 起",
+     "M6 芯片、四个雷雳端口 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 13,999 起 或 RMB 584/月 (24 期) 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含",
+     "24GB + RMB 1,500",
+     "32GB + RMB 3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 已含",
+     "512GB + RMB 1,500",
+     "1TB + RMB 3,750",
+     "2TB + RMB 7,500"
+    ],
+    "display-dimensionFinish": [
+     "标准玻璃 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理玻璃 可进一步减少明亮光线条件下的屏幕反光和眩光。仅限四端口机型选配。 + RMB 1,500"
+    ],
+    "chassis-dimensionStandType": [
+     "支架 放置于桌面，支持上下调节倾斜角度。 已含",
+     "VESA 支架转换器 机身内置，方便安装至墙壁或可调节悬臂。"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "妙控鼠标 支持轻扫和滚动等部分多点触控手势。 已含",
+     "妙控板 支持全部多点触控手势以及力度触控技术。 + RMB 350"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "妙控键盘 (带有触控 ID) 支持简单快捷的指纹身份认证。 已含",
+     "妙控键盘 (带有触控 ID 和数字小键盘) 键盘布局有所延伸，并加入了导航控制键。支持简单快捷的指纹身份认证。 + RMB 200"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

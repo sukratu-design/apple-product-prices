@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:00.540Z",
+ "configs": {
+  "default": {
+   "total": 879,
+   "totalFrom": "summary",
+   "totalText": "€879.00 | €879.00 | €879.00",
+   "selected": {
+    "dimensionColor": "Soft Pink",
+    "dimensionCapacity": "256GB Footnote 1 €879.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Soft Pink",
+     "White",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 €879.00",
+     "512GB Footnote 1 €1,129.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

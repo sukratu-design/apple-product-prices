@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:27.231Z",
+ "configs": {
+  "m6": {
+   "total": 4299,
+   "totalFrom": "summary",
+   "totalText": "SAR 4,299.00 | SAR 4,299.00",
+   "selected": {
+    "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From SAR 4,299",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From SAR 4,299",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From SAR 7,999"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Included"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + SAR 1,000.00",
+     "32GB + SAR 2,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + SAR 1,000.00",
+     "1TB + SAR 2,500.00",
+     "2TB + SAR 5,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + SAR 500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 7999,
+   "totalFrom": "summary",
+   "totalText": "SAR 7,999.00 | SAR 7,999.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From SAR 7,999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From SAR 4,299",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From SAR 7,999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Included",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + SAR 1,000.00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + SAR 3,000.00",
+     "64GB + SAR 5,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + SAR 1,500.00",
+     "2TB + SAR 4,000.00",
+     "4TB + SAR 9,000.00",
+     "8TB + SAR 19,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + SAR 500.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 8999,
+   "totalFrom": "summary",
+   "totalText": "SAR 8,999.00 | SAR 8,999.00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From SAR 7,999",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From SAR 4,299",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From SAR 7,999"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − SAR 1,000.00",
+     "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Included",
+     "48GB + SAR 3,000.00",
+     "64GB + SAR 5,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + SAR 1,500.00",
+     "2TB + SAR 4,000.00",
+     "4TB + SAR 9,000.00",
+     "8TB + SAR 19,000.00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
+     "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + SAR 500.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

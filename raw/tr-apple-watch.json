@@ -1,0 +1,370 @@
+{
+ "page": "apple-watch",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:26.961Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 27999,
+   "totalFrom": "summary",
+   "totalText": "27.999,00 TL | 27.999,00 TL | 27.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+    "aluminum-watch_cases-dimensionColor": "Yeni Koyu Bronz",
+    "watch_cases-dimensionCaseSize": "42 mm Başlangıç fiyatı: 27.999 TL",
+    "watch_cases-dimensionConnection": "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 27.999 TL",
+    "style": "Yeni Renk Seçenekleri Spor Kordon 27.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+    "sport-color": "Klasik Zeytin Yeşili",
+    "watch_bands-dimensionbandsize": "S/M 130 - 180 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Yeni Koyu Bronz",
+     "Yeni Uçuk Altın Rengi",
+     "Yeni Siyah",
+     "Uzay Grisi"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 27.999 TL",
+     "46 mm Başlangıç fiyatı: 30.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 27.999 TL",
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 52.999 TL"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Spor Kordon 27.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+     "Yeni Renk Seçenekleri Milano Loop 30.499,00 TL Pürüzsüz örgü tasarımlı, manyetik mekanizmalı, istediğiniz gibi ayarlanabilir"
+    ],
+    "sport-color": [
+     "Klasik Zeytin Yeşili"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 130 - 180 mm arası bilek ölçülerine uygundur.",
+     "M/L 150 - 200 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 30999,
+   "totalFrom": "summary",
+   "totalText": "30.999,00 TL | 30.999,00 TL | 30.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+    "aluminum-watch_cases-dimensionColor": "Yeni Koyu Bronz",
+    "watch_cases-dimensionCaseSize": "46 mm Başlangıç fiyatı: 30.999 TL",
+    "watch_cases-dimensionConnection": "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 30.999 TL",
+    "style": "Yeni Renk Seçenekleri Spor Kordon 30.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+    "sport-color": "Klasik Zeytin Yeşili",
+    "watch_bands-dimensionbandsize": "S/M 140 - 190 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Yeni Koyu Bronz",
+     "Yeni Uçuk Altın Rengi",
+     "Yeni Siyah",
+     "Uzay Grisi"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 27.999 TL",
+     "46 mm Başlangıç fiyatı: 30.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 30.999 TL",
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 55.999 TL"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Spor Kordon 30.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+     "Yeni Renk Seçenekleri Milano Loop 33.499,00 TL Pürüzsüz örgü tasarımlı, manyetik mekanizmalı, istediğiniz gibi ayarlanabilir"
+    ],
+    "sport-color": [
+     "Klasik Zeytin Yeşili"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 140 - 190 mm arası bilek ölçülerine uygundur.",
+     "M/L 160 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 52999,
+   "totalFrom": "summary",
+   "totalText": "52.999,00 TL | 52.999,00 TL | 52.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+    "aluminum-watch_cases-dimensionColor": "Yeni Koyu Bronz",
+    "watch_cases-dimensionCaseSize": "42 mm Başlangıç fiyatı: 27.999 TL",
+    "watch_cases-dimensionConnection": "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 52.999 TL",
+    "style": "Yeni Renk Seçenekleri Spor Kordon 52.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+    "sport-color": "Klasik Zeytin Yeşili",
+    "watch_bands-dimensionbandsize": "S/M 130 - 180 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Yeni Koyu Bronz",
+     "Yeni Uçuk Altın Rengi",
+     "Yeni Siyah",
+     "Uzay Grisi"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 27.999 TL",
+     "46 mm Başlangıç fiyatı: 30.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 27.999 TL",
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 52.999 TL"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Spor Kordon 52.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+     "Yeni Renk Seçenekleri Milano Loop 55.499,00 TL Pürüzsüz örgü tasarımlı, manyetik mekanizmalı, istediğiniz gibi ayarlanabilir"
+    ],
+    "sport-color": [
+     "Klasik Zeytin Yeşili"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 130 - 180 mm arası bilek ölçülerine uygundur.",
+     "M/L 150 - 200 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 55999,
+   "totalFrom": "summary",
+   "totalText": "55.999,00 TL | 55.999,00 TL | 55.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+    "aluminum-watch_cases-dimensionColor": "Yeni Koyu Bronz",
+    "watch_cases-dimensionCaseSize": "46 mm Başlangıç fiyatı: 30.999 TL",
+    "watch_cases-dimensionConnection": "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 55.999 TL",
+    "style": "Yeni Renk Seçenekleri Spor Kordon 55.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+    "sport-color": "Klasik Zeytin Yeşili",
+    "watch_bands-dimensionbandsize": "S/M 140 - 190 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Yeni Koyu Bronz",
+     "Yeni Uçuk Altın Rengi",
+     "Yeni Siyah",
+     "Uzay Grisi"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 27.999 TL",
+     "46 mm Başlangıç fiyatı: 30.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın. Başlangıç fiyatı: 30.999 TL",
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 55.999 TL"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Spor Kordon 55.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+     "Yeni Renk Seçenekleri Milano Loop 58.499,00 TL Pürüzsüz örgü tasarımlı, manyetik mekanizmalı, istediğiniz gibi ayarlanabilir"
+    ],
+    "sport-color": [
+     "Klasik Zeytin Yeşili"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 140 - 190 mm arası bilek ölçülerine uygundur.",
+     "M/L 160 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 69999,
+   "totalFrom": "summary",
+   "totalText": "69.999,00 TL | 69.999,00 TL | 69.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+    "titanium-watch_cases-dimensionColor": "Yeni Parlak Altın",
+    "watch_cases-dimensionCaseSize": "42 mm Başlangıç fiyatı: 69.999 TL",
+    "watch_cases-dimensionConnection": "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 69.999 TL",
+    "style": "Yeni Renk Seçenekleri Spor Kordon 69.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+    "sport-color": "Burgonya",
+    "watch_bands-dimensionbandsize": "S/M 130 - 180 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Yeni Parlak Altın",
+     "Natürel"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 69.999 TL",
+     "46 mm Başlangıç fiyatı: 72.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 69.999 TL"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Spor Kordon 69.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+     "Yeni Renk Seçenekleri Milano Loop 72.499,00 TL Pürüzsüz örgü tasarımlı, manyetik mekanizmalı, istediğiniz gibi ayarlanabilir"
+    ],
+    "sport-color": [
+     "Burgonya"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 130 - 180 mm arası bilek ölçülerine uygundur.",
+     "M/L 150 - 200 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 72999,
+   "totalFrom": "summary",
+   "totalText": "72.999,00 TL | 72.999,00 TL | 72.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+    "titanium-watch_cases-dimensionColor": "Yeni Parlak Altın",
+    "watch_cases-dimensionCaseSize": "46 mm Başlangıç fiyatı: 72.999 TL",
+    "watch_cases-dimensionConnection": "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 72.999 TL",
+    "style": "Yeni Renk Seçenekleri Spor Kordon 72.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+    "sport-color": "Burgonya",
+    "watch_bands-dimensionbandsize": "S/M 140 - 190 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Yeni Parlak Altın",
+     "Natürel"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 69.999 TL",
+     "46 mm Başlangıç fiyatı: 72.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 72.999 TL"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Spor Kordon 72.999,00 TL Dayanıklı, pim mekanizmalı, ayarlanabilir",
+     "Yeni Renk Seçenekleri Milano Loop 75.499,00 TL Pürüzsüz örgü tasarımlı, manyetik mekanizmalı, istediğiniz gibi ayarlanabilir"
+    ],
+    "sport-color": [
+     "Burgonya"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 140 - 190 mm arası bilek ölçülerine uygundur.",
+     "M/L 160 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 89999,
+   "totalFrom": "summary",
+   "totalText": "89.999,00 TL | 89.999,00 TL | 89.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı.",
+    "ceramic-watch_cases-dimensionColor": "Yeni İnci Beyazı",
+    "watch_cases-dimensionCaseSize": "42 mm Başlangıç fiyatı: 89.999 TL",
+    "watch_cases-dimensionConnection": "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 89.999 TL",
+    "watch_bands-dimensionbandsize": "S/M 130 - 180 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Yeni İnci Beyazı",
+     "Yeni Metalik Mavi"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 89.999 TL",
+     "46 mm Başlangıç fiyatı: 92.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 89.999 TL"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 130 - 180 mm arası bilek ölçülerine uygundur.",
+     "M/L 150 - 200 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 92999,
+   "totalFrom": "summary",
+   "totalText": "92.999,00 TL | 92.999,00 TL | 92.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı.",
+    "ceramic-watch_cases-dimensionColor": "Yeni İnci Beyazı",
+    "watch_cases-dimensionCaseSize": "46 mm Başlangıç fiyatı: 92.999 TL",
+    "watch_cases-dimensionConnection": "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 92.999 TL",
+    "watch_bands-dimensionbandsize": "S/M 140 - 190 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Yeni renk seçenekleri Alüminyum GPS veya GPS + Cellular seçenekleriyle Başlangıç fiyatı: 27.999 TL Ceramic Shield 2 ile dayanıklı ekran ve mat yüzey.",
+     "Yeni renk Titanyum GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 69.999 TL Havacılık ve uzay endüstrisi standartlarında, parlatılmış titanyum ve dayanıklı safir kristal ekran.",
+     "Yeni Seramik GPS + Cellular seçeneğiyle sunulur Başlangıç fiyatı: 89.999 TL Zengin, parlak bir yüzey kaplaması ve dayanıklı safir kristal ekranıyla sofistike ve çizilmelere karşı dayanıklı."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Yeni İnci Beyazı",
+     "Yeni Metalik Mavi"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Başlangıç fiyatı: 89.999 TL",
+     "46 mm Başlangıç fiyatı: 92.999 TL"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Yalnızca Apple Watch’unuzu kullanarak arama yapın ve mesaj gönderin. Başlangıç fiyatı: 92.999 TL"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S/M 140 - 190 mm arası bilek ölçülerine uygundur.",
+     "M/L 160 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS iPhone’unuz yakınınızdayken arama yapın ve mesaj atın."
+    ]
+   }
+  }
+ }
+}

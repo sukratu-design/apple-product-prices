@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:54:27.435Z",
+ "configs": {
+  "m6": {
+   "total": 399990,
+   "totalFrom": "summary",
+   "totalText": "399 990 Ft | 399 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU két 16 magos Neural Engine-nel Indulóár: 399 990 Ft",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Az alapcsomag része",
+    "memory-dimensionMemory": "16 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "256 GB Az alapcsomag része",
+    "ethernet_adapter-ethernetBandwidth": "2,5 gigabites Ethernet Normál hálózati kapcsolat akár 2,5 gigabites sebességgel. Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU két 16 magos Neural Engine-nel Indulóár: 399 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 779 990 Ft"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Az alapcsomag része"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Az alapcsomag része",
+     "24 GB + 100 000 Ft",
+     "32 GB + 200 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Az alapcsomag része",
+     "512 GB + 100 000 Ft",
+     "1 TB + 250 000 Ft",
+     "2 TB + 500 000 Ft"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 gigabites Ethernet Normál hálózati kapcsolat akár 2,5 gigabites sebességgel. Az alapcsomag része",
+     "10 gigabites Ethernet Nagyobb kapcsolati sávszélesség, akár 10 gigabites sebességgel. + 50 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 779990,
+   "totalFrom": "summary",
+   "totalText": "779 990 Ft | 779 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 779 990 Ft",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 magos CPU, 16 magos GPU Az alapcsomag része",
+    "memory-dimensionMemory": "24 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "512 GB Az alapcsomag része",
+    "ethernet_adapter-ethernetBandwidth": "2,5 gigabites Ethernet Normál hálózati kapcsolat akár 2,5 gigabites sebességgel. Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU két 16 magos Neural Engine-nel Indulóár: 399 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 779 990 Ft"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 magos CPU, 16 magos GPU Az alapcsomag része",
+     "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét. + 100 000 Ft"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Az alapcsomag része",
+     "48 GB + 300 000 Ft",
+     "64 GB + 500 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Az alapcsomag része",
+     "1 TB + 150 000 Ft",
+     "2 TB + 400 000 Ft",
+     "4 TB + 900 000 Ft",
+     "8 TB + 1 900 000 Ft"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 gigabites Ethernet Normál hálózati kapcsolat akár 2,5 gigabites sebességgel. Az alapcsomag része",
+     "10 gigabites Ethernet Nagyobb kapcsolati sávszélesség, akár 10 gigabites sebességgel. + 50 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 879990,
+   "totalFrom": "summary",
+   "totalText": "879 990 Ft | 879 990 Ft",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 779 990 Ft",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét.",
+    "memory-dimensionMemory": "24 GB Az alapcsomag része",
+    "storage-dimensionCapacity": "512 GB Az alapcsomag része",
+    "ethernet_adapter-ethernetBandwidth": "2,5 gigabites Ethernet Normál hálózati kapcsolat akár 2,5 gigabites sebességgel. Az alapcsomag része"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 chip Villámgyors, és a tel­jesítmény új szintjét kínálja mindennapi személyes, szakmai és kreatív feladataidhoz. 12 magos CPU, 12 magos GPU két 16 magos Neural Engine-nel Indulóár: 399 990 Ft",
+     "M5 Pro chip Nagyobb teljesítményt biztosít, és több memória választható hozzá, hogy a komoly feladatokkal is könnyedén megbirkózzon. 2 opció 16 magos Neural Engine‑nel Indulóár: 779 990 Ft"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 magos CPU, 16 magos GPU − 100 000 Ft",
+     "18 magos CPU, 20 magos GPU Turbózd fel a számítási és grafikus renderelési sebességet, és gyorsítsd a nagy nyelvi modellek futtatásának és a 8K-s videók szerkesztésének sebességét."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Az alapcsomag része",
+     "48 GB + 300 000 Ft",
+     "64 GB + 500 000 Ft"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Az alapcsomag része",
+     "1 TB + 150 000 Ft",
+     "2 TB + 400 000 Ft",
+     "4 TB + 900 000 Ft",
+     "8 TB + 1 900 000 Ft"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 gigabites Ethernet Normál hálózati kapcsolat akár 2,5 gigabites sebességgel. Az alapcsomag része",
+     "10 gigabites Ethernet Nagyobb kapcsolati sávszélesség, akár 10 gigabites sebességgel. + 50 000 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

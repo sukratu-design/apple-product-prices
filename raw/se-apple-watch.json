@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:33.875Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 4995,
+   "totalFrom": "summary",
+   "totalText": "4 995,00 kr | 4 995,00 kr | 4 995,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhet mörk brons",
+    "watch_cases-dimensionCaseSize": "42 mm Från 4 995 kr",
+    "watch_cases-dimensionConnection": "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 4 995 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 4 995,00 kr",
+    "rubber-style": "Nya färger Sololoop 4 995,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhet mörk brons",
+     "Nyhet ljust guld",
+     "Nyhet svart",
+     "rymdgrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 4 995 kr",
+     "46 mm Från 5 595 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 4 995 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 6 195 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 4 995,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 4 995 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 5 595 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 4 995,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 4 995,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 4 995,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 5595,
+   "totalFrom": "summary",
+   "totalText": "5 595,00 kr | 5 595,00 kr | 5 595,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhet mörk brons",
+    "watch_cases-dimensionCaseSize": "46 mm Från 5 595 kr",
+    "watch_cases-dimensionConnection": "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 5 595 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 5 595,00 kr",
+    "rubber-style": "Nya färger Sololoop 5 595,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhet mörk brons",
+     "Nyhet ljust guld",
+     "Nyhet svart",
+     "rymdgrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 4 995 kr",
+     "46 mm Från 5 595 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 5 595 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 6 795 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 5 595,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 5 595 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 6 195 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 5 595,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 5 595,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 5 595,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 4995,
+   "totalFrom": "summary",
+   "totalText": "4 995,00 kr | 4 995,00 kr | 4 995,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhet mörk brons",
+    "watch_cases-dimensionCaseSize": "42 mm Från 4 995 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 6 195 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 6 195,00 kr",
+    "rubber-style": "Nya färger Sololoop 6 195,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhet mörk brons",
+     "Nyhet ljust guld",
+     "Nyhet svart",
+     "rymdgrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 4 995 kr",
+     "46 mm Från 5 595 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 4 995 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 6 195 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 6 195,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 6 195 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 6 795 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 6 195,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 6 195,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 6 195,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 6795,
+   "totalFrom": "summary",
+   "totalText": "6 795,00 kr | 6 795,00 kr | 6 795,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nyhet mörk brons",
+    "watch_cases-dimensionCaseSize": "46 mm Från 5 595 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 6 795 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 6 795,00 kr",
+    "rubber-style": "Nya färger Sololoop 6 795,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nyhet mörk brons",
+     "Nyhet ljust guld",
+     "Nyhet svart",
+     "rymdgrå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 4 995 kr",
+     "46 mm Från 5 595 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten. Från 5 595 kr",
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 6 795 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 6 795,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 6 795 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 7 395 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 6 795,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 6 795,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 6 795,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 8995,
+   "totalFrom": "summary",
+   "totalText": "8 995,00 kr | 8 995,00 kr | 8 995,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+    "titanium-watch_cases-dimensionColor": "Nyhet skinande guld",
+    "watch_cases-dimensionCaseSize": "42 mm Från 8 995 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 8 995 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 8 995,00 kr",
+    "rubber-style": "Nya färger Sololoop 8 995,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nyhet skinande guld",
+     "naturlig"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 8 995 kr",
+     "46 mm Från 9 595 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 8 995 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 8 995,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 8 995 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 9 595 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 8 995,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 8 995,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 8 995,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 9595,
+   "totalFrom": "summary",
+   "totalText": "9 595,00 kr | 9 595,00 kr | 9 595,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+    "titanium-watch_cases-dimensionColor": "Nyhet skinande guld",
+    "watch_cases-dimensionCaseSize": "46 mm Från 9 595 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 9 595 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 9 595,00 kr",
+    "rubber-style": "Nya färger Sololoop 9 595,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nyhet skinande guld",
+     "naturlig"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 8 995 kr",
+     "46 mm Från 9 595 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 9 595 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 9 595,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 9 595 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 10 195 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 9 595,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 9 595,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 9 595,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 11495,
+   "totalFrom": "summary",
+   "totalText": "11 495,00 kr | 11 495,00 kr | 11 495,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas.",
+    "ceramic-watch_cases-dimensionColor": "Nyhet pärlvit",
+    "watch_cases-dimensionCaseSize": "42 mm Från 11 495 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 11 495 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 11 495,00 kr",
+    "rubber-style": "Nya färger Sololoop 11 495,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nyhet pärlvit",
+     "Nyhet nattblå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 11 495 kr",
+     "46 mm Från 12 095 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 11 495 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 11 495,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 11 495 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 12 095 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 11 495,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 11 495,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 11 495,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 12095,
+   "totalFrom": "summary",
+   "totalText": "12 095,00 kr | 12 095,00 kr | 12 095,00 kr",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas.",
+    "ceramic-watch_cases-dimensionColor": "Nyhet pärlvit",
+    "watch_cases-dimensionCaseSize": "46 mm Från 12 095 kr",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 12 095 kr",
+    "category": "Gummi Smidiga, bekväma och simtåliga armband. 12 095,00 kr",
+    "rubber-style": "Nya färger Sololoop 12 095,00 kr Töjbart, utan spänne, tajt passform",
+    "rubber-sololoop-color": "bourgogne",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nya finishar Aluminium Välj mellan GPS och GPS + Cellular Från 4 995 kr Matt finish och en tålig skärm av Ceramic Shield 2.",
+     "Ny finish Titan Utrustad med GPS + Cellular Från 8 995 kr Polerat rymdindustriklassat titan med en tålig skärm i safirglas.",
+     "Nyhet Keramik Utrustad med GPS + Cellular Från 11 495 kr Sofistikerad och reptålig med en vacker polerad finish samt en tålig skärm i safirglas."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nyhet pärlvit",
+     "Nyhet nattblå"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Från 11 495 kr",
+     "46 mm Från 12 095 kr"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Ring samtal och skicka meddelanden från din Apple Watch. En GPS + Cellular-modell krävs för att använda Apple Watch för dina barn. Från 12 095 kr"
+    ],
+    "category": [
+     "Gummi Smidiga, bekväma och simtåliga armband. 12 095,00 kr",
+     "Textil Mjuka, lätta material. Perfekt till vardags. Från 12 095 kr",
+     "Rostfritt stål Omsorgsfullt utformade modeller i stål för en sofistikerad och exklusiv känsla. Från 12 695 kr"
+    ],
+    "rubber-style": [
+     "Nya färger Sololoop 12 095,00 kr Töjbart, utan spänne, tajt passform",
+     "Nya färger Sportband 12 095,00 kr Tåligt, stiftspänne, justerbart",
+     "Nya färger Nike-sportband 12 095,00 kr Andas, stiftspänne, justerbart"
+    ],
+    "rubber-sololoop-color": [
+     "bourgogne",
+     "oliv",
+     "marinblå",
+     "ängsblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Ring och skicka meddelanden när du har din iPhone i närheten."
+    ]
+   }
+  }
+ }
+}

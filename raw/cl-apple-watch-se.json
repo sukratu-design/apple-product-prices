@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:06:33.751Z",
+ "configs": {
+  "40-gps": {
+   "total": 299990,
+   "totalFrom": "summary",
+   "totalText": "$299.990",
+   "selected": {
+    "watch_cases-dimensionColor": "Medianoche",
+    "watch_cases-dimensionCaseSize": "40 mm Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $299.990 o $12.500 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $299.990 o $12.500 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "44 mm Desde $333.990 o $13.916 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $359.990 o $15.000 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $359.990 o $15.000 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $299.990 o $12.500 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $299.990 o $12.500 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $299.990 o $12.500 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 333990,
+   "totalFrom": "summary",
+   "totalText": "$333.990",
+   "selected": {
+    "watch_cases-dimensionColor": "Medianoche",
+    "watch_cases-dimensionCaseSize": "44 mm Desde $333.990 o $13.916 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $333.990 o $13.916 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $333.990 o $13.916 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $333.990 o $13.916 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "44 mm Desde $333.990 o $13.916 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $333.990 o $13.916 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $393.990 o $16.416 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $333.990 o $13.916 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $333.990 o $13.916 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $393.990 o $16.416 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $333.990 o $13.916 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $333.990 o $13.916 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $333.990 o $13.916 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 359990,
+   "totalFrom": "summary",
+   "totalText": "$359.990",
+   "selected": {
+    "watch_cases-dimensionColor": "Medianoche",
+    "watch_cases-dimensionCaseSize": "40 mm Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $359.990 o $15.000 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $359.990 o $15.000 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $359.990 o $15.000 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "44 mm Desde $333.990 o $13.916 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $359.990 o $15.000 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $359.990 o $15.000 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $359.990 o $15.000 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $419.990 o $17.500 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $359.990 o $15.000 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $359.990 o $15.000 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $359.990 o $15.000 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 393990,
+   "totalFrom": "summary",
+   "totalText": "$393.990",
+   "selected": {
+    "watch_cases-dimensionColor": "Medianoche",
+    "watch_cases-dimensionCaseSize": "44 mm Desde $333.990 o $13.916 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $393.990 o $16.416 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $393.990 o $16.416 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $393.990 o $16.416 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Medianoche",
+     "Blanco estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde $299.990 o $12.500 al mes al mes por 24 meses meses",
+     "44 mm Desde $333.990 o $13.916 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $333.990 o $13.916 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $393.990 o $16.416 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $393.990 o $16.416 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $393.990 o $16.416 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $453.990 o $18.916 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $393.990 o $16.416 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $393.990 o $16.416 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $393.990 o $16.416 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

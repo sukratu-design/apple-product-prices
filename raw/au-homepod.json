@@ -2,12 +2,12 @@
  "page": "homepod",
  "country": "au",
  "url": "https://www.apple.com/au/shop/buy-homepod/homepod",
- "scrapedAt": "2026-11-13T11:13:38.643Z",
+ "scrapedAt": "2026-11-16T13:24:56.734Z",
  "configs": {
   "default": {
    "total": 549,
-   "totalFrom": "page-first",
-   "totalText": "",
+   "totalFrom": "summary",
+   "totalText": "A$549.00",
    "selected": {
     "dimensionColor": "White"
    },

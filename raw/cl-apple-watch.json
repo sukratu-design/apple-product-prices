@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:00:41.706Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 499990,
+   "totalFrom": "summary",
+   "totalText": "$499.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "42 mm Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $499.990 o $20.833 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $499.990 o $20.833 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Oro claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "46 mm Desde $559.990 o $23.333 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $619.990 o $25.833 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $559.990 o $23.333 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $499.990 o $20.833 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $499.990 o $20.833 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $499.990 o $20.833 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 559990,
+   "totalFrom": "summary",
+   "totalText": "$559.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "46 mm Desde $559.990 o $23.333 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $559.990 o $23.333 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $559.990 o $23.333 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $559.990 o $23.333 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Oro claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "46 mm Desde $559.990 o $23.333 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $559.990 o $23.333 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $679.990 o $28.333 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $559.990 o $23.333 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $559.990 o $23.333 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $619.990 o $25.833 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $559.990 o $23.333 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $559.990 o $23.333 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $559.990 o $23.333 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 619990,
+   "totalFrom": "summary",
+   "totalText": "$619.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "42 mm Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $619.990 o $25.833 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $619.990 o $25.833 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $619.990 o $25.833 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Oro claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "46 mm Desde $559.990 o $23.333 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $619.990 o $25.833 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $619.990 o $25.833 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $619.990 o $25.833 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $679.990 o $28.333 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $619.990 o $25.833 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $619.990 o $25.833 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $619.990 o $25.833 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 679990,
+   "totalFrom": "summary",
+   "totalText": "$679.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "46 mm Desde $559.990 o $23.333 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $679.990 o $28.333 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $679.990 o $28.333 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $679.990 o $28.333 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Oro claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $499.990 o $20.833 al mes al mes por 24 meses meses",
+     "46 mm Desde $559.990 o $23.333 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde $559.990 o $23.333 al mes al mes por 24 meses meses",
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $679.990 o $28.333 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $679.990 o $28.333 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $679.990 o $28.333 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $739.990 o $30.833 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $679.990 o $28.333 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $679.990 o $28.333 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $679.990 o $28.333 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 899990,
+   "totalFrom": "summary",
+   "totalText": "$899.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+    "titanium-watch_cases-dimensionColor": "Nuevo Oro radiante",
+    "watch_cases-dimensionCaseSize": "42 mm Desde $899.990 o $37.500 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $899.990 o $37.500 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $899.990 o $37.500 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $899.990 o $37.500 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nuevo Oro radiante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $899.990 o $37.500 al mes al mes por 24 meses meses",
+     "46 mm Desde $959.990 o $40.000 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $899.990 o $37.500 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $899.990 o $37.500 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $899.990 o $37.500 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $959.990 o $40.000 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $899.990 o $37.500 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $899.990 o $37.500 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $899.990 o $37.500 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 959990,
+   "totalFrom": "summary",
+   "totalText": "$959.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+    "titanium-watch_cases-dimensionColor": "Nuevo Oro radiante",
+    "watch_cases-dimensionCaseSize": "46 mm Desde $959.990 o $40.000 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $959.990 o $40.000 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $959.990 o $40.000 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $959.990 o $40.000 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nuevo Oro radiante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $899.990 o $37.500 al mes al mes por 24 meses meses",
+     "46 mm Desde $959.990 o $40.000 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $959.990 o $40.000 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $959.990 o $40.000 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $959.990 o $40.000 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $1.019.990 o $42.500 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $959.990 o $40.000 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $959.990 o $40.000 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $959.990 o $40.000 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1099990,
+   "totalFrom": "summary",
+   "totalText": "$1.099.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera.",
+    "ceramic-watch_cases-dimensionColor": "Nuevo Blanco perla",
+    "watch_cases-dimensionCaseSize": "42 mm Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $1.099.990 o $45.833 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nuevo Blanco perla",
+     "Nuevo Azul noche"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "46 mm Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $1.099.990 o $45.833 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $1.099.990 o $45.833 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $1.099.990 o $45.833 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1159990,
+   "totalFrom": "summary",
+   "totalText": "$1.159.990",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera.",
+    "ceramic-watch_cases-dimensionColor": "Nuevo Blanco perla",
+    "watch_cases-dimensionCaseSize": "46 mm Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses",
+    "category": "Goma Correas flexibles, cómodas y aptas para nadar. $1.159.990 o $48.333 al mes al mes por 24 meses meses",
+    "rubber-style": "Nuevos colores Correa uniloop $1.159.990 o $48.333 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+    "rubber-sololoop-color": "Borgoña",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Se puede elegir entre GPS y GPS + Cellular Desde $499.990 o $20.833 al mes al mes por 24 meses meses Acabado mate con una pantalla de Ceramic Shield 2 resistente.",
+     "Nuevo acabado Titanio Modelo GPS + Cellular Desde $899.990 o $37.500 al mes al mes por 24 meses meses Titanio pulido de calidad aeroespacial con una resistente pantalla de cristal de zafiro.",
+     "Nuevo Cerámica Modelo GPS + Cellular Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses Sofisticada y resistente a los rayones, con un acabado pulido y una pantalla de cristal de zafiro duradera."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nuevo Blanco perla",
+     "Nuevo Azul noche"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "46 mm Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando sólo tu Apple Watch. Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses"
+    ],
+    "category": [
+     "Goma Correas flexibles, cómodas y aptas para nadar. $1.159.990 o $48.333 al mes al mes por 24 meses meses",
+     "Tela Materiales suaves y livianos. Ideales para todos los días. Desde $1.159.990 o $48.333 al mes al mes por 24 meses meses",
+     "Acero inoxidable Diseños de acero cuidadosamente elaborados con un estilo sofisticado y elegante. Desde $1.219.990 o $50.833 al mes al mes por 24 meses meses"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa uniloop $1.159.990 o $48.333 al mes al mes por 24 meses meses Ajuste preciso, elástica y sin cierre",
+     "Nuevos colores Correa deportiva $1.159.990 o $48.333 al mes al mes por 24 meses meses Resistente, ajustable y con cierre de encastre",
+     "Nuevos colores Correa deportiva Nike $1.159.990 o $48.333 al mes al mes por 24 meses meses Transpirable, con cierre de encastre y material reciclado"
+    ],
+    "rubber-sololoop-color": [
+     "Borgoña",
+     "Oliva",
+     "Azul marino",
+     "Azul flores silvestres",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca."
+    ]
+   }
+  }
+ }
+}

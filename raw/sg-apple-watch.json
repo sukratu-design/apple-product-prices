@@ -2,14 +2,14 @@
  "page": "apple-watch",
  "country": "sg",
  "url": "https://www.apple.com/sg/shop/buy-watch/apple-watch",
- "scrapedAt": "2026-11-14T03:51:51.804Z",
+ "scrapedAt": "2026-11-16T13:06:09.248Z",
  "configs": {
   "al-42-gps": {
    "total": 599,
    "totalFrom": "summary",
    "totalText": "S$599.00 | S$599.00 | S$599.00",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
     "watch_cases-dimensionCaseSize": "42mm From S$599",
     "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From S$599",
@@ -20,14 +20,14 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
@@ -36,7 +36,7 @@
     ],
     "watch_cases-dimensionConnection": [
      "GPS Make calls and send texts with your iPhone nearby. From S$599",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$739"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$739"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$599.00",
@@ -75,7 +75,7 @@
    "totalFrom": "summary",
    "totalText": "S$669.00 | S$669.00 | S$669.00",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
     "watch_cases-dimensionCaseSize": "46mm From S$669",
     "watch_cases-dimensionConnection": "GPS Make calls and send texts with your iPhone nearby. From S$669",
@@ -86,14 +86,14 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
@@ -102,7 +102,7 @@
     ],
     "watch_cases-dimensionConnection": [
      "GPS Make calls and send texts with your iPhone nearby. From S$669",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$809"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$809"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$669.00",
@@ -140,14 +140,14 @@
    "disabledOptions": {}
   },
   "al-42-cell": {
-   "total": 739,
+   "total": 599,
    "totalFrom": "summary",
-   "totalText": "S$739.00 | S$739.00 | S$739.00",
+   "totalText": "S$599.00 | S$599.00 | S$599.00",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
     "watch_cases-dimensionCaseSize": "42mm From S$599",
-    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$739",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$739",
     "category": "Rubber Flexible, comfortable, swimproof straps. S$739.00",
     "rubber-style": "New colours Solo Loop S$739.00 Stretchable, closure-free, precise fit",
     "rubber-sololoop-color": "Burgundy",
@@ -155,14 +155,14 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
@@ -171,7 +171,7 @@
     ],
     "watch_cases-dimensionConnection": [
      "GPS Make calls and send texts with your iPhone nearby. From S$599",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$739"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$739"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$739.00",
@@ -210,10 +210,10 @@
    "totalFrom": "summary",
    "totalText": "S$809.00 | S$809.00 | S$809.00",
    "selected": {
-    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
     "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
     "watch_cases-dimensionCaseSize": "46mm From S$669",
-    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$809",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$809",
     "category": "Rubber Flexible, comfortable, swimproof straps. S$809.00",
     "rubber-style": "New colours Solo Loop S$809.00 Stretchable, closure-free, precise fit",
     "rubber-sololoop-color": "Burgundy",
@@ -221,14 +221,14 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "aluminum-watch_cases-dimensionColor": [
      "New Dark Bronze",
-     "Light Gold",
-     "Black",
+     "New Light Gold",
+     "New Black",
      "Space Grey"
     ],
     "watch_cases-dimensionCaseSize": [
@@ -237,7 +237,7 @@
     ],
     "watch_cases-dimensionConnection": [
      "GPS Make calls and send texts with your iPhone nearby. From S$669",
-     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$809"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$809"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$809.00",
@@ -282,7 +282,7 @@
     "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
     "titanium-watch_cases-dimensionColor": "New Radiant Gold",
     "watch_cases-dimensionCaseSize": "42mm From S$1,049",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,049",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,049",
     "category": "Rubber Flexible, comfortable, swimproof straps. S$1,049.00",
     "rubber-style": "New colours Solo Loop S$1,049.00 Stretchable, closure-free, precise fit",
     "rubber-sololoop-color": "Burgundy",
@@ -290,7 +290,7 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
@@ -303,7 +303,7 @@
      "46mm From S$1,119"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,049"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,049"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$1,049.00",
@@ -337,19 +337,19 @@
    },
    "disabledOptions": {
     "watch_cases-dimensionConnection": [
-     "GPSMake calls and send texts with your iPhone nearby."
+     "GPS Make calls and send texts with your iPhone nearby."
     ]
    }
   },
   "ti-46": {
-   "total": 1119,
+   "total": 1049,
    "totalFrom": "summary",
-   "totalText": "S$1,119.00 | S$1,119.00 | S$1,119.00",
+   "totalText": "S$1,049.00 | S$1,049.00 | S$1,049.00",
    "selected": {
     "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
     "titanium-watch_cases-dimensionColor": "New Radiant Gold",
     "watch_cases-dimensionCaseSize": "46mm From S$1,119",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,119",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,119",
     "category": "Rubber Flexible, comfortable, swimproof straps. S$1,119.00",
     "rubber-style": "New colours Solo Loop S$1,119.00 Stretchable, closure-free, precise fit",
     "rubber-sololoop-color": "Burgundy",
@@ -357,7 +357,7 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
@@ -370,7 +370,7 @@
      "46mm From S$1,119"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,119"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,119"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$1,119.00",
@@ -407,7 +407,7 @@
    },
    "disabledOptions": {
     "watch_cases-dimensionConnection": [
-     "GPSMake calls and send texts with your iPhone nearby."
+     "GPS Make calls and send texts with your iPhone nearby."
     ]
    }
   },
@@ -419,7 +419,7 @@
     "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
     "ceramic-watch_cases-dimensionColor": "New Pearl White",
     "watch_cases-dimensionCaseSize": "42mm From S$1,319",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,319",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,319",
     "category": "Rubber Flexible, comfortable, swimproof straps. S$1,319.00",
     "rubber-style": "New colours Solo Loop S$1,319.00 Stretchable, closure-free, precise fit",
     "rubber-sololoop-color": "Burgundy",
@@ -427,20 +427,20 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "ceramic-watch_cases-dimensionColor": [
      "New Pearl White",
-     "Night Blue"
+     "New Night Blue"
     ],
     "watch_cases-dimensionCaseSize": [
      "42mm From S$1,319",
      "46mm From S$1,389"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,319"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,319"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$1,319.00",
@@ -474,19 +474,19 @@
    },
    "disabledOptions": {
     "watch_cases-dimensionConnection": [
-     "GPSMake calls and send texts with your iPhone nearby."
+     "GPS Make calls and send texts with your iPhone nearby."
     ]
    }
   },
   "ce-46": {
-   "total": 1389,
+   "total": 1319,
    "totalFrom": "summary",
-   "totalText": "S$1,389.00 | S$1,389.00 | S$1,389.00",
+   "totalText": "S$1,319.00 | S$1,319.00 | S$1,319.00",
    "selected": {
     "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
     "ceramic-watch_cases-dimensionColor": "New Pearl White",
     "watch_cases-dimensionCaseSize": "46mm From S$1,389",
-    "watch_cases-dimensionConnection": "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,389",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,389",
     "category": "Rubber Flexible, comfortable, swimproof straps. S$1,389.00",
     "rubber-style": "New colours Solo Loop S$1,389.00 Stretchable, closure-free, precise fit",
     "rubber-sololoop-color": "Burgundy",
@@ -494,20 +494,20 @@
    },
    "options": {
     "watch_cases-dimensionCaseMaterial": [
-     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2. Footnote ±",
+     "New finishes Aluminium Choice of GPS or GPS + Cellular From S$599 Matt finish and a durable display with Ceramic Shield 2.",
      "New finish Titanium Comes with GPS + Cellular From S$1,049 Polished aerospace-grade titanium with a durable sapphire crystal display.",
      "New Ceramic Comes with GPS + Cellular From S$1,319 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
     ],
     "ceramic-watch_cases-dimensionColor": [
      "New Pearl White",
-     "Night Blue"
+     "New Night Blue"
     ],
     "watch_cases-dimensionCaseSize": [
      "42mm From S$1,319",
      "46mm From S$1,389"
     ],
     "watch_cases-dimensionConnection": [
-     "GPS + CellularMake calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. Footnote † From S$1,389"
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From S$1,389"
     ],
     "category": [
      "Rubber Flexible, comfortable, swimproof straps. S$1,389.00",
@@ -544,7 +544,7 @@
    },
    "disabledOptions": {
     "watch_cases-dimensionConnection": [
-     "GPSMake calls and send texts with your iPhone nearby."
+     "GPS Make calls and send texts with your iPhone nearby."
     ]
    }
   }

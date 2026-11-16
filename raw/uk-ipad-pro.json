@@ -2,12 +2,12 @@
  "page": "ipad-pro",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-pro",
- "scrapedAt": "2026-11-13T11:03:19.868Z",
+ "scrapedAt": "2026-11-16T12:06:16.655Z",
  "configs": {
   "11-wifi": {
    "total": 1199,
    "totalFrom": "summary",
-   "totalText": "£1,199.00 or £99.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,199.00 or £99.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £1,199.00 or £99.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From £1,199 or £99.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Space Black",
@@ -304,7 +304,7 @@
   "11-cell": {
    "total": 1399,
    "totalFrom": "summary",
-   "totalText": "£1,399.00 or £116.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,399.00 or £116.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £1,399.00 or £116.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From £1,199 or £99.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Space Black",
@@ -601,7 +601,7 @@
   "13-wifi": {
    "total": 1499,
    "totalFrom": "summary",
-   "totalText": "£1,499.00 or £124.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,499.00 or £124.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £1,499.00 or £124.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display From £1,499 or £124.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Space Black",
@@ -899,7 +899,7 @@
   "13-cell": {
    "total": 1699,
    "totalFrom": "summary",
-   "totalText": "£1,699.00 or £141.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,699.00 or £141.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £1,699.00 or £141.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display From £1,499 or £124.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Space Black",
@@ -1197,7 +1197,7 @@
   "nano": {
    "total": 1799,
    "totalFrom": "summary",
-   "totalText": "£1,799.00 or £149.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,799.00 or £149.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £1,799.00 or £149.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From £1,199 or £99.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Space Black",

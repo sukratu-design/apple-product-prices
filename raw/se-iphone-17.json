@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:18.027Z",
+ "configs": {
+  "default": {
+   "total": 12495,
+   "totalFrom": "summary",
+   "totalText": "12 495,00 kr | 12 495,00 kr | 12 495,00 kr",
+   "selected": {
+    "dimensionColor": "lavendel",
+    "dimensionCapacity": "256 GB Fotnot 1 12 495,00 kr"
+   },
+   "options": {
+    "dimensionColor": [
+     "lavendel",
+     "disblå",
+     "vit",
+     "salvia",
+     "svart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnot 1 12 495,00 kr",
+     "512 GB Fotnot 1 15 495,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

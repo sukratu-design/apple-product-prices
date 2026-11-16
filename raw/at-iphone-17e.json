@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:16.057Z",
+ "configs": {
+  "default": {
+   "total": 859,
+   "totalFrom": "summary",
+   "totalText": "859,00 € | 859,00 € | 859,00 €",
+   "selected": {
+    "dimensionColor": "Hellrosa",
+    "dimensionCapacity": "256 GB Fußnote 1 859,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Hellrosa",
+     "Weiß",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 859,00 €",
+     "512 GB Fußnote 1 1.109,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

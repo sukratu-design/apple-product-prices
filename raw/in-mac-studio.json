@@ -2,15 +2,22 @@
  "page": "mac-studio",
  "country": "in",
  "url": "https://www.apple.com/in/shop/buy-mac/mac-studio",
- "scrapedAt": "2026-11-13T04:53:57.651Z",
+ "scrapedAt": "2026-11-16T12:57:34.141Z",
  "configs": {
   "m5max-32": {
    "total": 279900,
-   "totalText": "From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote †",
+   "totalFrom": "summary",
+   "totalText": "From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote † | From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote †",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback and No Cost EMI or ₹279900.00",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 32‑core GPU Included",
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote †",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote †"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback and No Cost EMI or ₹279900.00",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback and No Cost EMI or ₹629900.00"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18-core CPU, 32‑core GPU Included",
@@ -26,15 +33,23 @@
      "4TB + ₹216000.00",
      "8TB + ₹456000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "m5max-40": {
    "total": 351900,
-   "totalText": "From ₹56983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹351900.00 Footnote †",
+   "totalFrom": "summary",
+   "totalText": "From ₹56983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹351900.00 Footnote † | From ₹56983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹351900.00 Footnote †",
+   "selected": {
+    "processor-dimensionChip": "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback and No Cost EMI or ₹279900.00",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18-core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "512GB Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote †",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote †"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback and No Cost EMI or ₹279900.00",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback and No Cost EMI or ₹629900.00"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18-core CPU, 32‑core GPU − ₹36000.00",
@@ -52,15 +67,23 @@
      "4TB + ₹216000.00",
      "8TB + ₹456000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "m5ultra-64": {
    "total": 629900,
-   "totalText": "From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote †",
+   "totalFrom": "summary",
+   "totalText": "From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote † | From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote †",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback and No Cost EMI or ₹629900.00",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30-core CPU, 64‑core GPU Included",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote †",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote †"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback and No Cost EMI or ₹279900.00",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback and No Cost EMI or ₹629900.00"
     ],
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "30-core CPU, 64‑core GPU Included",
@@ -77,15 +100,23 @@
      "8TB + ₹420000.00",
      "16TB + ₹900000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "m5ultra-80": {
    "total": 785900,
-   "totalText": "From ₹129317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹785900.00 Footnote †",
+   "totalFrom": "summary",
+   "totalText": "From ₹129317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹785900.00 Footnote † | From ₹129317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹785900.00 Footnote †",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback and No Cost EMI or ₹629900.00",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36-core CPU, 80‑core GPU Boost your processing, graphics and AI compute performance for demanding workflows like running large language models, applying visual effects and colour grading film.",
+    "memory-dimensionMemory": "96GB Included",
+    "storage-dimensionCapacity": "1TB Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹279900.00 Footnote †",
-     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback Footnote ∆ and No Cost EMI Footnote ◊ or ₹629900.00 Footnote †"
+     "M5 Max chip Serious speed and capability for creative projects and pro workflows. 2 options with 16‑core Neural Engine From ₹44983.00/mo. Per Month with instant cashback and No Cost EMI or ₹279900.00",
+     "M5 Ultra chip Our most powerful chip, with unprecedented performance for the most demanding pro workflows. 2 options with 32‑core Neural Engine From ₹103317.00/mo. Per Month with instant cashback and No Cost EMI or ₹629900.00"
     ],
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "30-core CPU, 64‑core GPU − ₹156000.00",
@@ -103,7 +134,8 @@
      "8TB + ₹420000.00",
      "16TB + ₹900000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

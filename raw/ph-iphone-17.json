@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "ph",
+ "url": "https://www.apple.com/ph/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:48.563Z",
+ "configs": {
+  "default": {
+   "total": 69990,
+   "totalFrom": "summary",
+   "totalText": "₱69,990.00 | ₱69,990.00 | ₱69,990.00",
+   "selected": {
+    "dimensionColor": "Lavender",
+    "dimensionCapacity": "256GB Footnote 1 ₱69,990.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavender",
+     "Mist Blue",
+     "White",
+     "Sage",
+     "Black"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 ₱69,990.00",
+     "512GB Footnote 1 ₱85,990.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

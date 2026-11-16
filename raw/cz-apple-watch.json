@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:35.466Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 10990,
+   "totalFrom": "summary",
+   "totalText": "10 990,00 Kč | 10 990,00 Kč | 10 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+    "aluminum-watch_cases-dimensionColor": "Novinka tmavě bronzová",
+    "watch_cases-dimensionCaseSize": "42 mm Od 10 990 Kč",
+    "watch_cases-dimensionConnection": "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 10 990 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 10 990,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 10 990,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novinka tmavě bronzová",
+     "Novinka světle zlatá",
+     "Novinka černá",
+     "vesmírně šedá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 10 990 Kč",
+     "46 mm Od 12 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 10 990 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 13 990 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 10 990,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 10 990 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 12 490 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 10 990,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 10 990,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 10 990,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 12490,
+   "totalFrom": "summary",
+   "totalText": "12 490,00 Kč | 12 490,00 Kč | 12 490,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+    "aluminum-watch_cases-dimensionColor": "Novinka tmavě bronzová",
+    "watch_cases-dimensionCaseSize": "46 mm Od 12 490 Kč",
+    "watch_cases-dimensionConnection": "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 12 490 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 12 490,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 12 490,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novinka tmavě bronzová",
+     "Novinka světle zlatá",
+     "Novinka černá",
+     "vesmírně šedá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 10 990 Kč",
+     "46 mm Od 12 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 12 490 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 15 490 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 12 490,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 12 490 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 13 990 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 12 490,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 12 490,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 12 490,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 10990,
+   "totalFrom": "summary",
+   "totalText": "10 990,00 Kč | 10 990,00 Kč | 10 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+    "aluminum-watch_cases-dimensionColor": "Novinka tmavě bronzová",
+    "watch_cases-dimensionCaseSize": "42 mm Od 10 990 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 13 990 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 13 990,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 13 990,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novinka tmavě bronzová",
+     "Novinka světle zlatá",
+     "Novinka černá",
+     "vesmírně šedá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 10 990 Kč",
+     "46 mm Od 12 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 10 990 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 13 990 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 13 990,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 13 990 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 15 490 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 13 990,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 13 990,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 13 990,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 15490,
+   "totalFrom": "summary",
+   "totalText": "15 490,00 Kč | 15 490,00 Kč | 15 490,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+    "aluminum-watch_cases-dimensionColor": "Novinka tmavě bronzová",
+    "watch_cases-dimensionCaseSize": "46 mm Od 12 490 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 15 490 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 15 490,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 15 490,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Novinka tmavě bronzová",
+     "Novinka světle zlatá",
+     "Novinka černá",
+     "vesmírně šedá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 10 990 Kč",
+     "46 mm Od 12 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti. Od 12 490 Kč",
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 15 490 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 15 490,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 15 490 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 16 990 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 15 490,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 15 490,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 15 490,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 18990,
+   "totalFrom": "summary",
+   "totalText": "18 990,00 Kč | 18 990,00 Kč | 18 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+    "titanium-watch_cases-dimensionColor": "Novinka zářivě zlatá",
+    "watch_cases-dimensionCaseSize": "42 mm Od 18 990 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 18 990 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 18 990,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 18 990,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novinka zářivě zlatá",
+     "přírodní"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 18 990 Kč",
+     "46 mm Od 20 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 18 990 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 18 990,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 18 990 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 20 490 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 18 990,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 18 990,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 18 990,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 20490,
+   "totalFrom": "summary",
+   "totalText": "20 490,00 Kč | 20 490,00 Kč | 20 490,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+    "titanium-watch_cases-dimensionColor": "Novinka zářivě zlatá",
+    "watch_cases-dimensionCaseSize": "46 mm Od 20 490 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 20 490 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 20 490,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 20 490,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Novinka zářivě zlatá",
+     "přírodní"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 18 990 Kč",
+     "46 mm Od 20 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 20 490 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 20 490,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 20 490 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 21 990 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 20 490,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 20 490,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 20 490,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 24990,
+   "totalFrom": "summary",
+   "totalText": "24 990,00 Kč | 24 990,00 Kč | 24 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu.",
+    "ceramic-watch_cases-dimensionColor": "Novinka perlově bílá",
+    "watch_cases-dimensionCaseSize": "42 mm Od 24 990 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 24 990 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 24 990,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 24 990,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novinka perlově bílá",
+     "Novinka noční modrá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 24 990 Kč",
+     "46 mm Od 26 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 24 990 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 24 990,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 24 990 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 26 490 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 24 990,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 24 990,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 24 990,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 24990,
+   "totalFrom": "summary",
+   "totalText": "24 990,00 Kč | 24 990,00 Kč | 24 990,00 Kč",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu.",
+    "ceramic-watch_cases-dimensionColor": "Novinka perlově bílá",
+    "watch_cases-dimensionCaseSize": "46 mm Od 26 490 Kč",
+    "watch_cases-dimensionConnection": "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 26 490 Kč",
+    "category": "Guma Pružné, příjemné řemínky voděodolné pro plavání. 26 490,00 Kč",
+    "rubber-style": "Nové barvy Navlékací řemínek 26 490,00 Kč Strečový, bez zapínání, na míru",
+    "rubber-sololoop-color": "burgundsky červená",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nové barvy Hliník Výběr z modelů GPS nebo GPS + Cellular Od 10 990 Kč Matný povrch a odolný displej se Ceramic Shieldem 2.",
+     "Nová barva Titan GPS + Cellular Od 18 990 Kč Leštěný letecký titan a odolné sklíčko displeje ze safírového krystalu.",
+     "Novinka Keramika GPS + Cellular Od 24 990 Kč Sofistikované provedení odolné proti poškrábání s výrazným, leštěným povrchem a odolným displejem ze safírového krystalu."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Novinka perlově bílá",
+     "Novinka noční modrá"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Od 24 990 Kč",
+     "46 mm Od 26 490 Kč"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Vyřizuj hovory a posílej zprávy i bez telefonu rovnou z Apple Watch. Od 26 490 Kč"
+    ],
+    "category": [
+     "Guma Pružné, příjemné řemínky voděodolné pro plavání. 26 490,00 Kč",
+     "Textil Měkké a lehké materiály. Ideální na každodenní nošení. Od 26 490 Kč",
+     "Nerezová ocel Sofistikované, luxusní provedení z dokonale řemeslně zpracované oceli. Od 27 990 Kč"
+    ],
+    "rubber-style": [
+     "Nové barvy Navlékací řemínek 26 490,00 Kč Strečový, bez zapínání, na míru",
+     "Nové barvy Sportovní řemínek 26 490,00 Kč Odolný, kolíčkové zapínání, nastavitelný",
+     "Nové barvy Sportovní řemínek Nike 26 490,00 Kč Prodyšný, kolíčkové zapínání, nastavitelný"
+    ],
+    "rubber-sololoop-color": [
+     "burgundsky červená",
+     "olivová",
+     "námořnicky modrá",
+     "chrpově modrá",
+     "černá"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Volej a posílej zprávy přes iPhone v blízkosti."
+    ]
+   }
+  }
+ }
+}

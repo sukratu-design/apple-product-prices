@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:48.048Z",
+ "configs": {
+  "default": {
+   "total": 4199,
+   "totalFrom": "summary",
+   "totalText": "NZ$4,199.00 | NZ$4,199.00 | NZ$4,199.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 NZ$4,199.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 NZ$4,199.00",
+     "512GB Footnote 1 NZ$4,599.00",
+     "1TB Footnote 1 NZ$5,399.00",
+     "2TB Footnote 1 NZ$6,599.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

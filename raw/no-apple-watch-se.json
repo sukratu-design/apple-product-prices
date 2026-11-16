@@ -1,0 +1,186 @@
+{
+ "page": "apple-watch-se",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:22.160Z",
+ "configs": {
+  "40-gps": {
+   "total": 2990,
+   "totalFrom": "summary",
+   "totalText": "kr 2 990,00 | kr 2 990,00 | kr 2 990,00",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "40 mm Fra kr 2 990",
+    "watch_cases-dimensionConnection": "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 2 990",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 2 990,00",
+    "rubber-style": "Nye farger Solo Loop kr 2 990,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjerneskinn"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Fra kr 2 990",
+     "44 mm Fra kr 3 390"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 2 990",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 3 690"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 2 990,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 2 990",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 3 690"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 2 990,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 2 990,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 2 990,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 3390,
+   "totalFrom": "summary",
+   "totalText": "kr 3 390,00 | kr 3 390,00 | kr 3 390,00",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "44 mm Fra kr 3 390",
+    "watch_cases-dimensionConnection": "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 3 390",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 3 390,00",
+    "rubber-style": "Nye farger Solo Loop kr 3 390,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjerneskinn"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Fra kr 2 990",
+     "44 mm Fra kr 3 390"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 3 390",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 4 090"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 3 390,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 3 390",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 4 090"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 3 390,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 3 390,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 3 390,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå",
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 3690,
+   "totalFrom": "summary",
+   "totalText": "kr 3 690,00 | kr 3 690,00 | kr 3 690,00",
+   "selected": {
+    "watch_cases-dimensionColor": "midnatt",
+    "watch_cases-dimensionCaseSize": "40 mm Fra kr 2 990",
+    "watch_cases-dimensionConnection": "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 3 690",
+    "category": "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 3 690,00",
+    "rubber-style": "Nye farger Solo Loop kr 3 690,00 Tøyelig, uten spenner, perfekt passform",
+    "rubber-sololoop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "midnatt",
+     "stjerneskinn"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Fra kr 2 990",
+     "44 mm Fra kr 3 390"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Ring og send tekstmeldinger når iPhonen din er i nærheten. Fra kr 2 990",
+     "GPS + Cellular Ring og send meldinger rett på Apple Watch. En GPS + Cellular-modell kreves for å bruke Apple Watch for barna dine. Fra kr 3 690"
+    ],
+    "category": [
+     "Gummi Fleksible, komfortable og svømmebestandige remmer. kr 3 690,00",
+     "Tekstil Myke og lette materialer. Perfekt til daglig bruk. Fra kr 3 690",
+     "Rustfritt stål Lekre designer i stål for et sofistikert utseende. Fra kr 4 390"
+    ],
+    "rubber-style": [
+     "Nye farger Solo Loop kr 3 690,00 Tøyelig, uten spenner, perfekt passform",
+     "Nye farger Sport Band kr 3 690,00 Solid, låsepinne, justerbar",
+     "Nye farger Nike Sport Band kr 3 690,00 Pustende, låsepinne, justerbar"
+    ],
+    "rubber-sololoop-color": [
+     "burgunder",
+     "oliven",
+     "marineblå",
+     "markblomstblå"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "page": "airpods-5",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-airpods/airpods-5",
+ "scrapedAt": "2026-11-16T13:25:16.581Z",
+ "configs": {
+  "default": {
+   "total": 1499,
+   "totalFrom": "summary",
+   "totalText": "R$ 1.499,00",
+   "selected": {
+    "dimensionCharging": "AirPods 5 R$ 1.499,00"
+   },
+   "options": {
+    "dimensionCharging": [
+     "AirPods 5 R$ 1.499,00",
+     "AirPods 5 com Estojo de Recarga Sem Fio Com sensor de força para ajustar o volume deslizando o dedo e maior duração da bateria R$ 1.699,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

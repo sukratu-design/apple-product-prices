@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:50:34.473Z",
+ "configs": {
+  "2port": {
+   "total": 1849990,
+   "totalFrom": "summary",
+   "totalText": "$1.849.990 o $77.083 al mes al mes por 24 meses meses Nota a pie de página ◊ | $1.849.990 o $77.083 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos, dos Neural Engine de 16 núcleos Desde $1.849.990 o $77.083 al mes al mes por 24 meses meses",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "chassis-dimensionStandType": "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+    "ethernet_adapter-ethernetPortCount": "Sin Ethernet Conexión sólo a través de redes Wi‑Fi. Incluido",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatible con gestos Multi‑Touch como deslizar y desplazar. Incluido",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Diseño ultra compacto de borde a borde. Incluido"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Morado",
+     "Rosado",
+     "Naranja",
+     "Amarillo",
+     "Verde",
+     "Plata"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos, dos Neural Engine de 16 núcleos Desde $1.849.990 o $77.083 al mes al mes por 24 meses meses",
+     "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $240.000"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + $240.000",
+     "1 TB + $600.000"
+    ],
+    "chassis-dimensionStandType": [
+     "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+     "Adaptador de soporte VESA Integrado para que puedas instalarlo en una pared o usarlo con un brazo ajustable."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Sin Ethernet Conexión sólo a través de redes Wi‑Fi. Incluido",
+     "Puerto Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. + $35.000"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatible con gestos Multi‑Touch como deslizar y desplazar. Incluido",
+     "Magic Trackpad Compatible con todos los gestos Multi‑Touch y la tecnología Force Touch. + $60.000"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Diseño ultra compacto de borde a borde. Incluido",
+     "Magic Keyboard con Touch ID y teclado numérico Diseño ampliado que incluye controles de navegación. Autenticación fácil y rápida con tu huella digital. + $70.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 2099990,
+   "totalFrom": "summary",
+   "totalText": "$2.099.990 o $87.500 al mes al mes por 24 meses meses Nota a pie de página ◊ | $2.099.990 o $87.500 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "display-dimensionFinish": "Vidrio estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+    "chassis-dimensionStandType": "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatible con gestos Multi‑Touch como deslizar y desplazar. Incluido",
+    "keyboard-keyboardFormFactor": "Magic Keyboard con Touch ID Autenticación fácil y rápida con tu huella digital. Incluido"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Morado",
+     "Rosado",
+     "Naranja",
+     "Amarillo",
+     "Verde",
+     "Plata"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos, dos Neural Engine de 16 núcleos Desde $1.849.990 o $77.083 al mes al mes por 24 meses meses",
+     "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos, dos Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $240.000",
+     "32 GB + $480.000"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + $240.000",
+     "1 TB + $600.000",
+     "2 TB + $1.200.000"
+    ],
+    "display-dimensionFinish": [
+     "Vidrio estándar Pantalla diseñada para reducir el reflejo en espacios con mucha luz. Incluido",
+     "Vidrio nanotexturizado Reduce aún más el reflejo en espacios con mucha luz. Disponible sólo para el modelo con cuatro puertos. + $240.000"
+    ],
+    "chassis-dimensionStandType": [
+     "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+     "Adaptador de soporte VESA Integrado para que puedas instalarlo en una pared o usarlo con un brazo ajustable."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatible con gestos Multi‑Touch como deslizar y desplazar. Incluido",
+     "Magic Trackpad Compatible con todos los gestos Multi‑Touch y la tecnología Force Touch. + $60.000"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard con Touch ID Autenticación fácil y rápida con tu huella digital. Incluido",
+     "Magic Keyboard con Touch ID y teclado numérico Diseño ampliado que incluye controles de navegación. Autenticación fácil y rápida con tu huella digital. + $35.000"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

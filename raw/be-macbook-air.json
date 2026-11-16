@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "be",
+ "url": "https://www.apple.com/be-fr/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:44.165Z",
+ "configs": {
+  "15": {
+   "total": 1729,
+   "totalFrom": "summary",
+   "totalText": "1 729,00 € | 1 729,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "15 pouces À partir de 1 729 €",
+    "chassis-dimensionColor": "Bleu ciel",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 729 €",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pouces À partir de 1 429 €",
+     "15 pouces À partir de 1 729 €"
+    ],
+    "chassis-dimensionColor": [
+     "Bleu ciel",
+     "Argent",
+     "Lumière stellaire",
+     "Minuit"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 729 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus",
+     "1 To + 330,00 €",
+     "2 To + 880,00 €",
+     "4 To + 1 980,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 1429,
+   "totalFrom": "summary",
+   "totalText": "1 429,00 € | 1 429,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pouces À partir de 1 429 €",
+    "chassis-dimensionColor": "Bleu ciel",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 cœurs, GPU 8 cœurs, Neural Engine 16 cœurs Apporte rapidité et fluidité à tout ce que vous faites. À partir de 1 429 €",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pouces À partir de 1 429 €",
+     "15 pouces À partir de 1 729 €"
+    ],
+    "chassis-dimensionColor": [
+     "Bleu ciel",
+     "Argent",
+     "Lumière stellaire",
+     "Minuit"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 cœurs, GPU 8 cœurs, Neural Engine 16 cœurs Apporte rapidité et fluidité à tout ce que vous faites. À partir de 1 429 €",
+     "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 539 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 1759,
+   "totalFrom": "summary",
+   "totalText": "1 759,00 € | 1 759,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pouces À partir de 1 429 €",
+    "chassis-dimensionColor": "Bleu ciel",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 539 €",
+    "memory-dimensionMemory": "16 Go Inclus",
+    "storage-dimensionCapacity": "1 To"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pouces À partir de 1 429 €",
+     "15 pouces À partir de 1 729 €"
+    ],
+    "chassis-dimensionColor": [
+     "Bleu ciel",
+     "Argent",
+     "Lumière stellaire",
+     "Minuit"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU 10 cœurs, GPU 8 cœurs, Neural Engine 16 cœurs Apporte rapidité et fluidité à tout ce que vous faites. À partir de 1 429 €",
+     "CPU 10 cœurs, GPU 10 cœurs, Neural Engine 16 cœurs Accélérez l’exécution des tâches exigeantes telles que le gaming et les projets créatifs grâce à une vitesse de traitement et de rendu graphique accrue. À partir de 1 539 €"
+    ],
+    "memory-dimensionMemory": [
+     "16 Go Inclus",
+     "24 Go + 220,00 €",
+     "32 Go + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go − 330,00 €",
+     "1 To",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

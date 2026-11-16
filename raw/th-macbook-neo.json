@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:52.268Z",
+ "configs": {
+  "256": {
+   "total": 24900,
+   "totalFrom": "summary",
+   "totalText": "฿24,900.00 | ฿24,900.00 | ฿24,900.00",
+   "selected": {
+    "chassis-dimensionColor": "เงิน",
+    "storage-dimensionCapacity": "256GB Magic Keyboard เริ่มต้นที่ ฿24,900"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "เงิน",
+     "บลัช",
+     "ซิตรัส",
+     "อินดิโก"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard เริ่มต้นที่ ฿24,900",
+     "512GB Magic Keyboard พร้อม Touch ID เริ่มต้นที่ ฿27,900"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 27900,
+   "totalFrom": "summary",
+   "totalText": "฿27,900.00 | ฿27,900.00 | ฿27,900.00",
+   "selected": {
+    "chassis-dimensionColor": "เงิน",
+    "storage-dimensionCapacity": "512GB Magic Keyboard พร้อม Touch ID เริ่มต้นที่ ฿27,900"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "เงิน",
+     "บลัช",
+     "ซิตรัส",
+     "อินดิโก"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard เริ่มต้นที่ ฿24,900",
+     "512GB Magic Keyboard พร้อม Touch ID เริ่มต้นที่ ฿27,900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

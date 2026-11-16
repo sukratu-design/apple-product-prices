@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:51.911Z",
+ "configs": {
+  "pro": {
+   "total": 1509,
+   "totalFrom": "summary",
+   "totalText": "1 509,00 € | 1 509,00 € | 1 509,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3 tuuman näyttö Alaviite 2 Alkaen 1 509 €",
+    "dimensionColor": "Viininpunainen",
+    "dimensionCapacity": "256 Gt Alaviite 1 1 509,00 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3 tuuman näyttö Alaviite 2 Alkaen 1 509 €",
+     "iPhone 18 Pro Max 6,9 tuuman näyttö Alaviite 2 Alkaen 1 659 €"
+    ],
+    "dimensionColor": [
+     "Viininpunainen",
+     "Jäätikkö",
+     "Hopea",
+     "Musta"
+    ],
+    "dimensionCapacity": [
+     "256 Gt Alaviite 1 1 509,00 €",
+     "512 Gt Alaviite 1 1 759,00 €",
+     "1 Tt Alaviite 1 2 259,00 €",
+     "2 Tt Alaviite 1 3 009,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1659,
+   "totalFrom": "summary",
+   "totalText": "1 659,00 € | 1 659,00 € | 1 659,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9 tuuman näyttö Alaviite 2 Alkaen 1 659 €",
+    "dimensionColor": "Viininpunainen",
+    "dimensionCapacity": "256 Gt Alaviite 1 1 659,00 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3 tuuman näyttö Alaviite 2 Alkaen 1 509 €",
+     "iPhone 18 Pro Max 6,9 tuuman näyttö Alaviite 2 Alkaen 1 659 €"
+    ],
+    "dimensionColor": [
+     "Viininpunainen",
+     "Jäätikkö",
+     "Hopea",
+     "Musta"
+    ],
+    "dimensionCapacity": [
+     "256 Gt Alaviite 1 1 659,00 €",
+     "512 Gt Alaviite 1 1 909,00 €",
+     "1 Tt Alaviite 1 2 409,00 €",
+     "2 Tt Alaviite 1 3 159,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

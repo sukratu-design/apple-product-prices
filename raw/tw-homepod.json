@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:31:23.684Z",
+ "configs": {
+  "default": {
+   "total": 10990,
+   "totalFrom": "summary",
+   "totalText": "NT$10,990",
+   "selected": {
+    "dimensionColor": "白色"
+   },
+   "options": {
+    "dimensionColor": [
+     "白色",
+     "午夜色"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:26:10.754Z",
+ "configs": {
+  "default": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "RMB 1,099",
+   "selected": {
+    "dimensionColor": "白色"
+   },
+   "options": {
+    "dimensionColor": [
+     "白色",
+     "粉色",
+     "蓝色",
+     "绿色",
+     "午夜色"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

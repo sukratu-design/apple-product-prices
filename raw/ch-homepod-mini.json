@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:25:51.949Z",
+ "configs": {
+  "default": {
+   "total": 139,
+   "totalFrom": "summary",
+   "totalText": "CHF 19.00 | CHF 139.00",
+   "selected": {
+    "dimensionColor": "Weiß"
+   },
+   "options": {
+    "dimensionColor": [
+     "Weiß",
+     "Pink",
+     "Blau",
+     "Grün",
+     "Mitternacht"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

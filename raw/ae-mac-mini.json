@@ -2,12 +2,12 @@
  "page": "mac-mini",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-mac/mac-mini",
- "scrapedAt": "2026-11-13T11:07:08.536Z",
+ "scrapedAt": "2026-11-16T12:54:24.949Z",
  "configs": {
   "m6": {
    "total": 3799,
    "totalFrom": "summary",
-   "totalText": "AED 3,799.00",
+   "totalText": "AED 3,799.00 | AED 3,799.00",
    "selected": {
     "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine From AED 3,799",
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
@@ -44,7 +44,7 @@
   "m5pro-15": {
    "total": 7299,
    "totalFrom": "summary",
-   "totalText": "AED 7,299.00",
+   "totalText": "AED 7,299.00 | AED 7,299.00",
    "selected": {
     "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From AED 7,299",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
@@ -83,7 +83,7 @@
   "m5pro-18": {
    "total": 8199,
    "totalFrom": "summary",
-   "totalText": "AED 8,199.00",
+   "totalText": "AED 8,199.00 | AED 8,199.00",
    "selected": {
     "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine From AED 7,299",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",

@@ -1,0 +1,11 @@
+{
+ "page": "homepod",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:30:02.252Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/pl/)"
+  }
+ }
+}

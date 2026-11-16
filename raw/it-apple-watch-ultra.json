@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:09:57.108Z",
+ "configs": {
+  "band": {
+   "total": 909,
+   "totalFrom": "summary",
+   "totalText": "€ 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11% Nota ① | € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "watch_cases-dimensionColor": "Nero",
+    "style": "Nuovi colori Alpine Loop Per il trekking e le avventure outdoor. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+    "alpineloop-color": "Borgogna",
+    "watch_bands-dimensionbandsize": "Small Regolabile per polsi da 130-160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Nero",
+     "Naturale"
+    ],
+    "style": [
+     "Nuovi colori Alpine Loop Per il trekking e le avventure outdoor. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+     "Nuovi colori Trail Loop Per ogni tipo di sport e allenamento. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+     "Nuovi colori Cinturino Ocean Per gli sport acquatici e le immersioni amatoriali. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+     "Loop in maglia milanese in titanio Per l’oceano, ma elegante in ogni occasione. € 1.029,00 o € 33,69 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "alpineloop-color": [
+     "Borgogna",
+     "Verde olivo",
+     "Duna"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Regolabile per polsi da 130-160 mm.",
+     "Medium Per polsi da 145-190 mm.",
+     "Large Per polsi da 165-210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1029,
+   "totalFrom": "summary",
+   "totalText": "€ 1.029,00 o € 33,69 al mese per 36 mesi, TAN fisso 11% Nota ① | € 1.029,00 o € 33,69 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "watch_cases-dimensionColor": "Nero",
+    "style": "Loop in maglia milanese in titanio Per l’oceano, ma elegante in ogni occasione. € 1.029,00 o € 33,69 al mese per 36 mesi, TAN fisso 11%",
+    "ti_milaneseloop-color": "Nero",
+    "watch_bands-dimensionbandsize": "Small Regolabile per polsi da 130-160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Nero",
+     "Naturale"
+    ],
+    "style": [
+     "Nuovi colori Alpine Loop Per il trekking e le avventure outdoor. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+     "Nuovi colori Trail Loop Per ogni tipo di sport e allenamento. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+     "Nuovi colori Cinturino Ocean Per gli sport acquatici e le immersioni amatoriali. € 909,00 o € 29,76 al mese per 36 mesi, TAN fisso 11%",
+     "Loop in maglia milanese in titanio Per l’oceano, ma elegante in ogni occasione. € 1.029,00 o € 33,69 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "ti_milaneseloop-color": [
+     "Nero"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Regolabile per polsi da 130-160 mm.",
+     "Medium Per polsi da 155‑185 mm.",
+     "Large Per polsi da 180‑210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

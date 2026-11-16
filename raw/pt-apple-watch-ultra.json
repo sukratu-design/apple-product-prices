@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:05.939Z",
+ "configs": {
+  "band": {
+   "total": 909,
+   "totalFrom": "summary",
+   "totalText": "909,00 € | 909,00 € | 909,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Preto",
+    "style": "Novas cores Loop Alpine Para aventuras ao ar livre e caminhadas. 909,00 €",
+    "alpineloop-color": "Bordô",
+    "watch_bands-dimensionbandsize": "S Para pulsos de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Preto",
+     "Natural"
+    ],
+    "style": [
+     "Novas cores Loop Alpine Para aventuras ao ar livre e caminhadas. 909,00 €",
+     "Novas cores Loop Trail Para todos os desportos e treinos. 909,00 €",
+     "Novas cores Bracelete Ocean Para desportos aquáticos e mergulho recreativo. 909,00 €",
+     "Loop milanesa em titânio Feita para ir ao mar, mas elegante em qualquer ocasião. 1 029,00 €"
+    ],
+    "alpineloop-color": [
+     "Bordô",
+     "Verde-azeitona",
+     "Deserto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S Para pulsos de 130 a 160 mm.",
+     "M Bracelete para pulsos de 145 a 190 mm.",
+     "L Bracelete para pulsos de 165 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1029,
+   "totalFrom": "summary",
+   "totalText": "1 029,00 € | 1 029,00 € | 1 029,00 €",
+   "selected": {
+    "watch_cases-dimensionColor": "Preto",
+    "style": "Loop milanesa em titânio Feita para ir ao mar, mas elegante em qualquer ocasião. 1 029,00 €",
+    "ti_milaneseloop-color": "Preto",
+    "watch_bands-dimensionbandsize": "S Para pulsos de 130 a 160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Preto",
+     "Natural"
+    ],
+    "style": [
+     "Novas cores Loop Alpine Para aventuras ao ar livre e caminhadas. 909,00 €",
+     "Novas cores Loop Trail Para todos os desportos e treinos. 909,00 €",
+     "Novas cores Bracelete Ocean Para desportos aquáticos e mergulho recreativo. 909,00 €",
+     "Loop milanesa em titânio Feita para ir ao mar, mas elegante em qualquer ocasião. 1 029,00 €"
+    ],
+    "ti_milaneseloop-color": [
+     "Preto"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "S Para pulsos de 130 a 160 mm.",
+     "M Para pulsos de 155 a 185 mm.",
+     "L Para pulsos de 180 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

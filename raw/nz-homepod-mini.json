@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:29:46.869Z",
+ "configs": {
+  "default": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "NZ$39.00 | NZ$299.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Pink",
+     "Blue",
+     "Green",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

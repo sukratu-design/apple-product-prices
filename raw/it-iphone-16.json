@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:05.249Z",
+ "configs": {
+  "default": {
+   "total": 1029,
+   "totalFrom": "summary",
+   "totalText": "€ 1.029,00 o € 42,88 al mese per 24 mesi, TAN fisso 0% Nota ① | € 1.029,00 o € 42,88 al mese per 24 mesi, TAN fisso 0% Nota ①",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 Display da 6,1\" Nota 1Con 128GB di spazio di archiviazione Da € 1.029,00 o € 42,88 al mese per 24 mesi, TAN fisso 0% Nota ①",
+    "dimensionColor": "Blu oltremare"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 Display da 6,1\" Nota 1Con 128GB di spazio di archiviazione Da € 1.029,00 o € 42,88 al mese per 24 mesi, TAN fisso 0% Nota ①"
+    ],
+    "dimensionColor": [
+     "Blu oltremare",
+     "Verde acqua",
+     "Bianco",
+     "Rosa",
+     "Nero"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:31.939Z",
+ "configs": {
+  "m6": {
+   "total": 1079,
+   "totalFrom": "summary",
+   "totalText": "1 079,00 € | 1 079,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core com Dual Neural Engine 16‑core Desde 1079 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluído",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "256 GB Incluído",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet Gigabit 2.5 Rede padrão, velocidade de ligação até 2,5 Gb. Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core com Dual Neural Engine 16‑core Desde 1079 €",
+     "Processador M5 Pro Oferece mais desempenho e maiores opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2029 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluído"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluído",
+     "512 GB + 221,27 €",
+     "1 TB + 553,79 €",
+     "2 TB + 1 107,98 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet Gigabit 2.5 Rede padrão, velocidade de ligação até 2,5 Gb. Incluído",
+     "Ethernet Gigabit 10 Ligação com maior largura de banda, velocidades de ligação até 10 Gb. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2029,
+   "totalFrom": "summary",
+   "totalText": "2 029,00 € | 2 029,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M5 Pro Oferece mais desempenho e maiores opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2029 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15‑Core, GPU 16‑Core Incluído",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet Gigabit 2.5 Rede padrão, velocidade de ligação até 2,5 Gb. Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core com Dual Neural Engine 16‑core Desde 1079 €",
+     "Processador M5 Pro Oferece mais desempenho e maiores opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2029 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑Core, GPU 16‑Core Incluído",
+     "CPU 18‑Core, GPU 20‑Core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. + 220,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + 660,00 €",
+     "64 GB + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + 332,52 €",
+     "2 TB + 886,71 €",
+     "4 TB + 1 986,71 €",
+     "8 TB + 4 186,71 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet Gigabit 2.5 Rede padrão, velocidade de ligação até 2,5 Gb. Incluído",
+     "Ethernet Gigabit 10 Ligação com maior largura de banda, velocidades de ligação até 10 Gb. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 2249,
+   "totalFrom": "summary",
+   "totalText": "2 249,00 € | 2 249,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M5 Pro Oferece mais desempenho e maiores opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2029 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑Core, GPU 20‑Core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K.",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet Gigabit 2.5 Rede padrão, velocidade de ligação até 2,5 Gb. Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core com Dual Neural Engine 16‑core Desde 1079 €",
+     "Processador M5 Pro Oferece mais desempenho e maiores opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2029 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑Core, GPU 16‑Core − 220,00 €",
+     "CPU 18‑Core, GPU 20‑Core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + 660,00 €",
+     "64 GB + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + 332,52 €",
+     "2 TB + 886,71 €",
+     "4 TB + 1 986,71 €",
+     "8 TB + 4 186,71 €"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet Gigabit 2.5 Rede padrão, velocidade de ligação até 2,5 Gb. Incluído",
+     "Ethernet Gigabit 10 Ligação com maior largura de banda, velocidades de ligação até 10 Gb. + 110,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

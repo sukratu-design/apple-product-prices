@@ -1,0 +1,36 @@
+{
+ "page": "iphone-air",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:38.774Z",
+ "configs": {
+  "default": {
+   "total": 8799,
+   "totalFrom": "summary",
+   "totalText": "RMB 8,799",
+   "selected": {
+    "dimensionColor": "天蓝色",
+    "dimensionCapacity": "256GB 脚注 1 RMB 8,799 或 RMB 367/月 (24 期) 起",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionColor": [
+     "天蓝色",
+     "云白色",
+     "深空黑色",
+     "浅金色"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 RMB 8,799 或 RMB 367/月 (24 期) 起",
+     "512GB 脚注 1 RMB 10,799 或 RMB 450/月 (24 期) 起",
+     "1TB 脚注 1 RMB 14,299 或 RMB 596/月 (24 期) 起"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

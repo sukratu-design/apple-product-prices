@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "at",
+ "url": "https://www.apple.com/at/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:13.841Z",
+ "configs": {
+  "default": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "1.299,00 € | 1.299,00 € | 1.299,00 €",
+   "selected": {
+    "dimensionColor": "Himmelblau",
+    "dimensionCapacity": "256 GB Fußnote 1 1.299,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Himmelblau",
+     "Wolkenweiß",
+     "Space Schwarz",
+     "Lichtgold"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.299,00 €",
+     "512 GB Fußnote 1 1.549,00 €",
+     "1TB Fußnote 1 2.049,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

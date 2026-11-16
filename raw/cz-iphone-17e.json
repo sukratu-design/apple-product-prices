@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:25.701Z",
+ "configs": {
+  "default": {
+   "total": 19990,
+   "totalFrom": "summary",
+   "totalText": "19 990,00 Kč | 19 990,00 Kč | 19 990,00 Kč",
+   "selected": {
+    "dimensionColor": "jemně růžová",
+    "dimensionCapacity": "256 GB Poznámka 1 19 990,00 Kč"
+   },
+   "options": {
+    "dimensionColor": [
+     "jemně růžová",
+     "bílá",
+     "černá"
+    ],
+    "dimensionCapacity": [
+     "256 GB Poznámka 1 19 990,00 Kč",
+     "512 GB Poznámka 1 25 990,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

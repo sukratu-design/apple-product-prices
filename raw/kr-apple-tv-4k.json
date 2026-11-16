@@ -1,0 +1,16 @@
+{
+ "page": "apple-tv-4k",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-tv/apple-tv-4k",
+ "scrapedAt": "2026-11-16T13:28:36.616Z",
+ "configs": {
+  "default": {
+   "total": 449000,
+   "totalFrom": "summary",
+   "totalText": "₩69,000 | ₩449,000",
+   "selected": {},
+   "options": {},
+   "disabledOptions": {}
+  }
+ }
+}

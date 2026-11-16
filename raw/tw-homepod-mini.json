@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:31:27.433Z",
+ "configs": {
+  "default": {
+   "total": 4790,
+   "totalFrom": "summary",
+   "totalText": "NT$4,790",
+   "selected": {
+    "dimensionColor": "白色"
+   },
+   "options": {
+    "dimensionColor": [
+     "白色",
+     "粉紅色",
+     "藍色",
+     "綠色",
+     "午夜色"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

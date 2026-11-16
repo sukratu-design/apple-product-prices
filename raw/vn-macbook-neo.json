@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:57.888Z",
+ "configs": {
+  "256": {
+   "total": 19499000,
+   "totalFrom": "summary",
+   "totalText": "19.499.000đ hoặc 794.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 19.499.000đ hoặc 794.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | Tổng cộng 19.499.000đ",
+   "selected": {
+    "chassis-dimensionColor": "Bạc",
+    "storage-dimensionCapacity": "256GB Magic Keyboard Từ 19.499.000đ hoặc 794.000đ/tháng mỗi tháng trong 24 tháng"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Bạc",
+     "Hồng Phớt",
+     "Vàng Citrus",
+     "Xanh Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard Từ 19.499.000đ hoặc 794.000đ/tháng mỗi tháng trong 24 tháng",
+     "512GB Magic Keyboard với Touch ID Từ 21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 21999000,
+   "totalFrom": "summary",
+   "totalText": "21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | Tổng cộng 21.999.000đ",
+   "selected": {
+    "chassis-dimensionColor": "Bạc",
+    "storage-dimensionCapacity": "512GB Magic Keyboard với Touch ID Từ 21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Bạc",
+     "Hồng Phớt",
+     "Vàng Citrus",
+     "Xanh Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard Từ 19.499.000đ hoặc 794.000đ/tháng mỗi tháng trong 24 tháng",
+     "512GB Magic Keyboard với Touch ID Từ 21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

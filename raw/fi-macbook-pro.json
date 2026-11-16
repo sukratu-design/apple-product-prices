@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:24.743Z",
+ "configs": {
+  "14-m6": {
+   "total": 2399,
+   "totalFrom": "summary",
+   "totalText": "2 399,00 € | 2 399,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "Uusi M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, kaksi 16-ytimistä Neural Engineä Alkaen 2 399 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Sisältyy hintaan",
+    "memory-dimensionMemory": "16 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Uusi M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, kaksi 16-ytimistä Neural Engineä Alkaen 2 399 €",
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Sisältyy hintaan"
+    ],
+    "memory-dimensionMemory": [
+     "16 Gt Sisältyy hintaan",
+     "24 Gt + 220,00 €",
+     "32 Gt + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 Tt Sisältyy hintaan",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 3049,
+   "totalFrom": "summary",
+   "totalText": "3 049,00 € | 3 049,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑ytiminen prosessori, 16‑ytiminen näytön­ohjain Sisältyy hintaan",
+    "memory-dimensionMemory": "24 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Uusi M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, kaksi 16-ytimistä Neural Engineä Alkaen 2 399 €",
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑ytiminen prosessori, 16‑ytiminen näytön­ohjain Sisältyy hintaan",
+     "18‑ytiminen prosessori, 20‑ytiminen näytön­ohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta vaativissa tehtävissä, kuten pelaamisessa, koodaamisessa ja luovassa työssä. + 250,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 Gt Sisältyy hintaan",
+     "48 Gt + 660,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 Tt Sisältyy hintaan",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3299,
+   "totalFrom": "summary",
+   "totalText": "3 299,00 € | 3 299,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 20‑ytiminen näytön­ohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta vaativissa tehtävissä, kuten pelaamisessa, koodaamisessa ja luovassa työssä.",
+    "memory-dimensionMemory": "24 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt Sisältyy hintaan",
+    "power_adapter-wattage": "Ei virtalähdettä"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Uusi M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, kaksi 16-ytimistä Neural Engineä Alkaen 2 399 €",
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑ytiminen prosessori, 16‑ytiminen näytön­ohjain − 250,00 €",
+     "18‑ytiminen prosessori, 20‑ytiminen näytön­ohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta vaativissa tehtävissä, kuten pelaamisessa, koodaamisessa ja luovassa työssä."
+    ],
+    "memory-dimensionMemory": [
+     "24 Gt Sisältyy hintaan",
+     "48 Gt + 660,00 €",
+     "64 Gt + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 Tt Sisältyy hintaan",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Ei virtalähdettä",
+     "96 W Pikalataus, tukee M5 Pro- ja M5 Max ‑sirun suurteho­tilaa. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4949,
+   "totalFrom": "summary",
+   "totalText": "4 949,00 € | 4 949,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 32‑ytiminen näytönohjain Sisältyy hintaan",
+    "memory-dimensionMemory": "36 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "2 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Uusi M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, kaksi 16-ytimistä Neural Engineä Alkaen 2 399 €",
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑ytiminen prosessori, 32‑ytiminen näytönohjain Sisältyy hintaan",
+     "18‑ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. + 330,00 € Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa."
+    ],
+    "memory-dimensionMemory": [
+     "36 Gt Sisältyy hintaan"
+    ],
+    "storage-dimensionCapacity": [
+     "2 Tt Sisältyy hintaan",
+     "4 Tt + 1 100,00 €",
+     "8 Tt + 3 300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5609,
+   "totalFrom": "summary",
+   "totalText": "5 609,00 € | 5 609,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa.",
+    "memory-dimensionMemory": "48 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "2 Tt Sisältyy hintaan",
+    "power_adapter-wattage": "Ei virtalähdettä"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Uusi M6-siru Huikeaa nopeutta ja uudenlaista suorituskykyä omiin, ammatillisiin ja luoviin tehtäviin joka päivä. 12-ytiminen prosessori, 12-ytiminen näytön­ohjain, kaksi 16-ytimistä Neural Engineä Alkaen 2 399 €",
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 3 049 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 4 949 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑ytiminen prosessori, 32‑ytiminen näytönohjain − 330,00 €",
+     "18‑ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa."
+    ],
+    "memory-dimensionMemory": [
+     "48 Gt Sisältyy hintaan",
+     "64 Gt + 440,00 €",
+     "128 Gt + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 Tt Sisältyy hintaan",
+     "4 Tt + 1 100,00 €",
+     "8 Tt + 3 300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Ei virtalähdettä",
+     "96 W Pikalataus, tukee M5 Pro- ja M5 Max ‑sirun suurteho­tilaa. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3549,
+   "totalFrom": "summary",
+   "totalText": "3 549,00 € | 3 549,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 18-ytiminen prosessori, 20-ytiminen näytönohjain, 16-ytiminen Neural Engine Alkaen 3 549 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 20‑ytiminen näytön­ohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta vaativissa tehtävissä, kuten pelaamisessa, koodaamisessa ja luovassa työssä. Sisältyy hintaan",
+    "memory-dimensionMemory": "24 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "1 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 18-ytiminen prosessori, 20-ytiminen näytönohjain, 16-ytiminen Neural Engine Alkaen 3 549 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 5 249 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑ytiminen prosessori, 20‑ytiminen näytön­ohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta vaativissa tehtävissä, kuten pelaamisessa, koodaamisessa ja luovassa työssä. Sisältyy hintaan"
+    ],
+    "memory-dimensionMemory": [
+     "24 Gt Sisältyy hintaan",
+     "48 Gt + 660,00 €",
+     "64 Gt + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 Tt Sisältyy hintaan",
+     "2 Tt + 550,00 €",
+     "4 Tt + 1 650,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5249,
+   "totalFrom": "summary",
+   "totalText": "5 249,00 € | 5 249,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 5 249 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 32‑ytiminen näytönohjain Sisältyy hintaan",
+    "memory-dimensionMemory": "36 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "2 Tt Sisältyy hintaan"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 18-ytiminen prosessori, 20-ytiminen näytönohjain, 16-ytiminen Neural Engine Alkaen 3 549 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 5 249 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑ytiminen prosessori, 32‑ytiminen näytönohjain Sisältyy hintaan",
+     "18‑ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. + 270,00 € Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa."
+    ],
+    "memory-dimensionMemory": [
+     "36 Gt Sisältyy hintaan"
+    ],
+    "storage-dimensionCapacity": [
+     "2 Tt Sisältyy hintaan",
+     "4 Tt + 1 100,00 €",
+     "8 Tt + 3 300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5849,
+   "totalFrom": "summary",
+   "totalText": "5 849,00 € | 5 849,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €",
+    "chassis-dimensionColor": "Tähtimusta",
+    "display-dimensionFinish": "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+    "processor-dimensionChip": "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 5 249 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa.",
+    "memory-dimensionMemory": "48 Gt Sisältyy hintaan",
+    "storage-dimensionCapacity": "2 Tt Sisältyy hintaan",
+    "power_adapter-wattage": "Ei virtalähdettä"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tuumaa Saatavilla M6-, M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 2 399 €",
+     "16 tuumaa Saatavilla M5 Pro‑ tai M5 Max ‑sirulla. Alkaen 3 549 €"
+    ],
+    "chassis-dimensionColor": [
+     "Tähtimusta",
+     "Hopea"
+    ],
+    "display-dimensionFinish": [
+     "Tavallinen näyttö Suunniteltu heijastamaan mahdollisimman vähän häikäisyn vähentämiseksi ympäristössäsi. Sisältyy hintaan",
+     "Nano­pinnoitettu näyttö Vähentää heijastuksia ja häikäisyä kirkkaissa olosuhteissa vieläkin tehokkaammin. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro ‑siru Tarjoaa entistäkin enemmän suoritus­kykyä ja suuremmat muisti­vaihto­ehdot haastavampiin työn­kulkuihin. 18-ytiminen prosessori, 20-ytiminen näytönohjain, 16-ytiminen Neural Engine Alkaen 3 549 €",
+     "M5 Max ‑siru Edistyksellisin ammattilais­kannettavalle koskaan valmistettu siru. Tehty kaikkein raskaimpiin työnkulkuihin. 2 vaihtoehtoa 16-ytimisellä Neural Enginellä Alkaen 5 249 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑ytiminen prosessori, 32‑ytiminen näytönohjain − 270,00 €",
+     "18‑ytiminen prosessori, 40‑ytiminen näytönohjain Tehosta prosessoinnin ja graafisen renderöinnin nopeutta ja vauhdita tehtäviä, kuten suurten kielimallien suorittamista ja 8K-videoiden editointia. Tämä valinta vaatii päivityksen 48 Gt muistiin, mikä nostaa Macin kokonaishintaa."
+    ],
+    "memory-dimensionMemory": [
+     "48 Gt Sisältyy hintaan",
+     "64 Gt + 440,00 €",
+     "128 Gt + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 Tt Sisältyy hintaan",
+     "4 Tt + 1 100,00 €",
+     "8 Tt + 3 300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Ei virtalähdettä",
+     "140 W Pikalataus, tukee M5 Pro- ja M5 Max ‑sirun suurteho­tilaa. + 119,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

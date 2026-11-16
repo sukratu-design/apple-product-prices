@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:38.333Z",
+ "configs": {
+  "m6": {
+   "total": 1069,
+   "totalFrom": "summary",
+   "totalText": "€ 1.069,00 | € 1.069,00",
+   "selected": {
+    "processor-dimensionChip": "M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine Vanaf € 1.069",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Meegeleverd",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "256 GB Meegeleverd",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standaard netwerkvoorziening, snelheden tot 2,5 Gb. Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine Vanaf € 1.069",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.019"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Meegeleverd"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd",
+     "24 GB + € 220,00",
+     "32 GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Meegeleverd",
+     "512 GB + € 220,00",
+     "1 TB + € 550,00",
+     "2 TB + € 1.100,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standaard netwerkvoorziening, snelheden tot 2,5 Gb. Meegeleverd",
+     "10‑Gigabit Ethernet Snellere bandbreedte, snelheden tot 10 Gb. + € 110,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2019,
+   "totalFrom": "summary",
+   "totalText": "€ 2.019,00 | € 2.019,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro-chip Biedt betere prestaties en meer geheugen voor veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.019",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Meegeleverd",
+    "memory-dimensionMemory": "24 GB Meegeleverd",
+    "storage-dimensionCapacity": "512 GB Meegeleverd",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standaard netwerkvoorziening, snelheden tot 2,5 Gb. Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine Vanaf € 1.069",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.019"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Meegeleverd",
+     "18‑core CPU, 20‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. + € 220,00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Meegeleverd",
+     "48 GB + € 660,00",
+     "64 GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Meegeleverd",
+     "1 TB + € 330,00",
+     "2 TB + € 880,00",
+     "4 TB + € 1.980,00",
+     "8 TB + € 4.180,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standaard netwerkvoorziening, snelheden tot 2,5 Gb. Meegeleverd",
+     "10‑Gigabit Ethernet Snellere bandbreedte, snelheden tot 10 Gb. + € 110,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 2239,
+   "totalFrom": "summary",
+   "totalText": "€ 2.239,00 | € 2.239,00",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro-chip Biedt betere prestaties en meer geheugen voor veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.019",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­.",
+    "memory-dimensionMemory": "24 GB Meegeleverd",
+    "storage-dimensionCapacity": "512 GB Meegeleverd",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Standaard netwerkvoorziening, snelheden tot 2,5 Gb. Meegeleverd"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU Dual 16-core Neural Engine Vanaf € 1.069",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.019"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − € 220,00",
+     "18‑core CPU, 20‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Meegeleverd",
+     "48 GB + € 660,00",
+     "64 GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Meegeleverd",
+     "1 TB + € 330,00",
+     "2 TB + € 880,00",
+     "4 TB + € 1.980,00",
+     "8 TB + € 4.180,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Standaard netwerkvoorziening, snelheden tot 2,5 Gb. Meegeleverd",
+     "10‑Gigabit Ethernet Snellere bandbreedte, snelheden tot 10 Gb. + € 110,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

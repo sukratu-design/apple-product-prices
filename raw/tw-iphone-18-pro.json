@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:31.867Z",
+ "configs": {
+  "pro": {
+   "total": 44900,
+   "totalFrom": "summary",
+   "totalText": "NT$44,900 | NT$44,900 | NT$44,900",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6.3 吋顯示器 註腳 2 NT$44,900 起",
+    "dimensionColor": "勃根地紅色",
+    "dimensionCapacity": "256GB 註腳 1 NT$44,900"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3 吋顯示器 註腳 2 NT$44,900 起",
+     "iPhone 18 Pro Max 6.9 吋顯示器 註腳 2 NT$49,900 起"
+    ],
+    "dimensionColor": [
+     "勃根地紅色",
+     "冰川藍色",
+     "銀色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 註腳 1 NT$44,900",
+     "512GB 註腳 1 NT$51,900",
+     "1TB 註腳 1 NT$66,900",
+     "2TB 註腳 1 NT$88,900"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 49900,
+   "totalFrom": "summary",
+   "totalText": "NT$49,900 | NT$49,900 | NT$49,900",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6.9 吋顯示器 註腳 2 NT$49,900 起",
+    "dimensionColor": "勃根地紅色",
+    "dimensionCapacity": "256GB 註腳 1 NT$49,900"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6.3 吋顯示器 註腳 2 NT$44,900 起",
+     "iPhone 18 Pro Max 6.9 吋顯示器 註腳 2 NT$49,900 起"
+    ],
+    "dimensionColor": [
+     "勃根地紅色",
+     "冰川藍色",
+     "銀色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 註腳 1 NT$49,900",
+     "512GB 註腳 1 NT$56,900",
+     "1TB 註腳 1 NT$71,900",
+     "2TB 註腳 1 NT$93,900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

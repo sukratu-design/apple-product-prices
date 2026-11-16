@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:23.774Z",
+ "configs": {
+  "256": {
+   "total": 19990,
+   "totalFrom": "summary",
+   "totalText": "19 990,00 Kč | 19 990,00 Kč | 19 990,00 Kč",
+   "selected": {
+    "chassis-dimensionColor": "stříbrný",
+    "storage-dimensionCapacity": "256 GB Magic Keyboard Od 19 990 Kč"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "stříbrný",
+     "ruměná",
+     "citrusově žlutá",
+     "indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Od 19 990 Kč",
+     "512 GB Magic Keyboard s Touch ID Od 22 990 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 22990,
+   "totalFrom": "summary",
+   "totalText": "22 990,00 Kč | 22 990,00 Kč | 22 990,00 Kč",
+   "selected": {
+    "chassis-dimensionColor": "stříbrný",
+    "storage-dimensionCapacity": "512 GB Magic Keyboard s Touch ID Od 22 990 Kč"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "stříbrný",
+     "ruměná",
+     "citrusově žlutá",
+     "indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Magic Keyboard Od 19 990 Kč",
+     "512 GB Magic Keyboard s Touch ID Od 22 990 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

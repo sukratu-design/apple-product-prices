@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:46:17.489Z",
+ "configs": {
+  "14-m6": {
+   "total": 2329,
+   "totalFrom": "summary",
+   "totalText": "€ 2.329,00 | € 2.329,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "Nieuw M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.329",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Meegeleverd",
+    "memory-dimensionMemory": "16 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Nieuw M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.329",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Meegeleverd"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Meegeleverd",
+     "24 GB + € 220,00",
+     "32 GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Meegeleverd",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2949,
+   "totalFrom": "summary",
+   "totalText": "€ 2.949,00 | € 2.949,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Meegeleverd",
+    "memory-dimensionMemory": "24 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Nieuw M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.329",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU Meegeleverd",
+     "18‑core CPU, 20‑core GPU Geef je verwerkingssnelheid en de rendering van graphics een boost voor intensieve taken zoals gamen, programmeren en creatieve taken. + € 250,00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Meegeleverd",
+     "48 GB + € 660,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Meegeleverd",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3199,
+   "totalFrom": "summary",
+   "totalText": "€ 3.199,00 | € 3.199,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Geef je verwerkingssnelheid en de rendering van graphics een boost voor intensieve taken zoals gamen, programmeren en creatieve taken.",
+    "memory-dimensionMemory": "24 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB Meegeleverd",
+    "power_adapter-wattage": "Geen lichtnetadapter"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Nieuw M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.329",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑core CPU, 16‑core GPU − € 250,00",
+     "18‑core CPU, 20‑core GPU Geef je verwerkingssnelheid en de rendering van graphics een boost voor intensieve taken zoals gamen, programmeren en creatieve taken."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Meegeleverd",
+     "48 GB + € 660,00",
+     "64 GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Meegeleverd",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00"
+    ],
+    "power_adapter-wattage": [
+     "Geen lichtnetadapter",
+     "96 W Snel opladen, ondersteunt modus Veel Stroom met M5 Pro en M5 Pro Max. + € 85,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4849,
+   "totalFrom": "summary",
+   "totalText": "€ 4.849,00 | € 4.849,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Meegeleverd",
+    "memory-dimensionMemory": "36 GB Meegeleverd",
+    "storage-dimensionCapacity": "2 TB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Nieuw M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.329",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Meegeleverd",
+     "18‑core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. + € 330,00 Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Meegeleverd"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Meegeleverd",
+     "4 TB + € 1.100,00",
+     "8 TB + € 3.300,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5509,
+   "totalFrom": "summary",
+   "totalText": "€ 5.509,00 | € 5.509,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt.",
+    "memory-dimensionMemory": "48 GB Meegeleverd",
+    "storage-dimensionCapacity": "2 TB Meegeleverd",
+    "power_adapter-wattage": "Geen lichtnetadapter"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "Nieuw M6‑chip Razendsnel dankzij baanbrekende prestaties voor dagelijkse taken, of je nu privé, zakelijk of creatief bezig bent. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Vanaf € 2.329",
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 2.949",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 4.849"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − € 330,00",
+     "18‑core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Meegeleverd",
+     "64 GB + € 440,00",
+     "128 GB + € 2.200,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Meegeleverd",
+     "4 TB + € 1.100,00",
+     "8 TB + € 3.300,00"
+    ],
+    "power_adapter-wattage": [
+     "Geen lichtnetadapter",
+     "96 W Snel opladen, ondersteunt modus Veel Stroom met M5 Pro en M5 Pro Max. + € 85,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3449,
+   "totalFrom": "summary",
+   "totalText": "€ 3.449,00 | € 3.449,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 18-core CPU, 20-core GPU, 16-core Neural Engine Vanaf € 3.449",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Geef je verwerkingssnelheid en de rendering van graphics een boost voor intensieve taken zoals gamen, programmeren en creatieve taken. Meegeleverd",
+    "memory-dimensionMemory": "24 GB Meegeleverd",
+    "storage-dimensionCapacity": "1 TB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 18-core CPU, 20-core GPU, 16-core Neural Engine Vanaf € 3.449",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 5.149"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 20‑core GPU Geef je verwerkingssnelheid en de rendering van graphics een boost voor intensieve taken zoals gamen, programmeren en creatieve taken. Meegeleverd"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Meegeleverd",
+     "48 GB + € 660,00",
+     "64 GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Meegeleverd",
+     "2 TB + € 550,00",
+     "4 TB + € 1.650,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5149,
+   "totalFrom": "summary",
+   "totalText": "€ 5.149,00 | € 5.149,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 5.149",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Meegeleverd",
+    "memory-dimensionMemory": "36 GB Meegeleverd",
+    "storage-dimensionCapacity": "2 TB Meegeleverd"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 18-core CPU, 20-core GPU, 16-core Neural Engine Vanaf € 3.449",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 5.149"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU Meegeleverd",
+     "18‑core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. + € 270,00 Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Meegeleverd"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Meegeleverd",
+     "4 TB + € 1.100,00",
+     "8 TB + € 3.300,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5749,
+   "totalFrom": "summary",
+   "totalText": "€ 5.749,00 | € 5.749,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449",
+    "chassis-dimensionColor": "Spacezwart",
+    "display-dimensionFinish": "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+    "processor-dimensionChip": "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 5.149",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt.",
+    "memory-dimensionMemory": "48 GB Meegeleverd",
+    "storage-dimensionCapacity": "2 TB Meegeleverd",
+    "power_adapter-wattage": "Geen lichtnetadapter"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-inch Verkrijgbaar met M6‑, M5 Pro‑ of M5 Max‑chip. Vanaf € 2.329",
+     "16-inch Verkrijgbaar met M5 Pro‑ of M5 Max‑chip. Vanaf € 3.449"
+    ],
+    "chassis-dimensionColor": [
+     "Spacezwart",
+     "Zilver"
+    ],
+    "display-dimensionFinish": [
+     "Standaarddisplay Speciaal ontwikkeld om reflecties te beperken. Meegeleverd",
+     "Display met nanotextuur Schittert en spiegelt nog minder bij fel licht. + € 165,00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Biedt betere prestaties en meer geheugen voor de meest veeleisende workflows. 18-core CPU, 20-core GPU, 16-core Neural Engine Vanaf € 3.449",
+     "M5 Max-chip De krachtigste chip die we ooit hebben ontwikkeld voor een pro‑laptop. Gemaakt voor extreme workflows. 2 uitvoeringen met 16‑core Neural Engine Vanaf € 5.149"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑core CPU, 32‑core GPU − € 270,00",
+     "18‑core CPU, 40‑core GPU Geef je verwerkings­snelheid en de rendering van graphics een boost en versnel taken als het uitvoeren van LLM’s en bewerken van 8K-video’s­. Voor deze optie moet je upgraden naar 48 GB geheugen, waardoor de totale prijs van je Mac hoger wordt."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Meegeleverd",
+     "64 GB + € 440,00",
+     "128 GB + € 2.200,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Meegeleverd",
+     "4 TB + € 1.100,00",
+     "8 TB + € 3.300,00"
+    ],
+    "power_adapter-wattage": [
+     "Geen lichtnetadapter",
+     "140 W Snel opladen, ondersteunt modus Veel Stroom met M5 Pro en M5 Pro Max. + € 119,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

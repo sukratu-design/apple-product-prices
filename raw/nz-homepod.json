@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:29:43.851Z",
+ "configs": {
+  "default": {
+   "total": 679,
+   "totalFrom": "summary",
+   "totalText": "NZ$79.00 | NZ$679.00",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

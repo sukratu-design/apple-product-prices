@@ -1,0 +1,122 @@
+{
+ "page": "macbook-air",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:13.928Z",
+ "configs": {
+  "15": {
+   "total": 7799,
+   "totalFrom": "summary",
+   "totalText": "7 799,00 zł | 7 799,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "15-calowy Od 7799 zł",
+    "chassis-dimensionColor": "błękitny",
+    "processor-cpuCoreCount-gpuCoreCount": "10-rdzeniowe CPU, 10-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Podkręć wydajność podczas grania w wymagające gry i realizowania ambitnych twórczych dzięki większej mocy obliczeniowej i szybszemu renderowaniu grafiki. Od 7799 zł",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "512 GB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-calowy Od 6799 zł",
+     "15-calowy Od 7799 zł"
+    ],
+    "chassis-dimensionColor": [
+     "błękitny",
+     "srebrny",
+     "księżycowa poświata",
+     "północ"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-rdzeniowe CPU, 10-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Podkręć wydajność podczas grania w wymagające gry i realizowania ambitnych twórczych dzięki większej mocy obliczeniowej i szybszemu renderowaniu grafiki. Od 7799 zł"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie",
+     "24 GB + 1 000,00 zł",
+     "32 GB + 2 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB W zestawie",
+     "1 TB + 1 500,00 zł",
+     "2 TB + 4 000,00 zł",
+     "4 TB + 9 000,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 6799,
+   "totalFrom": "summary",
+   "totalText": "6 799,00 zł | 6 799,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "13-calowy Od 6799 zł",
+    "chassis-dimensionColor": "błękitny",
+    "processor-cpuCoreCount-gpuCoreCount": "10-rdzeniowe CPU, 8-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Większa szybkość i płynność we wszystkim, co robisz. Od 6799 zł",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "512 GB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-calowy Od 6799 zł",
+     "15-calowy Od 7799 zł"
+    ],
+    "chassis-dimensionColor": [
+     "błękitny",
+     "srebrny",
+     "księżycowa poświata",
+     "północ"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-rdzeniowe CPU, 8-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Większa szybkość i płynność we wszystkim, co robisz. Od 6799 zł",
+     "10-rdzeniowe CPU, 10-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Podkręć wydajność podczas grania w wymagające gry i realizowania ambitnych twórczych dzięki większej mocy obliczeniowej i szybszemu renderowaniu grafiki. Od 7299 zł"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB W zestawie"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 8299,
+   "totalFrom": "summary",
+   "totalText": "8 299,00 zł | 8 299,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "13-calowy Od 6799 zł",
+    "chassis-dimensionColor": "błękitny",
+    "processor-cpuCoreCount-gpuCoreCount": "10-rdzeniowe CPU, 10-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Podkręć wydajność podczas grania w wymagające gry i realizowania ambitnych twórczych dzięki większej mocy obliczeniowej i szybszemu renderowaniu grafiki. Od 7299 zł",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-calowy Od 6799 zł",
+     "15-calowy Od 7799 zł"
+    ],
+    "chassis-dimensionColor": [
+     "błękitny",
+     "srebrny",
+     "księżycowa poświata",
+     "północ"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10-rdzeniowe CPU, 8-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Większa szybkość i płynność we wszystkim, co robisz. Od 6799 zł",
+     "10-rdzeniowe CPU, 10-rdzeniowe GPU, 16-rdzeniowy system Neural Engine Podkręć wydajność podczas grania w wymagające gry i realizowania ambitnych twórczych dzięki większej mocy obliczeniowej i szybszemu renderowaniu grafiki. Od 7299 zł"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie",
+     "24 GB + 1 000,00 zł",
+     "32 GB + 2 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 1 500,00 zł",
+     "1 TB",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

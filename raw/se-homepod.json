@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:30:38.934Z",
+ "configs": {
+  "default": {
+   "total": 4695,
+   "totalFrom": "summary",
+   "totalText": "395,00 kr | 4 695,00 kr",
+   "selected": {
+    "dimensionColor": "vit"
+   },
+   "options": {
+    "dimensionColor": [
+     "vit",
+     "midnatt"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:40:38.954Z",
+ "configs": {
+  "256": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "€799.00 | €799.00 | €799.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "256GB Magic Keyboard From €799"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From €799",
+     "512GB Magic Keyboard with Touch ID From €899"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "€899.00 | €899.00 | €899.00",
+   "selected": {
+    "chassis-dimensionColor": "Silver",
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From €899"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Silver",
+     "Blush",
+     "Citrus",
+     "Indigo"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard From €799",
+     "512GB Magic Keyboard with Touch ID From €899"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:28.980Z",
+ "configs": {
+  "default": {
+   "total": 499990,
+   "totalFrom": "summary",
+   "totalText": "499 990 Ft | 499 990 Ft | 499 990 Ft",
+   "selected": {
+    "dimensionColor": "égkék",
+    "dimensionCapacity": "256 GB Lábjegyzet 1 499 990 Ft"
+   },
+   "options": {
+    "dimensionColor": [
+     "égkék",
+     "felhőfehér",
+     "asztrofekete",
+     "világos arany"
+    ],
+    "dimensionCapacity": [
+     "256 GB Lábjegyzet 1 499 990 Ft",
+     "512 GB Lábjegyzet 1 599 990 Ft",
+     "1 TB Lábjegyzet 1 799 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

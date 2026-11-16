@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:43.385Z",
+ "configs": {
+  "256": {
+   "total": 23900,
+   "totalFrom": "summary",
+   "totalText": "NT$23,900 | NT$23,900 | NT$23,900",
+   "selected": {
+    "chassis-dimensionColor": "銀色",
+    "storage-dimensionCapacity": "256GB 巧控鍵盤 NT$23,900 起"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "銀色",
+     "胭粉色",
+     "青橘黃色",
+     "靛青色"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 巧控鍵盤 NT$23,900 起",
+     "512GB 含 Touch ID 的巧控鍵盤 NT$26,900 起"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 26900,
+   "totalFrom": "summary",
+   "totalText": "NT$26,900 | NT$26,900 | NT$26,900",
+   "selected": {
+    "chassis-dimensionColor": "銀色",
+    "storage-dimensionCapacity": "512GB 含 Touch ID 的巧控鍵盤 NT$26,900 起"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "銀色",
+     "胭粉色",
+     "青橘黃色",
+     "靛青色"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 巧控鍵盤 NT$23,900 起",
+     "512GB 含 Touch ID 的巧控鍵盤 NT$26,900 起"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

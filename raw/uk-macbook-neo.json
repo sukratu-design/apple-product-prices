@@ -2,15 +2,15 @@
  "page": "macbook-neo",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-mac/macbook-neo",
- "scrapedAt": "2026-11-13T11:05:03.343Z",
+ "scrapedAt": "2026-11-16T12:40:40.138Z",
  "configs": {
   "256": {
    "total": 699,
    "totalFrom": "summary",
-   "totalText": "£699.00 or £21.48/mo. per month for 36 mo. months at 6.9% interest. Footnote ◊",
+   "totalText": "£699.00 or £21.48/mo. per month for 36 mo. months at 6.9% interest. Footnote ◊ | £699.00 or £21.48/mo. per month for 36 mo. months at 6.9% interest. Footnote ◊",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "256GB Magic Keyboard From £699 or £21.48/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+    "storage-dimensionCapacity": "256GB Magic Keyboard From £699 or £21.48/mo. per month for 36 mo. months at 6.9% interest"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -20,8 +20,8 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From £699 or £21.48/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
-     "512GB Magic Keyboard with Touch ID From £799 or £24.55/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+     "256GB Magic Keyboard From £699 or £21.48/mo. per month for 36 mo. months at 6.9% interest",
+     "512GB Magic Keyboard with Touch ID From £799 or £24.55/mo. per month for 36 mo. months at 6.9% interest"
     ]
    },
    "disabledOptions": {}
@@ -29,10 +29,10 @@
   "512": {
    "total": 799,
    "totalFrom": "summary",
-   "totalText": "£799.00 or £24.55/mo. per month for 36 mo. months at 6.9% interest. Footnote ◊",
+   "totalText": "£799.00 or £24.55/mo. per month for 36 mo. months at 6.9% interest. Footnote ◊ | £799.00 or £24.55/mo. per month for 36 mo. months at 6.9% interest. Footnote ◊",
    "selected": {
     "chassis-dimensionColor": "Silver",
-    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From £799 or £24.55/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+    "storage-dimensionCapacity": "512GB Magic Keyboard with Touch ID From £799 or £24.55/mo. per month for 36 mo. months at 6.9% interest"
    },
    "options": {
     "chassis-dimensionColor": [
@@ -42,8 +42,8 @@
      "Indigo"
     ],
     "storage-dimensionCapacity": [
-     "256GB Magic Keyboard From £699 or £21.48/mo. per month for 36 mo. months at 6.9% interest Footnote ◊",
-     "512GB Magic Keyboard with Touch ID From £799 or £24.55/mo. per month for 36 mo. months at 6.9% interest Footnote ◊"
+     "256GB Magic Keyboard From £699 or £21.48/mo. per month for 36 mo. months at 6.9% interest",
+     "512GB Magic Keyboard with Touch ID From £799 or £24.55/mo. per month for 36 mo. months at 6.9% interest"
     ]
    },
    "disabledOptions": {}

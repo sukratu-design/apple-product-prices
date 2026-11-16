@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Apple Prices Around the World</title>
-<meta name="description" content="Pick an Apple product and configuration and see what it costs in the US, India, UK, UAE, Canada, Australia, Japan and Singapore, converted to one currency.">
+<meta name="description" content="Pick an Apple product and configuration and see what it costs in 40 countries' Apple Stores, converted to one currency.">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="canonical" href="https://apple-product-prices.com/world/">
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Apple Product Prices">
 <meta property="og:title" content="Apple prices around the world">
-<meta property="og:description" content="What every Apple product costs in 8 countries, side by side in one currency. Prices from Apple's own stores, checked monthly.">
+<meta property="og:description" content="What every Apple product costs in 40 countries, side by side in one currency. Prices from Apple's own stores, checked monthly.">
 <meta property="og:url" content="https://apple-product-prices.com/world/">
 <meta property="og:image" content="https://apple-product-prices.com/assets/og.png">
 <meta property="og:image:width" content="1200">
@@ -101,6 +101,9 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,4vw,42px);lin
 .map .pin text{font-family:var(--mono);font-weight:500;font-size:17px;fill:var(--fg);paint-order:stroke;stroke:var(--sea);stroke-width:5px;stroke-linejoin:round}
 .map .pin text.cc{font-family:var(--body);font-weight:600;font-size:14px;fill:var(--muted)}
 .map .pin.sel circle{stroke:var(--fg)}
+.map .pin text{display:none}
+.map .pin.show text,.map .pin:hover text,.map .pin:focus text,.map .pin.sel text{display:inline}
+.map .pin:hover,.map .pin:focus,.map .pin.sel{outline:none}
 
 .scale{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);margin-top:10px}
 .scale i{flex:0 0 140px;height:8px;border-radius:4px;background:linear-gradient(90deg,var(--lo),var(--hi))}
@@ -133,7 +136,7 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,4vw,42px);lin
   .body{grid-template-columns:1fr}
   .mapcol{position:static}
 }
-@media (max-width:520px){ .controls{grid-template-columns:1fr} .map .pin text{display:none} }
+@media (max-width:520px){ .controls{grid-template-columns:1fr} .map .pin.show text{display:none} }
 @media (prefers-reduced-motion:reduce){ .map .country{transition:none} }
 </style>
 </head>
@@ -171,7 +174,7 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,4vw,42px);lin
     <div class="body">
       <div class="mapcol">
         <svg class="map" id="map" role="img" aria-label="World map of prices"></svg>
-        <div class="scale"><span>Cheapest</span><i></i><span>Most expensive</span></div>
+        <div class="scale"><span>Cheapest</span><i></i><span>Most expensive (colour shows rank)</span></div>
       </div>
       <ol class="rank" id="rank"></ol>
     </div>
@@ -234,7 +237,7 @@ function fillControls(){
   PRODUCTS.forEach(p => (groups[p.catName] = groups[p.catName] || []).push(p));
   $("product").innerHTML = Object.entries(groups).map(([g, ps]) =>
     `<optgroup label="${g}">${ps.map(p => `<option value="${p.key}">${p.name}</option>`).join("")}</optgroup>`).join("");
-  $("currency").innerHTML = ORDER.map(k =>
+  $("currency").innerHTML = APP.byName().map(k =>
     `<option value="${k}">${P.countries[k].currency} · ${P.countries[k].label}</option>`).join("");
   $("product").onchange = e => { prod = PRODUCTS.find(x => x.key === e.target.value); cfg = 0; render(); };
   $("config").onchange = e => { cfg = +e.target.value; render(); };
@@ -276,7 +279,8 @@ function render(){
   const sold = rows.filter(r => r.conv != null).sort((a, b) => a.conv - b.conv);
   const missing = rows.filter(r => r.conv == null);
   const lo = sold.length ? sold[0].conv : 0, hi = sold.length ? sold[sold.length - 1].conv : 0;
-  const t = r => hi > lo ? (r.conv - lo) / (hi - lo) : 0;
+  // colour by rank, so one very expensive country does not flatten everyone else into the same shade
+  const t = r => sold.length > 1 ? sold.indexOf(r) / (sold.length - 1) : 0;
 
   $("eyebrow").textContent = `${prod.catName} · ${sold.length} of ${ORDER.length} countries · in ${P.countries[cur].currency}`;
   $("title").textContent = `${prod.name} · ${label}`;
@@ -299,16 +303,18 @@ function render(){
   });
   const pins = $("pins");
   pins.innerHTML = "";
-  rows.forEach(r => {
+  const order = [...rows].sort((a, b) => (a === sold[0] || a === sold[sold.length - 1] || a.k === cur) - (b === sold[0] || b === sold[sold.length - 1] || b.k === cur));
+  order.forEach(r => {
     const m = M.countries[r.k];
     if (!m) return;
     const g = document.createElementNS(SVGNS, "g");
-    g.setAttribute("class", "pin");
     g.setAttribute("tabindex", "0");
     const dx = m.label === "left" ? -14 : m.label === "right" ? 14 : 0, dy = m.label === "below" ? 34 : 6;
     const anchor = m.label === "left" ? "end" : m.label === "right" ? "start" : "middle";
     const value = r.conv == null ? "Not sold" : fmt(cur, r.conv);
-    g.innerHTML = `<circle cx="${m.x}" cy="${m.y}" r="9" style="fill:${r.conv == null ? "var(--faint)" : mix(t(r))}"/>
+    const showLabel = r.conv != null && (r === sold[0] || r === sold[sold.length - 1] || r.k === cur);
+    g.setAttribute("class", "pin" + (showLabel ? " show" : ""));
+    g.innerHTML = `<circle cx="${m.x}" cy="${m.y}" r="7" style="fill:${r.conv == null ? "var(--faint)" : mix(t(r))}"/>
       <text class="cc" x="${m.x + dx}" y="${m.y + dy - 18}" text-anchor="${anchor}">${r.c.short}</text>
       <text x="${m.x + dx}" y="${m.y + dy}" text-anchor="${anchor}">${value}</text>
       <title>${r.c.label}: ${r.local == null ? "not sold" : fmt(r.k, r.local) + (r.k !== cur ? " ≈ " + fmt(cur, r.conv) : "")}</title>`;
@@ -332,7 +338,7 @@ function render(){
 
   const fxDate = P.fx ? new Date(P.fx.date + "T00:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"}) : "";
   $("note").textContent = (P.fx ? `Converted from each local Apple Store price at exchange rates from ${fxDate} (${P.fx.source}). ` : "")
-    + "US and Canada prices exclude sales tax; the other six include VAT, GST or consumption tax, so they look higher than the price before tax. "
+    + `${ORDER.filter(k => P.countries[k].tax === "excluded").map(k => P.countries[k].short).join(" and ")} prices exclude sales tax; all other countries include VAT, GST or similar taxes, so they look higher than a price before tax. `
     + `Prices checked ${new Date(P.updated + "T00:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"})}.`;
 }
 

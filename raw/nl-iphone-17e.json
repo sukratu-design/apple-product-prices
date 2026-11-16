@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:09.286Z",
+ "configs": {
+  "default": {
+   "total": 869,
+   "totalFrom": "summary",
+   "totalText": "€ 869,00 | € 869,00 | € 869,00",
+   "selected": {
+    "dimensionColor": "Zachtroze",
+    "dimensionCapacity": "256 GB Voetnoot 1 € 869,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Zachtroze",
+     "Wit",
+     "Zwart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Voetnoot 1 € 869,00",
+     "512 GB Voetnoot 1 € 1.119,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

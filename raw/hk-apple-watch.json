@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:05:59.972Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 3199,
+   "totalFrom": "summary",
+   "totalText": "HK$3,199 | HK$3,199 | HK$3,199",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From HK$3,199",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From HK$3,199",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$3,199",
+    "rubber-style": "New colors Solo Loop HK$3,199 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$3,199",
+     "46mm From HK$3,599"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$3,199",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$3,999"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$3,199",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$3,199",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$3,599"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$3,199 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$3,199 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$3,199 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 3599,
+   "totalFrom": "summary",
+   "totalText": "HK$3,599 | HK$3,599 | HK$3,599",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From HK$3,599",
+    "watch_cases-dimensionConnection": "GPS Make calls and send messages with your iPhone nearby. From HK$3,599",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$3,599",
+    "rubber-style": "New colors Solo Loop HK$3,599 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$3,199",
+     "46mm From HK$3,599"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$3,599",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$4,399"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$3,599",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$3,599",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$3,999"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$3,599 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$3,599 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$3,599 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 3999,
+   "totalFrom": "summary",
+   "totalText": "HK$3,999 | HK$3,999 | HK$3,999",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "42mm From HK$3,199",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$3,999",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$3,999",
+    "rubber-style": "New colors Solo Loop HK$3,999 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$3,199",
+     "46mm From HK$3,599"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$3,199",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$3,999"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$3,999",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$3,999",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$4,399"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$3,999 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$3,999 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$3,999 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 4399,
+   "totalFrom": "summary",
+   "totalText": "HK$4,399 | HK$4,399 | HK$4,399",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "New Dark Bronze",
+    "watch_cases-dimensionCaseSize": "46mm From HK$3,599",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$4,399",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$4,399",
+    "rubber-style": "New colors Solo Loop HK$4,399 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "New Dark Bronze",
+     "New Light Gold",
+     "New Black",
+     "Space Gray"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$3,199",
+     "46mm From HK$3,599"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby. From HK$3,599",
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$4,399"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$4,399",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$4,399",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$4,799"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$4,399 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$4,399 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$4,399 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 5799,
+   "totalFrom": "summary",
+   "totalText": "HK$5,799 | HK$5,799 | HK$5,799",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "42mm From HK$5,799",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$5,799",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$5,799",
+    "rubber-style": "New colors Solo Loop HK$5,799 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$5,799",
+     "46mm From HK$6,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$5,799"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$5,799",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$5,799",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$6,199"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$5,799 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$5,799 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$5,799 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 6199,
+   "totalFrom": "summary",
+   "totalText": "HK$6,199 | HK$6,199 | HK$6,199",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+    "titanium-watch_cases-dimensionColor": "New Radiant Gold",
+    "watch_cases-dimensionCaseSize": "46mm From HK$6,199",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$6,199",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$6,199",
+    "rubber-style": "New colors Solo Loop HK$6,199 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "New Radiant Gold",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$5,799",
+     "46mm From HK$6,199"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$6,199"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$6,199",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$6,199",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$6,599"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$6,199 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$6,199 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$6,199 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 7599,
+   "totalFrom": "summary",
+   "totalText": "HK$7,599 | HK$7,599 | HK$7,599",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "42mm From HK$7,599",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$7,599",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$7,599",
+    "rubber-style": "New colors Solo Loop HK$7,599 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "New Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$7,599",
+     "46mm From HK$7,999"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$7,599"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$7,599",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$7,599",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$7,999"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$7,599 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$7,599 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$7,599 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 7999,
+   "totalFrom": "summary",
+   "totalText": "HK$7,999 | HK$7,999 | HK$7,999",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display.",
+    "ceramic-watch_cases-dimensionColor": "New Pearl White",
+    "watch_cases-dimensionCaseSize": "46mm From HK$7,999",
+    "watch_cases-dimensionConnection": "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$7,999",
+    "category": "Rubber Flexible, comfortable, swimproof bands. HK$7,999",
+    "rubber-style": "New colors Solo Loop HK$7,999 Stretchable, closure-free, precise fit",
+    "rubber-sololoop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "New finishes Aluminum Choice of GPS or GPS + Cellular From HK$3,199 Matte finish and a durable display with Ceramic Shield 2.",
+     "New finish Titanium Comes with GPS + Cellular From HK$5,799 Polished aerospace-grade titanium with a durable sapphire crystal display.",
+     "New Ceramic Comes with GPS + Cellular From HK$7,599 Sophisticated and scratch resistant with a rich, polished finish and a durable sapphire crystal display."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "New Pearl White",
+     "New Night Blue"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42mm From HK$7,599",
+     "46mm From HK$7,999"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Make calls and send messages with just your Apple Watch. A GPS + Cellular model is required to use Apple Watch For Your Kids. From HK$7,999"
+    ],
+    "category": [
+     "Rubber Flexible, comfortable, swimproof bands. HK$7,999",
+     "Textile Soft, lightweight materials. Great for everyday wear. From HK$7,999",
+     "Stainless Steel Meticulously crafted steel designs for a sophisticated, upscale look. From HK$8,399"
+    ],
+    "rubber-style": [
+     "New colors Solo Loop HK$7,999 Stretchable, closure-free, precise fit",
+     "New colors Sport Band HK$7,999 Durable, pin-and-tuck closure, adjustable",
+     "New colors Nike Sport Band HK$7,999 Breathable, pin-and-tuck closure, adjustable"
+    ],
+    "rubber-sololoop-color": [
+     "Burgundy",
+     "Olive",
+     "Navy Blue",
+     "Wildflower Blue",
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Make calls and send messages with your iPhone nearby."
+    ]
+   }
+  }
+ }
+}

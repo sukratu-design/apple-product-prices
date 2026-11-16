@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:31.608Z",
+ "configs": {
+  "2port": {
+   "total": 49900,
+   "totalFrom": "summary",
+   "totalText": "NT$49,900 | NT$49,900",
+   "selected": {
+    "chassis-dimensionColor": "藍色",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 晶片配備兩個 Thunderbolt 埠 10 核心 CPU、10 核心 GPU、雙 16 核心神經網路引擎 NT$49,900 起",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "256GB 已配備",
+    "chassis-dimensionStandType": "立架 擺放於桌面上，可調整俯仰角度。 已配備",
+    "ethernet_adapter-ethernetPortCount": "無乙太網路 僅透過 Wi-Fi 網路連線。 已配備",
+    "mouse_and_track_pad-pointingDeviceType": "巧控滑鼠 支援滑動和捲動等多點觸控手勢。 已配備",
+    "keyboard-keyboardFormFactor": "巧控鍵盤 極為精巧的無邊設計。 已配備"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "藍色",
+     "紫色",
+     "粉紅色",
+     "橙色",
+     "黃色",
+     "綠色",
+     "銀色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 晶片配備兩個 Thunderbolt 埠 10 核心 CPU、10 核心 GPU、雙 16 核心神經網路引擎 NT$49,900 起",
+     "M6 晶片配備四個 Thunderbolt 埠 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$57,900 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備",
+     "24GB + NT$7,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 已配備",
+     "512GB + NT$7,000",
+     "1TB + NT$17,500"
+    ],
+    "chassis-dimensionStandType": [
+     "立架 擺放於桌面上，可調整俯仰角度。 已配備",
+     "VESA 吊架連接器 內建設計，方便你固定於牆壁或可調式懸臂上。"
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "無乙太網路 僅透過 Wi-Fi 網路連線。 已配備",
+     "2.5 Gigabit 乙太網路埠 標準網路功能，連結速度最快可達 2.5Gb。 + NT$900"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "巧控滑鼠 支援滑動和捲動等多點觸控手勢。 已配備",
+     "巧控板 支援完整的多點觸控手勢與力度觸控技術。 + NT$1,500"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "巧控鍵盤 極為精巧的無邊設計。 已配備",
+     "含 Touch ID 和數字鍵盤的巧控鍵盤 延伸鍵盤布局，具備導覽控制鍵。使用你的指紋，提供快速，簡單的認證方式。 + NT$2,300"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 57900,
+   "totalFrom": "summary",
+   "totalText": "NT$57,900 | NT$57,900",
+   "selected": {
+    "chassis-dimensionColor": "藍色",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 晶片配備四個 Thunderbolt 埠 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$57,900 起",
+    "memory-dimensionMemory": "16GB 已配備",
+    "storage-dimensionCapacity": "256GB 已配備",
+    "display-dimensionFinish": "標準玻璃 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+    "chassis-dimensionStandType": "立架 擺放於桌面上，可調整俯仰角度。 已配備",
+    "mouse_and_track_pad-pointingDeviceType": "巧控滑鼠 支援滑動和捲動等多點觸控手勢。 已配備",
+    "keyboard-keyboardFormFactor": "含 Touch ID 的巧控鍵盤 使用你的指紋，提供快速，簡單的認證方式。 已配備"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "藍色",
+     "紫色",
+     "粉紅色",
+     "橙色",
+     "黃色",
+     "綠色",
+     "銀色"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 晶片配備兩個 Thunderbolt 埠 10 核心 CPU、10 核心 GPU、雙 16 核心神經網路引擎 NT$49,900 起",
+     "M6 晶片配備四個 Thunderbolt 埠 12 核心 CPU、12 核心 GPU、雙 16 核心神經網路引擎 NT$57,900 起"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已配備",
+     "24GB + NT$7,000",
+     "32GB + NT$14,000"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 已配備",
+     "512GB + NT$7,000",
+     "1TB + NT$17,500",
+     "2TB + NT$35,000"
+    ],
+    "display-dimensionFinish": [
+     "標準玻璃 精心打造，具備極低的反射率，能在各種環境下減少眩光。 已配備",
+     "奈米紋理玻璃 進一步減少強光環境造成的反射與眩光。僅適用於四個連接埠的機型。 + NT$7,000"
+    ],
+    "chassis-dimensionStandType": [
+     "立架 擺放於桌面上，可調整俯仰角度。 已配備",
+     "VESA 吊架連接器 內建設計，方便你固定於牆壁或可調式懸臂上。"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "巧控滑鼠 支援滑動和捲動等多點觸控手勢。 已配備",
+     "巧控板 支援完整的多點觸控手勢與力度觸控技術。 + NT$1,500"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "含 Touch ID 的巧控鍵盤 使用你的指紋，提供快速，簡單的認證方式。 已配備",
+     "含 Touch ID 和數字鍵盤的巧控鍵盤 延伸鍵盤布局，具備導覽控制鍵。使用你的指紋，提供快速，簡單的認證方式。 + NT$900"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

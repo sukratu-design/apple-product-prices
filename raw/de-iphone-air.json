@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:04.055Z",
+ "configs": {
+  "default": {
+   "total": 1299,
+   "totalFrom": "summary",
+   "totalText": "1.299 € oder 54,12 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ② | 1.299 € oder 54,12 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ②",
+   "selected": {
+    "dimensionColor": "Himmelblau",
+    "dimensionCapacity": "256 GB Fußnote 1 1.299,00 € oder 54,12 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+   },
+   "options": {
+    "dimensionColor": [
+     "Himmelblau",
+     "Wolkenweiß",
+     "Space Schwarz",
+     "Lichtgold"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.299,00 € oder 54,12 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "512 GB Fußnote 1 1.549,00 € oder 64,54 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "1TB Fußnote 1 2.049,00 € oder 85,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

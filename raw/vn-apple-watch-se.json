@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:09:47.075Z",
+ "configs": {
+  "40-gps": {
+   "total": 6999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 6.999.000đ",
+   "selected": {
+    "watch_cases-dimensionColor": "Đêm Xanh Thẳm",
+    "watch_cases-dimensionCaseSize": "40 mm Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Đêm Xanh Thẳm",
+     "Ánh Sao"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "44 mm Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 7849000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 7.849.000đ",
+   "selected": {
+    "watch_cases-dimensionColor": "Đêm Xanh Thẳm",
+    "watch_cases-dimensionCaseSize": "44 mm Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Đêm Xanh Thẳm",
+     "Ánh Sao"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "44 mm Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 6999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 6.999.000đ",
+   "selected": {
+    "watch_cases-dimensionColor": "Đêm Xanh Thẳm",
+    "watch_cases-dimensionCaseSize": "40 mm Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Đêm Xanh Thẳm",
+     "Ánh Sao"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "44 mm Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 9.999.000đ hoặc 407.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 8.499.000đ hoặc 346.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 9349000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 9.349.000đ",
+   "selected": {
+    "watch_cases-dimensionColor": "Đêm Xanh Thẳm",
+    "watch_cases-dimensionCaseSize": "44 mm Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+    "watch_cases-dimensionConnection": "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng",
+    "category": "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng",
+    "rubber-style": "Các Màu Mới Vòng Solo 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+    "rubber-sololoop-color": "Đỏ Burgundy",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Đêm Xanh Thẳm",
+     "Ánh Sao"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Từ 6.999.000đ hoặc 285.000đ/tháng mỗi tháng trong 24 tháng",
+     "44 mm Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Gọi điện và gửi tin nhắn với iPhone gần bạn. Từ 7.849.000đ hoặc 320.000đ/tháng mỗi tháng trong 24 tháng",
+     "GPS + Cellular Gọi điện và gửi tin nhắn chỉ với Apple Watch. Từ 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "category": [
+     "Cao Su Dây đeo mềm dẻo, thoải mái, chống nước khi bơi. 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng",
+     "Vải Dệt Vật liệu mềm và nhẹ. Lựa chọn tuyệt vời để đeo hàng ngày. Từ 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng",
+     "Thép Không Gỉ Thiết kế thép được chế tác thủ công tỉ mỉ cho vẻ ngoài tinh tế, cao cấp. Từ 10.849.000đ hoặc 442.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "rubber-style": [
+     "Các Màu Mới Vòng Solo 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng Có thể co giãn, không có khóa, vừa khít",
+     "Các Màu Mới Dây Đeo Thể Thao 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng Bền, có khóa cài và chốt, có thể điều chỉnh",
+     "Các Màu Mới Dây Đeo Thể Thao Nike 9.349.000đ hoặc 381.000đ/tháng mỗi tháng trong 24 tháng Thoáng khí, có khóa cài và chốt, có thể điều chỉnh"
+    ],
+    "rubber-sololoop-color": [
+     "Đỏ Burgundy",
+     "Xanh Ô-liu",
+     "Xanh Navy",
+     "Xanh Hoa Dại",
+     "Đen"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:02.543Z",
+ "configs": {
+  "default": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "999 € oder 41,62 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ② | 999 € oder 41,62 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ②",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6,1\" Display Fußnote 1Kommt mit 128 GB Speicher Ab 999 € oder 41,62 €/Rate pro Rate bei 24 RatenRaten mit 0 % eff. Zins p.a.eff. Zins p.a. Fußnote ②",
+    "dimensionColor": "Ultramarin"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6,1\" Display Fußnote 1Kommt mit 128 GB Speicher Ab 999 € oder 41,62 €/Rate pro Rate bei 24 RatenRaten mit 0 % eff. Zins p.a.eff. Zins p.a. Fußnote ②"
+    ],
+    "dimensionColor": [
+     "Ultramarin",
+     "Blaugrün",
+     "Weiß",
+     "Pink",
+     "Schwarz"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

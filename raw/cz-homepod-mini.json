@@ -1,0 +1,11 @@
+{
+ "page": "homepod-mini",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:27:48.088Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/cz/)"
+  }
+ }
+}

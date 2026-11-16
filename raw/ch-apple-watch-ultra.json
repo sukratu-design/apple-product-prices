@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "ch",
+ "url": "https://www.apple.com/ch-de/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:13.930Z",
+ "configs": {
+  "band": {
+   "total": 749,
+   "totalFrom": "summary",
+   "totalText": "CHF 749.00 | CHF 749.00 | CHF 749.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Schwarz",
+    "style": "Neue Farben Alpine Loop Für Outdoor-Abenteuer und Wanderungen. CHF 749.00",
+    "alpineloop-color": "Burgunder",
+    "watch_bands-dimensionbandsize": "Small Armband für 130–160 mm Umfang."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Schwarz",
+     "Natur"
+    ],
+    "style": [
+     "Neue Farben Alpine Loop Für Outdoor-Abenteuer und Wanderungen. CHF 749.00",
+     "Neue Farben Trail Loop Für alle Sportarten und Workouts. CHF 749.00",
+     "Neue Farben Ocean Armband Für Wassersport­arten und Sporttauchen. CHF 749.00",
+     "Milanaise Armband Titan Entwickelt für Wassersport und gleichzeitig bei jedem Anlass elegant. CHF 849.00"
+    ],
+    "alpineloop-color": [
+     "Burgunder",
+     "Dunkeloliv",
+     "Wüstensand"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Armband für 130–160 mm Umfang.",
+     "Medium Armband für 145–190 mm Umfang.",
+     "Large Armband für 165–210 mm Umfang."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "CHF 849.00 | CHF 849.00 | CHF 849.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Schwarz",
+    "style": "Milanaise Armband Titan Entwickelt für Wassersport und gleichzeitig bei jedem Anlass elegant. CHF 849.00",
+    "ti_milaneseloop-color": "Schwarz",
+    "watch_bands-dimensionbandsize": "Small Armband für 130–160 mm Umfang."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Schwarz",
+     "Natur"
+    ],
+    "style": [
+     "Neue Farben Alpine Loop Für Outdoor-Abenteuer und Wanderungen. CHF 749.00",
+     "Neue Farben Trail Loop Für alle Sportarten und Workouts. CHF 749.00",
+     "Neue Farben Ocean Armband Für Wassersport­arten und Sporttauchen. CHF 749.00",
+     "Milanaise Armband Titan Entwickelt für Wassersport und gleichzeitig bei jedem Anlass elegant. CHF 849.00"
+    ],
+    "ti_milaneseloop-color": [
+     "Schwarz"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Armband für 130–160 mm Umfang.",
+     "Medium Armband für 155–185 mm Umfang.",
+     "Large Armband für 180–210 mm Umfang."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

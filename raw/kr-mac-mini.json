@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:55:05.592Z",
+ "configs": {
+  "m6": {
+   "total": 1499000,
+   "totalFrom": "summary",
+   "totalText": "₩1,499,000 | ₩1,499,000",
+   "selected": {
+    "processor-dimensionChip": "M6 칩 차원이 다른 성능으로 일상의 개인적인 업무와 전문적인 작업은 물론 창의적인 일도 쏜살같이. 12코어 CPU, 12코어 GPU 듀얼 16코어 Neural Engine ₩1,499,000부터",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "포함",
+    "memory-dimensionMemory": "16GB 포함",
+    "storage-dimensionCapacity": "256GB 포함",
+    "ethernet_adapter-ethernetBandwidth": "2.5 기가비트 이더넷 최대 2.5Gb 링크 속도의 표준 네트워킹. 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 칩 차원이 다른 성능으로 일상의 개인적인 업무와 전문적인 작업은 물론 창의적인 일도 쏜살같이. 12코어 CPU, 12코어 GPU 듀얼 16코어 Neural Engine ₩1,499,000부터",
+     "M5 Pro 칩 고사양 워크플로도 너끈한 더욱 강력한 성능과 더 큰 용량의 메모리 옵션. 16코어 Neural Engine을 탑재한 2개 옵션 ₩2,990,000부터"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "포함"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 포함",
+     "24GB ₩340,000 +",
+     "32GB ₩680,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB 포함",
+     "512GB ₩340,000 +",
+     "1TB ₩850,000 +",
+     "2TB ₩1,700,000 +"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 기가비트 이더넷 최대 2.5Gb 링크 속도의 표준 네트워킹. 포함",
+     "10 기가비트 이더넷 최대 10Gb 링크 속도의 더욱 높은 연결 대역폭. ₩170,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2990000,
+   "totalFrom": "summary",
+   "totalText": "₩2,990,000 | ₩2,990,000",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro 칩 고사양 워크플로도 너끈한 더욱 강력한 성능과 더 큰 용량의 메모리 옵션. 16코어 Neural Engine을 탑재한 2개 옵션 ₩2,990,000부터",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15코어 CPU, 16코어 GPU 포함",
+    "memory-dimensionMemory": "24GB 포함",
+    "storage-dimensionCapacity": "512GB 포함",
+    "ethernet_adapter-ethernetBandwidth": "2.5 기가비트 이더넷 최대 2.5Gb 링크 속도의 표준 네트워킹. 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 칩 차원이 다른 성능으로 일상의 개인적인 업무와 전문적인 작업은 물론 창의적인 일도 쏜살같이. 12코어 CPU, 12코어 GPU 듀얼 16코어 Neural Engine ₩1,499,000부터",
+     "M5 Pro 칩 고사양 워크플로도 너끈한 더욱 강력한 성능과 더 큰 용량의 메모리 옵션. 16코어 Neural Engine을 탑재한 2개 옵션 ₩2,990,000부터"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15코어 CPU, 16코어 GPU 포함",
+     "18코어 CPU, 20코어 GPU 훨씬 빠른 프로세싱 및 그래픽 렌더링 속도로 대규모 언어 모델 구동과 8K 동영상 편집 같은 작업도 척척. ₩340,000 +"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 포함",
+     "48GB ₩1,020,000 +",
+     "64GB ₩1,700,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 포함",
+     "1TB ₩510,000 +",
+     "2TB ₩1,360,000 +",
+     "4TB ₩3,060,000 +",
+     "8TB ₩6,460,000 +"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 기가비트 이더넷 최대 2.5Gb 링크 속도의 표준 네트워킹. 포함",
+     "10 기가비트 이더넷 최대 10Gb 링크 속도의 더욱 높은 연결 대역폭. ₩170,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 3330000,
+   "totalFrom": "summary",
+   "totalText": "₩3,330,000 | ₩3,330,000",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro 칩 고사양 워크플로도 너끈한 더욱 강력한 성능과 더 큰 용량의 메모리 옵션. 16코어 Neural Engine을 탑재한 2개 옵션 ₩2,990,000부터",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18코어 CPU, 20코어 GPU 훨씬 빠른 프로세싱 및 그래픽 렌더링 속도로 대규모 언어 모델 구동과 8K 동영상 편집 같은 작업도 척척.",
+    "memory-dimensionMemory": "24GB 포함",
+    "storage-dimensionCapacity": "512GB 포함",
+    "ethernet_adapter-ethernetBandwidth": "2.5 기가비트 이더넷 최대 2.5Gb 링크 속도의 표준 네트워킹. 포함"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M6 칩 차원이 다른 성능으로 일상의 개인적인 업무와 전문적인 작업은 물론 창의적인 일도 쏜살같이. 12코어 CPU, 12코어 GPU 듀얼 16코어 Neural Engine ₩1,499,000부터",
+     "M5 Pro 칩 고사양 워크플로도 너끈한 더욱 강력한 성능과 더 큰 용량의 메모리 옵션. 16코어 Neural Engine을 탑재한 2개 옵션 ₩2,990,000부터"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15코어 CPU, 16코어 GPU ₩340,000 −",
+     "18코어 CPU, 20코어 GPU 훨씬 빠른 프로세싱 및 그래픽 렌더링 속도로 대규모 언어 모델 구동과 8K 동영상 편집 같은 작업도 척척."
+    ],
+    "memory-dimensionMemory": [
+     "24GB 포함",
+     "48GB ₩1,020,000 +",
+     "64GB ₩1,700,000 +"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 포함",
+     "1TB ₩510,000 +",
+     "2TB ₩1,360,000 +",
+     "4TB ₩3,060,000 +",
+     "8TB ₩6,460,000 +"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2.5 기가비트 이더넷 최대 2.5Gb 링크 속도의 표준 네트워킹. 포함",
+     "10 기가비트 이더넷 최대 10Gb 링크 속도의 더욱 높은 연결 대역폭. ₩170,000 +"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

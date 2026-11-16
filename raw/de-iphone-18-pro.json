@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "de",
+ "url": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:28.640Z",
+ "configs": {
+  "pro": {
+   "total": 1449,
+   "totalFrom": "summary",
+   "totalText": "1.449 € oder 60,38 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ② | 1.449 € oder 60,38 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ②",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab 1.449 € oder 60,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+    "dimensionColor": "Burgunder",
+    "dimensionCapacity": "256 GB Fußnote 1 1.449,00 € oder 60,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab 1.449 € oder 60,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab 1.599 € oder 66,62 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ],
+    "dimensionColor": [
+     "Burgunder",
+     "Polar",
+     "Silber",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.449,00 € oder 60,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "512 GB Fußnote 1 1.699,00 € oder 70,79 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "1TB Fußnote 1 2.199,00 € oder 91,62 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "2TB Fußnote 1 2.949,00 € oder 122,88 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1599,
+   "totalFrom": "summary",
+   "totalText": "1.599 € oder 66,62 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ② | 1.599 € oder 66,62 €/Rate pro Rate bei 24 Raten mit 0 % eff. Zins p.a. Fußnote ②",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab 1.599 € oder 66,62 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+    "dimensionColor": "Burgunder",
+    "dimensionCapacity": "256 GB Fußnote 1 1.599,00 € oder 66,62 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" Display Fußnote 2 Ab 1.449 € oder 60,38 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "iPhone 18 Pro Max 6,9\" Display Fußnote 2 Ab 1.599 € oder 66,62 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ],
+    "dimensionColor": [
+     "Burgunder",
+     "Polar",
+     "Silber",
+     "Schwarz"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fußnote 1 1.599,00 € oder 66,62 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "512 GB Fußnote 1 1.849,00 € oder 77,04 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "1TB Fußnote 1 2.349,00 € oder 97,88 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②",
+     "2TB Fußnote 1 3.099,00 € oder 129,12 €/Rate pro Rate bei 24 Raten Raten mit 0 % eff. Zins p.a. eff. Zins p.a. Fußnote ②"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

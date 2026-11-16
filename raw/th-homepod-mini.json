@@ -1,0 +1,26 @@
+{
+ "page": "homepod-mini",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:31:06.895Z",
+ "configs": {
+  "default": {
+   "total": 5200,
+   "totalFrom": "summary",
+   "totalText": "฿690.00 | ฿5,200.00",
+   "selected": {
+    "dimensionColor": "ขาว"
+   },
+   "options": {
+    "dimensionColor": [
+     "ขาว",
+     "ชมพู",
+     "ฟ้า",
+     "เขียว",
+     "มิดไนท์"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

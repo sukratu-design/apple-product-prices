@@ -1,0 +1,140 @@
+{
+ "page": "macbook-air",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:42:25.077Z",
+ "configs": {
+  "15": {
+   "total": 34999,
+   "totalFrom": "summary",
+   "totalText": "$34,999 de contado o 18 MSI desde $1,944.39. Nota al pie ∆ | $34,999 de contado o 18 MSI desde $1,944.39. Nota al pie ∆",
+   "selected": {
+    "chassis-dimensionScreensize": "15 pulgadas Desde $34,999 de contado o 18 MSI desde $1,944.39.",
+    "chassis-dimensionColor": "Azul cielo",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos para las tareas más exigentes como juegos avanzados y trabajo creativo. Desde $34,999 de contado o 18 MSI desde $1,944.39.",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido",
+    "power_adapter-wattage": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W Compacto y con hasta 60 W de potencia de carga. Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pulgadas Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+     "15 pulgadas Desde $34,999 de contado o 18 MSI desde $1,944.39."
+    ],
+    "chassis-dimensionColor": [
+     "Azul cielo",
+     "Color plata",
+     "Blanco estelar",
+     "Color medianoche"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos para las tareas más exigentes como juegos avanzados y trabajo creativo. Desde $34,999 de contado o 18 MSI desde $1,944.39."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $5,000.00",
+     "32 GB + $10,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $7,500.00",
+     "2 TB + $20,000.00",
+     "4 TB + $45,000.00"
+    ],
+    "power_adapter-wattage": [
+     "Adaptador de corriente dinámico de 40 W con un máximo de 60 W Compacto y con hasta 60 W de potencia de carga. Incluido",
+     "Dos puertos USB‑C de 35 W Tamaño compacto con dos puertos para cargar dos dispositivos al mismo tiempo. + $450.00",
+     "USB-C de 70 W Carga rápida de hasta un 50% en aproximadamente 30 minutos. + $450.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 29999,
+   "totalFrom": "summary",
+   "totalText": "$29,999 de contado o 18 MSI desde $1,666.61. Nota al pie ∆ | $29,999 de contado o 18 MSI desde $1,666.61. Nota al pie ∆",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pulgadas Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+    "chassis-dimensionColor": "Azul cielo",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Más velocidad y fluidez en todo lo que hagas. Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido",
+    "power_adapter-wattage": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W Compacto y con hasta 60 W de potencia de carga. Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pulgadas Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+     "15 pulgadas Desde $34,999 de contado o 18 MSI desde $1,944.39."
+    ],
+    "chassis-dimensionColor": [
+     "Azul cielo",
+     "Color plata",
+     "Blanco estelar",
+     "Color medianoche"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Más velocidad y fluidez en todo lo que hagas. Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos para las tareas más exigentes como juegos avanzados y trabajo creativo. Desde $32,499 de contado o 18 MSI desde $1,805.50."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido"
+    ],
+    "power_adapter-wattage": [
+     "Adaptador de corriente dinámico de 40 W con un máximo de 60 W Compacto y con hasta 60 W de potencia de carga. Incluido",
+     "Dos puertos USB‑C de 35 W Tamaño compacto con dos puertos para cargar dos dispositivos al mismo tiempo. + $450.00",
+     "USB-C de 70 W Carga rápida de hasta un 50% en aproximadamente 30 minutos. + $450.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 37499,
+   "totalFrom": "summary",
+   "totalText": "$37,499 de contado o 18 MSI desde $2,083.28. Nota al pie ∆ | $37,499 de contado o 18 MSI desde $2,083.28. Nota al pie ∆",
+   "selected": {
+    "chassis-dimensionScreensize": "13 pulgadas Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+    "chassis-dimensionColor": "Azul cielo",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos para las tareas más exigentes como juegos avanzados y trabajo creativo. Desde $32,499 de contado o 18 MSI desde $1,805.50.",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "1 TB",
+    "power_adapter-wattage": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W Compacto y con hasta 60 W de potencia de carga. Incluido"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 pulgadas Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+     "15 pulgadas Desde $34,999 de contado o 18 MSI desde $1,944.39."
+    ],
+    "chassis-dimensionColor": [
+     "Azul cielo",
+     "Color plata",
+     "Blanco estelar",
+     "Color medianoche"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU de 10 núcleos, GPU de 8 núcleos, Neural Engine de 16 núcleos Más velocidad y fluidez en todo lo que hagas. Desde $29,999 de contado o 18 MSI desde $1,666.61.",
+     "CPU de 10 núcleos, GPU de 10 núcleos, Neural Engine de 16 núcleos Impulsa la velocidad de procesamiento y renderización de gráficos para las tareas más exigentes como juegos avanzados y trabajo creativo. Desde $32,499 de contado o 18 MSI desde $1,805.50."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $5,000.00",
+     "32 GB + $10,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − $7,500.00",
+     "1 TB",
+     "2 TB + $12,500.00",
+     "4 TB + $37,500.00"
+    ],
+    "power_adapter-wattage": [
+     "Adaptador de corriente dinámico de 40 W con un máximo de 60 W Compacto y con hasta 60 W de potencia de carga. Incluido",
+     "Dos puertos USB‑C de 35 W Tamaño compacto con dos puertos para cargar dos dispositivos al mismo tiempo. + $450.00",
+     "USB-C de 70 W Carga rápida de hasta un 50% en aproximadamente 30 minutos. + $450.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

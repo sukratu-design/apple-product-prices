@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:54.481Z",
+ "configs": {
+  "2port": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "NZ$2,999.00 | NZ$2,999.00",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with two Thunderbolt ports 10-core CPU, 10-core GPU, Dual 16-core Neural Engine From NZ$2,999",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "chassis-dimensionStandType": "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+    "ethernet_adapter-ethernetPortCount": "No Ethernet Connect only through a Wi‑Fi network. Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultracompact, edge-to-edge design. Included"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blue",
+     "Purple",
+     "Pink",
+     "Orange",
+     "Yellow",
+     "Green",
+     "Silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip with two Thunderbolt ports 10-core CPU, 10-core GPU, Dual 16-core Neural Engine From NZ$2,999",
+     "M6 chip with four Thunderbolt ports 12-core CPU, 12-core GPU, Dual 16-core Neural Engine From NZ$3,499"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + NZ$400.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + NZ$400.00",
+     "1TB + NZ$1,000.00"
+    ],
+    "chassis-dimensionStandType": [
+     "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+     "VESA Mount Adapter Built in so you can mount to a wall or an adjustable arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "No Ethernet Connect only through a Wi‑Fi network. Included",
+     "2.5 Gigabit Ethernet port Standard networking, up to 2.5Gb link speeds. + NZ$50.00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+     "Magic Trackpad Supports full range of Multi-Touch gestures and Force Touch technology. + NZ$60.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultracompact, edge-to-edge design. Included",
+     "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + NZ$100.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "NZ$3,499.00 | NZ$3,499.00",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with four Thunderbolt ports 12-core CPU, 12-core GPU, Dual 16-core Neural Engine From NZ$3,499",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "display-dimensionFinish": "Standard glass Engineered for low reflectivity to reduce glare in your environment. Included",
+    "chassis-dimensionStandType": "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Blue",
+     "Purple",
+     "Pink",
+     "Orange",
+     "Yellow",
+     "Green",
+     "Silver"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6 chip with two Thunderbolt ports 10-core CPU, 10-core GPU, Dual 16-core Neural Engine From NZ$2,999",
+     "M6 chip with four Thunderbolt ports 12-core CPU, 12-core GPU, Dual 16-core Neural Engine From NZ$3,499"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + NZ$400.00",
+     "32GB + NZ$800.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Included",
+     "512GB + NZ$400.00",
+     "1TB + NZ$1,000.00",
+     "2TB + NZ$2,000.00"
+    ],
+    "display-dimensionFinish": [
+     "Standard glass Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture glass Further reduces reflections and glare in bright lighting conditions. Available with four-port model only. + NZ$400.00"
+    ],
+    "chassis-dimensionStandType": [
+     "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+     "VESA Mount Adapter Built in so you can mount to a wall or an adjustable arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+     "Magic Trackpad Supports full range of Multi-Touch gestures and Force Touch technology. + NZ$60.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included",
+     "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + NZ$50.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

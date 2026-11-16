@@ -1,0 +1,29 @@
+{
+ "page": "iphone-17e",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:46.818Z",
+ "configs": {
+  "default": {
+   "total": 21999000,
+   "totalFrom": "summary",
+   "totalText": "Tổng cộng 21.999.000đ",
+   "selected": {
+    "dimensionColor": "Hồng Phai",
+    "dimensionCapacity": "256GB Chú thích 1 21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Hồng Phai",
+     "Trắng",
+     "Đen"
+    ],
+    "dimensionCapacity": [
+     "256GB Chú thích 1 21.999.000đ hoặc 896.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆",
+     "512GB Chú thích 1 28.499.000đ hoặc 1.160.000đ/tháng mỗi tháng trong 24 tháng Chú thích ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

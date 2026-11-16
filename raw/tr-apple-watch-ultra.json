@@ -1,0 +1,72 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:29.731Z",
+ "configs": {
+  "band": {
+   "total": 75999,
+   "totalFrom": "summary",
+   "totalText": "75.999,00 TL | 75.999,00 TL | 75.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionColor": "Siyah",
+    "style": "Yeni Renk Seçenekleri Alpine Loop Açık hava maceraları ve doğa yürüyüşleri için. 75.999,00 TL",
+    "alpineloop-color": "Burgonya",
+    "watch_bands-dimensionbandsize": "Küçük Boy 130 - 160 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Siyah",
+     "Natürel"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Alpine Loop Açık hava maceraları ve doğa yürüyüşleri için. 75.999,00 TL",
+     "Yeni Renk Seçenekleri Trail Loop Tüm spor ve antrenman çeşitleri için. 75.999,00 TL",
+     "Yeni Renk Seçenekleri Ocean Kordon Su sporları ve eğlence amaçlı dalışlar için. 75.999,00 TL",
+     "Titanyum Milano Loop Açık denizler için geliştirilen şık tasarım. 86.999,00 TL"
+    ],
+    "alpineloop-color": [
+     "Burgonya"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Küçük Boy 130 - 160 mm arası bilek ölçülerine uygundur.",
+     "Orta Boy 145 - 190 mm arası bilek ölçülerine uygundur.",
+     "Büyük Boy 165 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 86999,
+   "totalFrom": "summary",
+   "totalText": "86.999,00 TL | 86.999,00 TL | 86.999,00 TL",
+   "selected": {
+    "watch_cases-dimensionColor": "Siyah",
+    "style": "Titanyum Milano Loop Açık denizler için geliştirilen şık tasarım. 86.999,00 TL",
+    "ti_milaneseloop-color": "Siyah",
+    "watch_bands-dimensionbandsize": "Küçük Boy 130 - 160 mm arası bilek ölçülerine uygundur."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Siyah",
+     "Natürel"
+    ],
+    "style": [
+     "Yeni Renk Seçenekleri Alpine Loop Açık hava maceraları ve doğa yürüyüşleri için. 75.999,00 TL",
+     "Yeni Renk Seçenekleri Trail Loop Tüm spor ve antrenman çeşitleri için. 75.999,00 TL",
+     "Yeni Renk Seçenekleri Ocean Kordon Su sporları ve eğlence amaçlı dalışlar için. 75.999,00 TL",
+     "Titanyum Milano Loop Açık denizler için geliştirilen şık tasarım. 86.999,00 TL"
+    ],
+    "ti_milaneseloop-color": [
+     "Siyah"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Küçük Boy 130 - 160 mm arası bilek ölçülerine uygundur.",
+     "Orta Boy 155 - 185 mm arası bilek ölçülerine uygundur.",
+     "Büyük Boy 180 - 210 mm arası bilek ölçülerine uygundur."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

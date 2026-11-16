@@ -2,12 +2,12 @@
  "page": "apple-watch-ultra",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-watch/apple-watch-ultra",
- "scrapedAt": "2026-11-13T11:09:31.509Z",
+ "scrapedAt": "2026-11-16T13:10:36.315Z",
  "configs": {
   "band": {
    "total": 3199,
    "totalFrom": "summary",
-   "totalText": "AED 3,199.00",
+   "totalText": "AED 3,199.00 | AED 3,199.00 | AED 3,199.00",
    "selected": {
     "watch_cases-dimensionColor": "Black",
     "style": "New colors Alpine Loop For outdoor adventure and hiking. AED 3,199.00",
@@ -39,7 +39,7 @@
   "milanese": {
    "total": 3599,
    "totalFrom": "summary",
-   "totalText": "AED 3,599.00",
+   "totalText": "AED 3,599.00 | AED 3,599.00 | AED 3,599.00",
    "selected": {
     "watch_cases-dimensionColor": "Black",
     "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. AED 3,599.00",

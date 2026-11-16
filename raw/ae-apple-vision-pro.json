@@ -2,12 +2,12 @@
  "page": "apple-vision-pro",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-vision/apple-vision-pro",
- "scrapedAt": "2026-11-13T11:09:43.990Z",
+ "scrapedAt": "2026-11-16T13:11:18.279Z",
  "configs": {
   "default": {
    "total": 14999,
    "totalFrom": "summary",
-   "totalText": "From AED 14,999",
+   "totalText": "From AED 14,999 | From AED 14,999",
    "selected": {
     "apple_vision_pro_2025-dimensionCapacity": null
    },
@@ -16,9 +16,9 @@
    },
    "disabledOptions": {
     "apple_vision_pro_2025-dimensionCapacity": [
-     "256GB Footnote 2 From AED 14,999",
-     "512GB Footnote 2 From AED 15,799",
-     "1TB Footnote 2 From AED 16,999"
+     "256GB From AED 14,999",
+     "512GB From AED 15,799",
+     "1TB From AED 16,999"
     ]
    }
   }

@@ -2,16 +2,16 @@
  "page": "ipad",
  "country": "ca",
  "url": "https://www.apple.com/ca/shop/buy-ipad/ipad",
- "scrapedAt": "2026-11-13T11:06:01.890Z",
+ "scrapedAt": "2026-11-16T12:36:38.109Z",
  "configs": {
   "wifi": {
-   "total": 109,
+   "total": 649,
    "totalFrom": "summary",
-   "totalText": "$109.00",
+   "totalText": "$109.00 | $129.00 | $329.00 | $649.00",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $649.00 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
+    "dimensionCapacity": "128GB From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $649.00 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
     "acc_magic_keyboard": null,
@@ -29,13 +29,13 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "256GB Footnote 2 From $799 or $68.39/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "512GB Footnote 2 From $1079 or $92.36/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "128GB From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
+     "256GB From $799 or $68.39/mo. per month for 12 mo. months at 4.99% APR",
+     "512GB From $1079 or $92.36/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $649.00 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $849.00 or $72.67/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $649.00 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $849.00 or $72.67/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -266,13 +266,13 @@
    }
   },
   "cell": {
-   "total": 109,
+   "total": 849,
    "totalFrom": "summary",
-   "totalText": "$109.00",
+   "totalText": "$109.00 | $129.00 | $329.00 | $849.00",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $849.00 or $72.67/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
+    "dimensionCapacity": "128GB From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $849.00 or $72.67/mo. per month for 12 mo. months at 4.99% APR",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
     "acc_magic_keyboard": null,
@@ -290,13 +290,13 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "256GB Footnote 2 From $799 or $68.39/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "512GB Footnote 2 From $1079 or $92.36/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "128GB From $649 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
+     "256GB From $799 or $68.39/mo. per month for 12 mo. months at 4.99% APR",
+     "512GB From $1079 or $92.36/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $649.00 or $55.55/mo. per month for 12 mo. months at 4.99% APR Footnote ◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $849.00 or $72.67/mo. per month for 12 mo. months at 4.99% APR Footnote ◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. $649.00 or $55.55/mo. per month for 12 mo. months at 4.99% APR",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. $849.00 or $72.67/mo. per month for 12 mo. months at 4.99% APR"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",

@@ -1,0 +1,138 @@
+{
+ "page": "macbook-air",
+ "country": "th",
+ "url": "https://www.apple.com/th/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:59.156Z",
+ "configs": {
+  "15": {
+   "total": 54900,
+   "totalFrom": "summary",
+   "totalText": "฿54,900.00 | ฿54,900.00",
+   "selected": {
+    "chassis-dimensionScreensize": "รุ่น 15 นิ้ว เริ่มต้นที่ ฿54,900",
+    "chassis-dimensionColor": "สกายบลู",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU แบบ 10-core, GPU แบบ 10-core พร้อม Neural Engine แบบ 16-core เพิ่มพลังให้กับงานที่ต้องใช้ประสิทธิภาพสูง เช่น การเล่นเกมและงานสร้างสรรค์ ด้วยความเร็วในการประมวลผลและการเรนเดอร์กราฟิกที่มากขึ้น เริ่มต้นที่ ฿54,900",
+    "memory-dimensionMemory": "16GB มีมาให้",
+    "storage-dimensionCapacity": "512GB มีมาให้",
+    "power_adapter-wattage": "พอร์ต USB-C คู่ ขนาด 35 วัตต์ พอร์ตสองพอร์ตสำหรับชาร์จอุปกรณ์สองเครื่องพร้อมกัน มีมาให้"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "รุ่น 13 นิ้ว เริ่มต้นที่ ฿44,900",
+     "รุ่น 15 นิ้ว เริ่มต้นที่ ฿54,900"
+    ],
+    "chassis-dimensionColor": [
+     "สกายบลู",
+     "เงิน",
+     "สตาร์ไลท์",
+     "มิดไนท์"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 10-core, GPU แบบ 10-core พร้อม Neural Engine แบบ 16-core เพิ่มพลังให้กับงานที่ต้องใช้ประสิทธิภาพสูง เช่น การเล่นเกมและงานสร้างสรรค์ ด้วยความเร็วในการประมวลผลและการเรนเดอร์กราฟิกที่มากขึ้น เริ่มต้นที่ ฿54,900"
+    ],
+    "memory-dimensionMemory": [
+     "16GB มีมาให้",
+     "24GB + ฿7,000.00",
+     "32GB + ฿14,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB มีมาให้",
+     "1TB + ฿10,500.00",
+     "2TB + ฿28,000.00",
+     "4TB + ฿63,000.00"
+    ],
+    "power_adapter-wattage": [
+     "พอร์ต USB-C คู่ ขนาด 35 วัตต์ พอร์ตสองพอร์ตสำหรับชาร์จอุปกรณ์สองเครื่องพร้อมกัน มีมาให้",
+     "USB-C ขนาด 70 วัตต์ รองรับการชาร์จเร็วได้สูงสุด 50% ในประมาณ 30 นาที"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 44900,
+   "totalFrom": "summary",
+   "totalText": "฿44,900.00 | ฿44,900.00",
+   "selected": {
+    "chassis-dimensionScreensize": "รุ่น 13 นิ้ว เริ่มต้นที่ ฿44,900",
+    "chassis-dimensionColor": "สกายบลู",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU แบบ 10-core, GPU แบบ 8-core พร้อม Neural Engine แบบ 16-core มอบความรวดเร็วและลื่นไหลให้กับทุกสิ่งที่คุณทำ เริ่มต้นที่ ฿44,900",
+    "memory-dimensionMemory": "16GB มีมาให้",
+    "storage-dimensionCapacity": "512GB มีมาให้",
+    "power_adapter-wattage": "USB-C ขนาด 30 วัตต์ การชาร์จที่รวดเร็วและมีประสิทธิภาพ มีมาให้"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "รุ่น 13 นิ้ว เริ่มต้นที่ ฿44,900",
+     "รุ่น 15 นิ้ว เริ่มต้นที่ ฿54,900"
+    ],
+    "chassis-dimensionColor": [
+     "สกายบลู",
+     "เงิน",
+     "สตาร์ไลท์",
+     "มิดไนท์"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 10-core, GPU แบบ 8-core พร้อม Neural Engine แบบ 16-core มอบความรวดเร็วและลื่นไหลให้กับทุกสิ่งที่คุณทำ เริ่มต้นที่ ฿44,900",
+     "CPU แบบ 10-core, GPU แบบ 10-core พร้อม Neural Engine แบบ 16-core เพิ่มพลังให้กับงานที่ต้องใช้ประสิทธิภาพสูง เช่น การเล่นเกมและงานสร้างสรรค์ ด้วยความเร็วในการประมวลผลและการเรนเดอร์กราฟิกที่มากขึ้น เริ่มต้นที่ ฿48,400"
+    ],
+    "memory-dimensionMemory": [
+     "16GB มีมาให้"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB มีมาให้"
+    ],
+    "power_adapter-wattage": [
+     "USB-C ขนาด 30 วัตต์ การชาร์จที่รวดเร็วและมีประสิทธิภาพ มีมาให้",
+     "พอร์ต USB-C คู่ ขนาด 35 วัตต์ พอร์ตสองพอร์ตสำหรับชาร์จอุปกรณ์สองเครื่องพร้อมกัน + ฿400.00",
+     "USB-C ขนาด 70 วัตต์ รองรับการชาร์จเร็วได้สูงสุด 50% ในประมาณ 30 นาที + ฿400.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 55400,
+   "totalFrom": "summary",
+   "totalText": "฿55,400.00 | ฿55,400.00",
+   "selected": {
+    "chassis-dimensionScreensize": "รุ่น 13 นิ้ว เริ่มต้นที่ ฿44,900",
+    "chassis-dimensionColor": "สกายบลู",
+    "processor-cpuCoreCount-gpuCoreCount": "CPU แบบ 10-core, GPU แบบ 10-core พร้อม Neural Engine แบบ 16-core เพิ่มพลังให้กับงานที่ต้องใช้ประสิทธิภาพสูง เช่น การเล่นเกมและงานสร้างสรรค์ ด้วยความเร็วในการประมวลผลและการเรนเดอร์กราฟิกที่มากขึ้น เริ่มต้นที่ ฿48,400",
+    "memory-dimensionMemory": "16GB มีมาให้",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "พอร์ต USB-C คู่ ขนาด 35 วัตต์ พอร์ตสองพอร์ตสำหรับชาร์จอุปกรณ์สองเครื่องพร้อมกัน มีมาให้"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "รุ่น 13 นิ้ว เริ่มต้นที่ ฿44,900",
+     "รุ่น 15 นิ้ว เริ่มต้นที่ ฿54,900"
+    ],
+    "chassis-dimensionColor": [
+     "สกายบลู",
+     "เงิน",
+     "สตาร์ไลท์",
+     "มิดไนท์"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "CPU แบบ 10-core, GPU แบบ 8-core พร้อม Neural Engine แบบ 16-core มอบความรวดเร็วและลื่นไหลให้กับทุกสิ่งที่คุณทำ เริ่มต้นที่ ฿44,900",
+     "CPU แบบ 10-core, GPU แบบ 10-core พร้อม Neural Engine แบบ 16-core เพิ่มพลังให้กับงานที่ต้องใช้ประสิทธิภาพสูง เช่น การเล่นเกมและงานสร้างสรรค์ ด้วยความเร็วในการประมวลผลและการเรนเดอร์กราฟิกที่มากขึ้น เริ่มต้นที่ ฿48,400"
+    ],
+    "memory-dimensionMemory": [
+     "16GB มีมาให้",
+     "24GB + ฿7,000.00",
+     "32GB + ฿14,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − ฿10,500.00",
+     "1TB",
+     "2TB + ฿17,500.00",
+     "4TB + ฿52,500.00"
+    ],
+    "power_adapter-wattage": [
+     "พอร์ต USB-C คู่ ขนาด 35 วัตต์ พอร์ตสองพอร์ตสำหรับชาร์จอุปกรณ์สองเครื่องพร้อมกัน มีมาให้",
+     "USB-C ขนาด 70 วัตต์ รองรับการชาร์จเร็วได้สูงสุด 50% ในประมาณ 30 นาที"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

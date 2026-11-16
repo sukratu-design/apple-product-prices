@@ -1,0 +1,392 @@
+{
+ "page": "macbook-pro",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:50:30.246Z",
+ "configs": {
+  "14-m6": {
+   "total": 15999,
+   "totalFrom": "summary",
+   "totalText": "RMB 15,999 或 RMB 667/月 (24 期) 起 | RMB 15,999 或 RMB 667/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "新款 M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "已含",
+    "memory-dimensionMemory": "16GB 已含",
+    "storage-dimensionCapacity": "1TB 已含",
+    "power_adapter-wattage": "70W 外形小巧，充电高效。 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "新款 M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "已含"
+    ],
+    "memory-dimensionMemory": [
+     "16GB 已含",
+     "24GB + RMB 1,500",
+     "32GB + RMB 3,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已含",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250"
+    ],
+    "power_adapter-wattage": [
+     "70W 外形小巧，充电高效。 已含",
+     "140W 可快速充电，支持为 M5 Pro 和 M5 Max 芯片机型使用高电量模式。 + RMB 135"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 19999,
+   "totalFrom": "summary",
+   "totalText": "RMB 19,999 或 RMB 834/月 (24 期) 起 | RMB 19,999 或 RMB 834/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15 核中央处理器、16 核图形处理器 已含",
+    "memory-dimensionMemory": "24GB 已含",
+    "storage-dimensionCapacity": "1TB 已含",
+    "power_adapter-wattage": "70W 外形小巧，充电高效。 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "新款 M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核中央处理器、16 核图形处理器 已含",
+     "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可胜任游戏、编程和创意工作等繁重任务。 + RMB 2,250"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已含",
+     "48GB + RMB 4,500"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已含",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250"
+    ],
+    "power_adapter-wattage": [
+     "70W 外形小巧，充电高效。 已含",
+     "96W 可快速充电，支持为 M5 Pro 和 M5 Max 芯片机型使用高电量模式。 + RMB 135"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 22249,
+   "totalFrom": "summary",
+   "totalText": "RMB 22,249 或 RMB 928/月 (24 期) 起 | RMB 22,249 或 RMB 928/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可胜任游戏、编程和创意工作等繁重任务。",
+    "memory-dimensionMemory": "24GB 已含",
+    "storage-dimensionCapacity": "1TB 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "新款 M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15 核中央处理器、16 核图形处理器 − RMB 2,250",
+     "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可胜任游戏、编程和创意工作等繁重任务。"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已含",
+     "48GB + RMB 4,500",
+     "64GB + RMB 7,500"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已含",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 33999,
+   "totalFrom": "summary",
+   "totalText": "RMB 33,999 或 RMB 1417/月 (24 期) 起 | RMB 33,999 或 RMB 1417/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、32 核图形处理器 已含",
+    "memory-dimensionMemory": "36GB 已含",
+    "storage-dimensionCapacity": "2TB 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "新款 M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、32 核图形处理器 已含",
+     "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 + RMB 2,250 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB 已含"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已含",
+     "4TB + RMB 7,500",
+     "8TB + RMB 22,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 38499,
+   "totalFrom": "summary",
+   "totalText": "RMB 38,499 或 RMB 1605/月 (24 期) 起 | RMB 38,499 或 RMB 1605/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。",
+    "memory-dimensionMemory": "48GB 已含",
+    "storage-dimensionCapacity": "2TB 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "新款 M6 芯片 速度迅疾如飞，性能表现更上一层楼，处理日常个人事务、专业工作和进行各类创作，都得心应手。 12 核中央处理器、12 核图形处理器、双 16 核神经网络引擎 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 33,999 起 或 RMB 1417/月 (24 期) 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、32 核图形处理器 − RMB 2,250",
+     "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB 已含",
+     "64GB + RMB 3,000",
+     "128GB + RMB 15,000"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已含",
+     "4TB + RMB 7,500",
+     "8TB + RMB 22,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 24999,
+   "totalFrom": "summary",
+   "totalText": "RMB 24,999 或 RMB 1042/月 (24 期) 起 | RMB 24,999 或 RMB 1042/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 18 核中央处理器、20 核图形处理器、16 核神经网络引擎 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可胜任游戏、编程和创意工作等繁重任务。 已含",
+    "memory-dimensionMemory": "24GB 已含",
+    "storage-dimensionCapacity": "1TB 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 18 核中央处理器、20 核图形处理器、16 核神经网络引擎 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 35,999 起 或 RMB 1500/月 (24 期) 起"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、20 核图形处理器 处理性能和图形渲染速度进一步提升，可胜任游戏、编程和创意工作等繁重任务。 已含"
+    ],
+    "memory-dimensionMemory": [
+     "24GB 已含",
+     "48GB + RMB 4,500",
+     "64GB + RMB 7,500"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已含",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 35999,
+   "totalFrom": "summary",
+   "totalText": "RMB 35,999 或 RMB 1500/月 (24 期) 起 | RMB 35,999 或 RMB 1500/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 35,999 起 或 RMB 1500/月 (24 期) 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、32 核图形处理器 已含",
+    "memory-dimensionMemory": "36GB 已含",
+    "storage-dimensionCapacity": "2TB 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 18 核中央处理器、20 核图形处理器、16 核神经网络引擎 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 35,999 起 或 RMB 1500/月 (24 期) 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、32 核图形处理器 已含",
+     "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 + RMB 2,750 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB 已含"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已含",
+     "4TB + RMB 7,500",
+     "8TB + RMB 22,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 40999,
+   "totalFrom": "summary",
+   "totalText": "RMB 40,999 或 RMB 1709/月 (24 期) 起 | RMB 40,999 或 RMB 1709/月 (24 期) 起",
+   "selected": {
+    "chassis-dimensionScreensize": "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+    "chassis-dimensionColor": "深空黑色",
+    "display-dimensionFinish": "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+    "processor-dimensionChip": "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 35,999 起 或 RMB 1500/月 (24 期) 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。",
+    "memory-dimensionMemory": "48GB 已含",
+    "storage-dimensionCapacity": "2TB 已含"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 英寸 可选配 M6、M5 Pro 或 M5 Max 芯片。 RMB 15,999 起 或 RMB 667/月 (24 期) 起",
+     "16 英寸 可选配 M5 Pro 或 M5 Max 芯片。 RMB 24,999 起 或 RMB 1042/月 (24 期) 起"
+    ],
+    "chassis-dimensionColor": [
+     "深空黑色",
+     "银色"
+    ],
+    "display-dimensionFinish": [
+     "标准显示屏 采用低反射率设计，可减少使用环境中的屏幕眩光。 已含",
+     "纳米纹理显示屏 进一步减少明亮光线下的屏幕反光和眩光。 + RMB 1,125"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro 芯片 带来更出色的性能表现，还可选配更大的内存，可胜任更高难度的工作任务。 18 核中央处理器、20 核图形处理器、16 核神经网络引擎 RMB 24,999 起 或 RMB 1042/月 (24 期) 起",
+     "M5 Max 芯片 Mac 专业笔电上的最强芯片，专攻各种格外艰巨的工作。 2 种配置可选 (配备 16 核神经网络引擎) RMB 35,999 起 或 RMB 1500/月 (24 期) 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、32 核图形处理器 − RMB 2,750",
+     "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB 已含",
+     "64GB + RMB 3,000",
+     "128GB + RMB 15,000"
+    ],
+    "storage-dimensionCapacity": [
+     "2TB 已含",
+     "4TB + RMB 7,500",
+     "8TB + RMB 22,500"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "page": "macbook-air",
+ "country": "sa",
+ "url": "https://www.apple.com/sa-en/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:21.799Z",
+ "configs": {
+  "15": {
+   "total": 6999,
+   "totalFrom": "summary",
+   "totalText": "SAR 6,999.00 | SAR 6,999.00",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch From SAR 6,999",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From SAR 6,999",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From SAR 5,999",
+     "15-inch From SAR 6,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From SAR 6,999"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + SAR 1,000.00",
+     "32GB + SAR 2,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + SAR 1,500.00",
+     "2TB + SAR 4,000.00",
+     "4TB + SAR 9,000.00"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + SAR 90.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + SAR 90.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 5999,
+   "totalFrom": "summary",
+   "totalText": "SAR 5,999.00 | SAR 5,999.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From SAR 5,999",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From SAR 5,999",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From SAR 5,999",
+     "15-inch From SAR 6,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From SAR 5,999",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From SAR 6,499"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + SAR 90.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + SAR 90.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 7499,
+   "totalFrom": "summary",
+   "totalText": "SAR 7,499.00 | SAR 7,499.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From SAR 5,999",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From SAR 6,499",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From SAR 5,999",
+     "15-inch From SAR 6,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From SAR 5,999",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From SAR 6,499"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + SAR 1,000.00",
+     "32GB + SAR 2,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − SAR 1,500.00",
+     "1TB",
+     "2TB + SAR 2,500.00",
+     "4TB + SAR 7,500.00"
+    ],
+    "power_adapter-wattage": [
+     "40W Dynamic Power Adapter with 60W Max Compact with up to 60W for a powerful charging boost. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + SAR 90.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + SAR 90.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

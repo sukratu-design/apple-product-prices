@@ -1,0 +1,23 @@
+{
+ "page": "homepod",
+ "country": "hk",
+ "url": "https://www.apple.com/hk/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:27:34.656Z",
+ "configs": {
+  "default": {
+   "total": 2699,
+   "totalFrom": "summary",
+   "totalText": "HK$299 | HK$2,699",
+   "selected": {
+    "dimensionColor": "White"
+   },
+   "options": {
+    "dimensionColor": [
+     "White",
+     "Midnight"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

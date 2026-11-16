@@ -1,0 +1,26 @@
+{
+ "page": "airpods-max-2",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-airpods/airpods-max-2",
+ "scrapedAt": "2026-11-16T13:31:11.881Z",
+ "configs": {
+  "default": {
+   "total": 39999,
+   "totalFrom": "summary",
+   "totalText": "39.999,00 TL",
+   "selected": {
+    "dimensionColor": "Mor"
+   },
+   "options": {
+    "dimensionColor": [
+     "Mor",
+     "Mavi",
+     "Gece Yarısı",
+     "Yıldız Işığı",
+     "Turuncu"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "page": "macbook-air",
+ "country": "tr",
+ "url": "https://www.apple.com/tr/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:43:18.996Z",
+ "configs": {
+  "15": {
+   "total": 99999,
+   "totalFrom": "summary",
+   "totalText": "99.999,00 TL | 99.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "15 inç Başlangıç fiyatı: 99.999 TL",
+    "chassis-dimensionColor": "Gök Mavisi",
+    "processor-cpuCoreCount-gpuCoreCount": "10 çekirdekli CPU, 10 çekirdekli GPU, 16 çekirdekli Neural Engine Daha fazla işlem ve grafik oluşturma hızı ile oyun ve yaratıcı çalışma gibi yoğun görevlerde ekstra güç sağlayın. Başlangıç fiyatı: 99.999 TL",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "512 GB Dahil",
+    "power_adapter-wattage": "35 W Çift USB-C Bağlantı Noktası İki aygıtı aynı anda şarj etmek için iki adet bağlantı noktası. Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 inç Başlangıç fiyatı: 89.999 TL",
+     "15 inç Başlangıç fiyatı: 99.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Gök Mavisi",
+     "Gümüş",
+     "Yıldız Işığı",
+     "Gece Yarısı"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 çekirdekli CPU, 10 çekirdekli GPU, 16 çekirdekli Neural Engine Daha fazla işlem ve grafik oluşturma hızı ile oyun ve yaratıcı çalışma gibi yoğun görevlerde ekstra güç sağlayın. Başlangıç fiyatı: 99.999 TL"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil",
+     "24 GB + 14.000,00 TL",
+     "32 GB + 28.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Dahil",
+     "1 TB + 21.000,00 TL",
+     "2 TB + 56.000,00 TL",
+     "4 TB + 126.000,00 TL"
+    ],
+    "power_adapter-wattage": [
+     "35 W Çift USB-C Bağlantı Noktası İki aygıtı aynı anda şarj etmek için iki adet bağlantı noktası. Dahil",
+     "70 W USB-C Yaklaşık 30 dakikada %50’ye kadar hızlı şarj desteği."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 89999,
+   "totalFrom": "summary",
+   "totalText": "89.999,00 TL | 89.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "13 inç Başlangıç fiyatı: 89.999 TL",
+    "chassis-dimensionColor": "Gök Mavisi",
+    "processor-cpuCoreCount-gpuCoreCount": "10 çekirdekli CPU, 8 çekirdekli GPU, 16 çekirdekli Neural Engine Yaptığınız her işe hız ve akıcılık kazandırır. Başlangıç fiyatı: 89.999 TL",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "512 GB Dahil",
+    "power_adapter-wattage": "30 W USB-C Hızlı, verimli şarj. Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 inç Başlangıç fiyatı: 89.999 TL",
+     "15 inç Başlangıç fiyatı: 99.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Gök Mavisi",
+     "Gümüş",
+     "Yıldız Işığı",
+     "Gece Yarısı"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 çekirdekli CPU, 8 çekirdekli GPU, 16 çekirdekli Neural Engine Yaptığınız her işe hız ve akıcılık kazandırır. Başlangıç fiyatı: 89.999 TL",
+     "10 çekirdekli CPU, 10 çekirdekli GPU, 16 çekirdekli Neural Engine Daha fazla işlem ve grafik oluşturma hızı ile oyun ve yaratıcı çalışma gibi yoğun görevlerde ekstra güç sağlayın. Başlangıç fiyatı: 96.999 TL"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Dahil"
+    ],
+    "power_adapter-wattage": [
+     "30 W USB-C Hızlı, verimli şarj. Dahil",
+     "35 W Çift USB-C Bağlantı Noktası İki aygıtı aynı anda şarj etmek için iki adet bağlantı noktası. + 1.000,00 TL",
+     "70 W USB-C Yaklaşık 30 dakikada %50’ye kadar hızlı şarj desteği. + 1.000,00 TL"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 110999,
+   "totalFrom": "summary",
+   "totalText": "110.999,00 TL | 110.999,00 TL",
+   "selected": {
+    "chassis-dimensionScreensize": "13 inç Başlangıç fiyatı: 89.999 TL",
+    "chassis-dimensionColor": "Gök Mavisi",
+    "processor-cpuCoreCount-gpuCoreCount": "10 çekirdekli CPU, 10 çekirdekli GPU, 16 çekirdekli Neural Engine Daha fazla işlem ve grafik oluşturma hızı ile oyun ve yaratıcı çalışma gibi yoğun görevlerde ekstra güç sağlayın. Başlangıç fiyatı: 96.999 TL",
+    "memory-dimensionMemory": "16 GB Dahil",
+    "storage-dimensionCapacity": "1 TB",
+    "power_adapter-wattage": "35 W Çift USB-C Bağlantı Noktası İki aygıtı aynı anda şarj etmek için iki adet bağlantı noktası. Dahil"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13 inç Başlangıç fiyatı: 89.999 TL",
+     "15 inç Başlangıç fiyatı: 99.999 TL"
+    ],
+    "chassis-dimensionColor": [
+     "Gök Mavisi",
+     "Gümüş",
+     "Yıldız Işığı",
+     "Gece Yarısı"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10 çekirdekli CPU, 8 çekirdekli GPU, 16 çekirdekli Neural Engine Yaptığınız her işe hız ve akıcılık kazandırır. Başlangıç fiyatı: 89.999 TL",
+     "10 çekirdekli CPU, 10 çekirdekli GPU, 16 çekirdekli Neural Engine Daha fazla işlem ve grafik oluşturma hızı ile oyun ve yaratıcı çalışma gibi yoğun görevlerde ekstra güç sağlayın. Başlangıç fiyatı: 96.999 TL"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Dahil",
+     "24 GB + 14.000,00 TL",
+     "32 GB + 28.000,00 TL"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB − 21.000,00 TL",
+     "1 TB",
+     "2 TB + 35.000,00 TL",
+     "4 TB + 105.000,00 TL"
+    ],
+    "power_adapter-wattage": [
+     "35 W Çift USB-C Bağlantı Noktası İki aygıtı aynı anda şarj etmek için iki adet bağlantı noktası. Dahil",
+     "70 W USB-C Yaklaşık 30 dakikada %50’ye kadar hızlı şarj desteği."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:47.533Z",
+ "configs": {
+  "40-gps": {
+   "total": 1999,
+   "totalFrom": "summary",
+   "totalText": "RMB 1,999",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "40 毫米 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 1999 或 RMB 84/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 1999 或 RMB 84/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 毫米 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "44 毫米 RMB 2199 起 或 RMB 92/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 2399 起 或 RMB 100/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 1999 或 RMB 84/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 2399 起 或 RMB 100/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 1999 或 RMB 84/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 1999 或 RMB 84/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 1999 或 RMB 84/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 2199,
+   "totalFrom": "summary",
+   "totalText": "RMB 2,199",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "44 毫米 RMB 2199 起 或 RMB 92/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 2199 起 或 RMB 92/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2199 或 RMB 92/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 2199 或 RMB 92/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 毫米 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "44 毫米 RMB 2199 起 或 RMB 92/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 2199 起 或 RMB 92/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 2599 起 或 RMB 109/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2199 或 RMB 92/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 2199 起 或 RMB 92/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 2599 起 或 RMB 109/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 2199 或 RMB 92/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 2199 或 RMB 92/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 2199 或 RMB 92/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 2399,
+   "totalFrom": "summary",
+   "totalText": "RMB 2,399",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "40 毫米 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 2399 起 或 RMB 100/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2399 或 RMB 100/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 2399 或 RMB 100/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 毫米 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "44 毫米 RMB 2199 起 或 RMB 92/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 2399 起 或 RMB 100/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2399 或 RMB 100/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 2399 起 或 RMB 100/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 2799 起 或 RMB 117/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 2399 或 RMB 100/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 2399 或 RMB 100/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 2399 或 RMB 100/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 2599,
+   "totalFrom": "summary",
+   "totalText": "RMB 2,599",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "44 毫米 RMB 2199 起 或 RMB 92/月 (24 期) 起",
+    "watch_cases-dimensionConnection": "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 2599 起 或 RMB 109/月 (24 期) 起",
+    "category": "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2599 或 RMB 109/月 (24 期) 起",
+    "rubber-style": "新配色 单圈表带 RMB 2599 或 RMB 109/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+    "rubber-sololoop-color": "勃艮第酒红色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 毫米 RMB 1999 起 或 RMB 84/月 (24 期) 起",
+     "44 毫米 RMB 2199 起 或 RMB 92/月 (24 期) 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 配合身边的 iPhone 可打电话和发信息。 RMB 2199 起 或 RMB 92/月 (24 期) 起",
+     "GPS + 蜂窝网络 只需 Apple Watch 就能打电话、发信息。 RMB 2599 起 或 RMB 109/月 (24 期) 起"
+    ],
+    "category": [
+     "橡胶 游泳适用的表带，柔韧有弹性，佩戴舒适。 RMB 2599 或 RMB 109/月 (24 期) 起",
+     "织物 柔软轻盈的材质，非常适合日常佩戴。 RMB 2599 起 或 RMB 109/月 (24 期) 起",
+     "不锈钢 精心雕琢的不锈钢设计，造就精致高雅的外观。 RMB 2999 起 或 RMB 125/月 (24 期) 起"
+    ],
+    "rubber-style": [
+     "新配色 单圈表带 RMB 2599 或 RMB 109/月 (24 期) 起 弹性设计、无表扣、佩戴贴合无间",
+     "新配色 运动型表带 RMB 2599 或 RMB 109/月 (24 期) 起 耐用、按扣加收拢式表扣、可调节",
+     "新配色 Nike 运动表带 RMB 2599 或 RMB 109/月 (24 期) 起 透气、按扣加收拢式表扣、可调节"
+    ],
+    "rubber-sololoop-color": [
+     "勃艮第酒红色",
+     "橄榄色",
+     "海军蓝色",
+     "山花蓝色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

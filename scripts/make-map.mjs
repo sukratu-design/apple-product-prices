@@ -17,12 +17,44 @@ const mid = JSON.parse(readFileSync(require.resolve('world-atlas/countries-50m.j
 const COUNTRIES = {
   us: { id: '840', at: [-98, 39], label: 'left' },
   ca: { id: '124', at: [-104, 57], label: 'left' },
+  mx: { id: '484', at: [-102, 23.6], label: 'left' },
+  br: { id: '076', at: [-51, -10], label: 'right' },
+  cl: { id: '152', at: [-71, -33], label: 'left' },
   uk: { id: '826', at: [-2, 53], label: 'left' },
-  ae: { id: '784', at: [54.4, 24.2], label: 'left' },
+  ie: { id: '372', at: [-8, 53.2], label: 'left' },
+  fr: { id: '250', at: [2.4, 46.6], label: 'left' },
+  de: { id: '276', at: [10.4, 51], label: 'right' },
+  it: { id: '380', at: [12.5, 42.8], label: 'right' },
+  es: { id: '724', at: [-3.7, 40.2], label: 'left' },
+  pt: { id: '620', at: [-8.2, 39.6], label: 'left' },
+  nl: { id: '528', at: [5.3, 52.2], label: 'left' },
+  be: { id: '056', at: [4.5, 50.6], label: 'left' },
+  lu: { id: '442', at: [6.1, 49.8], label: 'right' },
+  at: { id: '040', at: [14.5, 47.5], label: 'right' },
+  fi: { id: '246', at: [26, 64], label: 'right' },
+  ch: { id: '756', at: [8.2, 46.8], label: 'left' },
+  se: { id: '752', at: [16, 62], label: 'left' },
+  no: { id: '578', at: [9, 61], label: 'left' },
+  dk: { id: '208', at: [9.5, 56], label: 'left' },
+  pl: { id: '616', at: [19.4, 52], label: 'right' },
+  cz: { id: '203', at: [15.5, 49.8], label: 'right' },
+  hu: { id: '348', at: [19.5, 47.2], label: 'right' },
+  tr: { id: '792', at: [35, 39], label: 'right' },
+  ae: { id: '784', at: [54.4, 24.2], label: 'right' },
+  sa: { id: '682', at: [45, 24], label: 'left' },
   in: { id: '356', at: [78.5, 21], label: 'below' },
-  sg: { id: '702', at: [103.8, 1.35], label: 'below' },
+  cn: { id: '156', at: [104, 35], label: 'right' },
+  hk: { id: '344', at: [114.2, 22.3], label: 'right' },
+  tw: { id: '158', at: [121, 23.7], label: 'right' },
   jp: { id: '392', at: [138.5, 36.5], label: 'right' },
+  kr: { id: '410', at: [127.8, 36.4], label: 'right' },
+  sg: { id: '702', at: [103.8, 1.35], label: 'below' },
+  my: { id: '458', at: [102, 4], label: 'left' },
+  th: { id: '764', at: [101, 15], label: 'left' },
+  ph: { id: '608', at: [122, 12.5], label: 'right' },
+  vn: { id: '704', at: [106, 16], label: 'right' },
   au: { id: '036', at: [134, -25], label: 'below' },
+  nz: { id: '554', at: [172, -41.5], label: 'right' },
 };
 
 const notAntarctica = g => g.id !== '010';
@@ -34,7 +66,8 @@ const path = geoPath(projection).digits(1);
 const out = { width: W, height: H, land: path(landGeo), sphere: path({ type: 'Sphere' }), countries: {} };
 for (const [k, c] of Object.entries(COUNTRIES)) {
   const pick = topo => topo.objects.countries.geometries.find(g => g.id === c.id);
-  const topo = pick(low) ? low : mid; // Singapore only exists in the 50m file
+  const topo = pick(low) ? low : mid; // Singapore, Hong Kong and Luxembourg only exist in the 50m file
+  if (!pick(topo)) { console.warn('no shape for', k); continue; }
   const f = feature(topo, pick(topo));
   const [x, y] = projection(c.at);
   out.countries[k] = { path: path(f), x: +x.toFixed(1), y: +y.toFixed(1), label: c.label };

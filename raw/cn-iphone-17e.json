@@ -1,0 +1,34 @@
+{
+ "page": "iphone-17e",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+ "scrapedAt": "2026-11-16T12:01:35.600Z",
+ "configs": {
+  "default": {
+   "total": 5299,
+   "totalFrom": "summary",
+   "totalText": "RMB 5,299",
+   "selected": {
+    "dimensionColor": "浅粉色",
+    "dimensionCapacity": "256GB 脚注 1 RMB 5,299 或 RMB 221/月 (24 期) 起",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionColor": [
+     "浅粉色",
+     "白色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 RMB 5,299 或 RMB 221/月 (24 期) 起",
+     "512GB 脚注 1 RMB 7,299 或 RMB 305/月 (24 期) 起"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

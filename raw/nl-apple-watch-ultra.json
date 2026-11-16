@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "nl",
+ "url": "https://www.apple.com/nl/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:06.331Z",
+ "configs": {
+  "band": {
+   "total": 899,
+   "totalFrom": "summary",
+   "totalText": "€ 899,00 | € 899,00 | € 899,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Zwart",
+    "style": "Nieuwe kleuren Alpine-bandje Voor outdoor­avonturen. € 899,00",
+    "alpineloop-color": "Bordeauxrood",
+    "watch_bands-dimensionbandsize": "Small Geschikt voor een pols van 130-160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Zwart",
+     "Naturel"
+    ],
+    "style": [
+     "Nieuwe kleuren Alpine-bandje Voor outdoor­avonturen. € 899,00",
+     "Nieuwe kleuren Trail-bandje Voor alle sporten en work‑outs. € 899,00",
+     "Nieuwe kleuren Ocean‑bandje Voor watersporten en recreatief duiken. € 899,00",
+     "Milanees bandje van titanium Ontworpen voor watersporten, maar elegant voor elke gelegenheid. € 999,00"
+    ],
+    "alpineloop-color": [
+     "Bordeauxrood",
+     "Donker Olijfgroen",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Geschikt voor een pols van 130-160 mm.",
+     "Medium Geschikt voor een pols van 145-190 mm.",
+     "Large Geschikt voor een pols van 165-210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 999,
+   "totalFrom": "summary",
+   "totalText": "€ 999,00 | € 999,00 | € 999,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Zwart",
+    "style": "Milanees bandje van titanium Ontworpen voor watersporten, maar elegant voor elke gelegenheid. € 999,00",
+    "ti_milaneseloop-color": "Zwart",
+    "watch_bands-dimensionbandsize": "Small Geschikt voor een pols van 130-160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Zwart",
+     "Naturel"
+    ],
+    "style": [
+     "Nieuwe kleuren Alpine-bandje Voor outdoor­avonturen. € 899,00",
+     "Nieuwe kleuren Trail-bandje Voor alle sporten en work‑outs. € 899,00",
+     "Nieuwe kleuren Ocean‑bandje Voor watersporten en recreatief duiken. € 899,00",
+     "Milanees bandje van titanium Ontworpen voor watersporten, maar elegant voor elke gelegenheid. € 999,00"
+    ],
+    "ti_milaneseloop-color": [
+     "Zwart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Geschikt voor een pols van 130-160 mm.",
+     "Medium Geschikt voor een pols van 155-185 mm.",
+     "Large Geschikt voor een pols van 180-210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T11:59:59.548Z",
+ "configs": {
+  "default": {
+   "total": 1099990,
+   "totalFrom": "summary",
+   "totalText": "$1.099.990",
+   "selected": {
+    "dimensionColor": "Lavanda",
+    "dimensionCapacity": "256 GB Nota a pie de página 1 $1.099.990 o $45.833 al mes al mes por 24 meses meses Nota a pie de página ∆"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavanda",
+     "Azul neblina",
+     "Blanco",
+     "Salvia",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota a pie de página 1 $1.099.990 o $45.833 al mes al mes por 24 meses meses Nota a pie de página ∆",
+     "512 GB Nota a pie de página 1 $1.359.990 o $56.666 al mes al mes por 24 meses meses Nota a pie de página ∆"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

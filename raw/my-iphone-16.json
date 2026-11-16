@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:02:35.342Z",
+ "configs": {
+  "default": {
+   "total": 3799,
+   "totalFrom": "summary",
+   "totalText": "RM 3,799.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From RM 3,799 or RM 158.29/monthper month for 24 months Footnote ◊",
+    "dimensionColor": "Ultramarine"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 6.1-inch display Footnote 1Comes with 128GB storage From RM 3,799 or RM 158.29/monthper month for 24 months Footnote ◊"
+    ],
+    "dimensionColor": [
+     "Ultramarine",
+     "Teal",
+     "White",
+     "Pink",
+     "Black"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

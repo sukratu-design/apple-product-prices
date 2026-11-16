@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:10:20.096Z",
+ "configs": {
+  "band": {
+   "total": 10490,
+   "totalFrom": "summary",
+   "totalText": "kr 10 490,00 | kr 10 490,00 | kr 10 490,00",
+   "selected": {
+    "watch_cases-dimensionColor": "svart",
+    "style": "Nye farger Alpine Loop For fotturer og eventyr i naturen. kr 10 490,00",
+    "alpineloop-color": "burgunder",
+    "watch_bands-dimensionbandsize": "Small Passer håndledd på 130–160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "svart",
+     "naturlig"
+    ],
+    "style": [
+     "Nye farger Alpine Loop For fotturer og eventyr i naturen. kr 10 490,00",
+     "Nye farger Trail Loop For alle typer sport og trening. kr 10 490,00",
+     "Nye farger Ocean Band For vannsport og sportsdykking. kr 10 490,00",
+     "Milanese Loop av titan Designet for sjøen, men samtidig elegant til enhver anledning. kr 11 690,00"
+    ],
+    "alpineloop-color": [
+     "burgunder",
+     "mørk oliven",
+     "ørken"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Passer håndledd på 130–160 mm.",
+     "Medium Passer håndledd på 145–190 mm.",
+     "Large Passer håndledd på 165–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 11690,
+   "totalFrom": "summary",
+   "totalText": "kr 11 690,00 | kr 11 690,00 | kr 11 690,00",
+   "selected": {
+    "watch_cases-dimensionColor": "svart",
+    "style": "Milanese Loop av titan Designet for sjøen, men samtidig elegant til enhver anledning. kr 11 690,00",
+    "ti_milaneseloop-color": "svart",
+    "watch_bands-dimensionbandsize": "Small Passer håndledd på 130–160 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "svart",
+     "naturlig"
+    ],
+    "style": [
+     "Nye farger Alpine Loop For fotturer og eventyr i naturen. kr 10 490,00",
+     "Nye farger Trail Loop For alle typer sport og trening. kr 10 490,00",
+     "Nye farger Ocean Band For vannsport og sportsdykking. kr 10 490,00",
+     "Milanese Loop av titan Designet for sjøen, men samtidig elegant til enhver anledning. kr 11 690,00"
+    ],
+    "ti_milaneseloop-color": [
+     "svart"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Passer håndledd på 130–160 mm.",
+     "Medium Passer håndledd på 155–185 mm.",
+     "Large Passer håndledd på 180–210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

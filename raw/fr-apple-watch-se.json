@@ -1,0 +1,132 @@
+{
+ "page": "apple-watch-se",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:08.790Z",
+ "configs": {
+  "40-gps": {
+   "total": 269,
+   "totalFrom": "summary",
+   "totalText": "269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "40 mm À partir de 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "44 mm À partir de 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 319 € ou 26,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 319 € ou 26,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Minuit",
+    "watch_cases-dimensionCaseSize": "44 mm À partir de 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Minuit",
+     "Lumière stellaire"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm À partir de 269 € ou 22,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "44 mm À partir de 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 349 € ou 29,08 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 349 € ou 29,08 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 299 € ou 24,92 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  },
+  "44-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  }
+ }
+}

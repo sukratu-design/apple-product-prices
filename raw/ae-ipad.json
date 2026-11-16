@@ -2,15 +2,15 @@
  "page": "ipad",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-ipad/ipad",
- "scrapedAt": "2026-11-13T11:04:43.682Z",
+ "scrapedAt": "2026-11-16T12:39:32.846Z",
  "configs": {
   "wifi": {
    "total": 1899,
    "totalFrom": "summary",
-   "totalText": "AED 1,899.00",
+   "totalText": "AED 1,899.00 | AED 1,899.00 | AED 319.00 | AED 399.00 | AED 999.00 | AED 1,899.00",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From AED 1,899",
+    "dimensionCapacity": "128GB From AED 1,899",
     "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 1,899.00",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
@@ -29,9 +29,9 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From AED 1,899",
-     "256GB Footnote 2 From AED 2,299",
-     "512GB Footnote 2 From AED 3,099"
+     "128GB From AED 1,899",
+     "256GB From AED 2,299",
+     "512GB From AED 3,099"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 1,899.00",
@@ -268,10 +268,10 @@
   "cell": {
    "total": 2499,
    "totalFrom": "summary",
-   "totalText": "AED 2,499.00",
+   "totalText": "AED 2,499.00 | AED 2,499.00 | AED 319.00 | AED 399.00 | AED 999.00 | AED 2,499.00",
    "selected": {
     "dimensionColor": "Silver",
-    "dimensionCapacity": "128GB Footnote 2 From AED 1,899",
+    "dimensionCapacity": "128GB From AED 1,899",
     "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. AED 2,499.00",
     "engraving-option-select-app": null,
     "acc_pencil_first": null,
@@ -290,9 +290,9 @@
      "Yellow"
     ],
     "dimensionCapacity": [
-     "128GB Footnote 2 From AED 1,899",
-     "256GB Footnote 2 From AED 2,299",
-     "512GB Footnote 2 From AED 3,099"
+     "128GB From AED 1,899",
+     "256GB From AED 2,299",
+     "512GB From AED 3,099"
     ],
     "dimensionConnection": [
      "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. AED 1,899.00",

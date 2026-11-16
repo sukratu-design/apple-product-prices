@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "fr",
+ "url": "https://www.apple.com/fr/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:00:46.725Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nouveau Bronze sombre",
+    "watch_cases-dimensionCaseSize": "42 mm À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nouveau Bronze sombre",
+     "Nouveau Or clair",
+     "Nouveau Noir",
+     "Gris sidéral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 499,
+   "totalFrom": "summary",
+   "totalText": "499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nouveau Bronze sombre",
+    "watch_cases-dimensionCaseSize": "46 mm À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nouveau Bronze sombre",
+     "Nouveau Or clair",
+     "Nouveau Noir",
+     "Gris sidéral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 549 € ou 45,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page | 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nouveau Bronze sombre",
+    "watch_cases-dimensionCaseSize": "42 mm À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nouveau Bronze sombre",
+     "Nouveau Or clair",
+     "Nouveau Noir",
+     "Gris sidéral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 569 € ou 47,42 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 619,
+   "totalFrom": "summary",
+   "totalText": "619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nouveau Bronze sombre",
+    "watch_cases-dimensionCaseSize": "46 mm À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nouveau Bronze sombre",
+     "Nouveau Or clair",
+     "Nouveau Noir",
+     "Gris sidéral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 499 € ou 41,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 669 € ou 55,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 619 € ou 51,58 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+    "titanium-watch_cases-dimensionColor": "Nouveau Or brillant",
+    "watch_cases-dimensionCaseSize": "42 mm À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nouveau Or brillant",
+     "Naturel"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+    "titanium-watch_cases-dimensionColor": "Nouveau Or brillant",
+    "watch_cases-dimensionCaseSize": "46 mm À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nouveau Or brillant",
+     "Naturel"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 899 € ou 74,92 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 849 € ou 70,75 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable.",
+    "ceramic-watch_cases-dimensionColor": "Nouveau Blanc nacré",
+    "watch_cases-dimensionCaseSize": "42 mm À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nouveau Blanc nacré",
+     "Nouveau Bleu nuit"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊ | 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur Note de bas de page ◊◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable.",
+    "ceramic-watch_cases-dimensionColor": "Nouveau Blanc nacré",
+    "watch_cases-dimensionCaseSize": "46 mm À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "watch_cases-dimensionConnection": "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium Choix entre GPS et GPS + Cellular À partir de 449 € ou 37,42 €/mois par mois pour 12 mois à 0 % taux débiteur Fini mat et écran résistant avec Ceramic Shield 2.",
+     "Nouvelle finition Titane Connectivité GPS + Cellular À partir de 799 € ou 66,58 €/mois par mois pour 12 mois à 0 % taux débiteur Titane poli de qualité aérospatiale avec écran résistant en cristal de saphir.",
+     "Nouveau Céramique Connectivité GPS + Cellular À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur Sophistiqué et résistant aux rayures, avec une finition polie et un écran en verre saphir durable."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nouveau Blanc nacré",
+     "Nouveau Bleu nuit"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 1 049 € ou 87,42 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "46 mm À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Passez des appels et échangez des messages, juste avec votre Apple Watch. Un modèle GPS + Cellular est nécessaire pour utiliser Apple Watch pour vos enfants. À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 1 149 € ou 95,75 €/mois par mois pour 12 mois à 0 % taux débiteur"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 1 099 € ou 91,58 €/mois par mois pour 12 mois à 0 % taux débiteur Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité."
+    ]
+   }
+  }
+ }
+}

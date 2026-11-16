@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "lu",
+ "url": "https://www.apple.com/lu/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:15.389Z",
+ "configs": {
+  "default": {
+   "total": 1285,
+   "totalFrom": "summary",
+   "totalText": "1 285,07 € | 1 285,07 € | 1 285,07 €",
+   "selected": {
+    "dimensionColor": "Bleu ciel",
+    "dimensionCapacity": "256 Go Note de bas de page 1 1 285,07 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Bleu ciel",
+     "Blanc nuage",
+     "Noir sidéral",
+     "Or clair"
+    ],
+    "dimensionCapacity": [
+     "256 Go Note de bas de page 1 1 285,07 €",
+     "512 Go Note de bas de page 1 1 526,80 €",
+     "1 To Note de bas de page 1 2 010,27 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

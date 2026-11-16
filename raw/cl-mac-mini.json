@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "cl",
+ "url": "https://www.apple.com/cl/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:14.666Z",
+ "configs": {
+  "m6": {
+   "total": 1099990,
+   "totalFrom": "summary",
+   "totalText": "$1.099.990 o $45.833 al mes al mes por 24 meses meses Nota a pie de página ◊ | $1.099.990 o $45.833 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluido",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluido"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $240.000",
+     "32 GB + $480.000"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + $240.000",
+     "1 TB + $600.000",
+     "2 TB + $1.200.000"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. Incluido",
+     "Ethernet de 10 Gb Ancho de banda con mayor conectividad, velocidades de enlace de hasta 10 Gb. + $120.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2099990,
+   "totalFrom": "summary",
+   "totalText": "$2.099.990 o $87.500 al mes al mes por 24 meses meses Nota a pie de página ◊ | $2.099.990 o $87.500 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 15 núcleos, GPU de 16 núcleos Incluido",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K. + $240.000"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $720.000",
+     "64 GB + $1.200.000"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $360.000",
+     "2 TB + $960.000",
+     "4 TB + $2.160.000",
+     "8 TB + $4.560.000"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. Incluido",
+     "Ethernet de 10 Gb Ancho de banda con mayor conectividad, velocidades de enlace de hasta 10 Gb. + $120.000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 2339990,
+   "totalFrom": "summary",
+   "totalText": "$2.339.990 o $97.500 al mes al mes por 24 meses meses Nota a pie de página ◊ | $2.339.990 o $97.500 al mes al mes por 24 meses meses Nota a pie de página ◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K.",
+    "memory-dimensionMemory": "24 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido",
+    "ethernet_adapter-ethernetBandwidth": "Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Máxima velocidad con un rendimiento fuera de serie para tus tareas personales, profesionales y creativas de todos los días. CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $1.099.990 o $45.833 al mes al mes por 24 meses meses",
+     "Chip M5 Pro Ofrece mayor rendimiento y mejores opciones de memoria para los flujos de trabajo demandantes. 2 opciones con Neural Engine de 16 núcleos Desde $2.099.990 o $87.500 al mes al mes por 24 meses meses"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 15 núcleos, GPU de 16 núcleos − $240.000",
+     "CPU de 18 núcleos, GPU de 20 núcleos Impulsa la velocidad de procesamiento y renderización de gráficas, y acelera tareas como la ejecución de modelos de lenguaje de gran tamaño y la edición de videos en 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluido",
+     "48 GB + $720.000",
+     "64 GB + $1.200.000"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + $360.000",
+     "2 TB + $960.000",
+     "4 TB + $2.160.000",
+     "8 TB + $4.560.000"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "Ethernet de 2,5 Gb Conexión de red estándar, con velocidades de enlace de hasta 2,5 Gb. Incluido",
+     "Ethernet de 10 Gb Ancho de banda con mayor conectividad, velocidades de enlace de hasta 10 Gb. + $120.000"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

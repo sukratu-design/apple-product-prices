@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:49.522Z",
+ "configs": {
+  "2port": {
+   "total": 13499,
+   "totalFrom": "summary",
+   "totalText": "13.499,00 kr. | 13.499,00 kr.",
+   "selected": {
+    "chassis-dimensionColor": "blå",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-chip med to Thunderbolt-porte 10-core CPU, 10-core GPU, dobbelt 16-core Neural Engine Fra 13.499 kr.",
+    "memory-dimensionMemory": "16 GB Inkluderet",
+    "storage-dimensionCapacity": "256 GB Inkluderet",
+    "chassis-dimensionStandType": "Fod Placer den på dit skrivebord, og juster med vippefunktionen, der går op og ned. Inkluderet",
+    "ethernet_adapter-ethernetPortCount": "Uden Ethernet Kun forbindelse via et Wi‑Fi‑netværk. Inkluderet",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Understøtter Multi-Touch-bevægelser som at swipe og scrolle. Inkluderet",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultrakompakt design fra kant til kant. Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "blå",
+     "lilla",
+     "lyserød",
+     "orange",
+     "gul",
+     "grøn",
+     "sølv"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-chip med to Thunderbolt-porte 10-core CPU, 10-core GPU, dobbelt 16-core Neural Engine Fra 13.499 kr.",
+     "M6-chip med fire Thunderbolt-porte 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 15.499 kr."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkluderet",
+     "24 GB + 2.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Inkluderet",
+     "512 GB + 2.000,00 kr.",
+     "1 TB + 5.000,00 kr."
+    ],
+    "chassis-dimensionStandType": [
+     "Fod Placer den på dit skrivebord, og juster med vippefunktionen, der går op og ned. Inkluderet",
+     "VESA Mount Adapter Indbygget, så du kan montere den på en væg eller en justerbar arm."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Uden Ethernet Kun forbindelse via et Wi‑Fi‑netværk. Inkluderet",
+     "2,5 Gigabit Ethernet-port Standardnetværk, linkhastighed op til 2,5 Gb. + 250,00 kr."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Understøtter Multi-Touch-bevægelser som at swipe og scrolle. Inkluderet",
+     "Magic Trackpad Understøtter hele udvalget af Multi-Touch-bevægelser og Force Touch-teknologi. + 420,00 kr."
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultrakompakt design fra kant til kant. Inkluderet",
+     "Magic Keyboard med Touch ID og numeriske taster Udvidet layout med navigations­knapper. Giver hurtig og nem autentificering med dit fingeraftryk. + 670,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 15499,
+   "totalFrom": "summary",
+   "totalText": "15.499,00 kr. | 15.499,00 kr.",
+   "selected": {
+    "chassis-dimensionColor": "blå",
+    "processor-cpuCoreCount-gpuCoreCount": "M6-chip med fire Thunderbolt-porte 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 15.499 kr.",
+    "memory-dimensionMemory": "16 GB Inkluderet",
+    "storage-dimensionCapacity": "256 GB Inkluderet",
+    "display-dimensionFinish": "Standardglas Udviklet med ekstremt lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+    "chassis-dimensionStandType": "Fod Placer den på dit skrivebord, og juster med vippefunktionen, der går op og ned. Inkluderet",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Understøtter Multi-Touch-bevægelser som at swipe og scrolle. Inkluderet",
+    "keyboard-keyboardFormFactor": "Magic Keyboard med Touch ID Giver hurtig og nem autentificering med dit fingeraftryk. Inkluderet"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "blå",
+     "lilla",
+     "lyserød",
+     "orange",
+     "gul",
+     "grøn",
+     "sølv"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "M6-chip med to Thunderbolt-porte 10-core CPU, 10-core GPU, dobbelt 16-core Neural Engine Fra 13.499 kr.",
+     "M6-chip med fire Thunderbolt-porte 12-core CPU, 12-core GPU, dobbelt 16-core Neural Engine Fra 15.499 kr."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkluderet",
+     "24 GB + 2.000,00 kr.",
+     "32 GB + 4.000,00 kr."
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Inkluderet",
+     "512 GB + 2.000,00 kr.",
+     "1 TB + 5.000,00 kr.",
+     "2 TB + 10.000,00 kr."
+    ],
+    "display-dimensionFinish": [
+     "Standardglas Udviklet med ekstremt lav refleksion for at reducere genskin i dine omgivelser. Inkluderet",
+     "Glas med nanotekstur Reducerer genskin og refleksioner yderligere i omgivelser med skarpt lys. Fås kun med modellen med fire porte. + 2.000,00 kr."
+    ],
+    "chassis-dimensionStandType": [
+     "Fod Placer den på dit skrivebord, og juster med vippefunktionen, der går op og ned. Inkluderet",
+     "VESA Mount Adapter Indbygget, så du kan montere den på en væg eller en justerbar arm."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Understøtter Multi-Touch-bevægelser som at swipe og scrolle. Inkluderet",
+     "Magic Trackpad Understøtter hele udvalget af Multi-Touch-bevægelser og Force Touch-teknologi. + 420,00 kr."
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard med Touch ID Giver hurtig og nem autentificering med dit fingeraftryk. Inkluderet",
+     "Magic Keyboard med Touch ID og numeriske taster Udvidet layout med navigations­knapper. Giver hurtig og nem autentificering med dit fingeraftryk. + 250,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,12 +2,12 @@
  "page": "iphone-18-pro",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
- "scrapedAt": "2026-11-13T10:59:41.632Z",
+ "scrapedAt": "2026-11-16T11:57:28.402Z",
  "configs": {
   "pro": {
    "total": 1199,
    "totalFrom": "summary",
-   "totalText": "£1,199.00 or £39.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,199.00 or £39.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊ | £1,199.00 or £39.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "iPhone 18 Pro 6.3-inch display Footnote 2 From £1,199 or £39.96/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Burgundy",
@@ -36,7 +36,7 @@
   "promax": {
    "total": 1299,
    "totalFrom": "summary",
-   "totalText": "£1,299.00 or £43.30/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£1,299.00 or £43.30/mo. per month for 30 mo. months at 0% interest Footnote ◊◊ | £1,299.00 or £43.30/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionScreensize": "iPhone 18 Pro Max 6.9-inch display Footnote 2 From £1,299 or £43.30/mo. per month for 30 mo. months at 0% interest Footnote ◊◊",
     "dimensionColor": "Burgundy",

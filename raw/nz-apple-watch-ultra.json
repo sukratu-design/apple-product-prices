@@ -1,0 +1,74 @@
+{
+ "page": "apple-watch-ultra",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-watch/apple-watch-ultra",
+ "scrapedAt": "2026-11-16T13:11:12.513Z",
+ "configs": {
+  "band": {
+   "total": 1599,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,599.00 | NZ$1,599.00 | NZ$1,599.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "New colours Alpine Loop For outdoor adventure and hiking. NZ$1,599.00",
+    "alpineloop-color": "Burgundy",
+    "watch_bands-dimensionbandsize": "Small Band fits 130- to 160-millimetre wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. NZ$1,599.00",
+     "New colours Trail Loop For all sports and workouts. NZ$1,599.00",
+     "New colours Ocean Band For water sports and recreational diving. NZ$1,599.00",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. NZ$1,799.00"
+    ],
+    "alpineloop-color": [
+     "Burgundy",
+     "Dark Olive",
+     "Desert"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130- to 160-millimetre wrists.",
+     "Medium Band fits 145- to 190-millimetre wrists.",
+     "Large Band fits 165- to 210-millimetre wrists."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "milanese": {
+   "total": 1799,
+   "totalFrom": "summary",
+   "totalText": "NZ$1,799.00 | NZ$1,799.00 | NZ$1,799.00",
+   "selected": {
+    "watch_cases-dimensionColor": "Black",
+    "style": "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. NZ$1,799.00",
+    "ti_milaneseloop-color": "Black",
+    "watch_bands-dimensionbandsize": "Small Band fits 130- to 160-millimetre wrists."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Black",
+     "Natural"
+    ],
+    "style": [
+     "New colours Alpine Loop For outdoor adventure and hiking. NZ$1,599.00",
+     "New colours Trail Loop For all sports and workouts. NZ$1,599.00",
+     "New colours Ocean Band For water sports and recreational diving. NZ$1,599.00",
+     "Titanium Milanese Loop Designed for the ocean, yet elegant for any occasion. NZ$1,799.00"
+    ],
+    "ti_milaneseloop-color": [
+     "Black"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "Small Band fits 130- to 160-millimetre wrists.",
+     "Medium Band fits 155- to 185-millimetre wrists.",
+     "Large Band fits 180- to 210-millimetre wrists."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

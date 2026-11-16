@@ -1,0 +1,11 @@
+{
+ "page": "homepod",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-homepod/homepod",
+ "scrapedAt": "2026-11-16T13:26:16.633Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/cz/)"
+  }
+ }
+}

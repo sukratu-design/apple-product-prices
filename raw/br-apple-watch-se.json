@@ -1,0 +1,128 @@
+{
+ "page": "apple-watch-se",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:06:14.047Z",
+ "configs": {
+  "40-gps": {
+   "total": 3299,
+   "totalFrom": "summary",
+   "totalText": "R$ 3.299,00 | R$ 3.299,00 | R$ 3.299,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "40 mm A partir de R$ 3.299",
+    "watch_cases-dimensionConnection": "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 3.299",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 130 a 180 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm A partir de R$ 3.299",
+     "44 mm A partir de R$ 3.699"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 3.299",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 3.899"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 130 a 180 mm.",
+     "M/G Para pulsos de 150 a 200 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 3699,
+   "totalFrom": "summary",
+   "totalText": "R$ 3.699,00 | R$ 3.699,00 | R$ 3.699,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "44 mm A partir de R$ 3.699",
+    "watch_cases-dimensionConnection": "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 3.699",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 140 a 190 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm A partir de R$ 3.299",
+     "44 mm A partir de R$ 3.699"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 3.699",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 4.299"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 140 a 190 mm.",
+     "M/G Para pulsos de 160 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 3899,
+   "totalFrom": "summary",
+   "totalText": "R$ 3.899,00 | R$ 3.899,00 | R$ 3.899,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "40 mm A partir de R$ 3.299",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 3.899",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 130 a 180 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm A partir de R$ 3.299",
+     "44 mm A partir de R$ 3.699"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 3.299",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 3.899"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 130 a 180 mm.",
+     "M/G Para pulsos de 150 a 200 mm."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 4299,
+   "totalFrom": "summary",
+   "totalText": "R$ 4.299,00 | R$ 4.299,00 | R$ 4.299,00",
+   "selected": {
+    "watch_cases-dimensionColor": "Meia-noite",
+    "watch_cases-dimensionCaseSize": "44 mm A partir de R$ 3.699",
+    "watch_cases-dimensionConnection": "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 4.299",
+    "watch_bands-dimensionbandsize": "P/M Para pulsos de 140 a 190 mm."
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Meia-noite",
+     "Estelar"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm A partir de R$ 3.299",
+     "44 mm A partir de R$ 3.699"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Faça ligações e envie mensagens com seu iPhone por perto. A partir de R$ 3.699",
+     "GPS + Cellular Faça ligações e envie mensagens usando apenas seu Apple Watch. A partir de R$ 4.299"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "P/M Para pulsos de 140 a 190 mm.",
+     "M/G Para pulsos de 160 a 210 mm."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

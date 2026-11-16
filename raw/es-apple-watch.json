@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:01:07.890Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Dorado claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 499,
+   "totalFrom": "summary",
+   "totalText": "499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Dorado claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 549,00 € o 19,02 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 449,
+   "totalFrom": "summary",
+   "totalText": "449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Dorado claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 569,00 € o 19,71 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 619,
+   "totalFrom": "summary",
+   "totalText": "619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nuevo Bronce oscuro",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nuevo Bronce oscuro",
+     "Nuevo Dorado claro",
+     "Nuevo Negro",
+     "Gris espacial"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 499,00 € o 17,29 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 669,00 € o 23,17 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 619,00 € o 21,44 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 799,
+   "totalFrom": "summary",
+   "totalText": "799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+    "titanium-watch_cases-dimensionColor": "Nuevo Oro brillante",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nuevo Oro brillante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. undefined"
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 849,
+   "totalFrom": "summary",
+   "totalText": "849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+    "titanium-watch_cases-dimensionColor": "Nuevo Oro brillante",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Nuevo Oro brillante",
+     "Natural"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 899,00 € o 31,14 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 849,00 € o 29,41 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. undefined"
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 1049,
+   "totalFrom": "summary",
+   "totalText": "1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro.",
+    "ceramic-watch_cases-dimensionColor": "Nuevo Blanco perla",
+    "watch_cases-dimensionCaseSize": "42 mm Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nuevo Blanco perla",
+     "Nuevo Azul nocturno"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. undefined"
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 1099,
+   "totalFrom": "summary",
+   "totalText": "1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro.",
+    "ceramic-watch_cases-dimensionColor": "Nuevo Blanco perla",
+    "watch_cases-dimensionCaseSize": "46 mm Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nuevos acabados Aluminio Elige entre GPS o GPS + Cellular Desde 449,00 € o 15,55 €/mes al mes durante 36 meses al 16,02 % TAE Acabado mate y pantalla ultrarresistente con Ceramic Shield 2.",
+     "Nuevo acabado Titanio GPS + Cellular Desde 799,00 € o 27,68 €/mes al mes durante 36 meses al 16,02 % TAE Titanio de calidad aeroespacial con acabado pulido y pantalla de cristal de zafiro superduro.",
+     "Nuevo Cerámica GPS + Cellular Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE Diseño sofisticado y resistente a los arañazos, con acabado pulido y pantalla de cristal de zafiro."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Nuevo Blanco perla",
+     "Nuevo Azul nocturno"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Desde 1.049,00 € o 36,34 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "46 mm Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 1.149,00 € o 39,80 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 1.099,00 € o 38,07 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. undefined"
+    ]
+   }
+  }
+ }
+}

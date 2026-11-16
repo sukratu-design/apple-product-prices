@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "be",
+ "url": "https://www.apple.com/be-fr/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:56:32.429Z",
+ "configs": {
+  "m5max-32": {
+   "total": 3029,
+   "totalFrom": "summary",
+   "totalText": "3 029,00 € | 3 029,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M5 Max Vitesse et performances remarquables pour les projets créatifs et les workflows pro. 2 options avec Neural Engine 16 cœurs À partir de 3 029 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 32 cœurs Inclus",
+    "memory-dimensionMemory": "36 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M5 Max Vitesse et performances remarquables pour les projets créatifs et les workflows pro. 2 options avec Neural Engine 16 cœurs À partir de 3 029 €",
+     "Puce M5 Ultra Notre puce la plus puissante, offrant des performances sans précédent pour les workflows pro les plus exigeants. 2 options avec Neural Engine 32 cœurs À partir de 6 649 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs Inclus",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. + 330,00 € Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 Go Inclus"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus",
+     "1 To + 330,00 €",
+     "2 To + 880,00 €",
+     "4 To + 1 980,00 €",
+     "8 To + 4 180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3689,
+   "totalFrom": "summary",
+   "totalText": "3 689,00 € | 3 689,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M5 Max Vitesse et performances remarquables pour les projets créatifs et les workflows pro. 2 options avec Neural Engine 16 cœurs À partir de 3 029 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac.",
+    "memory-dimensionMemory": "48 Go Inclus",
+    "storage-dimensionCapacity": "512 Go Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M5 Max Vitesse et performances remarquables pour les projets créatifs et les workflows pro. 2 options avec Neural Engine 16 cœurs À partir de 3 029 €",
+     "Puce M5 Ultra Notre puce la plus puissante, offrant des performances sans précédent pour les workflows pro les plus exigeants. 2 options avec Neural Engine 32 cœurs À partir de 6 649 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18 cœurs, GPU 32 cœurs − 330,00 €",
+     "CPU 18 cœurs, GPU 40 cœurs Boostez votre vitesse de traitement et de rendu graphique, et optimisez les tâches telles que l’exécution de grands modèles de langage et le montage de vidéos 8K. Cette sélection nécessite une mise à niveau vers 48 Go de mémoire, ce qui augmentera le prix total de votre Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 Go Inclus",
+     "64 Go + 440,00 €",
+     "128 Go + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 Go Inclus",
+     "1 To + 330,00 €",
+     "2 To + 880,00 €",
+     "4 To + 1 980,00 €",
+     "8 To + 4 180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 6649,
+   "totalFrom": "summary",
+   "totalText": "6 649,00 € | 6 649,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M5 Ultra Notre puce la plus puissante, offrant des performances sans précédent pour les workflows pro les plus exigeants. 2 options avec Neural Engine 32 cœurs À partir de 6 649 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 30 cœurs, GPU 64 cœurs Inclus",
+    "memory-dimensionMemory": "96 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M5 Max Vitesse et performances remarquables pour les projets créatifs et les workflows pro. 2 options avec Neural Engine 16 cœurs À partir de 3 029 €",
+     "Puce M5 Ultra Notre puce la plus puissante, offrant des performances sans précédent pour les workflows pro les plus exigeants. 2 options avec Neural Engine 32 cœurs À partir de 6 649 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 30 cœurs, GPU 64 cœurs Inclus",
+     "CPU 36 cœurs, GPU 80 cœurs Boostez vos performances graphiques, de traitement et de calcul IA pour les workflows exigeants tels que l’exécution de grands modèles de langage, l’application d’effets visuels et l’étalonnage de films. + 1 430,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "96 Go Inclus",
+     "256 Go + 4 400,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €",
+     "8 To + 3 850,00 €",
+     "16 To + 8 250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 8079,
+   "totalFrom": "summary",
+   "totalText": "8 079,00 € | 8 079,00 €",
+   "selected": {
+    "processor-dimensionChip": "Puce M5 Ultra Notre puce la plus puissante, offrant des performances sans précédent pour les workflows pro les plus exigeants. 2 options avec Neural Engine 32 cœurs À partir de 6 649 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 36 cœurs, GPU 80 cœurs Boostez vos performances graphiques, de traitement et de calcul IA pour les workflows exigeants tels que l’exécution de grands modèles de langage, l’application d’effets visuels et l’étalonnage de films.",
+    "memory-dimensionMemory": "96 Go Inclus",
+    "storage-dimensionCapacity": "1 To Inclus"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Puce M5 Max Vitesse et performances remarquables pour les projets créatifs et les workflows pro. 2 options avec Neural Engine 16 cœurs À partir de 3 029 €",
+     "Puce M5 Ultra Notre puce la plus puissante, offrant des performances sans précédent pour les workflows pro les plus exigeants. 2 options avec Neural Engine 32 cœurs À partir de 6 649 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 30 cœurs, GPU 64 cœurs − 1 430,00 €",
+     "CPU 36 cœurs, GPU 80 cœurs Boostez vos performances graphiques, de traitement et de calcul IA pour les workflows exigeants tels que l’exécution de grands modèles de langage, l’application d’effets visuels et l’étalonnage de films."
+    ],
+    "memory-dimensionMemory": [
+     "96 Go Inclus",
+     "256 Go + 4 400,00 €",
+     "512 Go + 17 050,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 To Inclus",
+     "2 To + 550,00 €",
+     "4 To + 1 650,00 €",
+     "8 To + 3 850,00 €",
+     "16 To + 8 250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

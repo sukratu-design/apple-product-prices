@@ -2,17 +2,17 @@
  "page": "ipad-mini",
  "country": "uk",
  "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-mini",
- "scrapedAt": "2026-11-13T11:04:41.554Z",
+ "scrapedAt": "2026-11-16T12:32:04.736Z",
  "configs": {
   "wifi": {
    "total": 699,
    "totalFrom": "summary",
-   "totalText": "£699.00 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£699.00 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionFinish": "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+    "dimensionFinish": "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -30,16 +30,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From £999 or £83.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From £999 or £83.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionFinish": [
-     "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -264,12 +264,12 @@
      "Nano-texture glass Available in models with 256GB and 512GB storage"
     ],
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
@@ -285,12 +285,12 @@
   "cell": {
    "total": 849,
    "totalFrom": "summary",
-   "totalText": "£849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionFinish": "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+    "dimensionFinish": "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -308,16 +308,16 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From £999 or £83.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From £999 or £83.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionFinish": [
-     "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Standard glass From £699 or £58.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £699.00 or £58.25/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £849.00 or £70.75/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -542,12 +542,12 @@
      "Nano-texture glass Available in models with 256GB and 512GB storage"
     ],
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [
@@ -563,12 +563,12 @@
   "nano": {
    "total": 799,
    "totalFrom": "summary",
-   "totalText": "£799.00 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+   "totalText": "£799.00 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊ | £799.00 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
    "selected": {
     "dimensionColor": "Midnight",
-    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionFinish": "Standard glass From £799 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £799.00 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
+    "dimensionCapacity": "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest",
+    "dimensionFinish": "Standard glass From £799 or £66.58/mo. per month for 12 mo. months at 0% interest",
+    "dimensionConnection": "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £799.00 or £66.58/mo. per month for 12 mo. months at 0% interest",
     "engraving-option-select-app": null,
     "acc_pencil": null,
     "engraving-option-select-engraving-acc_pencil_grp": null,
@@ -586,17 +586,17 @@
      "Starlight"
     ],
     "dimensionCapacity": [
-     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From £999 or £83.25/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "128GB A20 Pro chip: 5-core CPU, 7-core GPU 16-core Neural Engine From £699 or £58.25/mo. per month for 12 mo. months at 0% interest",
+     "256GB A20 Pro chip: 5‑core CPU, 7‑core GPU 16‑core Neural Engine From £799 or £66.58/mo. per month for 12 mo. months at 0% interest",
+     "512GB A20 Pro chip: 6‑core CPU, 7‑core GPU Dual 16‑core Neural Engine From £999 or £83.25/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionFinish": [
-     "Standard glass From £799 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Nano-texture glass Available in models with 256GB and 512GB storage From £899 or £74.91/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Standard glass From £799 or £66.58/mo. per month for 12 mo. months at 0% interest",
+     "Nano-texture glass Available in models with 256GB and 512GB storage From £899 or £74.91/mo. per month for 12 mo. months at 0% interest"
     ],
     "dimensionConnection": [
-     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £799.00 or £66.58/mo. per month for 12 mo. months at 0% interest Footnote ◊◊",
-     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest Footnote ◊◊"
+     "Wi-Fi Every iPad can connect to Wi‑Fi, so you can stay connected. £799.00 or £66.58/mo. per month for 12 mo. months at 0% interest",
+     "Wi-Fi + Cellular Wi-Fi + Cellular lets you connect when Wi-Fi isn’t available. £949.00 or £79.08/mo. per month for 12 mo. months at 0% interest"
     ],
     "engraving-option-select-app": [
      "Add engraving It won’t impact returns or trade-in values with Apple. Free",
@@ -818,12 +818,12 @@
    },
    "disabledOptions": {
     "acc_pencil": [
-     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
-     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest Footnote ◊◊",
+     "Free engraving Add Apple Pencil Pro £129.00 or £32.25/mo. per month for 4 mo. months at 0% interest interest",
+     "Add Apple Pencil (USB‑C) £79.00 or £19.75/mo. per month for 4 mo. months at 0% interest interest",
      "No Apple Pencil"
     ],
     "engraving-option-select-engraving-acc_pencil_grp": [
-     "Add EngravingFree",
+     "Add Engraving Free",
      "No Engraving"
     ],
     "smart_folio": [

@@ -1,0 +1,123 @@
+{
+ "page": "mac-mini",
+ "country": "it",
+ "url": "https://www.apple.com/it/shop/buy-mac/mac-mini",
+ "scrapedAt": "2026-11-16T12:53:31.268Z",
+ "configs": {
+  "m6": {
+   "total": 1079,
+   "totalFrom": "summary",
+   "totalText": "€ 1.079,00 o € 35,33 al mese per 36 mesi, TAN fisso 11% Nota ① | € 1.079,00 o € 35,33 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "processor-dimensionChip": "Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core con due Neural Engine 16‑core Da € 1.079,00 o € 35,33 al mese per 36 mesi, TAN fisso 11%",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Di serie",
+    "memory-dimensionMemory": "16GB Di serie",
+    "storage-dimensionCapacity": "256GB Di serie",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Rete standard, velocità di collegamento fino a 2,5 Gb. Di serie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core con due Neural Engine 16‑core Da € 1.079,00 o € 35,33 al mese per 36 mesi, TAN fisso 11%",
+     "Chip M5 Pro Prestazioni ancora superiori e ancora più opzioni di memoria per i flussi di lavoro più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Di serie"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Di serie",
+     "24GB + € 220,00",
+     "32GB + € 440,00"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Di serie",
+     "512GB + € 220,00",
+     "1TB + € 550,00",
+     "2TB + € 1.100,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Rete standard, velocità di collegamento fino a 2,5 Gb. Di serie",
+     "10 Gigabit Ethernet Maggiore larghezza di banda, con velocità di collegamento fino a 10Gb. + € 110,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-15": {
+   "total": 2029,
+   "totalFrom": "summary",
+   "totalText": "€ 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11% Nota ① | € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Prestazioni ancora superiori e ancora più opzioni di memoria per i flussi di lavoro più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15‑core, GPU 16‑core Di serie",
+    "memory-dimensionMemory": "24GB Di serie",
+    "storage-dimensionCapacity": "512GB Di serie",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Rete standard, velocità di collegamento fino a 2,5 Gb. Di serie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core con due Neural Engine 16‑core Da € 1.079,00 o € 35,33 al mese per 36 mesi, TAN fisso 11%",
+     "Chip M5 Pro Prestazioni ancora superiori e ancora più opzioni di memoria per i flussi di lavoro più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑core, GPU 16‑core Di serie",
+     "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico, e accelera attività come i modelli linguistici di grandi dimensioni e i video in 8K. + € 220,00"
+    ],
+    "memory-dimensionMemory": [
+     "24GB Di serie",
+     "48GB + € 660,00",
+     "64GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Di serie",
+     "1TB + € 330,00",
+     "2TB + € 880,00",
+     "4TB + € 1.980,00",
+     "8TB + € 4.180,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Rete standard, velocità di collegamento fino a 2,5 Gb. Di serie",
+     "10 Gigabit Ethernet Maggiore larghezza di banda, con velocità di collegamento fino a 10Gb. + € 110,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5pro-18": {
+   "total": 2249,
+   "totalFrom": "summary",
+   "totalText": "€ 2.249,00 o € 73,63 al mese per 36 mesi, TAN fisso 11% Nota ① | € 2.249,00 o € 73,63 al mese per 36 mesi, TAN fisso 11% Nota ①",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Pro Prestazioni ancora superiori e ancora più opzioni di memoria per i flussi di lavoro più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico, e accelera attività come i modelli linguistici di grandi dimensioni e i video in 8K.",
+    "memory-dimensionMemory": "24GB Di serie",
+    "storage-dimensionCapacity": "512GB Di serie",
+    "ethernet_adapter-ethernetBandwidth": "2,5 Gigabit Ethernet Rete standard, velocità di collegamento fino a 2,5 Gb. Di serie"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M6 Prestazioni eccellenti per tutti i tuoi progetti personali, professionali e creativi. CPU 12‑core, GPU 12‑core con due Neural Engine 16‑core Da € 1.079,00 o € 35,33 al mese per 36 mesi, TAN fisso 11%",
+     "Chip M5 Pro Prestazioni ancora superiori e ancora più opzioni di memoria per i flussi di lavoro più impegnativi. 2 opzioni con Neural Engine 16‑core Da € 2.029,00 o € 66,43 al mese per 36 mesi, TAN fisso 11%"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑core, GPU 16‑core − € 220,00",
+     "CPU 18‑core, GPU 20‑core Potenzia la velocità di elaborazione e rendering grafico, e accelera attività come i modelli linguistici di grandi dimensioni e i video in 8K."
+    ],
+    "memory-dimensionMemory": [
+     "24GB Di serie",
+     "48GB + € 660,00",
+     "64GB + € 1.100,00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Di serie",
+     "1TB + € 330,00",
+     "2TB + € 880,00",
+     "4TB + € 1.980,00",
+     "8TB + € 4.180,00"
+    ],
+    "ethernet_adapter-ethernetBandwidth": [
+     "2,5 Gigabit Ethernet Rete standard, velocità di collegamento fino a 2,5 Gb. Di serie",
+     "10 Gigabit Ethernet Maggiore larghezza di banda, con velocità di collegamento fino a 10Gb. + € 110,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

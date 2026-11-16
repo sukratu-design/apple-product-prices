@@ -2,12 +2,12 @@
  "page": "ipad-pro",
  "country": "ae",
  "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-pro",
- "scrapedAt": "2026-11-13T11:03:20.336Z",
+ "scrapedAt": "2026-11-16T12:16:46.400Z",
  "configs": {
   "11-wifi": {
    "total": 4999,
    "totalFrom": "summary",
-   "totalText": "AED 4,999.00",
+   "totalText": "AED 4,999.00 | AED 4,999.00 | AED 529.00 | AED 319.00 | AED 1,199.00 | AED 1,399.00 | AED 4,999.00",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From AED 4,999",
     "dimensionColor": "Space Black",
@@ -304,7 +304,7 @@
   "11-cell": {
    "total": 5799,
    "totalFrom": "summary",
-   "totalText": "AED 5,799.00",
+   "totalText": "AED 5,799.00 | AED 5,799.00 | AED 529.00 | AED 319.00 | AED 1,199.00 | AED 1,399.00 | AED 5,799.00",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From AED 4,999",
     "dimensionColor": "Space Black",
@@ -601,7 +601,7 @@
   "13-wifi": {
    "total": 6299,
    "totalFrom": "summary",
-   "totalText": "AED 6,299.00",
+   "totalText": "AED 6,299.00 | AED 6,299.00 | AED 529.00 | AED 319.00 | AED 1,199.00 | AED 1,399.00 | AED 6,299.00",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display From AED 6,299",
     "dimensionColor": "Space Black",
@@ -899,7 +899,7 @@
   "13-cell": {
    "total": 7099,
    "totalFrom": "summary",
-   "totalText": "AED 7,099.00",
+   "totalText": "AED 7,099.00 | AED 7,099.00 | AED 529.00 | AED 319.00 | AED 1,199.00 | AED 1,399.00 | AED 7,099.00",
    "selected": {
     "dimensionScreensize": "13-inch model Ultra Retina XDR display From AED 6,299",
     "dimensionColor": "Space Black",
@@ -1197,7 +1197,7 @@
   "nano": {
    "total": 7399,
    "totalFrom": "summary",
-   "totalText": "AED 7,399.00",
+   "totalText": "AED 7,399.00 | AED 7,399.00 | AED 529.00 | AED 319.00 | AED 1,199.00 | AED 1,399.00 | AED 7,399.00",
    "selected": {
     "dimensionScreensize": "11-inch model Ultra Retina XDR display From AED 4,999",
     "dimensionColor": "Space Black",

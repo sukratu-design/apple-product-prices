@@ -1,0 +1,132 @@
+{
+ "page": "apple-watch-se",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:07:17.894Z",
+ "configs": {
+  "40-gps": {
+   "total": 269,
+   "totalFrom": "summary",
+   "totalText": "269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Medianoche",
+    "watch_cases-dimensionCaseSize": "40 mm Desde 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Medianoche",
+     "Blanco estrella"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "44 mm Desde 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 319,00 € o 11,05 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 319,00 € o 11,05 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 299,
+   "totalFrom": "summary",
+   "totalText": "299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊ | 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊",
+   "selected": {
+    "watch_cases-dimensionColor": "Medianoche",
+    "watch_cases-dimensionCaseSize": "44 mm Desde 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "watch_cases-dimensionConnection": "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "category": "Goma Flexible, cómoda y resistente al agua 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "rubber-style": "Nuevos colores Correa Solo Loop 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+    "rubber-sololoop-color": "Burdeos",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "Medianoche",
+     "Blanco estrella"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 mm Desde 269,00 € o 9,32 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "44 mm Desde 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Haz llamadas y envía mensajes con el iPhone cerca. Desde 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "GPS + Cellular Haz llamadas y envía mensajes usando solo tu Apple Watch. La prestación Apple Watch para tus Peques requiere un modelo GPS + Cellular. Desde 349,00 € o 12,09 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "category": [
+     "Goma Flexible, cómoda y resistente al agua 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Tejido Materiales suaves y ligeros. Ideales para el día a día. Desde 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Acero inoxidable Diseños en acero cuidados al máximo para un look elegante y sofisticado. Desde 349,00 € o 12,09 €/mes al mes durante 36 meses al 16,02 % TAE"
+    ],
+    "rubber-style": [
+     "Nuevos colores Correa Solo Loop 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE Elástica, sin cierre, ajuste preciso",
+     "Nuevos colores Correa deportiva 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE Resistente y ajustable, con cierre de clip",
+     "Nuevos colores Correa Nike Sport 299,00 € o 10,36 €/mes al mes durante 36 meses al 16,02 % TAE Transpirable y ajustable, con cierre de clip"
+    ],
+    "rubber-sololoop-color": [
+     "Burdeos",
+     "Verde oliva",
+     "Azul marino",
+     "Azul silvestre",
+     "Negro"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  },
+  "44-cell": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/shop/go/404)"
+  }
+ }
+}

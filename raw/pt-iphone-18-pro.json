@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:30.018Z",
+ "configs": {
+  "pro": {
+   "total": 1499,
+   "totalFrom": "summary",
+   "totalText": "1 499,00 € | 1 499,00 € | 1 499,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Ecrã de 6,3 polegadas Nota de rodapé 2 Desde 1499 €",
+    "dimensionColor": "Bordô",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 1 499,00 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Ecrã de 6,3 polegadas Nota de rodapé 2 Desde 1499 €",
+     "iPhone 18 Pro Max Ecrã de 6,9 polegadas Nota de rodapé 2 Desde 1649 €"
+    ],
+    "dimensionColor": [
+     "Bordô",
+     "Glaciar",
+     "Prateado",
+     "Preto"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 1 499,00 €",
+     "512 GB Nota de rodapé 1 1 749,00 €",
+     "1 TB Nota de rodapé 1 2 249,00 €",
+     "2 TB Nota de rodapé 1 2 999,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 1649,
+   "totalFrom": "summary",
+   "totalText": "1 649,00 € | 1 649,00 € | 1 649,00 €",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max Ecrã de 6,9 polegadas Nota de rodapé 2 Desde 1649 €",
+    "dimensionColor": "Bordô",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 1 649,00 €"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Ecrã de 6,3 polegadas Nota de rodapé 2 Desde 1499 €",
+     "iPhone 18 Pro Max Ecrã de 6,9 polegadas Nota de rodapé 2 Desde 1649 €"
+    ],
+    "dimensionColor": [
+     "Bordô",
+     "Glaciar",
+     "Prateado",
+     "Preto"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 1 649,00 €",
+     "512 GB Nota de rodapé 1 1 899,00 €",
+     "1 TB Nota de rodapé 1 2 399,00 €",
+     "2 TB Nota de rodapé 1 3 149,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

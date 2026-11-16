@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:07.326Z",
+ "configs": {
+  "pro": {
+   "total": 6299,
+   "totalFrom": "summary",
+   "totalText": "6 299,00 zł | 6 299,00 zł | 6 299,00 zł",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Wyświetlacz o przekątnej 6,3 cala Przypis 2 Od 6299 zł",
+    "dimensionColor": "burgund",
+    "dimensionCapacity": "256 GB Przypis 1 6 299,00 zł"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Wyświetlacz o przekątnej 6,3 cala Przypis 2 Od 6299 zł",
+     "iPhone 18 Pro Max Wyświetlacz o przekątnej 6,9 cala Przypis 2 Od 6799 zł"
+    ],
+    "dimensionColor": [
+     "burgund",
+     "błękit lodowca",
+     "srebrny",
+     "czarny"
+    ],
+    "dimensionCapacity": [
+     "256 GB Przypis 1 6 299,00 zł",
+     "512 GB Przypis 1 7 299,00 zł",
+     "1 TB Przypis 1 9 299,00 zł",
+     "2 TB Przypis 1 12 299,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 6799,
+   "totalFrom": "summary",
+   "totalText": "6 799,00 zł | 6 799,00 zł | 6 799,00 zł",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max Wyświetlacz o przekątnej 6,9 cala Przypis 2 Od 6799 zł",
+    "dimensionColor": "burgund",
+    "dimensionCapacity": "256 GB Przypis 1 6 799,00 zł"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro Wyświetlacz o przekątnej 6,3 cala Przypis 2 Od 6299 zł",
+     "iPhone 18 Pro Max Wyświetlacz o przekątnej 6,9 cala Przypis 2 Od 6799 zł"
+    ],
+    "dimensionColor": [
+     "burgund",
+     "błękit lodowca",
+     "srebrny",
+     "czarny"
+    ],
+    "dimensionCapacity": [
+     "256 GB Przypis 1 6 799,00 zł",
+     "512 GB Przypis 1 7 799,00 zł",
+     "1 TB Przypis 1 9 799,00 zł",
+     "2 TB Przypis 1 12 799,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

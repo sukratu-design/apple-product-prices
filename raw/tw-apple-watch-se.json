@@ -1,0 +1,244 @@
+{
+ "page": "apple-watch-se",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-watch/apple-watch-se",
+ "scrapedAt": "2026-11-16T13:08:59.290Z",
+ "configs": {
+  "40-gps": {
+   "total": 7900,
+   "totalFrom": "summary",
+   "totalText": "NT$7,900 | NT$7,900 | NT$7,900",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "40 公釐 NT$7,900 起",
+    "watch_cases-dimensionConnection": "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$7,900 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$7,900",
+    "rubber-style": "新色 單圈錶環 NT$7,900 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 公釐 NT$7,900 起",
+     "44 公釐 NT$8,900 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$7,900 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$9,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$7,900",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$7,900 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$9,400 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$7,900 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$7,900 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$7,900 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-gps": {
+   "total": 8900,
+   "totalFrom": "summary",
+   "totalText": "NT$8,900 | NT$8,900 | NT$8,900",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "44 公釐 NT$8,900 起",
+    "watch_cases-dimensionConnection": "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$8,900 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$8,900",
+    "rubber-style": "新色 單圈錶環 NT$8,900 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 公釐 NT$7,900 起",
+     "44 公釐 NT$8,900 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$8,900 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$10,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$8,900",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$8,900 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$10,400 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$8,900 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$8,900 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$8,900 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "40-cell": {
+   "total": 9400,
+   "totalFrom": "summary",
+   "totalText": "NT$9,400 | NT$9,400 | NT$9,400",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "40 公釐 NT$7,900 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$9,400 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$9,400",
+    "rubber-style": "新色 單圈錶環 NT$9,400 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 公釐 NT$7,900 起",
+     "44 公釐 NT$8,900 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$7,900 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$9,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$9,400",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$9,400 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$10,900 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$9,400 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$9,400 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$9,400 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "44-cell": {
+   "total": 10400,
+   "totalFrom": "summary",
+   "totalText": "NT$10,400 | NT$10,400 | NT$10,400",
+   "selected": {
+    "watch_cases-dimensionColor": "午夜色",
+    "watch_cases-dimensionCaseSize": "44 公釐 NT$8,900 起",
+    "watch_cases-dimensionConnection": "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$10,400 起",
+    "category": "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$10,400",
+    "rubber-style": "新色 單圈錶環 NT$10,400 具延展性、不需錶扣、精準貼合",
+    "rubber-sololoop-color": "勃根地紅色",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionColor": [
+     "午夜色",
+     "星光色"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "40 公釐 NT$7,900 起",
+     "44 公釐 NT$8,900 起"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS 可藉由你的 iPhone 在附近範圍內撥接電話和發簡訊。 NT$8,900 起",
+     "GPS + 行動網路 只需 Apple Watch 就能打電話和傳簡訊。「Apple Watch 親子設定」須搭配 GPS + 行動網路錶款使用。 NT$10,400 起"
+    ],
+    "category": [
+     "橡膠 富有彈性，觸感舒適，游泳適用型錶帶。 NT$10,400",
+     "織紋材質 材質柔軟且輕盈，十分適合日常佩戴。 NT$10,400 起",
+     "不鏽鋼 精雕細琢的鋼體設計，外觀細緻且高雅。 NT$11,900 起"
+    ],
+    "rubber-style": [
+     "新色 單圈錶環 NT$10,400 具延展性、不需錶扣、精準貼合",
+     "新色 運動型錶帶 NT$10,400 耐用、按插式錶扣、可調整",
+     "新色 Nike 運動型錶帶 NT$10,400 透氣、按插式錶扣、可調整"
+    ],
+    "rubber-sololoop-color": [
+     "勃根地紅色",
+     "橄欖色",
+     "海軍藍色",
+     "野花藍色",
+     "黑色"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -2,22 +2,22 @@
  "page": "mac-studio",
  "country": "jp",
  "url": "https://www.apple.com/jp/shop/buy-mac/mac-studio",
- "scrapedAt": "2026-11-14T03:50:08.695Z",
+ "scrapedAt": "2026-11-16T12:57:54.840Z",
  "configs": {
   "m5max-32": {
    "total": 419800,
    "totalFrom": "summary",
    "totalText": "419,800円 、または17,491円/月 月額 の24回払いから 脚注 ※ | 419,800円 、または17,491円/月 月額 の24回払いから 脚注 ※",
    "selected": {
-    "processor-dimensionChip": "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから 脚注 ※",
+    "processor-dimensionChip": "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、32コアGPU 搭載",
     "memory-dimensionMemory": "36GB 搭載",
     "storage-dimensionCapacity": "512GB 搭載"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから 脚注 ※",
-     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから 脚注 ※"
+     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから",
+     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18コアCPU、32コアGPU 搭載",
@@ -41,15 +41,15 @@
    "totalFrom": "summary",
    "totalText": "527,800円 、または21,991円/月 月額 の24回払いから 脚注 ※ | 527,800円 、または21,991円/月 月額 の24回払いから 脚注 ※",
    "selected": {
-    "processor-dimensionChip": "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから 脚注 ※",
+    "processor-dimensionChip": "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18コアCPU、40コアGPU 処理能力とグラフィックレンダリングの速度を引き上げます。大規模言語モデルの実行や8K動画編集などのタスクが加速します。 この構成を選択するには48GBメモリへのアップグレードが必要です。Macの合計金額に加算されます。",
     "memory-dimensionMemory": "48GB 搭載",
     "storage-dimensionCapacity": "512GB 搭載"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから 脚注 ※",
-     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから 脚注 ※"
+     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから",
+     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18コアCPU、32コアGPU − 54,000円",
@@ -75,15 +75,15 @@
    "totalFrom": "summary",
    "totalText": "949,800円 、または39,575円/月 月額 の24回払いから 脚注 ※ | 949,800円 、または39,575円/月 月額 の24回払いから 脚注 ※",
    "selected": {
-    "processor-dimensionChip": "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから 脚注 ※",
+    "processor-dimensionChip": "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから",
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30コアCPU、64コアGPU 搭載",
     "memory-dimensionMemory": "96GB 搭載",
     "storage-dimensionCapacity": "1TB 搭載"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから 脚注 ※",
-     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから 脚注 ※"
+     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから",
+     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから"
     ],
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "30コアCPU、64コアGPU 搭載",
@@ -108,15 +108,15 @@
    "totalFrom": "summary",
    "totalText": "1,183,800円 、または49,325円/月 月額 の24回払いから 脚注 ※ | 1,183,800円 、または49,325円/月 月額 の24回払いから 脚注 ※",
    "selected": {
-    "processor-dimensionChip": "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから 脚注 ※",
+    "processor-dimensionChip": "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから",
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36コアCPU、80コアGPU 大規模言語モデルの実行、ビジュアルエフェクトの適用、映画のカラーグレーディングなど、負荷の高いワークフローにおいて、処理、グラフィックス、AI演算のパフォーマンスを向上させます。",
     "memory-dimensionMemory": "96GB 搭載",
     "storage-dimensionCapacity": "1TB 搭載"
    },
    "options": {
     "processor-dimensionChip": [
-     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから 脚注 ※",
-     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから 脚注 ※"
+     "M5 Maxチップ クリエイティブなプロジェクトやプロのワークフローに恐るべきスピードと能力をもたらします。 16コアNeural Engineを搭載した2のオプション 419,800円から 、または17,491円/月 月額 の24回払いから",
+     "M5 Ultraチップ Appleで最もパワフルなチップ。極めて負荷の高いプロのワークフローに空前絶後のパワーを届けます。 32コアNeural Engineを搭載した2のオプション 949,800円から 、または39,575円/月 月額 の24回払いから"
     ],
     "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "30コアCPU、64コアGPU − 234,000円",

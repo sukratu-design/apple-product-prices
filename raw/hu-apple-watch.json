@@ -1,0 +1,552 @@
+{
+ "page": "apple-watch",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:03:41.444Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 169990,
+   "totalFrom": "summary",
+   "totalText": "169 990 Ft | 169 990 Ft | 169 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+    "aluminum-watch_cases-dimensionColor": "Új sötét bronz",
+    "watch_cases-dimensionCaseSize": "42 mm Indulóár: 169 990 Ft",
+    "watch_cases-dimensionConnection": "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 169 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 169 990 Ft",
+    "rubber-style": "Új színek Körpánt 169 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Új sötét bronz",
+     "Új világos arany",
+     "Új fekete",
+     "asztroszürke"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 169 990 Ft",
+     "46 mm Indulóár: 194 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 169 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 229 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 169 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 169 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 194 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 169 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 169 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 169 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 194990,
+   "totalFrom": "summary",
+   "totalText": "194 990 Ft | 194 990 Ft | 194 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+    "aluminum-watch_cases-dimensionColor": "Új sötét bronz",
+    "watch_cases-dimensionCaseSize": "46 mm Indulóár: 194 990 Ft",
+    "watch_cases-dimensionConnection": "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 194 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 194 990 Ft",
+    "rubber-style": "Új színek Körpánt 194 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Új sötét bronz",
+     "Új világos arany",
+     "Új fekete",
+     "asztroszürke"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 169 990 Ft",
+     "46 mm Indulóár: 194 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 194 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 254 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 194 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 194 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 219 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 194 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 194 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 194 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "total": 229990,
+   "totalFrom": "summary",
+   "totalText": "229 990 Ft | 229 990 Ft | 229 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+    "aluminum-watch_cases-dimensionColor": "Új sötét bronz",
+    "watch_cases-dimensionCaseSize": "42 mm Indulóár: 169 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 229 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 229 990 Ft",
+    "rubber-style": "Új színek Körpánt 229 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Új sötét bronz",
+     "Új világos arany",
+     "Új fekete",
+     "asztroszürke"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 169 990 Ft",
+     "46 mm Indulóár: 194 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 169 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 229 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 229 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 229 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 254 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 229 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 229 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 229 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-cell": {
+   "total": 254990,
+   "totalFrom": "summary",
+   "totalText": "254 990 Ft | 254 990 Ft | 254 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+    "aluminum-watch_cases-dimensionColor": "Új sötét bronz",
+    "watch_cases-dimensionCaseSize": "46 mm Indulóár: 194 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 254 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 254 990 Ft",
+    "rubber-style": "Új színek Körpánt 254 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Új sötét bronz",
+     "Új világos arany",
+     "Új fekete",
+     "asztroszürke"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 169 990 Ft",
+     "46 mm Indulóár: 194 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van. Indulóár: 194 990 Ft",
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 254 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 254 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 254 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 279 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 254 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 254 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 254 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "ti-42": {
+   "total": 299990,
+   "totalFrom": "summary",
+   "totalText": "299 990 Ft | 299 990 Ft | 299 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+    "titanium-watch_cases-dimensionColor": "Új ragyogó arany",
+    "watch_cases-dimensionCaseSize": "42 mm Indulóár: 299 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 299 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 299 990 Ft",
+    "rubber-style": "Új színek Körpánt 299 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Új ragyogó arany",
+     "natúr"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 299 990 Ft",
+     "46 mm Indulóár: 324 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 299 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 299 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 299 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 324 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 299 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 299 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 299 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van."
+    ]
+   }
+  },
+  "ti-46": {
+   "total": 324990,
+   "totalFrom": "summary",
+   "totalText": "324 990 Ft | 324 990 Ft | 324 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+    "titanium-watch_cases-dimensionColor": "Új ragyogó arany",
+    "watch_cases-dimensionCaseSize": "46 mm Indulóár: 324 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 324 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 324 990 Ft",
+    "rubber-style": "Új színek Körpánt 324 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "titanium-watch_cases-dimensionColor": [
+     "Új ragyogó arany",
+     "natúr"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 299 990 Ft",
+     "46 mm Indulóár: 324 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 324 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 324 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 324 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 349 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 324 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 324 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 324 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van."
+    ]
+   }
+  },
+  "ce-42": {
+   "total": 385990,
+   "totalFrom": "summary",
+   "totalText": "385 990 Ft | 385 990 Ft | 385 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel.",
+    "ceramic-watch_cases-dimensionColor": "Új gyöngyházfehér",
+    "watch_cases-dimensionCaseSize": "42 mm Indulóár: 385 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 385 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 385 990 Ft",
+    "rubber-style": "Új színek Körpánt 385 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Új gyöngyházfehér",
+     "Új éjszakakék"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 385 990 Ft",
+     "46 mm Indulóár: 410 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 385 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 385 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 385 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 410 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 385 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 385 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 385 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van."
+    ]
+   }
+  },
+  "ce-46": {
+   "total": 410990,
+   "totalFrom": "summary",
+   "totalText": "410 990 Ft | 410 990 Ft | 410 990 Ft",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel.",
+    "ceramic-watch_cases-dimensionColor": "Új gyöngyházfehér",
+    "watch_cases-dimensionCaseSize": "46 mm Indulóár: 410 990 Ft",
+    "watch_cases-dimensionConnection": "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 410 990 Ft",
+    "category": "Gumi Rugalmas, kényelmes, úszásálló szíjak. 410 990 Ft",
+    "rubber-style": "Új színek Körpánt 410 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+    "rubber-sololoop-color": "burgundi",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Új bevonatok Alumínium A GPS és a GPS + Cellular modell közül választhatsz Indulóár: 169 990 Ft Matt bevonat és strapabíró kijelző Ceramic Shield 2 technológiával.",
+     "Új bevonat Titán GPS + Cellular kivitelben Indulóár: 299 990 Ft Magasfényű űrtechnológiai minőségű titán, strapabíró zafírkristály kijelzővel.",
+     "Új Kerámia GPS + Cellular kivitelben Indulóár: 385 990 Ft Kifinomult és karcálló, pazar magasfényű bevonattal és strapabíró zafírkristály kijelzővel."
+    ],
+    "ceramic-watch_cases-dimensionColor": [
+     "Új gyöngyházfehér",
+     "Új éjszakakék"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm Indulóár: 385 990 Ft",
+     "46 mm Indulóár: 410 990 Ft"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS + Cellular Telefonálhatsz és üzenetet küldhetsz akkor is, ha csak az Apple Watchod van nálad. Indulóár: 410 990 Ft"
+    ],
+    "category": [
+     "Gumi Rugalmas, kényelmes, úszásálló szíjak. 410 990 Ft",
+     "Textil Puha, könnyű anyagokból. Remek választás a mindennapokra. Indulóár: 410 990 Ft",
+     "Rozsdamentes acél Aprólékos odafigyeléssel készült acél dizájn a kifinomult, divatos megjelenésért. Indulóár: 435 990 Ft"
+    ],
+    "rubber-style": [
+     "Új színek Körpánt 410 990 Ft Elasztikus, csatnélküli dizájn, tökéletes illeszkedés",
+     "Új színek Sportszíj 410 990 Ft Strapabíró anyag, bújtatós rögzítő, állítható",
+     "Új színek Nike sportszíj 410 990 Ft Jól szellőzik, bújtatós rögzítő, állítható"
+    ],
+    "rubber-sololoop-color": [
+     "burgundi",
+     "olíva",
+     "tengerészkék",
+     "iringókék",
+     "fekete"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {
+    "watch_cases-dimensionConnection": [
+     "GPS Telefonálhatsz és üzenetet küldhetsz róla, ha az iPhone-od a közelben van."
+    ]
+   }
+  }
+ }
+}

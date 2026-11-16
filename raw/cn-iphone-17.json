@@ -1,0 +1,36 @@
+{
+ "page": "iphone-17",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T12:00:38.006Z",
+ "configs": {
+  "default": {
+   "total": 6799,
+   "totalFrom": "summary",
+   "totalText": "RMB 6,799",
+   "selected": {
+    "dimensionColor": "薰衣草紫色",
+    "dimensionCapacity": "256GB 脚注 1 RMB 6,799 或 RMB 284/月 (24 期) 起",
+    "ad": "Apple"
+   },
+   "options": {
+    "dimensionColor": [
+     "薰衣草紫色",
+     "青雾蓝色",
+     "白色",
+     "鼠尾草绿色",
+     "黑色"
+    ],
+    "dimensionCapacity": [
+     "256GB 脚注 1 RMB 6,799 或 RMB 284/月 (24 期) 起",
+     "512GB 脚注 1 RMB 8,799 或 RMB 367/月 (24 期) 起"
+    ],
+    "ad": [
+     "Apple",
+     "其他"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

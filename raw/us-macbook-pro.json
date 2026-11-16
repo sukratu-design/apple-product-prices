@@ -2,26 +2,26 @@
  "page": "macbook-pro",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-mac/macbook-pro",
- "scrapedAt": "2026-11-13T05:03:07.139Z",
+ "scrapedAt": "2026-11-16T13:20:50.451Z",
  "configs": {
   "14-m6": {
    "total": 1999,
    "totalFrom": "summary",
-   "totalText": "Buy for $1,999.00 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $1,999.00 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote # | Buy for $1,999.00 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
-    "memory-dimensionMemory": "16GBIncluded",
-    "storage-dimensionCapacity": "1TBIncluded",
-    "power_adapter-wattage": "70WCompact size, efficient charging.Included"
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "1TB Included",
+    "power_adapter-wattage": "70W Compact size, efficient charging. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -32,47 +32,48 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #"
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "Included"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ $200.00",
-     "32GB+ $400.00"
+     "16GB Included",
+     "24GB + $200.00",
+     "32GB + $400.00"
     ],
     "storage-dimensionCapacity": [
-     "1TBIncluded",
-     "2TB+ $500.00",
-     "4TB+ $1,500.00"
+     "1TB Included",
+     "2TB + $500.00",
+     "4TB + $1,500.00"
     ],
     "power_adapter-wattage": [
-     "70WCompact size, efficient charging.Included",
-     "96WFast charging, supports High Power Mode with the M5 Pro and M5 Max chip.+ $20.00"
+     "70W Compact size, efficient charging. Included",
+     "96W Fast charging, supports High Power Mode with the M5 Pro and M5 Max chip. + $20.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "14-m5pro-15": {
    "total": 2499,
    "totalFrom": "summary",
-   "totalText": "Buy for $2,499.00 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $2,499.00 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote # | Buy for $2,499.00 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
-    "memory-dimensionMemory": "24GBIncluded",
-    "storage-dimensionCapacity": "1TBIncluded",
-    "power_adapter-wattage": "70WCompact size, efficient charging.Included"
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "1TB Included",
+    "power_adapter-wattage": "70W Compact size, efficient charging. Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -83,46 +84,47 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #"
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU Included",
      "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding, and creative work. + $200.00"
     ],
     "memory-dimensionMemory": [
-     "24GBIncluded",
-     "48GB+ $600.00"
+     "24GB Included",
+     "48GB + $600.00"
     ],
     "storage-dimensionCapacity": [
-     "1TBIncluded",
-     "2TB+ $500.00",
-     "4TB+ $1,500.00"
+     "1TB Included",
+     "2TB + $500.00",
+     "4TB + $1,500.00"
     ],
     "power_adapter-wattage": [
-     "70WCompact size, efficient charging.Included",
-     "96WFast charging, supports High Power Mode with the M5 Pro and M5 Max chip.+ $20.00"
+     "70W Compact size, efficient charging. Included",
+     "96W Fast charging, supports High Power Mode with the M5 Pro and M5 Max chip. + $20.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "14-m5pro-18": {
    "total": 2699,
    "totalFrom": "summary",
-   "totalText": "Buy for $2,699.00 or $224.91/mo. per month for 12 mo. months Footnote ※ Lease from $53.16/mo. per month for 36 mo. months Footnote #",
+   "totalText": "$2699 or $224.91/mo. per month for 12 mo. months Footnote ※ Lease from $53.16/mo. per month for 36 mo. months Footnote # | $2699 or $224.91/mo. per month for 12 mo. months Footnote ※ Lease from $53.16/mo. per month for 36 mo. months with Apple Upgrade Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding, and creative work.",
-    "memory-dimensionMemory": "24GBIncluded",
-    "storage-dimensionCapacity": "1TBIncluded"
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "1TB Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -133,43 +135,44 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #"
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU − $200.00",
      "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding, and creative work."
     ],
     "memory-dimensionMemory": [
-     "24GBIncluded",
-     "48GB+ $600.00",
-     "64GB+ $1,000.00"
+     "24GB Included",
+     "48GB + $600.00",
+     "64GB + $1,000.00"
     ],
     "storage-dimensionCapacity": [
-     "1TBIncluded",
-     "2TB+ $500.00",
-     "4TB+ $1,500.00"
+     "1TB Included",
+     "2TB + $500.00",
+     "4TB + $1,500.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "14-m5max-32": {
    "total": 4099,
    "totalFrom": "summary",
-   "totalText": "Buy for $4,099.00 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $4,099.00 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote # | Buy for $4,099.00 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Included",
-    "memory-dimensionMemory": "36GBIncluded",
-    "storage-dimensionCapacity": "2TBIncluded"
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "2TB Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -180,41 +183,42 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #"
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18‑core CPU, 32‑core GPU Included",
      "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + $300.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
     ],
     "memory-dimensionMemory": [
-     "36GBIncluded"
+     "36GB Included"
     ],
     "storage-dimensionCapacity": [
-     "2TBIncluded",
-     "4TB+ $1,000.00",
-     "8TB+ $3,000.00"
+     "2TB Included",
+     "4TB + $1,000.00",
+     "8TB + $3,000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "14-m5max-40": {
    "total": 4699,
    "totalFrom": "summary",
-   "totalText": "Buy for $4,699.00 or $391.58/mo. per month for 12 mo. months Footnote ※ Lease from $96.72/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $4,699.00 or $391.58/mo. per month for 12 mo. months Footnote ※ Lease from $96.72/mo. per month for 36 mo. months Footnote # | Buy for $4,699.00 or $391.58/mo. per month for 12 mo. months Footnote ※ Lease from $96.72/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
-    "memory-dimensionMemory": "48GBIncluded",
-    "storage-dimensionCapacity": "2TBIncluded"
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "2TB Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -225,43 +229,44 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Footnote ※ Lease from $48.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Footnote ※ Lease from $83.28/mo. per month for 36 mo. months Footnote #"
+     "New M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 2 options with 16‑core Neural Engine Buy from $2499 or $208.25/mo. per month for 12 mo. months Lease from From $48.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4099 or $341.58/mo. per month for 12 mo. months Lease from From $83.28/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18‑core CPU, 32‑core GPU − $300.00",
      "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
     ],
     "memory-dimensionMemory": [
-     "48GBIncluded",
-     "64GB+ $400.00",
-     "128GB+ $2,000.00"
+     "48GB Included",
+     "64GB + $400.00",
+     "128GB + $2,000.00"
     ],
     "storage-dimensionCapacity": [
-     "2TBIncluded",
-     "4TB+ $1,000.00",
-     "8TB+ $3,000.00"
+     "2TB Included",
+     "4TB + $1,000.00",
+     "8TB + $3,000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "16-m5pro-18": {
    "total": 2999,
    "totalFrom": "summary",
-   "totalText": "Buy for $2,999.00 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $2,999.00 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote # | Buy for $2,999.00 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding, and creative work. Included",
-    "memory-dimensionMemory": "24GBIncluded",
-    "storage-dimensionCapacity": "1TBIncluded"
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "1TB Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -272,41 +277,42 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #"
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Lease from From $87.92/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed for intensive tasks like gaming, coding, and creative work. Included"
     ],
     "memory-dimensionMemory": [
-     "24GBIncluded",
-     "48GB+ $600.00",
-     "64GB+ $1,000.00"
+     "24GB Included",
+     "48GB + $600.00",
+     "64GB + $1,000.00"
     ],
     "storage-dimensionCapacity": [
-     "1TBIncluded",
-     "2TB+ $500.00",
-     "4TB+ $1,500.00"
+     "1TB Included",
+     "2TB + $500.00",
+     "4TB + $1,500.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "16-m5max-32": {
    "total": 4399,
    "totalFrom": "summary",
-   "totalText": "Buy for $4,399.00 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $4,399.00 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote # | Buy for $4,399.00 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Lease from From $87.92/mo. per month for 36 mo. months with Apple Upgrade",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 32‑core GPU Included",
-    "memory-dimensionMemory": "36GBIncluded",
-    "storage-dimensionCapacity": "2TBIncluded"
+    "memory-dimensionMemory": "36GB Included",
+    "storage-dimensionCapacity": "2TB Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -317,40 +323,41 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #"
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Lease from From $87.92/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18‑core CPU, 32‑core GPU Included",
      "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. + $300.00 This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
     ],
     "memory-dimensionMemory": [
-     "36GBIncluded"
+     "36GB Included"
     ],
     "storage-dimensionCapacity": [
-     "2TBIncluded",
-     "4TB+ $1,000.00",
-     "8TB+ $3,000.00"
+     "2TB Included",
+     "4TB + $1,000.00",
+     "8TB + $3,000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "16-m5max-40": {
    "total": 4999,
    "totalFrom": "summary",
-   "totalText": "$4999 or $416.58/mo. per month for 12 mo. months Footnote ※ Lease from $101.30/mo. per month for 36 mo. months Footnote #",
+   "totalText": "Buy for $4,999.00 or $416.58/mo. per month for 12 mo. months Footnote ※ Lease from $101.30/mo. per month for 36 mo. months Footnote # | Buy for $4,999.00 or $416.58/mo. per month for 12 mo. months Footnote ※ Lease from $101.30/mo. per month for 36 mo. months Footnote #",
    "selected": {
-    "chassis-dimensionScreensize": "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
+    "chassis-dimensionScreensize": "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
     "chassis-dimensionColor": "Space Black",
     "display-dimensionFinish": "Standard display Engineered for low reflectivity to reduce glare in your environment. Included",
-    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #",
+    "processor-dimensionChip": "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Lease from From $87.92/mo. per month for 36 mo. months with Apple Upgrade",
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac.",
-    "memory-dimensionMemory": "48GBIncluded",
-    "storage-dimensionCapacity": "2TBIncluded"
+    "memory-dimensionMemory": "48GB Included",
+    "storage-dimensionCapacity": "2TB Included"
    },
    "options": {
     "chassis-dimensionScreensize": [
-     "14-inch Footnote 1 Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Footnote ※ Lease from $38.99/mo. per month for 36 mo. months Footnote #",
-     "16-inch Footnote 1 Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #"
+     "14-inch Available with M6, M5 Pro, or M5 Max chip. Buy from $1999 or $166.58/mo. per month for 12 mo. months Lease from From $38.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "16-inch Available with M5 Pro or M5 Max chip. Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "chassis-dimensionColor": [
      "Space Black",
@@ -361,24 +368,25 @@
      "Nano-texture display Further reduces reflections and glare in bright lighting conditions. + $150.00"
     ],
     "processor-dimensionChip": [
-     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Footnote ※ Lease from $57.99/mo. per month for 36 mo. months Footnote #",
-     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Footnote ※ Lease from $87.92/mo. per month for 36 mo. months Footnote #"
+     "M5 Pro chip Provides more performance and higher memory options for more demanding workflows. 18‑core CPU, 20‑core GPU, 16‑core Neural Engine Buy from $2999 or $249.91/mo. per month for 12 mo. months Lease from From $57.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M5 Max chip Our most powerful chip ever built for a pro laptop. Made for extreme workflows. 2 options with 16‑core Neural Engine Buy from $4399 or $366.58/mo. per month for 12 mo. months Lease from From $87.92/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "18‑core CPU, 32‑core GPU − $300.00",
      "18‑core CPU, 40‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video. This selection requires an upgrade to 48GB memory, which will increase the total price of your Mac."
     ],
     "memory-dimensionMemory": [
-     "48GBIncluded",
-     "64GB+ $400.00",
-     "128GB+ $2,000.00"
+     "48GB Included",
+     "64GB + $400.00",
+     "128GB + $2,000.00"
     ],
     "storage-dimensionCapacity": [
-     "2TBIncluded",
-     "4TB+ $1,000.00",
-     "8TB+ $3,000.00"
+     "2TB Included",
+     "4TB + $1,000.00",
+     "8TB + $3,000.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

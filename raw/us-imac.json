@@ -2,11 +2,22 @@
  "page": "imac",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-mac/imac",
- "scrapedAt": "2026-11-13T04:52:56.956Z",
+ "scrapedAt": "2026-11-16T13:24:09.926Z",
  "configs": {
   "2port": {
    "total": 1499,
-   "totalText": "Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #",
+   "totalFrom": "summary",
+   "totalText": "Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote # | Buy for $1,499.00 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "chassis-dimensionStandType": "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+    "ethernet_adapter-ethernetPortCount": "No Ethernet Connect only through a Wi‑Fi network. Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultracompact, edge-to-edge design. Included"
+   },
    "options": {
     "chassis-dimensionColor": [
      "Blue",
@@ -18,25 +29,25 @@
      "Silver"
     ],
     "processor-cpuCoreCount-gpuCoreCount": [
-     "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #",
-     "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ※ Lease from $32.86/mo. per month for 36 mo. months Footnote #"
+     "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Lease from From $32.86/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ $200.00"
+     "16GB Included",
+     "24GB + $200.00"
     ],
     "storage-dimensionCapacity": [
-     "256GBIncluded",
-     "512GB+ $200.00",
-     "1TB+ $500.00"
+     "256GB Included",
+     "512GB + $200.00",
+     "1TB + $500.00"
     ],
     "chassis-dimensionStandType": [
-     "StandSet up on your desk, adjust with upward and downward tilt.Included",
-     "VESA Mount AdapterBuilt in so you can mount to a wall or an adjustable arm."
+     "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+     "VESA Mount Adapter Built in so you can mount to a wall or an adjustable arm."
     ],
     "ethernet_adapter-ethernetPortCount": [
-     "No EthernetConnect only through a Wi‑Fi network.Included",
-     "2.5 Gigabit Ethernet portStandard networking, up to 2.5Gb link speeds.+ $30.00"
+     "No Ethernet Connect only through a Wi‑Fi network. Included",
+     "2.5 Gigabit Ethernet port Standard networking, up to 2.5Gb link speeds. + $30.00"
     ],
     "mouse_and_track_pad-pointingDeviceType": [
      "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
@@ -46,11 +57,23 @@
      "Magic Keyboard Ultracompact, edge-to-edge design. Included",
      "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + $80.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "4port": {
    "total": 1699,
-   "totalText": "Buy for $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ※ Lease from $32.86/mo. per month for 36 mo. months Footnote #",
+   "totalFrom": "summary",
+   "totalText": "Buy for $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ※ Lease from $32.86/mo. per month for 36 mo. months Footnote # | Buy for $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ※ Lease from $32.86/mo. per month for 36 mo. months Footnote #",
+   "selected": {
+    "chassis-dimensionColor": "Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Lease from From $32.86/mo. per month for 36 mo. months with Apple Upgrade",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "display-dimensionFinish": "Standard glass Engineered for low reflectivity to reduce glare in your environment. Included",
+    "chassis-dimensionStandType": "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
+    "keyboard-keyboardFormFactor": "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included"
+   },
    "options": {
     "chassis-dimensionColor": [
      "Blue",
@@ -62,27 +85,27 @@
      "Silver"
     ],
     "processor-cpuCoreCount-gpuCoreCount": [
-     "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Buy from $1499 or $124.91/mo. per month for 12 mo. months Footnote ※ Lease from $28.99/mo. per month for 36 mo. months Footnote #",
-     "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ※ Lease from $32.86/mo. per month for 36 mo. months Footnote #"
+     "M6 chip with two Thunderbolt ports 10‑core CPU, 10‑core GPU, Dual 16‑core Neural Engine Buy from $1499 or $124.91/mo. per month for 12 mo. months Lease from From $28.99/mo. per month for 36 mo. months with Apple Upgrade",
+     "M6 chip with four Thunderbolt ports 12‑core CPU, 12‑core GPU, Dual 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Lease from From $32.86/mo. per month for 36 mo. months with Apple Upgrade"
     ],
     "memory-dimensionMemory": [
-     "16GBIncluded",
-     "24GB+ $200.00",
-     "32GB+ $400.00"
+     "16GB Included",
+     "24GB + $200.00",
+     "32GB + $400.00"
     ],
     "storage-dimensionCapacity": [
-     "256GBIncluded",
-     "512GB+ $200.00",
-     "1TB+ $500.00",
-     "2TB+ $1,000.00"
+     "256GB Included",
+     "512GB + $200.00",
+     "1TB + $500.00",
+     "2TB + $1,000.00"
     ],
     "display-dimensionFinish": [
-     "Standard glassEngineered for low reflectivity to reduce glare in your environment.Included",
-     "Nano-texture glassFurther reduces reflections and glare in bright lighting conditions. Available with four-port model only.+ $200.00"
+     "Standard glass Engineered for low reflectivity to reduce glare in your environment. Included",
+     "Nano-texture glass Further reduces reflections and glare in bright lighting conditions. Available with four-port model only. + $200.00"
     ],
     "chassis-dimensionStandType": [
-     "StandSet up on your desk, adjust with upward and downward tilt.Included",
-     "VESA Mount AdapterBuilt in so you can mount to a wall or an adjustable arm."
+     "Stand Set up on your desk, adjust with upward and downward tilt. Included",
+     "VESA Mount Adapter Built in so you can mount to a wall or an adjustable arm."
     ],
     "mouse_and_track_pad-pointingDeviceType": [
      "Magic Mouse Supports Multi-Touch gestures like swiping and scrolling. Included",
@@ -92,7 +115,8 @@
      "Magic Keyboard with Touch ID Provides fast, easy authentication with your fingerprint. Included",
      "Magic Keyboard with Touch ID and Numeric Keypad Extended layout with additional navigation controls. Provides fast, easy authentication with your fingerprint. + $30.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "cn",
+ "url": "https://www.apple.com.cn/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:45.775Z",
+ "configs": {
+  "m5max-32": {
+   "total": 19999,
+   "totalFrom": "summary",
+   "totalText": "RMB 19,999 或 RMB 834/月 (24 期) 起 | RMB 19,999 或 RMB 834/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M5 Max 芯片 惊人速度与实力，处理各种创意项目和专业工作得心应手。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、32 核图形处理器 已含",
+    "memory-dimensionMemory": "36GB 已含",
+    "storage-dimensionCapacity": "512GB 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 芯片 惊人速度与实力，处理各种创意项目和专业工作得心应手。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Ultra 芯片 我们迄今最强大的芯片，性能颠覆想象，为各类要求极为严苛的专业工作而生。 2 种配置可选 (配备 32 核神经网络引擎) RMB 46,999 起 或 RMB 1959/月 (24 期) 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、32 核图形处理器 已含",
+     "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 + RMB 2,250 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB 已含"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已含",
+     "1TB + RMB 2,250",
+     "2TB + RMB 6,000",
+     "4TB + RMB 13,500",
+     "8TB + RMB 28,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 24499,
+   "totalFrom": "summary",
+   "totalText": "RMB 24,499 或 RMB 1021/月 (24 期) 起 | RMB 24,499 或 RMB 1021/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M5 Max 芯片 惊人速度与实力，处理各种创意项目和专业工作得心应手。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。",
+    "memory-dimensionMemory": "48GB 已含",
+    "storage-dimensionCapacity": "512GB 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 芯片 惊人速度与实力，处理各种创意项目和专业工作得心应手。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Ultra 芯片 我们迄今最强大的芯片，性能颠覆想象，为各类要求极为严苛的专业工作而生。 2 种配置可选 (配备 32 核神经网络引擎) RMB 46,999 起 或 RMB 1959/月 (24 期) 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核中央处理器、32 核图形处理器 − RMB 2,250",
+     "18 核中央处理器、40 核图形处理器 处理性能和图形渲染速度进一步提升，并可加快大语言模型运行和 8K 视频剪辑等任务。 选择此配置需要升级至 48GB 内存，Mac 总价会相应增加。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB 已含",
+     "64GB + RMB 3,000",
+     "128GB + RMB 15,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已含",
+     "1TB + RMB 2,250",
+     "2TB + RMB 6,000",
+     "4TB + RMB 13,500",
+     "8TB + RMB 28,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 46999,
+   "totalFrom": "summary",
+   "totalText": "RMB 46,999 或 RMB 1959/月 (24 期) 起 | RMB 46,999 或 RMB 1959/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra 芯片 我们迄今最强大的芯片，性能颠覆想象，为各类要求极为严苛的专业工作而生。 2 种配置可选 (配备 32 核神经网络引擎) RMB 46,999 起 或 RMB 1959/月 (24 期) 起",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30 核中央处理器、64 核图形处理器 已含",
+    "memory-dimensionMemory": "96GB 已含",
+    "storage-dimensionCapacity": "1TB 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 芯片 惊人速度与实力，处理各种创意项目和专业工作得心应手。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Ultra 芯片 我们迄今最强大的芯片，性能颠覆想象，为各类要求极为严苛的专业工作而生。 2 种配置可选 (配备 32 核神经网络引擎) RMB 46,999 起 或 RMB 1959/月 (24 期) 起"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 核中央处理器、64 核图形处理器 已含",
+     "36 核中央处理器、80 核图形处理器 处理性能、图形表现和 AI 运算能力进一步提升，可胜任运行大语言模型、应用视觉特效及影片调色等要求严苛的任务。 + RMB 9,750"
+    ],
+    "memory-dimensionMemory": [
+     "96GB 已含",
+     "256GB + RMB 30,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已含",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250",
+     "8TB + RMB 26,250",
+     "16TB + RMB 56,250"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 56749,
+   "totalFrom": "summary",
+   "totalText": "RMB 56,749 或 RMB 2365/月 (24 期) 起 | RMB 56,749 或 RMB 2365/月 (24 期) 起",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra 芯片 我们迄今最强大的芯片，性能颠覆想象，为各类要求极为严苛的专业工作而生。 2 种配置可选 (配备 32 核神经网络引擎) RMB 46,999 起 或 RMB 1959/月 (24 期) 起",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36 核中央处理器、80 核图形处理器 处理性能、图形表现和 AI 运算能力进一步提升，可胜任运行大语言模型、应用视觉特效及影片调色等要求严苛的任务。",
+    "memory-dimensionMemory": "96GB 已含",
+    "storage-dimensionCapacity": "1TB 已含"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 芯片 惊人速度与实力，处理各种创意项目和专业工作得心应手。 2 种配置可选 (配备 16 核神经网络引擎) RMB 19,999 起 或 RMB 834/月 (24 期) 起",
+     "M5 Ultra 芯片 我们迄今最强大的芯片，性能颠覆想象，为各类要求极为严苛的专业工作而生。 2 种配置可选 (配备 32 核神经网络引擎) RMB 46,999 起 或 RMB 1959/月 (24 期) 起"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 核中央处理器、64 核图形处理器 − RMB 9,750",
+     "36 核中央处理器、80 核图形处理器 处理性能、图形表现和 AI 运算能力进一步提升，可胜任运行大语言模型、应用视觉特效及影片调色等要求严苛的任务。"
+    ],
+    "memory-dimensionMemory": [
+     "96GB 已含",
+     "256GB + RMB 30,000",
+     "512GB + RMB 116,250"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已含",
+     "2TB + RMB 3,750",
+     "4TB + RMB 11,250",
+     "8TB + RMB 26,250",
+     "16TB + RMB 56,250"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

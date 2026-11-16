@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "es",
+ "url": "https://www.apple.com/es/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:56:16.022Z",
+ "configs": {
+  "m5max-32": {
+   "total": 3029,
+   "totalFrom": "summary",
+   "totalText": "3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Velocidad y potencia de sobra para las tareas profesionales y los proyectos creativos. 2 opciones con Neural Engine de 16 núcleos Desde 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+    "memory-dimensionMemory": "36 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidad y potencia de sobra para las tareas profesionales y los proyectos creativos. 2 opciones con Neural Engine de 16 núcleos Desde 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Chip M5 Ultra Nuestro chip más potente para tareas profesionales que necesitan un rendimiento sin igual. 2 opciones con Neural Engine de 32 núcleos Desde 6.649,00 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos Incluido",
+     "CPU de 18 núcleos, GPU de 40 núcleos Gana velocidad de procesamiento y de renderizado gráfico, y acelera tareas como ejecutar grandes modelos de lenguaje o editar vídeo 8K. + 330,00 € Para esta opción es necesario aumentar la memoria a 48 GB, lo que aumentará el precio total del Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluido"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + 330,00 €",
+     "2 TB + 880,00 €",
+     "4 TB + 1.980,00 €",
+     "8 TB + 4.180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3689,
+   "totalFrom": "summary",
+   "totalText": "3.689,00 € o 127,79 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊ | 3.689,00 € o 127,79 €/mes al mes durante 36 meses al 16,02 % TAE Nota a pie de página ◊◊",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Max Velocidad y potencia de sobra para las tareas profesionales y los proyectos creativos. 2 opciones con Neural Engine de 16 núcleos Desde 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 18 núcleos, GPU de 40 núcleos Gana velocidad de procesamiento y de renderizado gráfico, y acelera tareas como ejecutar grandes modelos de lenguaje o editar vídeo 8K. Para esta opción es necesario aumentar la memoria a 48 GB, lo que aumentará el precio total del Mac.",
+    "memory-dimensionMemory": "48 GB Incluido",
+    "storage-dimensionCapacity": "512 GB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidad y potencia de sobra para las tareas profesionales y los proyectos creativos. 2 opciones con Neural Engine de 16 núcleos Desde 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Chip M5 Ultra Nuestro chip más potente para tareas profesionales que necesitan un rendimiento sin igual. 2 opciones con Neural Engine de 32 núcleos Desde 6.649,00 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 18 núcleos, GPU de 32 núcleos − 330,00 €",
+     "CPU de 18 núcleos, GPU de 40 núcleos Gana velocidad de procesamiento y de renderizado gráfico, y acelera tareas como ejecutar grandes modelos de lenguaje o editar vídeo 8K. Para esta opción es necesario aumentar la memoria a 48 GB, lo que aumentará el precio total del Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluido",
+     "64 GB + 440,00 €",
+     "128 GB + 2.200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluido",
+     "1 TB + 330,00 €",
+     "2 TB + 880,00 €",
+     "4 TB + 1.980,00 €",
+     "8 TB + 4.180,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 6649,
+   "totalFrom": "summary",
+   "totalText": "6.649,00 € | 6.649,00 €",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Nuestro chip más potente para tareas profesionales que necesitan un rendimiento sin igual. 2 opciones con Neural Engine de 32 núcleos Desde 6.649,00 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 30 núcleos, GPU de 64 núcleos Incluido",
+    "memory-dimensionMemory": "96 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidad y potencia de sobra para las tareas profesionales y los proyectos creativos. 2 opciones con Neural Engine de 16 núcleos Desde 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Chip M5 Ultra Nuestro chip más potente para tareas profesionales que necesitan un rendimiento sin igual. 2 opciones con Neural Engine de 32 núcleos Desde 6.649,00 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 30 núcleos, GPU de 64 núcleos Incluido",
+     "CPU de 36 núcleos, GPU de 80 núcleos Aumenta la velocidad de procesamiento, gráficos y computación de IA para procesos exigentes como ejecutar grandes modelos de lenguaje, aplicar efectos visuales y ajustar el color en películas. + 1.430,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluido",
+     "256 GB + 4.400,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €",
+     "8 TB + 3.850,00 €",
+     "16 TB + 8.250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 8079,
+   "totalFrom": "summary",
+   "totalText": "8.079,00 € | 8.079,00 €",
+   "selected": {
+    "processor-dimensionChip": "Chip M5 Ultra Nuestro chip más potente para tareas profesionales que necesitan un rendimiento sin igual. 2 opciones con Neural Engine de 32 núcleos Desde 6.649,00 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU de 36 núcleos, GPU de 80 núcleos Aumenta la velocidad de procesamiento, gráficos y computación de IA para procesos exigentes como ejecutar grandes modelos de lenguaje, aplicar efectos visuales y ajustar el color en películas.",
+    "memory-dimensionMemory": "96 GB Incluido",
+    "storage-dimensionCapacity": "1 TB Incluido"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Chip M5 Max Velocidad y potencia de sobra para las tareas profesionales y los proyectos creativos. 2 opciones con Neural Engine de 16 núcleos Desde 3.029,00 € o 104,93 €/mes al mes durante 36 meses al 16,02 % TAE",
+     "Chip M5 Ultra Nuestro chip más potente para tareas profesionales que necesitan un rendimiento sin igual. 2 opciones con Neural Engine de 32 núcleos Desde 6.649,00 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU de 30 núcleos, GPU de 64 núcleos − 1.430,00 €",
+     "CPU de 36 núcleos, GPU de 80 núcleos Aumenta la velocidad de procesamiento, gráficos y computación de IA para procesos exigentes como ejecutar grandes modelos de lenguaje, aplicar efectos visuales y ajustar el color en películas."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluido",
+     "256 GB + 4.400,00 €",
+     "512 GB + 17.050,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluido",
+     "2 TB + 550,00 €",
+     "4 TB + 1.650,00 €",
+     "8 TB + 3.850,00 €",
+     "16 TB + 8.250,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

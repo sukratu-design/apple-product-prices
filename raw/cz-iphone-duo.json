@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "cz",
+ "url": "https://www.apple.com/cz/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:27.442Z",
+ "configs": {
+  "default": {
+   "total": 54990,
+   "totalFrom": "summary",
+   "totalText": "54 990,00 Kč | 54 990,00 Kč | 54 990,00 Kč",
+   "selected": {
+    "dimensionColor": "Nebesky bílá",
+    "dimensionCapacity": "256 GB Poznámka 1 54 990,00 Kč"
+   },
+   "options": {
+    "dimensionColor": [
+     "Nebesky bílá",
+     "Soumračně modrá"
+    ],
+    "dimensionCapacity": [
+     "256 GB Poznámka 1 54 990,00 Kč",
+     "512 GB Poznámka 1 60 990,00 Kč",
+     "1 TB Poznámka 1 72 990,00 Kč",
+     "2 TB Poznámka 1 90 990,00 Kč"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

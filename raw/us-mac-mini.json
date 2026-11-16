@@ -2,15 +2,23 @@
  "page": "mac-mini",
  "country": "us",
  "url": "https://www.apple.com/shop/buy-mac/mac-mini",
- "scrapedAt": "2026-11-13T04:53:13.589Z",
+ "scrapedAt": "2026-11-16T12:53:13.131Z",
  "configs": {
   "m6": {
    "total": 899,
-   "totalText": "$899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡",
+   "totalFrom": "summary",
+   "totalText": "$899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡ | $899.00 or $74.91/mo. per month for 12 mo. months Footnote ‡",
+   "selected": {
+    "processor-dimensionChip": "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Included",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "256GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ‡"
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months"
     ],
     "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "Included"
@@ -30,15 +38,24 @@
      "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
      "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + $100.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "m5pro-15": {
    "total": 1699,
-   "totalText": "$1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡",
+   "totalFrom": "summary",
+   "totalText": "$1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡ | $1,699.00 or $141.58/mo. per month for 12 mo. months Footnote ‡",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑core CPU, 16‑core GPU Included",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ‡"
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU Included",
@@ -60,15 +77,24 @@
      "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
      "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + $100.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   },
   "m5pro-18": {
    "total": 1899,
-   "totalText": "$1,899.00 or $158.25/mo. per month for 12 mo. months Footnote ‡",
+   "totalFrom": "summary",
+   "totalText": "$1,899.00 or $158.25/mo. per month for 12 mo. months Footnote ‡ | $1,899.00 or $158.25/mo. per month for 12 mo. months Footnote ‡",
+   "selected": {
+    "processor-dimensionChip": "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑core CPU, 20‑core GPU Boost your processing and graphics rendering speed, and accelerate tasks like running large language models and editing 8K video.",
+    "memory-dimensionMemory": "24GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "ethernet_adapter-ethernetBandwidth": "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included"
+   },
    "options": {
     "processor-dimensionChip": [
-     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months Footnote ‡",
-     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months Footnote ‡"
+     "M6 chip Blazing fast, with next‑level performance, for the personal, professional, and creative tasks you do every day. 12‑core CPU, 12‑core GPU Dual 16‑core Neural Engine Buy from $899 or $74.91/mo. per month for 12 mo. months",
+     "M5 Pro chip Provides more performance and higher memory options for demanding workflows. 2 options with 16‑core Neural Engine Buy from $1699 or $141.58/mo. per month for 12 mo. months"
     ],
     "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
      "15‑core CPU, 16‑core GPU − $200.00",
@@ -90,7 +116,8 @@
      "2.5 Gigabit Ethernet Standard networking, up to 2.5Gb link speeds. Included",
      "10 Gigabit Ethernet Higher connectivity bandwidth, up to 10Gb link speeds. + $100.00"
     ]
-   }
+   },
+   "disabledOptions": {}
   }
  }
 }

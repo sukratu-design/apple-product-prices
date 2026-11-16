@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:49:55.267Z",
+ "configs": {
+  "2port": {
+   "total": 35999,
+   "totalFrom": "summary",
+   "totalText": "$35,999 de contado o 18 MSI desde $1,999.94. Nota al pie ± | $35,999 de contado o 18 MSI desde $1,999.94. Nota al pie ±",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos y dos Neural Engine de 16 núcleos Desde $35,999 de contado o 18 MSI desde $1,999.94.",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "chassis-dimensionStandType": "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+    "ethernet_adapter-ethernetPortCount": "Sin Ethernet Conexión sólo a través de redes Wi‑Fi. Incluido",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatible con gestos Multi-Touch como deslizar y desplazar. Incluido",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Diseño ultracompacto de borde a borde. Incluido"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Morado",
+     "Rosa",
+     "Naranja",
+     "Amarillo",
+     "Verde",
+     "Color plata"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos y dos Neural Engine de 16 núcleos Desde $35,999 de contado o 18 MSI desde $1,999.94.",
+     "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $5,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + $5,000.00",
+     "1 TB + $12,500.00"
+    ],
+    "chassis-dimensionStandType": [
+     "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+     "Adaptador de montaje VESA Integrado para que puedas instalarlo en una pared o usarlo con un brazo ajustable."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Sin Ethernet Conexión sólo a través de redes Wi‑Fi. Incluido",
+     "Puerto Ethernet de 2.5 Gb Conexión de red estándar, con velocidades de hasta 2.5 Gb. + $1,000.00"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatible con gestos Multi-Touch como deslizar y desplazar. Incluido",
+     "Magic Trackpad Compatible con todos los gestos Multi-Touch y la tecnología Force Touch. + $1,200.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Diseño ultracompacto de borde a borde. Incluido",
+     "Magic Keyboard con Touch ID y teclado numérico Diseño ampliado que incluye controles de navegación. Autenticación fácil y rápida con tu huella digital. + $1,800.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 39999,
+   "totalFrom": "summary",
+   "totalText": "$39,999 de contado o 18 MSI desde $2,222.17. Nota al pie ± | $39,999 de contado o 18 MSI desde $2,222.17. Nota al pie ±",
+   "selected": {
+    "chassis-dimensionColor": "Azul",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17.",
+    "memory-dimensionMemory": "16 GB Incluido",
+    "storage-dimensionCapacity": "256 GB Incluido",
+    "display-dimensionFinish": "Vidrio estándar Tiene una reflectividad baja para reducir los brillos a tu alrededor. Incluido",
+    "chassis-dimensionStandType": "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Compatible con gestos Multi-Touch como deslizar y desplazar. Incluido",
+    "keyboard-keyboardFormFactor": "Magic Keyboard con Touch ID Autenticación fácil y rápida con tu huella digital. Incluido"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Azul",
+     "Morado",
+     "Rosa",
+     "Naranja",
+     "Amarillo",
+     "Verde",
+     "Color plata"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 con dos puertos Thunderbolt CPU de 10 núcleos, GPU de 10 núcleos y dos Neural Engine de 16 núcleos Desde $35,999 de contado o 18 MSI desde $1,999.94.",
+     "Chip M6 con cuatro puertos Thunderbolt CPU de 12 núcleos, GPU de 12 núcleos y dos Neural Engine de 16 núcleos Desde $39,999 de contado o 18 MSI desde $2,222.17."
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluido",
+     "24 GB + $5,000.00",
+     "32 GB + $10,000.00"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB Incluido",
+     "512 GB + $5,000.00",
+     "1 TB + $12,500.00",
+     "2 TB + $25,000.00"
+    ],
+    "display-dimensionFinish": [
+     "Vidrio estándar Tiene una reflectividad baja para reducir los brillos a tu alrededor. Incluido",
+     "Vidrio nanotexturizado Reduce aún más los reflejos en espacios con mucha luz. Disponible sólo para el modelo con cuatro puertos. + $5,000.00"
+    ],
+    "chassis-dimensionStandType": [
+     "Base Ponla en tu escritorio y ajusta la inclinación hacia arriba o hacia abajo. Incluido",
+     "Adaptador de montaje VESA Integrado para que puedas instalarlo en una pared o usarlo con un brazo ajustable."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Compatible con gestos Multi-Touch como deslizar y desplazar. Incluido",
+     "Magic Trackpad Compatible con todos los gestos Multi-Touch y la tecnología Force Touch. + $1,200.00"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard con Touch ID Autenticación fácil y rápida con tu huella digital. Incluido",
+     "Magic Keyboard con Touch ID y teclado numérico Diseño ampliado que incluye controles de navegación. Autenticación fácil y rápida con tu huella digital. + $1,000.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

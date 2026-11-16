@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "fi",
+ "url": "https://www.apple.com/fi/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:59.572Z",
+ "configs": {
+  "default": {
+   "total": 2419,
+   "totalFrom": "summary",
+   "totalText": "2 419,00 € | 2 419,00 € | 2 419,00 €",
+   "selected": {
+    "dimensionColor": "Tähdenkajo",
+    "dimensionCapacity": "256 Gt Alaviite 1 2 419,00 €"
+   },
+   "options": {
+    "dimensionColor": [
+     "Tähdenkajo",
+     "Yötaivas"
+    ],
+    "dimensionCapacity": [
+     "256 Gt Alaviite 1 2 419,00 €",
+     "512 Gt Alaviite 1 2 669,00 €",
+     "1 Tt Alaviite 1 3 169,00 €",
+     "2 Tt Alaviite 1 3 919,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

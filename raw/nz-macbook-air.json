@@ -1,0 +1,138 @@
+{
+ "page": "macbook-air",
+ "country": "nz",
+ "url": "https://www.apple.com/nz/shop/buy-mac/macbook-air",
+ "scrapedAt": "2026-11-16T12:44:04.138Z",
+ "configs": {
+  "15": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "NZ$2,999.00 | NZ$2,999.00",
+   "selected": {
+    "chassis-dimensionScreensize": "15-inch From NZ$2,999",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From NZ$2,999",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "35W Dual USB-C Port Two ports to charge two devices at once. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From NZ$2,599",
+     "15-inch From NZ$2,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From NZ$2,999"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + NZ$400.00",
+     "32GB + NZ$800.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included",
+     "1TB + NZ$600.00",
+     "2TB + NZ$1,600.00",
+     "4TB + NZ$3,600.00"
+    ],
+    "power_adapter-wattage": [
+     "35W Dual USB-C Port Two ports to charge two devices at once. Included",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-8gpu": {
+   "total": 2599,
+   "totalFrom": "summary",
+   "totalText": "NZ$2,599.00 | NZ$2,599.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From NZ$2,599",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From NZ$2,599",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "512GB Included",
+    "power_adapter-wattage": "30W USB-C Quick, efficient charging. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From NZ$2,599",
+     "15-inch From NZ$2,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From NZ$2,599",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From NZ$2,799"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB Included"
+    ],
+    "power_adapter-wattage": [
+     "30W USB-C Quick, efficient charging. Included",
+     "35W Dual USB-C Port Two ports to charge two devices at once. + NZ$20.00",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes. + NZ$20.00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "13-10gpu": {
+   "total": 3199,
+   "totalFrom": "summary",
+   "totalText": "NZ$3,199.00 | NZ$3,199.00",
+   "selected": {
+    "chassis-dimensionScreensize": "13-inch From NZ$2,599",
+    "chassis-dimensionColor": "Sky Blue",
+    "processor-cpuCoreCount-gpuCoreCount": "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From NZ$2,799",
+    "memory-dimensionMemory": "16GB Included",
+    "storage-dimensionCapacity": "1TB",
+    "power_adapter-wattage": "35W Dual USB-C Port Two ports to charge two devices at once. Included"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "13-inch From NZ$2,599",
+     "15-inch From NZ$2,999"
+    ],
+    "chassis-dimensionColor": [
+     "Sky Blue",
+     "Silver",
+     "Starlight",
+     "Midnight"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "10‑core CPU, 8‑core GPU, 16‑core Neural Engine Brings speed and fluidity to everything you do. From NZ$2,599",
+     "10‑core CPU, 10‑core GPU, 16‑core Neural Engine Give a boost to intensive tasks like gaming and creative work with more processing and graphics rendering speed. From NZ$2,799"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Included",
+     "24GB + NZ$400.00",
+     "32GB + NZ$800.00"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB − NZ$600.00",
+     "1TB",
+     "2TB + NZ$1,000.00",
+     "4TB + NZ$3,000.00"
+    ],
+    "power_adapter-wattage": [
+     "35W Dual USB-C Port Two ports to charge two devices at once. Included",
+     "70W USB-C Supports fast charging up to 50% in around 30 minutes."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

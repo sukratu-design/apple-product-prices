@@ -1,0 +1,11 @@
+{
+ "page": "homepod-mini",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-homepod/homepod-mini",
+ "scrapedAt": "2026-11-16T13:31:55.590Z",
+ "configs": {
+  "default": {
+   "error": "not sold in this store (page redirects to https://www.apple.com/vn/)"
+  }
+ }
+}

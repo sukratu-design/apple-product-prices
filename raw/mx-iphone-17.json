@@ -1,0 +1,31 @@
+{
+ "page": "iphone-17",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-iphone/iphone-17",
+ "scrapedAt": "2026-11-16T11:59:55.320Z",
+ "configs": {
+  "default": {
+   "total": 21999,
+   "totalFrom": "summary",
+   "totalText": "$21,999.00",
+   "selected": {
+    "dimensionColor": "Lavanda",
+    "dimensionCapacity": "256 GB Nota al pie 1 $21,999.00 de contado o 18 MSI desde $1,222.17. Nota al pie ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Lavanda",
+     "Azul neblina",
+     "Blanco",
+     "Salvia",
+     "Negro"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota al pie 1 $21,999.00 de contado o 18 MSI desde $1,222.17. Nota al pie ◊",
+     "512 GB Nota al pie 1 $26,999.00 de contado o 18 MSI desde $1,499.94. Nota al pie ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:46:17.683Z",
+ "configs": {
+  "14-m6": {
+   "total": 2349,
+   "totalFrom": "summary",
+   "totalText": "2 349,00 € | 2 349,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Novo Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core, Dual‑Neural Engine 16‑core Desde 2349 €",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Incluído",
+    "memory-dimensionMemory": "16 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Novo Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core, Dual‑Neural Engine 16‑core Desde 2349 €",
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Incluído"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Incluído",
+     "24 GB + 220,00 €",
+     "32 GB + 440,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + 554,19 €",
+     "4 TB + 1 654,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 2999,
+   "totalFrom": "summary",
+   "totalText": "2 999,00 € | 2 999,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 15‑core, GPU 16‑core Incluído",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Novo Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core, Dual‑Neural Engine 16‑core Desde 2349 €",
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑core, GPU 16‑core Incluído",
+     "CPU 18‑core, GPU 20‑core Aumente a velocidade de processamento e renderização de gráficos para tarefas intensivas, como jogos, programação e trabalho criativo. + 250,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + 660,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + 554,19 €",
+     "4 TB + 1 654,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 3249,
+   "totalFrom": "summary",
+   "totalText": "3 249,00 € | 3 249,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 20‑core Aumente a velocidade de processamento e renderização de gráficos para tarefas intensivas, como jogos, programação e trabalho criativo.",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído",
+    "power_adapter-wattage": "Sem adaptador de corrente"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Novo Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core, Dual‑Neural Engine 16‑core Desde 2349 €",
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 15‑core, GPU 16‑core − 250,00 €",
+     "CPU 18‑core, GPU 20‑core Aumente a velocidade de processamento e renderização de gráficos para tarefas intensivas, como jogos, programação e trabalho criativo."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + 660,00 €",
+     "64 GB + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + 554,19 €",
+     "4 TB + 1 654,19 €"
+    ],
+    "power_adapter-wattage": [
+     "Sem adaptador de corrente",
+     "96 W Carregamento rápido, compatível com o modo de alto consumo com o processador M5 Pro e o M5 Max. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 4899,
+   "totalFrom": "summary",
+   "totalText": "4 899,00 € | 4 899,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 32‑core Incluído",
+    "memory-dimensionMemory": "36 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Novo Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core, Dual‑Neural Engine 16‑core Desde 2349 €",
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core Incluído",
+     "CPU 18‑core, GPU 40‑core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. + 330,00 € Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + 1 100,00 €",
+     "8 TB + 3 300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 5559,
+   "totalFrom": "summary",
+   "totalText": "5 559,01 € | 5 559,01 €",
+   "selected": {
+    "chassis-dimensionScreensize": "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 40‑core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac.",
+    "memory-dimensionMemory": "48 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído",
+    "power_adapter-wattage": "Sem adaptador de corrente"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Novo Processador M6 Extremamente rápido, com desempenho de outro nível para as tarefas pessoais, profissionais e criativas que faz todos os dias. CPU 12‑core, GPU 12‑core, Dual‑Neural Engine 16‑core Desde 2349 €",
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. 2 opções com Neural Engine 16‑core Desde 2999 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 4899 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core − 330,00 €",
+     "CPU 18‑core, GPU 40‑core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluído",
+     "64 GB + 440,00 €",
+     "128 GB + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + 1 100,00 €",
+     "8 TB + 3 300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Sem adaptador de corrente",
+     "96 W Carregamento rápido, compatível com o modo de alto consumo com o processador M5 Pro e o M5 Max. + 85,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 3499,
+   "totalFrom": "summary",
+   "totalText": "3 499,00 € | 3 499,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. CPU 18-core, GPU 20-core, Neural Engine 16-core Desde 3499 €",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 20‑core Aumente a velocidade de processamento e renderização de gráficos para tarefas intensivas, como jogos, programação e trabalho criativo. Incluído",
+    "memory-dimensionMemory": "24 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. CPU 18-core, GPU 20-core, Neural Engine 16-core Desde 3499 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 5199 €"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 20‑core Aumente a velocidade de processamento e renderização de gráficos para tarefas intensivas, como jogos, programação e trabalho criativo. Incluído"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Incluído",
+     "48 GB + 660,00 €",
+     "64 GB + 1 100,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + 554,19 €",
+     "4 TB + 1 654,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 5199,
+   "totalFrom": "summary",
+   "totalText": "5 199,00 € | 5 199,00 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 5199 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 32‑core Incluído",
+    "memory-dimensionMemory": "36 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. CPU 18-core, GPU 20-core, Neural Engine 16-core Desde 3499 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 5199 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core Incluído",
+     "CPU 18‑core, GPU 40‑core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. + 270,00 € Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + 1 100,00 €",
+     "8 TB + 3 300,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 5799,
+   "totalFrom": "summary",
+   "totalText": "5 799,01 € | 5 799,01 €",
+   "selected": {
+    "chassis-dimensionScreensize": "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €",
+    "chassis-dimensionColor": "Preto sideral",
+    "display-dimensionFinish": "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+    "processor-dimensionChip": "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 5199 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18‑core, GPU 40‑core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac.",
+    "memory-dimensionMemory": "48 GB Incluído",
+    "storage-dimensionCapacity": "2 TB Incluído",
+    "power_adapter-wattage": "Sem adaptador de corrente"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 polegadas Disponível com processador M6, M5 Pro ou M5 Max. Desde 2349 €",
+     "16 polegadas Disponível com o processador M5 Pro ou M5 Max. Desde 3499 €"
+    ],
+    "chassis-dimensionColor": [
+     "Preto sideral",
+     "Prateado"
+    ],
+    "display-dimensionFinish": [
+     "Ecrã padrão Concebido de forma a apresentar uma refletividade baixa para reduzir o brilho no seu ambiente. Incluído",
+     "Ecrã de nanotextura Reduz ainda mais os reflexos em ambientes com muita luz. + 165,00 €"
+    ],
+    "processor-dimensionChip": [
+     "Processador M5 Pro Permite desempenho superior e outras opções de memória para os trabalhos mais exigentes. CPU 18-core, GPU 20-core, Neural Engine 16-core Desde 3499 €",
+     "Processador M5 Max O nosso processador mais poderoso de sempre num portátil pro. Feito para os trabalhos mais intensivos. 2 opções com Neural Engine 16‑core Desde 5199 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18‑core, GPU 32‑core − 270,00 €",
+     "CPU 18‑core, GPU 40‑core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluído",
+     "64 GB + 440,00 €",
+     "128 GB + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Incluído",
+     "4 TB + 1 100,00 €",
+     "8 TB + 3 300,00 €"
+    ],
+    "power_adapter-wattage": [
+     "Sem adaptador de corrente",
+     "140 W Carregamento rápido, compatível com o modo de alto consumo com o processador M5 Pro e o M5 Max. + 119,00 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

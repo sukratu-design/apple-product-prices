@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:43.512Z",
+ "configs": {
+  "default": {
+   "total": 5299,
+   "totalFrom": "summary",
+   "totalText": "RM 5,299.00",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 RM 5,299.00 or RM 220.79/month per month for 24 months Footnote ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 RM 5,299.00 or RM 220.79/month per month for 24 months Footnote ◊",
+     "512GB Footnote 1 RM 6,299.00 or RM 262.46/month per month for 24 months Footnote ◊",
+     "1TB Footnote 1 RM 8,299.00 or RM 345.79/month per month for 24 months Footnote ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

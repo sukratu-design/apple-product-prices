@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "dk",
+ "url": "https://www.apple.com/dk/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:58:04.807Z",
+ "configs": {
+  "pro": {
+   "total": 10999,
+   "totalFrom": "summary",
+   "totalText": "10.999,00 kr. | 10.999,00 kr. | 10.999,00 kr.",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3\" skærm Fodnote 2 Fra 10.999 kr.",
+    "dimensionColor": "bordeaux",
+    "dimensionCapacity": "256 GB Fodnote 1 10.999,00 kr."
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" skærm Fodnote 2 Fra 10.999 kr.",
+     "iPhone 18 Pro Max 6,9\" skærm Fodnote 2 Fra 12.299 kr."
+    ],
+    "dimensionColor": [
+     "bordeaux",
+     "gletsjerblå",
+     "sølv",
+     "sort"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fodnote 1 10.999,00 kr.",
+     "512 GB Fodnote 1 12.999,00 kr.",
+     "1 TB Fodnote 1 16.999,00 kr.",
+     "2 TB Fodnote 1 22.999,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 12299,
+   "totalFrom": "summary",
+   "totalText": "12.299,00 kr. | 12.299,00 kr. | 12.299,00 kr.",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9\" skærm Fodnote 2 Fra 12.299 kr.",
+    "dimensionColor": "bordeaux",
+    "dimensionCapacity": "256 GB Fodnote 1 12.299,00 kr."
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3\" skærm Fodnote 2 Fra 10.999 kr.",
+     "iPhone 18 Pro Max 6,9\" skærm Fodnote 2 Fra 12.299 kr."
+    ],
+    "dimensionColor": [
+     "bordeaux",
+     "gletsjerblå",
+     "sølv",
+     "sort"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fodnote 1 12.299,00 kr.",
+     "512 GB Fodnote 1 14.299,00 kr.",
+     "1 TB Fodnote 1 18.299,00 kr.",
+     "2 TB Fodnote 1 24.299,00 kr."
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

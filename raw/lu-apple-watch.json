@@ -1,0 +1,155 @@
+{
+ "page": "apple-watch",
+ "country": "lu",
+ "url": "https://www.apple.com/lu/shop/buy-watch/apple-watch",
+ "scrapedAt": "2026-11-16T13:02:34.040Z",
+ "configs": {
+  "al-42-gps": {
+   "total": 434,
+   "totalFrom": "summary",
+   "totalText": "434,16 € | 434,16 € | 434,16 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelles finitions Aluminium À partir de 434,15 € Fini mat et écran résistant avec Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nouveau Bronze sombre",
+    "watch_cases-dimensionCaseSize": "42 mm À partir de 434,15 €",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 434,15 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. À partir de 434,15 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 434,16 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium À partir de 434,15 € Fini mat et écran résistant avec Ceramic Shield 2."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nouveau Bronze sombre",
+     "Nouveau Or clair",
+     "Nouveau Noir",
+     "Gris sidéral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 434,15 €",
+     "46 mm À partir de 482,51 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 434,15 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. À partir de 434,15 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 434,16 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 482,51 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 434,16 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport À partir de 434,15 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 434,16 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-46-gps": {
+   "total": 483,
+   "totalFrom": "summary",
+   "totalText": "482,51 € | 482,51 € | 482,51 €",
+   "selected": {
+    "watch_cases-dimensionCaseMaterial": "Nouvelles finitions Aluminium À partir de 434,15 € Fini mat et écran résistant avec Ceramic Shield 2.",
+    "aluminum-watch_cases-dimensionColor": "Nouveau Bronze sombre",
+    "watch_cases-dimensionCaseSize": "46 mm À partir de 482,51 €",
+    "watch_cases-dimensionConnection": "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 482,51 €",
+    "category": "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 482,51 €",
+    "rubber-style": "Nouveaux coloris Bracelet Boucle unique 482,51 € Extensible, sans fermoir, ajustement précis",
+    "rubber-sololoop-color": "Bordeaux",
+    "watch_bands-dimensionbandsize": "0"
+   },
+   "options": {
+    "watch_cases-dimensionCaseMaterial": [
+     "Nouvelles finitions Aluminium À partir de 434,15 € Fini mat et écran résistant avec Ceramic Shield 2."
+    ],
+    "aluminum-watch_cases-dimensionColor": [
+     "Nouveau Bronze sombre",
+     "Nouveau Or clair",
+     "Nouveau Noir",
+     "Gris sidéral"
+    ],
+    "watch_cases-dimensionCaseSize": [
+     "42 mm À partir de 434,15 €",
+     "46 mm À partir de 482,51 €"
+    ],
+    "watch_cases-dimensionConnection": [
+     "GPS Passez des appels et envoyez des messages lorsque votre iPhone est à proximité. À partir de 482,51 €"
+    ],
+    "category": [
+     "Caoutchouc Des bracelets souples, confortables et adaptés à la natation. 482,51 €",
+     "Textile Des matériaux doux et légers. À porter au quotidien. À partir de 482,51 €",
+     "Acier inoxydable Bracelets en acier à l’élaboration soignée pour une allure sophistiquée et haut de gamme. À partir de 530,85 €"
+    ],
+    "rubber-style": [
+     "Nouveaux coloris Bracelet Boucle unique 482,51 € Extensible, sans fermoir, ajustement précis",
+     "Nouveaux coloris Bracelet Sport 482,51 € Résistant, fermoir à clou et passant, ajustable",
+     "Nouveaux coloris Bracelet Sport Nike 482,51 € Respirant, fermoir à clou et passant, ajustable"
+    ],
+    "rubber-sololoop-color": [
+     "Bordeaux",
+     "Olive",
+     "Bleu marine",
+     "Bleuet",
+     "Noir"
+    ],
+    "watch_bands-dimensionbandsize": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "al-42-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  },
+  "al-46-cell": {
+   "error": "option not available: watch_cases-dimensionConnection=gpscell"
+  },
+  "ti-42": {
+   "error": "option not available: watch_cases-dimensionCaseMaterial=titanium"
+  },
+  "ti-46": {
+   "error": "option not available: watch_cases-dimensionCaseMaterial=titanium"
+  },
+  "ce-42": {
+   "error": "option not available: watch_cases-dimensionCaseMaterial=ceramic"
+  },
+  "ce-46": {
+   "error": "option not available: watch_cases-dimensionCaseMaterial=ceramic"
+  }
+ }
+}

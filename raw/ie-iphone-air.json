@@ -1,0 +1,31 @@
+{
+ "page": "iphone-air",
+ "country": "ie",
+ "url": "https://www.apple.com/ie/shop/buy-iphone/iphone-air",
+ "scrapedAt": "2026-11-16T11:59:02.243Z",
+ "configs": {
+  "default": {
+   "total": 1339,
+   "totalFrom": "summary",
+   "totalText": "€1,339.00 | €1,339.00 | €1,339.00",
+   "selected": {
+    "dimensionColor": "Sky Blue",
+    "dimensionCapacity": "256GB Footnote 1 €1,339.00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Sky Blue",
+     "Cloud White",
+     "Space Black",
+     "Light Gold"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 €1,339.00",
+     "512GB Footnote 1 €1,589.00",
+     "1TB Footnote 1 €2,089.00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

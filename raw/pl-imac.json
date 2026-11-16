@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:51:50.500Z",
+ "configs": {
+  "2port": {
+   "total": 7999,
+   "totalFrom": "summary",
+   "totalText": "7 999,00 zł | 7 999,00 zł",
+   "selected": {
+    "chassis-dimensionColor": "niebieski",
+    "processor-cpuCoreCount-gpuCoreCount": "Czip M6 z dwoma portami Thunderbolt 10‑rdzeniowe CPU, 10‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 7999 zł",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "256 GB W zestawie",
+    "chassis-dimensionStandType": "Podstawka Ustawiona na biurku, regulacja pochylenia w górę i w dół. W zestawie",
+    "ethernet_adapter-ethernetPortCount": "Brak interfejsu Ethernet Połączenie tylko przez sieć Wi-Fi. W zestawie",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Obsługuje gesty Multi‑Touch, takie jak machnięcia i przewijanie. W zestawie",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Ultrakompaktowa konstrukcja z klawiszami sięgającymi krawędzi obudowy. W zestawie"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "niebieski",
+     "fioletowy",
+     "różowy",
+     "pomarańczowy",
+     "żółty",
+     "zielony",
+     "srebrny"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Czip M6 z dwoma portami Thunderbolt 10‑rdzeniowe CPU, 10‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 7999 zł",
+     "Czip M6 z czterema portami Thunderbolt 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 8999 zł"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie",
+     "24 GB + 1 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB W zestawie",
+     "512 GB + 1 000,00 zł",
+     "1 TB + 2 500,00 zł"
+    ],
+    "chassis-dimensionStandType": [
+     "Podstawka Ustawiona na biurku, regulacja pochylenia w górę i w dół. W zestawie",
+     "Uchwyt mocujący VESA Wbudowany, co umożliwia montowanie na ścianie lub na regulowanym ramieniu."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Brak interfejsu Ethernet Połączenie tylko przez sieć Wi-Fi. W zestawie",
+     "Port Gigabit Ethernet Standardowa łączność sieciowa, szybkość łącza do 2,5 Gb. + 150,00 zł"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Obsługuje gesty Multi‑Touch, takie jak machnięcia i przewijanie. W zestawie",
+     "Magic Trackpad Obsługuje wszystkie gesty Multi‑Touch oraz technologię Force Touch. + 250,00 zł"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Ultrakompaktowa konstrukcja z klawiszami sięgającymi krawędzi obudowy. W zestawie",
+     "Klawiatura Magic Keyboard z Touch ID i polem numerycznym Rozszerzony zestaw klawiszy z dodatkowymi opcjami nawigacji. Szybkie, łatwe uwierzytelnianie odciskiem palca. + 400,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 8999,
+   "totalFrom": "summary",
+   "totalText": "8 999,00 zł | 8 999,00 zł",
+   "selected": {
+    "chassis-dimensionColor": "niebieski",
+    "processor-cpuCoreCount-gpuCoreCount": "Czip M6 z czterema portami Thunderbolt 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 8999 zł",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "256 GB W zestawie",
+    "display-dimensionFinish": "Szkło standardowe Ma ekstremalnie niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w każdym otoczeniu. W zestawie",
+    "chassis-dimensionStandType": "Podstawka Ustawiona na biurku, regulacja pochylenia w górę i w dół. W zestawie",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Obsługuje gesty Multi‑Touch, takie jak machnięcia i przewijanie. W zestawie",
+    "keyboard-keyboardFormFactor": "Klawiatura Magic Keyboard z Touch ID Szybkie, łatwe uwierzytelnianie odciskiem palca. W zestawie"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "niebieski",
+     "fioletowy",
+     "różowy",
+     "pomarańczowy",
+     "żółty",
+     "zielony",
+     "srebrny"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Czip M6 z dwoma portami Thunderbolt 10‑rdzeniowe CPU, 10‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 7999 zł",
+     "Czip M6 z czterema portami Thunderbolt 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 8999 zł"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie",
+     "24 GB + 1 000,00 zł",
+     "32 GB + 2 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "256 GB W zestawie",
+     "512 GB + 1 000,00 zł",
+     "1 TB + 2 500,00 zł",
+     "2 TB + 5 000,00 zł"
+    ],
+    "display-dimensionFinish": [
+     "Szkło standardowe Ma ekstremalnie niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w każdym otoczeniu. W zestawie",
+     "Szkło nanostrukturalne Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. Dostępne tylko w modelu z czterema portami. + 1 000,00 zł"
+    ],
+    "chassis-dimensionStandType": [
+     "Podstawka Ustawiona na biurku, regulacja pochylenia w górę i w dół. W zestawie",
+     "Uchwyt mocujący VESA Wbudowany, co umożliwia montowanie na ścianie lub na regulowanym ramieniu."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Obsługuje gesty Multi‑Touch, takie jak machnięcia i przewijanie. W zestawie",
+     "Magic Trackpad Obsługuje wszystkie gesty Multi‑Touch oraz technologię Force Touch. + 250,00 zł"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Klawiatura Magic Keyboard z Touch ID Szybkie, łatwe uwierzytelnianie odciskiem palca. W zestawie",
+     "Klawiatura Magic Keyboard z Touch ID i polem numerycznym Rozszerzony zestaw klawiszy z dodatkowymi opcjami nawigacji. Szybkie, łatwe uwierzytelnianie odciskiem palca. + 150,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

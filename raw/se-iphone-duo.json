@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:59.742Z",
+ "configs": {
+  "default": {
+   "total": 26995,
+   "totalFrom": "summary",
+   "totalText": "Från 26 995 kr | Från 26 995 kr | 26 995,00 kr",
+   "selected": {
+    "dimensionColor": "stjärnvit",
+    "dimensionCapacity": "256 GB Fotnot 1 26 995,00 kr"
+   },
+   "options": {
+    "dimensionColor": [
+     "stjärnvit",
+     "natthimmel"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnot 1 26 995,00 kr",
+     "512 GB Fotnot 1 29 995,00 kr",
+     "1 TB Fotnot 1 35 495,00 kr",
+     "2 TB Fotnot 1 43 995,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "hu",
+ "url": "https://www.apple.com/hu/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:29.184Z",
+ "configs": {
+  "default": {
+   "total": 899990,
+   "totalFrom": "summary",
+   "totalText": "899 990 Ft | 899 990 Ft | 899 990 Ft",
+   "selected": {
+    "dimensionColor": "csillagfehér",
+    "dimensionCapacity": "256 GB Lábjegyzet 1 899 990 Ft"
+   },
+   "options": {
+    "dimensionColor": [
+     "csillagfehér",
+     "éjfélkék"
+    ],
+    "dimensionCapacity": [
+     "256 GB Lábjegyzet 1 899 990 Ft",
+     "512 GB Lábjegyzet 1 999 990 Ft",
+     "1 TB Lábjegyzet 1 1 199 990 Ft",
+     "2 TB Lábjegyzet 1 1 499 990 Ft"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

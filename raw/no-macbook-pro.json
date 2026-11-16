@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "no",
+ "url": "https://www.apple.com/no/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:28.802Z",
+ "configs": {
+  "14-m6": {
+   "total": 27490,
+   "totalFrom": "summary",
+   "totalText": "kr 27 490,00 | kr 27 490,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "Ny M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 27 490",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "Inkludert",
+    "memory-dimensionMemory": "16 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "Ny M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 27 490",
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "Inkludert"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB Inkludert",
+     "24 GB + kr 3 000,00",
+     "32 GB + kr 6 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkludert",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 33990,
+   "totalFrom": "summary",
+   "totalText": "kr 33 990,00 | kr 33 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑kjerners CPU, 16‑kjerners GPU Inkludert",
+    "memory-dimensionMemory": "24 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "Ny M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 27 490",
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑kjerners CPU, 16‑kjerners GPU Inkludert",
+     "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for krevende oppgaver som spilling, programmering og innholdsproduksjon. + kr 1 500,00"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkludert",
+     "48 GB + kr 9 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkludert",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 35490,
+   "totalFrom": "summary",
+   "totalText": "kr 35 490,00 | kr 35 490,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for krevende oppgaver som spilling, programmering og innholdsproduksjon.",
+    "memory-dimensionMemory": "24 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB Inkludert",
+    "power_adapter-wattage": "Ingen lader"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "Ny M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 27 490",
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑kjerners CPU, 16‑kjerners GPU − kr 1 500,00",
+     "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for krevende oppgaver som spilling, programmering og innholdsproduksjon."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkludert",
+     "48 GB + kr 9 000,00",
+     "64 GB + kr 15 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkludert",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00"
+    ],
+    "power_adapter-wattage": [
+     "Ingen lader",
+     "96 W Hurtiglading, støtter modus for høyt strømforbruk med M5 Pro- og M5 Max-chipen. + kr 1 049,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 55990,
+   "totalFrom": "summary",
+   "totalText": "kr 55 990,00 | kr 55 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 32‑kjerners GPU Inkludert",
+    "memory-dimensionMemory": "36 GB Inkludert",
+    "storage-dimensionCapacity": "2 TB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "Ny M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 27 490",
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑kjerners CPU, 32‑kjerners GPU Inkludert",
+     "18‑kjerners CPU, 40‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. + kr 4 500,00 Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Inkludert"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkludert",
+     "4 TB + kr 15 000,00",
+     "8 TB + kr 45 000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 64990,
+   "totalFrom": "summary",
+   "totalText": "kr 64 990,00 | kr 64 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 40‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen.",
+    "memory-dimensionMemory": "48 GB Inkludert",
+    "storage-dimensionCapacity": "2 TB Inkludert",
+    "power_adapter-wattage": "Ingen lader"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "Ny M6-chip Lynrask med ytelse på neste nivå – til de personlige, profesjonelle og kreative oppgavene du gjør hver dag. 12-kjerners CPU, 12-kjerners GPU, 16-kjerners Dual Neural Engine Fra kr 27 490",
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 2 alternativer med 16-kjerners Neural Engine Fra kr 33 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 55 990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑kjerners CPU, 32‑kjerners GPU − kr 4 500,00",
+     "18‑kjerners CPU, 40‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Inkludert",
+     "64 GB + kr 6 000,00",
+     "128 GB + kr 30 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkludert",
+     "4 TB + kr 15 000,00",
+     "8 TB + kr 45 000,00"
+    ],
+    "power_adapter-wattage": [
+     "Ingen lader",
+     "96 W Hurtiglading, støtter modus for høyt strømforbruk med M5 Pro- og M5 Max-chipen. + kr 1 049,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 39990,
+   "totalFrom": "summary",
+   "totalText": "kr 39 990,00 | kr 39 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 18-kjerners CPU, 20-kjerners GPU, 16-kjerners Neural Engine Fra kr 39 990",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for krevende oppgaver som spilling, programmering og innholdsproduksjon. Inkludert",
+    "memory-dimensionMemory": "24 GB Inkludert",
+    "storage-dimensionCapacity": "1 TB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 18-kjerners CPU, 20-kjerners GPU, 16-kjerners Neural Engine Fra kr 39 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 59 990"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑kjerners CPU, 20‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for krevende oppgaver som spilling, programmering og innholdsproduksjon. Inkludert"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB Inkludert",
+     "48 GB + kr 9 000,00",
+     "64 GB + kr 15 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Inkludert",
+     "2 TB + kr 7 500,00",
+     "4 TB + kr 22 500,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 59990,
+   "totalFrom": "summary",
+   "totalText": "kr 59 990,00 | kr 59 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 59 990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 32‑kjerners GPU Inkludert",
+    "memory-dimensionMemory": "36 GB Inkludert",
+    "storage-dimensionCapacity": "2 TB Inkludert"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 18-kjerners CPU, 20-kjerners GPU, 16-kjerners Neural Engine Fra kr 39 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 59 990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑kjerners CPU, 32‑kjerners GPU Inkludert",
+     "18‑kjerners CPU, 40‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. + kr 3 500,00 Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Inkludert"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkludert",
+     "4 TB + kr 15 000,00",
+     "8 TB + kr 45 000,00"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 67990,
+   "totalFrom": "summary",
+   "totalText": "kr 67 990,00 | kr 67 990,00",
+   "selected": {
+    "chassis-dimensionScreensize": "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990",
+    "chassis-dimensionColor": "stellarsvart",
+    "display-dimensionFinish": "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+    "processor-dimensionChip": "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 59 990",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑kjerners CPU, 40‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen.",
+    "memory-dimensionMemory": "48 GB Inkludert",
+    "storage-dimensionCapacity": "2 TB Inkludert",
+    "power_adapter-wattage": "Ingen lader"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14 tommer Tilgjengelig med M6-, M5 Pro- eller M5 Max-chip. Fra kr 27 490",
+     "16 tommer Tilgjengelig med M5 Pro- eller M5 Max-chip. Fra kr 39 990"
+    ],
+    "chassis-dimensionColor": [
+     "stellarsvart",
+     "sølv"
+    ],
+    "display-dimensionFinish": [
+     "Standardskjerm Laget med lav reflektivitet for å redusere gjenskinn i omgivelsene dine. Inkludert",
+     "Skjerm med nanotekstur Reduserer gjenskinn enda mer på steder med mye lys. + kr 2 250,00"
+    ],
+    "processor-dimensionChip": [
+     "M5 Pro-chip Høyere ytelse og alternativer med mer minne for mer krevende arbeid. 18-kjerners CPU, 20-kjerners GPU, 16-kjerners Neural Engine Fra kr 39 990",
+     "M5 Max-chip Den kraftigste chipen vi noen gang har utviklet for en proff laptop. Skapt for ekstreme arbeidsflyter. 2 alternativer med 16-kjerners Neural Engine Fra kr 59 990"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑kjerners CPU, 32‑kjerners GPU − kr 3 500,00",
+     "18‑kjerners CPU, 40‑kjerners GPU Få mer prosessorkraft og raskere rendring av grafikk for tunge arbeidsoppgaver med store språkmodeller og redigering av 8K-video. Dette valget krever en oppgradering til 48 GB minne, noe som vil øke totalprisen på Macen."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Inkludert",
+     "64 GB + kr 6 000,00",
+     "128 GB + kr 30 000,00"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB Inkludert",
+     "4 TB + kr 15 000,00",
+     "8 TB + kr 45 000,00"
+    ],
+    "power_adapter-wattage": [
+     "Ingen lader",
+     "140 W Hurtiglading, støtter modus for høyt strømforbruk med M5 Pro- og M5 Max-chipen. + kr 1 399,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

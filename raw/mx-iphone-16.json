@@ -1,0 +1,30 @@
+{
+ "page": "iphone-16",
+ "country": "mx",
+ "url": "https://www.apple.com/mx/shop/buy-iphone/iphone-16",
+ "scrapedAt": "2026-11-16T12:01:52.987Z",
+ "configs": {
+  "default": {
+   "total": 18999,
+   "totalFrom": "summary",
+   "totalText": "$18,999.00",
+   "selected": {
+    "dimensionScreensize": "iPhone 16 Pantalla de 6.1 pulgadas Nota al pie 1Con 128 GB de almacenamiento Desde $18,999 de contado o 18 MSI desde $1,055.50. Nota al pie ◊",
+    "dimensionColor": "Ultramarino"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 16 Pantalla de 6.1 pulgadas Nota al pie 1Con 128 GB de almacenamiento Desde $18,999 de contado o 18 MSI desde $1,055.50. Nota al pie ◊"
+    ],
+    "dimensionColor": [
+     "Ultramarino",
+     "Verde azulado",
+     "Blanco",
+     "Rosa",
+     "Negro"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

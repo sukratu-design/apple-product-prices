@@ -1,0 +1,66 @@
+{
+ "page": "iphone-18-pro",
+ "country": "se",
+ "url": "https://www.apple.com/se/shop/buy-iphone/iphone-18-pro",
+ "scrapedAt": "2026-11-16T11:57:55.385Z",
+ "configs": {
+  "pro": {
+   "total": 16495,
+   "totalFrom": "summary",
+   "totalText": "16 495,00 kr | 16 495,00 kr | 16 495,00 kr",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro 6,3-tumsskärm Fotnot 2 Från 16 495 kr",
+    "dimensionColor": "bourgogne",
+    "dimensionCapacity": "256 GB Fotnot 1 16 495,00 kr"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3-tumsskärm Fotnot 2 Från 16 495 kr",
+     "iPhone 18 Pro Max 6,9-tumsskärm Fotnot 2 Från 18 495 kr"
+    ],
+    "dimensionColor": [
+     "bourgogne",
+     "glaciär",
+     "silver",
+     "svart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnot 1 16 495,00 kr",
+     "512 GB Fotnot 1 19 495,00 kr",
+     "1 TB Fotnot 1 24 995,00 kr",
+     "2 TB Fotnot 1 33 495,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "promax": {
+   "total": 18495,
+   "totalFrom": "summary",
+   "totalText": "18 495,00 kr | 18 495,00 kr | 18 495,00 kr",
+   "selected": {
+    "dimensionScreensize": "iPhone 18 Pro Max 6,9-tumsskärm Fotnot 2 Från 18 495 kr",
+    "dimensionColor": "bourgogne",
+    "dimensionCapacity": "256 GB Fotnot 1 18 495,00 kr"
+   },
+   "options": {
+    "dimensionScreensize": [
+     "iPhone 18 Pro 6,3-tumsskärm Fotnot 2 Från 16 495 kr",
+     "iPhone 18 Pro Max 6,9-tumsskärm Fotnot 2 Från 18 495 kr"
+    ],
+    "dimensionColor": [
+     "bourgogne",
+     "glaciär",
+     "silver",
+     "svart"
+    ],
+    "dimensionCapacity": [
+     "256 GB Fotnot 1 18 495,00 kr",
+     "512 GB Fotnot 1 21 495,00 kr",
+     "1 TB Fotnot 1 26 995,00 kr",
+     "2 TB Fotnot 1 35 495,00 kr"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

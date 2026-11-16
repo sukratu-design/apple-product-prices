@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "pt",
+ "url": "https://www.apple.com/pt/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:56:26.541Z",
+ "configs": {
+  "m5max-32": {
+   "total": 3049,
+   "totalFrom": "summary",
+   "totalText": "3 049,00 € | 3 049,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M5 Max Rapidez e capacidade fora de série para dar resposta a processos de trabalho profissionais e projetos criativos. 2 opções com Neural Engine 16‑core Desde 3049 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18-Core, GPU 32‑Core Incluído",
+    "memory-dimensionMemory": "36 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M5 Max Rapidez e capacidade fora de série para dar resposta a processos de trabalho profissionais e projetos criativos. 2 opções com Neural Engine 16‑core Desde 3049 €",
+     "Processador M5 Ultra O nosso processador mais potente, com um desempenho inigualável para os processos de trabalho profissionais mais exigentes. 2 opções com Neural Engine 32‑core Desde 6699 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18-Core, GPU 32‑Core Incluído",
+     "CPU 18-Core, GPU 40‑Core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. + 330,00 € Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB Incluído"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + 332,52 €",
+     "2 TB + 886,70 €",
+     "4 TB + 1 986,71 €",
+     "8 TB + 4 186,71 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 3709,
+   "totalFrom": "summary",
+   "totalText": "3 709,00 € | 3 709,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M5 Max Rapidez e capacidade fora de série para dar resposta a processos de trabalho profissionais e projetos criativos. 2 opções com Neural Engine 16‑core Desde 3049 €",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 18-Core, GPU 40‑Core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac.",
+    "memory-dimensionMemory": "48 GB Incluído",
+    "storage-dimensionCapacity": "512 GB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M5 Max Rapidez e capacidade fora de série para dar resposta a processos de trabalho profissionais e projetos criativos. 2 opções com Neural Engine 16‑core Desde 3049 €",
+     "Processador M5 Ultra O nosso processador mais potente, com um desempenho inigualável para os processos de trabalho profissionais mais exigentes. 2 opções com Neural Engine 32‑core Desde 6699 €"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 18-Core, GPU 32‑Core − 330,00 €",
+     "CPU 18-Core, GPU 40‑Core Aumente a velocidade de processamento e renderização gráfica, e acelere tarefas como executar modelos de linguagem de grandes dimensões e editar vídeo 8K. Esta seleção requer uma atualização para 48 GB de memória, o que irá aumentar o preço total do Mac."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB Incluído",
+     "64 GB + 440,00 €",
+     "128 GB + 2 200,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "512 GB Incluído",
+     "1 TB + 332,52 €",
+     "2 TB + 886,70 €",
+     "4 TB + 1 986,71 €",
+     "8 TB + 4 186,71 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 6699,
+   "totalFrom": "summary",
+   "totalText": "6 699,00 € | 6 699,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M5 Ultra O nosso processador mais potente, com um desempenho inigualável para os processos de trabalho profissionais mais exigentes. 2 opções com Neural Engine 32‑core Desde 6699 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 30-Core, GPU 64-Core Incluído",
+    "memory-dimensionMemory": "96 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M5 Max Rapidez e capacidade fora de série para dar resposta a processos de trabalho profissionais e projetos criativos. 2 opções com Neural Engine 16‑core Desde 3049 €",
+     "Processador M5 Ultra O nosso processador mais potente, com um desempenho inigualável para os processos de trabalho profissionais mais exigentes. 2 opções com Neural Engine 32‑core Desde 6699 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 30-Core, GPU 64-Core Incluído",
+     "CPU 36-Core, GPU 80-Core Aumente a potência de processamento, o desempenho gráfico e de IA para as tarefas mais exigentes, como executar modelos de linguagem de grandes dimensões, aplicar efeitos visuais e realizar a gradação de cores em filmes. + 1 430,00 €"
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluído",
+     "256 GB + 4 400,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + 554,18 €",
+     "4 TB + 1 654,19 €",
+     "8 TB + 3 854,19 €",
+     "16 TB + 8 254,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 8129,
+   "totalFrom": "summary",
+   "totalText": "8 129,00 € | 8 129,00 €",
+   "selected": {
+    "processor-dimensionChip": "Processador M5 Ultra O nosso processador mais potente, com um desempenho inigualável para os processos de trabalho profissionais mais exigentes. 2 opções com Neural Engine 32‑core Desde 6699 €",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "CPU 36-Core, GPU 80-Core Aumente a potência de processamento, o desempenho gráfico e de IA para as tarefas mais exigentes, como executar modelos de linguagem de grandes dimensões, aplicar efeitos visuais e realizar a gradação de cores em filmes.",
+    "memory-dimensionMemory": "96 GB Incluído",
+    "storage-dimensionCapacity": "1 TB Incluído"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "Processador M5 Max Rapidez e capacidade fora de série para dar resposta a processos de trabalho profissionais e projetos criativos. 2 opções com Neural Engine 16‑core Desde 3049 €",
+     "Processador M5 Ultra O nosso processador mais potente, com um desempenho inigualável para os processos de trabalho profissionais mais exigentes. 2 opções com Neural Engine 32‑core Desde 6699 €"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "CPU 30-Core, GPU 64-Core − 1 430,00 €",
+     "CPU 36-Core, GPU 80-Core Aumente a potência de processamento, o desempenho gráfico e de IA para as tarefas mais exigentes, como executar modelos de linguagem de grandes dimensões, aplicar efeitos visuais e realizar a gradação de cores em filmes."
+    ],
+    "memory-dimensionMemory": [
+     "96 GB Incluído",
+     "256 GB + 4 400,00 €",
+     "512 GB + 17 050,00 €"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB Incluído",
+     "2 TB + 554,18 €",
+     "4 TB + 1 654,19 €",
+     "8 TB + 3 854,19 €",
+     "16 TB + 8 254,19 €"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

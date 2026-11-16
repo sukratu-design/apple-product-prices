@@ -1,0 +1,122 @@
+{
+ "page": "imac",
+ "country": "vn",
+ "url": "https://www.apple.com/vn/shop/buy-mac/imac",
+ "scrapedAt": "2026-11-16T12:52:42.069Z",
+ "configs": {
+  "2port": {
+   "total": 41499000,
+   "totalFrom": "summary",
+   "totalText": "41.499.000đ hoặc 1.690.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 41.499.000đ hoặc 1.690.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionColor": "Xanh Dương",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 với hai cổng Thunderbolt CPU 10 lõi, GPU 10 lõi, Bộ Đôi Neural Engine 16 lõi Từ 41.499.000đ hoặc 1.690.000đ/tháng mỗi tháng trong 24 tháng",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "256GB Có sẵn",
+    "chassis-dimensionStandType": "Chân đế Đặt trên bàn làm việc, có thể điều chỉnh nghiêng lên xuống. Có sẵn",
+    "ethernet_adapter-ethernetPortCount": "Không có Ethernet Chỉ kết nối qua mạng Wi-Fi. Có sẵn",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Hỗ trợ cử chỉ Multi-Touch như vuốt và cuộn. Có sẵn",
+    "keyboard-keyboardFormFactor": "Magic Keyboard Thiết kế tràn viền, siêu nhỏ gọn. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Xanh Dương",
+     "Tím",
+     "Hồng",
+     "Cam",
+     "Vàng",
+     "Xanh Lá",
+     "Bạc"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 với hai cổng Thunderbolt CPU 10 lõi, GPU 10 lõi, Bộ Đôi Neural Engine 16 lõi Từ 41.499.000đ hoặc 1.690.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M6 với bốn cổng Thunderbolt CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 46.999.000đ hoặc 1.914.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn",
+     "24GB + 5.500.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Có sẵn",
+     "512GB + 5.500.000đ",
+     "1TB + 13.750.000đ"
+    ],
+    "chassis-dimensionStandType": [
+     "Chân đế Đặt trên bàn làm việc, có thể điều chỉnh nghiêng lên xuống. Có sẵn",
+     "Ngàm Kết Nối VESA Gắn liền nên có thể gắn vào tường hoặc giá đỡ dễ điều chỉnh."
+    ],
+    "ethernet_adapter-ethernetPortCount": [
+     "Không có Ethernet Chỉ kết nối qua mạng Wi-Fi. Có sẵn",
+     "Cổng Ethernet 2,5 Gigabit Mạng tiêu chuẩn, tốc độ đường truyền lên đến 2,5Gb. + 690.000đ"
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Hỗ trợ cử chỉ Multi-Touch như vuốt và cuộn. Có sẵn",
+     "Magic Trackpad Hỗ trợ tất cả các cử chỉ Multi-Touch và công nghệ Force Touch. + 1.031.000đ"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard Thiết kế tràn viền, siêu nhỏ gọn. Có sẵn",
+     "Magic Keyboard với Touch ID và Numeric Keypad Bố cục mở rộng kèm tính năng điều khiển điều hướng. Xác thực nhanh chóng và dễ dàng bằng vân tay. + 1.854.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "4port": {
+   "total": 46999000,
+   "totalFrom": "summary",
+   "totalText": "46.999.000đ hoặc 1.914.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊ | 46.999.000đ hoặc 1.914.000đ/tháng mỗi tháng trong 24 tháng Chú thích ◊",
+   "selected": {
+    "chassis-dimensionColor": "Xanh Dương",
+    "processor-cpuCoreCount-gpuCoreCount": "Chip M6 với bốn cổng Thunderbolt CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 46.999.000đ hoặc 1.914.000đ/tháng mỗi tháng trong 24 tháng",
+    "memory-dimensionMemory": "16GB Có sẵn",
+    "storage-dimensionCapacity": "256GB Có sẵn",
+    "display-dimensionFinish": "Mặt kính tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+    "chassis-dimensionStandType": "Chân đế Đặt trên bàn làm việc, có thể điều chỉnh nghiêng lên xuống. Có sẵn",
+    "mouse_and_track_pad-pointingDeviceType": "Magic Mouse Hỗ trợ cử chỉ Multi-Touch như vuốt và cuộn. Có sẵn",
+    "keyboard-keyboardFormFactor": "Magic Keyboard với Touch ID Xác thực nhanh chóng và dễ dàng bằng vân tay. Có sẵn"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "Xanh Dương",
+     "Tím",
+     "Hồng",
+     "Cam",
+     "Vàng",
+     "Xanh Lá",
+     "Bạc"
+    ],
+    "processor-cpuCoreCount-gpuCoreCount": [
+     "Chip M6 với hai cổng Thunderbolt CPU 10 lõi, GPU 10 lõi, Bộ Đôi Neural Engine 16 lõi Từ 41.499.000đ hoặc 1.690.000đ/tháng mỗi tháng trong 24 tháng",
+     "Chip M6 với bốn cổng Thunderbolt CPU 12 lõi, GPU 12 lõi, Bộ Đôi Neural Engine 16 lõi Từ 46.999.000đ hoặc 1.914.000đ/tháng mỗi tháng trong 24 tháng"
+    ],
+    "memory-dimensionMemory": [
+     "16GB Có sẵn",
+     "24GB + 5.500.000đ",
+     "32GB + 11.000.000đ"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Có sẵn",
+     "512GB + 5.500.000đ",
+     "1TB + 13.750.000đ",
+     "2TB + 27.500.000đ"
+    ],
+    "display-dimensionFinish": [
+     "Mặt kính tiêu chuẩn Được thiết kế để cho độ phản chiếu thấp, hỗ trợ giảm chói theo điều kiện môi trường của bạn. Có sẵn",
+     "Mặt kính Nano-texture Giảm độ phản chiếu và độ chói hiệu quả hơn trong điều kiện ánh sáng mạnh. Chỉ có ở phiên bản bốn cổng. + 5.500.000đ"
+    ],
+    "chassis-dimensionStandType": [
+     "Chân đế Đặt trên bàn làm việc, có thể điều chỉnh nghiêng lên xuống. Có sẵn",
+     "Ngàm Kết Nối VESA Gắn liền nên có thể gắn vào tường hoặc giá đỡ dễ điều chỉnh."
+    ],
+    "mouse_and_track_pad-pointingDeviceType": [
+     "Magic Mouse Hỗ trợ cử chỉ Multi-Touch như vuốt và cuộn. Có sẵn",
+     "Magic Trackpad Hỗ trợ tất cả các cử chỉ Multi-Touch và công nghệ Force Touch. + 1.031.000đ"
+    ],
+    "keyboard-keyboardFormFactor": [
+     "Magic Keyboard với Touch ID Xác thực nhanh chóng và dễ dàng bằng vân tay. Có sẵn",
+     "Magic Keyboard với Touch ID và Numeric Keypad Bố cục mở rộng kèm tính năng điều khiển điều hướng. Xác thực nhanh chóng và dễ dàng bằng vân tay. + 690.000đ"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

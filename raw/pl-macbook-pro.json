@@ -1,0 +1,397 @@
+{
+ "page": "macbook-pro",
+ "country": "pl",
+ "url": "https://www.apple.com/pl/shop/buy-mac/macbook-pro",
+ "scrapedAt": "2026-11-16T12:48:27.788Z",
+ "configs": {
+  "14-m6": {
+   "total": 10499,
+   "totalFrom": "summary",
+   "totalText": "10 499,00 zł | 10 499,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Nowość Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 10 499 zł",
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "W zestawie",
+    "memory-dimensionMemory": "16 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Nowość Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 10 499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł"
+    ],
+    "m6-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "W zestawie"
+    ],
+    "memory-dimensionMemory": [
+     "16 GB W zestawie",
+     "24 GB + 1 000,00 zł",
+     "32 GB + 2 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB W zestawie",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-15": {
+   "total": 12999,
+   "totalFrom": "summary",
+   "totalText": "12 999,00 zł | 12 999,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "15‑rdzeniowe CPU, 16‑rdzeniowe GPU W zestawie",
+    "memory-dimensionMemory": "24 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Nowość Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 10 499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑rdzeniowe CPU, 16‑rdzeniowe GPU W zestawie",
+     "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki do wymagających zadań, takich jak granie w gry, kodowanie i praca twórcza. + 1 000,00 zł"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB W zestawie",
+     "48 GB + 3 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB W zestawie",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5pro-18": {
+   "total": 13999,
+   "totalFrom": "summary",
+   "totalText": "13 999,00 zł | 13 999,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki do wymagających zadań, takich jak granie w gry, kodowanie i praca twórcza.",
+    "memory-dimensionMemory": "24 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB W zestawie",
+    "power_adapter-wattage": "Nie zawiera zasilacza"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Nowość Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 10 499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "15‑rdzeniowe CPU, 16‑rdzeniowe GPU − 1 000,00 zł",
+     "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki do wymagających zadań, takich jak granie w gry, kodowanie i praca twórcza."
+    ],
+    "memory-dimensionMemory": [
+     "24 GB W zestawie",
+     "48 GB + 3 000,00 zł",
+     "64 GB + 5 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB W zestawie",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł"
+    ],
+    "power_adapter-wattage": [
+     "Nie zawiera zasilacza",
+     "96 W Szybkie ładowanie, obsługa trybu Wysoka wydajność w modelu z czipem M5 Pro i M5 Max. + 399,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-32": {
+   "total": 21499,
+   "totalFrom": "summary",
+   "totalText": "21 499,00 zł | 21 499,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 32‑rdzeniowe GPU W zestawie",
+    "memory-dimensionMemory": "36 GB W zestawie",
+    "storage-dimensionCapacity": "2 TB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Nowość Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 10 499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 32‑rdzeniowe GPU W zestawie",
+     "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. + 1 500,00 zł Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB W zestawie"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB W zestawie",
+     "4 TB + 5 000,00 zł",
+     "8 TB + 15 000,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "14-m5max-40": {
+   "total": 24499,
+   "totalFrom": "summary",
+   "totalText": "24 499,00 zł | 24 499,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca.",
+    "memory-dimensionMemory": "48 GB W zestawie",
+    "storage-dimensionCapacity": "2 TB W zestawie",
+    "power_adapter-wattage": "Nie zawiera zasilacza"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Nowość Czip M6 Niesamowicie szybki, oferujący najwyższy poziom wydajności przy zadaniach osobistych, zawodowych i kreatywnych, które wykonujesz każdego dnia. 12‑rdzeniowe CPU, 12‑rdzeniowe GPU, podwójny 16‑rdzeniowy system Neural Engine Od 10 499 zł",
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 12 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 21 499 zł"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 32‑rdzeniowe GPU − 1 500,00 zł",
+     "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB W zestawie",
+     "64 GB + 2 000,00 zł",
+     "128 GB + 10 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB W zestawie",
+     "4 TB + 5 000,00 zł",
+     "8 TB + 15 000,00 zł"
+    ],
+    "power_adapter-wattage": [
+     "Nie zawiera zasilacza",
+     "96 W Szybkie ładowanie, obsługa trybu Wysoka wydajność w modelu z czipem M5 Pro i M5 Max. + 399,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5pro-18": {
+   "total": 15999,
+   "totalFrom": "summary",
+   "totalText": "15 999,00 zł | 15 999,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. 18‑rdzeniowe CPU, 20‑rdzeniowe GPU, 16‑rdzeniowy system Neural Engine Od 15 999 zł",
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki do wymagających zadań, takich jak granie w gry, kodowanie i praca twórcza. W zestawie",
+    "memory-dimensionMemory": "24 GB W zestawie",
+    "storage-dimensionCapacity": "1 TB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. 18‑rdzeniowe CPU, 20‑rdzeniowe GPU, 16‑rdzeniowy system Neural Engine Od 15 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 22 999 zł"
+    ],
+    "m5pro-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 20‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki do wymagających zadań, takich jak granie w gry, kodowanie i praca twórcza. W zestawie"
+    ],
+    "memory-dimensionMemory": [
+     "24 GB W zestawie",
+     "48 GB + 3 000,00 zł",
+     "64 GB + 5 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "1 TB W zestawie",
+     "2 TB + 2 500,00 zł",
+     "4 TB + 7 500,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-32": {
+   "total": 22999,
+   "totalFrom": "summary",
+   "totalText": "22 999,00 zł | 22 999,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 22 999 zł",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 32‑rdzeniowe GPU W zestawie",
+    "memory-dimensionMemory": "36 GB W zestawie",
+    "storage-dimensionCapacity": "2 TB W zestawie"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. 18‑rdzeniowe CPU, 20‑rdzeniowe GPU, 16‑rdzeniowy system Neural Engine Od 15 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 22 999 zł"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 32‑rdzeniowe GPU W zestawie",
+     "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. + 1 500,00 zł Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca."
+    ],
+    "memory-dimensionMemory": [
+     "36 GB W zestawie"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB W zestawie",
+     "4 TB + 5 000,00 zł",
+     "8 TB + 15 000,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "16-m5max-40": {
+   "total": 25999,
+   "totalFrom": "summary",
+   "totalText": "25 999,00 zł | 25 999,00 zł",
+   "selected": {
+    "chassis-dimensionScreensize": "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł",
+    "chassis-dimensionColor": "gwiezdna czerń",
+    "display-dimensionFinish": "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+    "processor-dimensionChip": "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 22 999 zł",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca.",
+    "memory-dimensionMemory": "48 GB W zestawie",
+    "storage-dimensionCapacity": "2 TB W zestawie",
+    "power_adapter-wattage": "Nie zawiera zasilacza"
+   },
+   "options": {
+    "chassis-dimensionScreensize": [
+     "14-calowy Dostępny z czipem M6, M5 Pro lub M5 Max. Od 10 499 zł",
+     "16-calowy Dostępny z czipem M5 Pro lub M5 Max. Od 15 999 zł"
+    ],
+    "chassis-dimensionColor": [
+     "gwiezdna czerń",
+     "srebrny"
+    ],
+    "display-dimensionFinish": [
+     "Wyświetlacz standardowy Niski współczynnik odbicia światła, aby skuteczniej redukować odblaski w Twoim otoczeniu. W zestawie",
+     "Wyświetlacz nanostrukturalny Jeszcze lepiej radzi sobie z odblaskami w jasnym świetle. + 750,00 zł"
+    ],
+    "processor-dimensionChip": [
+     "Czip M5 Pro Zapewnia jeszcze wyższą wydajność i większą pojemność pamięci do realizacji bardziej wymagających zadań. 18‑rdzeniowe CPU, 20‑rdzeniowe GPU, 16‑rdzeniowy system Neural Engine Od 15 999 zł",
+     "Czip M5 Max Niesamowicie potężny czip do laptopów dla profesjonalistów. Stworzony do ekstremalnych wyzwań. Liczba opcji z 16‑rdzeniowym systemem Neural Engine: 2 Od 22 999 zł"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18‑rdzeniowe CPU, 32‑rdzeniowe GPU − 1 500,00 zł",
+     "18‑rdzeniowe CPU, 40‑rdzeniowe GPU Podkręć moc obliczeniową i prędkość renderowania grafiki oraz przyspiesz wykonywanie zadań takich jak obsługa dużych modeli językowych lub obróbka wideo w rozdzielczości 8K. Wybranie tej opcji wymaga zwiększenia pamięci RAM do 48 GB, co podniesie całkowitą cenę Twojego Maca."
+    ],
+    "memory-dimensionMemory": [
+     "48 GB W zestawie",
+     "64 GB + 2 000,00 zł",
+     "128 GB + 10 000,00 zł"
+    ],
+    "storage-dimensionCapacity": [
+     "2 TB W zestawie",
+     "4 TB + 5 000,00 zł",
+     "8 TB + 15 000,00 zł"
+    ],
+    "power_adapter-wattage": [
+     "Nie zawiera zasilacza",
+     "140 W Szybkie ładowanie, obsługa trybu Wysoka wydajność w modelu z czipem M5 Pro i M5 Max. + 499,00 zł"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

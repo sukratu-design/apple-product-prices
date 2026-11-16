@@ -1,0 +1,52 @@
+{
+ "page": "macbook-neo",
+ "country": "kr",
+ "url": "https://www.apple.com/kr/shop/buy-mac/macbook-neo",
+ "scrapedAt": "2026-11-16T12:41:46.133Z",
+ "configs": {
+  "256": {
+   "total": 1190000,
+   "totalFrom": "summary",
+   "totalText": "₩1,190,000 | ₩1,190,000 | ₩1,190,000",
+   "selected": {
+    "chassis-dimensionColor": "실버",
+    "storage-dimensionCapacity": "256GB Magic Keyboard ₩1,190,000부터"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "실버",
+     "블러시",
+     "시트러스",
+     "인디고"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard ₩1,190,000부터",
+     "512GB Touch ID 탑재형 Magic Keyboard ₩1,390,000부터"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "512": {
+   "total": 1390000,
+   "totalFrom": "summary",
+   "totalText": "₩1,190,000부터 | ₩1,190,000부터 | ₩1,390,000",
+   "selected": {
+    "chassis-dimensionColor": "실버",
+    "storage-dimensionCapacity": "512GB Touch ID 탑재형 Magic Keyboard ₩1,390,000부터"
+   },
+   "options": {
+    "chassis-dimensionColor": [
+     "실버",
+     "블러시",
+     "시트러스",
+     "인디고"
+    ],
+    "storage-dimensionCapacity": [
+     "256GB Magic Keyboard ₩1,190,000부터",
+     "512GB Touch ID 탑재형 Magic Keyboard ₩1,390,000부터"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

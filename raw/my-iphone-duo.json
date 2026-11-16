@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "my",
+ "url": "https://www.apple.com/my/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:55:27.863Z",
+ "configs": {
+  "default": {
+   "total": 9499,
+   "totalFrom": "summary",
+   "totalText": "RM 9,499.00 or RM 395.79/month per month for 24 months Footnote ◊ | RM 9,499.00 or RM 395.79/month per month for 24 months Footnote ◊ | RM 9,499.00",
+   "selected": {
+    "dimensionColor": "Star White",
+    "dimensionCapacity": "256GB Footnote 1 RM 9,499.00 or RM 395.79/month per month for 24 months Footnote ◊"
+   },
+   "options": {
+    "dimensionColor": [
+     "Star White",
+     "Night Sky"
+    ],
+    "dimensionCapacity": [
+     "256GB Footnote 1 RM 9,499.00 or RM 395.79/month per month for 24 months Footnote ◊",
+     "512GB Footnote 1 RM 10,499.00 or RM 437.46/month per month for 24 months Footnote ◊",
+     "1TB Footnote 1 RM 12,499.00 or RM 520.79/month per month for 24 months Footnote ◊",
+     "2TB Footnote 1 RM 15,499.00 or RM 645.79/month per month for 24 months Footnote ◊"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

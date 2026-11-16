@@ -1,0 +1,141 @@
+{
+ "page": "mac-studio",
+ "country": "tw",
+ "url": "https://www.apple.com/tw/shop/buy-mac/mac-studio",
+ "scrapedAt": "2026-11-16T12:57:49.075Z",
+ "configs": {
+  "m5max-32": {
+   "total": 84900,
+   "totalFrom": "summary",
+   "totalText": "NT$84,900 | NT$84,900",
+   "selected": {
+    "processor-dimensionChip": "M5 Max 晶片 絕佳的速度和實力，能輕鬆駕馭創意計畫案與專業工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、32 核心 GPU 已配備",
+    "memory-dimensionMemory": "36GB 已配備",
+    "storage-dimensionCapacity": "512GB 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 晶片 絕佳的速度和實力，能輕鬆駕馭創意計畫案與專業工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Ultra 晶片 我們最強大的晶片，超強效能前所未見，專為頂尖需求的專業工作流程而生。 2 個選項，均配備 32 核心神經網路引擎 NT$199,900 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、32 核心 GPU 已配備",
+     "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 + NT$10,500 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。"
+    ],
+    "memory-dimensionMemory": [
+     "36GB 已配備"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已配備",
+     "1TB + NT$10,500",
+     "2TB + NT$28,000",
+     "4TB + NT$63,000",
+     "8TB + NT$133,000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5max-40": {
+   "total": 105900,
+   "totalFrom": "summary",
+   "totalText": "NT$105,900 | NT$105,900",
+   "selected": {
+    "processor-dimensionChip": "M5 Max 晶片 絕佳的速度和實力，能輕鬆駕馭創意計畫案與專業工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。",
+    "memory-dimensionMemory": "48GB 已配備",
+    "storage-dimensionCapacity": "512GB 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 晶片 絕佳的速度和實力，能輕鬆駕馭創意計畫案與專業工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Ultra 晶片 我們最強大的晶片，超強效能前所未見，專為頂尖需求的專業工作流程而生。 2 個選項，均配備 32 核心神經網路引擎 NT$199,900 起"
+    ],
+    "m5max-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "18 核心 CPU、32 核心 GPU − NT$10,500",
+     "18 核心 CPU、40 核心 GPU 大幅提升處理與算圖速度，並加速執行大型語言模型與剪輯 8K 影片等任務。 此選項需要將記憶體升級到 48GB，Mac 的總價也會隨之增加。"
+    ],
+    "memory-dimensionMemory": [
+     "48GB 已配備",
+     "64GB + NT$14,000",
+     "128GB + NT$70,000"
+    ],
+    "storage-dimensionCapacity": [
+     "512GB 已配備",
+     "1TB + NT$10,500",
+     "2TB + NT$28,000",
+     "4TB + NT$63,000",
+     "8TB + NT$133,000"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-64": {
+   "total": 199900,
+   "totalFrom": "summary",
+   "totalText": "NT$199,900 | NT$199,900",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra 晶片 我們最強大的晶片，超強效能前所未見，專為頂尖需求的專業工作流程而生。 2 個選項，均配備 32 核心神經網路引擎 NT$199,900 起",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "30 核心 CPU、64 核心 GPU 已配備",
+    "memory-dimensionMemory": "96GB 已配備",
+    "storage-dimensionCapacity": "1TB 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 晶片 絕佳的速度和實力，能輕鬆駕馭創意計畫案與專業工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Ultra 晶片 我們最強大的晶片，超強效能前所未見，專為頂尖需求的專業工作流程而生。 2 個選項，均配備 32 核心神經網路引擎 NT$199,900 起"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 核心 CPU、64 核心 GPU 已配備",
+     "36 核心 CPU、80 核心 GPU 大幅提升處理能力、繪圖處理，以及 AI 運算效能，可駕馭執行大型語言模型、套用視覺特效，以及影片調色等繁重的工作流程。 + NT$45,500"
+    ],
+    "memory-dimensionMemory": [
+     "96GB 已配備",
+     "256GB + NT$140,000"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已配備",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500",
+     "8TB + NT$122,500",
+     "16TB + NT$262,500"
+    ]
+   },
+   "disabledOptions": {}
+  },
+  "m5ultra-80": {
+   "total": 245400,
+   "totalFrom": "summary",
+   "totalText": "NT$245,400 | NT$245,400",
+   "selected": {
+    "processor-dimensionChip": "M5 Ultra 晶片 我們最強大的晶片，超強效能前所未見，專為頂尖需求的專業工作流程而生。 2 個選項，均配備 32 核心神經網路引擎 NT$199,900 起",
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": "36 核心 CPU、80 核心 GPU 大幅提升處理能力、繪圖處理，以及 AI 運算效能，可駕馭執行大型語言模型、套用視覺特效，以及影片調色等繁重的工作流程。",
+    "memory-dimensionMemory": "96GB 已配備",
+    "storage-dimensionCapacity": "1TB 已配備"
+   },
+   "options": {
+    "processor-dimensionChip": [
+     "M5 Max 晶片 絕佳的速度和實力，能輕鬆駕馭創意計畫案與專業工作流程。 2 個選項，均配備 16 核心神經網路引擎 NT$84,900 起",
+     "M5 Ultra 晶片 我們最強大的晶片，超強效能前所未見，專為頂尖需求的專業工作流程而生。 2 個選項，均配備 32 核心神經網路引擎 NT$199,900 起"
+    ],
+    "m5ultra-processor-dimensionChip-cpuCoreCount-gpuCoreCount": [
+     "30 核心 CPU、64 核心 GPU − NT$45,500",
+     "36 核心 CPU、80 核心 GPU 大幅提升處理能力、繪圖處理，以及 AI 運算效能，可駕馭執行大型語言模型、套用視覺特效，以及影片調色等繁重的工作流程。"
+    ],
+    "memory-dimensionMemory": [
+     "96GB 已配備",
+     "256GB + NT$140,000",
+     "512GB + NT$542,500"
+    ],
+    "storage-dimensionCapacity": [
+     "1TB 已配備",
+     "2TB + NT$17,500",
+     "4TB + NT$52,500",
+     "8TB + NT$122,500",
+     "16TB + NT$262,500"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}

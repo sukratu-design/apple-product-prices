@@ -1,0 +1,30 @@
+{
+ "page": "iphone-duo",
+ "country": "br",
+ "url": "https://www.apple.com/br/shop/buy-iphone/iphone-duo",
+ "scrapedAt": "2026-11-16T11:54:28.244Z",
+ "configs": {
+  "default": {
+   "total": 21999,
+   "totalFrom": "summary",
+   "totalText": "R$ 21.999,00 | R$ 21.999,00 | R$ 21.999,00",
+   "selected": {
+    "dimensionColor": "Branco-estrela",
+    "dimensionCapacity": "256 GB Nota de rodapé 1 R$ 21.999,00"
+   },
+   "options": {
+    "dimensionColor": [
+     "Branco-estrela",
+     "Céu noturno"
+    ],
+    "dimensionCapacity": [
+     "256 GB Nota de rodapé 1 R$ 21.999,00",
+     "512 GB Nota de rodapé 1 R$ 23.499,00",
+     "1 TB Nota de rodapé 1 R$ 26.499,00",
+     "2 TB Nota de rodapé 1 R$ 30.999,00"
+    ]
+   },
+   "disabledOptions": {}
+  }
+ }
+}
