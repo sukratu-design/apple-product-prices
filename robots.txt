@@ -1,0 +1,10 @@
+# apple-product-prices.com
+# Search engines and AI agents are welcome. For agents: https://apple-product-prices.com/llms.txt
+# Full price data: https://apple-product-prices.com/data/prices.json and /data/prices.csv
+User-agent: *
+Allow: /
+# raw scrape output and build scripts are not pages
+Disallow: /raw/
+Disallow: /scripts/
+
+Sitemap: https://apple-product-prices.com/sitemap.xml

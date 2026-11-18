@@ -1,0 +1,44 @@
+# Apple Product Prices
+
+> List prices of every current Apple product, from the entry configuration to fully loaded, in the 40 countries that have an Apple online store. Prices are read directly from Apple's own stores and checked monthly. Last checked: 2026-11-18. Not affiliated with Apple.
+
+Use the data files below rather than the HTML pages: the pages draw their charts with JavaScript, so their HTML contains no prices.
+
+## Data
+
+- [All prices, JSON](https://apple-product-prices.com/data/prices.json): every product and configuration with its price in each country (local currency and a USD conversion), plus the exchange rates used and each country's tax treatment.
+- [All prices, CSV](https://apple-product-prices.com/data/prices.csv): one row per product, configuration and country. Columns: category, product, configuration, country_code, country, currency, price, price_usd, taxes.
+
+## How to read the prices
+
+- `price` is the full list price in the country's currency, as shown on that country's Apple Store, rounded to a whole unit.
+- `price_usd` converts it at the exchange rate in `exchangeRates` (dated); use it to compare countries, not as an Apple price.
+- US and Canada prices exclude sales tax (added at checkout); every other country includes VAT, GST or a similar tax. India prices are MRP.
+- A product or configuration missing for a country is not sold in that country's online store.
+- iPad configurations are listed for Wi-Fi and Wi-Fi + Cellular, with nano-texture glass where offered.
+- Mac configurations are: the base configuration; the base with each memory upgrade; the base with each storage upgrade; and fully loaded (most memory and storage). Memory and storage upgrades can be combined: add both differences to the base price.
+- Hermès Apple Watch prices are US starting prices from press coverage, because Hermès models are sold on a separate store.
+
+## Countries
+
+United States (us, USD), Canada (ca, CAD), Mexico (mx, MXN), Brazil (br, BRL), Chile (cl, CLP), United Kingdom (uk, GBP), Ireland (ie, EUR), France (fr, EUR), Germany (de, EUR), Italy (it, EUR), Spain (es, EUR), Portugal (pt, EUR), Netherlands (nl, EUR), Belgium (be, EUR), Luxembourg (lu, EUR), Austria (at, EUR), Finland (fi, EUR), Switzerland (ch, CHF), Sweden (se, SEK), Norway (no, NOK), Denmark (dk, DKK), Poland (pl, PLN), Czechia (cz, CZK), Hungary (hu, HUF), Türkiye (tr, TRY), United Arab Emirates (ae, AED), Saudi Arabia (sa, SAR), India (in, INR), China mainland (cn, CNY), Hong Kong (hk, HKD), Taiwan (tw, TWD), Japan (jp, JPY), South Korea (kr, KRW), Singapore (sg, SGD), Malaysia (my, MYR), Thailand (th, THB), Philippines (ph, PHP), Vietnam (vn, VND), Australia (au, AUD), New Zealand (nz, NZD)
+
+## Products
+
+- iPhone: iPhone Duo Foldable, 18 Pro Max, 18 Pro, iPhone Air, iPhone 17, iPhone 16, iPhone 17e
+- iPad: iPad Pro 13-inch · M5, iPad Pro 11-inch · M5, iPad Air 13-inch · M4, iPad Air 11-inch · M4, iPad mini A20 Pro, iPad A16
+- Mac: Mac Studio M5 Ultra, Mac Studio M5 Max, MacBook Pro 16 M5 Max, MacBook Pro 16 M5 Pro, MacBook Pro 14 M5 Max, MacBook Pro 14 M5 Pro, MacBook Pro 14 M6, iMac M6 · 4 ports, iMac M6 · 2 ports, MacBook Air 15 M5, MacBook Air 13 M5, Mac mini M5 Pro, Mac mini M6, MacBook Neo A-series
+- Watch: Hermès Ultra 4 49mm titanium, Hermès Series 12 Apple Watch, Series 12 Ceramic, Watch Ultra 4 49mm · Cellular, Series 12 Titanium, Series 12 Aluminum, Watch SE 3 Aluminum
+- Vision: Vision Pro M5
+- AirPods: AirPods Max 2 Over-ear, AirPods Pro 3 In-ear · ANC, AirPods 5 In-ear
+- Home: HomePod 2nd generation, Apple TV 4K 4th generation, HomePod mini 2 Speaker
+
+## Pages
+
+- [Price ranges](https://apple-product-prices.com/): every product in one country, entry to fully loaded. Link to a view with #<category>-<country>, for example https://apple-product-prices.com/#mac-in
+- [World map](https://apple-product-prices.com/world/): one configuration compared across all countries in one currency. Link format #<category>-<product id>-<configuration number>-<currency country>, for example https://apple-product-prices.com/world/#iphone-18p-0-us
+
+## Source
+
+- [GitHub repository](https://github.com/sukratu-design/apple-product-prices): scraper, build script and raw store data.
+- Developed by Anand Bongir (https://x.com/anand_bongir).

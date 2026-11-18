@@ -191,6 +191,63 @@ h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,4.4vw,46px);l
 .fine{font-size:12.5px;color:var(--muted)}
 .fine a{font-weight:500;color:var(--muted)}
 </style>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://apple-product-prices.com/#site",
+   "name": "Apple Product Prices",
+   "url": "https://apple-product-prices.com/",
+   "author": {
+    "@type": "Person",
+    "name": "Anand Bongir",
+    "url": "https://x.com/anand_bongir"
+   }
+  },
+  {
+   "@type": "Dataset",
+   "@id": "https://apple-product-prices.com/#prices",
+   "name": "Apple product prices in 40 countries",
+   "description": "List prices of every current Apple product and configuration, from entry model to fully loaded, read from Apple's own online stores in 40 countries, with USD conversions. Checked monthly.",
+   "url": "https://apple-product-prices.com/",
+   "dateModified": "2026-11-18",
+   "isAccessibleForFree": true,
+   "creator": {
+    "@type": "Person",
+    "name": "Anand Bongir",
+    "url": "https://x.com/anand_bongir"
+   },
+   "keywords": [
+    "Apple",
+    "iPhone",
+    "iPad",
+    "Mac",
+    "Apple Watch",
+    "prices",
+    "price comparison",
+    "countries"
+   ],
+   "distribution": [
+    {
+     "@type": "DataDownload",
+     "encodingFormat": "application/json",
+     "contentUrl": "https://apple-product-prices.com/data/prices.json"
+    },
+    {
+     "@type": "DataDownload",
+     "encodingFormat": "text/csv",
+     "contentUrl": "https://apple-product-prices.com/data/prices.csv"
+    }
+   ]
+  }
+ ]
+}
+</script>
+<link rel="alternate" type="application/json" href="https://apple-product-prices.com/data/prices.json" title="All prices (JSON)">
+<link rel="alternate" type="text/csv" href="https://apple-product-prices.com/data/prices.csv" title="All prices (CSV)">
+<link rel="help" type="text/plain" href="https://apple-product-prices.com/llms.txt" title="Guide for AI agents">
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
