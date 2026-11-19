@@ -2,7 +2,7 @@
 
 > List prices of every current Apple product, from the entry configuration to fully loaded, in the 40 countries that have an Apple online store. Prices are read directly from Apple's own stores and checked monthly. Last checked: 2026-11-18. Not affiliated with Apple.
 
-Use the data files below rather than the HTML pages: the pages draw their charts with JavaScript, so their HTML contains no prices.
+For one product, read its page under /prices/ (listed below): every price is written in the HTML. For bulk use, read the data files; the price ranges and world map pages draw their charts with JavaScript, so their HTML contains no prices.
 
 ## Data
 
@@ -35,8 +35,54 @@ United States (us, USD), Canada (ca, CAD), Mexico (mx, MXN), Brazil (br, BRL), C
 
 ## Pages
 
+- [By product](https://apple-product-prices.com/prices/): every product with its cheapest and most expensive country, linking to a page per product.
 - [Price ranges](https://apple-product-prices.com/): every product in one country, entry to fully loaded. Link to a view with #<category>-<country>, for example https://apple-product-prices.com/#mac-in
 - [World map](https://apple-product-prices.com/world/): one configuration compared across all countries in one currency. Link format #<category>-<product id>-<configuration number>-<currency country>, for example https://apple-product-prices.com/world/#iphone-18p-0-us
+
+## Product pages
+
+One static page per product with every configuration's price in every country, written in the HTML.
+
+- [All products](https://apple-product-prices.com/prices/)
+- [iPhone Duo](https://apple-product-prices.com/prices/iphone-duo/)
+- [iPhone 18 Pro Max](https://apple-product-prices.com/prices/iphone-18-pro-max/)
+- [iPhone 18 Pro](https://apple-product-prices.com/prices/iphone-18-pro/)
+- [iPhone Air](https://apple-product-prices.com/prices/iphone-air/)
+- [iPhone 17](https://apple-product-prices.com/prices/iphone-17/)
+- [iPhone 16](https://apple-product-prices.com/prices/iphone-16/)
+- [iPhone 17e](https://apple-product-prices.com/prices/iphone-17e/)
+- [iPad Pro 13-inch (M5)](https://apple-product-prices.com/prices/ipad-pro-13-inch-m5/)
+- [iPad Pro 11-inch (M5)](https://apple-product-prices.com/prices/ipad-pro-11-inch-m5/)
+- [iPad Air 13-inch (M4)](https://apple-product-prices.com/prices/ipad-air-13-inch-m4/)
+- [iPad Air 11-inch (M4)](https://apple-product-prices.com/prices/ipad-air-11-inch-m4/)
+- [iPad mini A20 Pro](https://apple-product-prices.com/prices/ipad-mini-a20-pro/)
+- [iPad A16](https://apple-product-prices.com/prices/ipad-a16/)
+- [Mac Studio M5 Ultra](https://apple-product-prices.com/prices/mac-studio-m5-ultra/)
+- [Mac Studio M5 Max](https://apple-product-prices.com/prices/mac-studio-m5-max/)
+- [MacBook Pro 16 M5 Max](https://apple-product-prices.com/prices/macbook-pro-16-m5-max/)
+- [MacBook Pro 16 M5 Pro](https://apple-product-prices.com/prices/macbook-pro-16-m5-pro/)
+- [MacBook Pro 14 M5 Max](https://apple-product-prices.com/prices/macbook-pro-14-m5-max/)
+- [MacBook Pro 14 M5 Pro](https://apple-product-prices.com/prices/macbook-pro-14-m5-pro/)
+- [MacBook Pro 14 M6](https://apple-product-prices.com/prices/macbook-pro-14-m6/)
+- [iMac M6 (4 ports)](https://apple-product-prices.com/prices/imac-m6-4-ports/)
+- [iMac M6 (2 ports)](https://apple-product-prices.com/prices/imac-m6-2-ports/)
+- [MacBook Air 15 M5](https://apple-product-prices.com/prices/macbook-air-15-m5/)
+- [MacBook Air 13 M5](https://apple-product-prices.com/prices/macbook-air-13-m5/)
+- [Mac mini M5 Pro](https://apple-product-prices.com/prices/mac-mini-m5-pro/)
+- [Mac mini M6](https://apple-product-prices.com/prices/mac-mini-m6/)
+- [MacBook Neo A-series](https://apple-product-prices.com/prices/macbook-neo-a-series/)
+- [Apple Watch Series 12 Ceramic](https://apple-product-prices.com/prices/apple-watch-series-12-ceramic/)
+- [Apple Watch Ultra 4 49mm (Cellular)](https://apple-product-prices.com/prices/apple-watch-ultra-4-49mm-cellular/)
+- [Apple Watch Series 12 Titanium](https://apple-product-prices.com/prices/apple-watch-series-12-titanium/)
+- [Apple Watch Series 12 Aluminum](https://apple-product-prices.com/prices/apple-watch-series-12-aluminum/)
+- [Apple Watch SE 3 Aluminum](https://apple-product-prices.com/prices/apple-watch-se-3-aluminum/)
+- [Apple Vision Pro (M5)](https://apple-product-prices.com/prices/apple-vision-pro-m5/)
+- [AirPods Max 2](https://apple-product-prices.com/prices/airpods-max-2/)
+- [AirPods Pro 3](https://apple-product-prices.com/prices/airpods-pro-3/)
+- [AirPods 5](https://apple-product-prices.com/prices/airpods-5/)
+- [HomePod (2nd generation)](https://apple-product-prices.com/prices/homepod-2nd-generation/)
+- [Apple TV 4K (4th generation)](https://apple-product-prices.com/prices/apple-tv-4k-4th-generation/)
+- [HomePod mini 2](https://apple-product-prices.com/prices/homepod-mini-2/)
 
 ## Source
 

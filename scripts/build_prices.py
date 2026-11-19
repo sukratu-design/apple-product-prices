@@ -462,14 +462,6 @@ if "--check" not in sys.argv:
                    + json.dumps(DATA, ensure_ascii=False, indent=1) + ";\n")
     print(f"\nWrote {OUT.relative_to(ROOT)}")
 
-    # sitemap: the two pages, last modified when prices were last checked
-    pages = [("https://apple-product-prices.com/", "1.0"), ("https://apple-product-prices.com/world/", "0.8")]
-    (ROOT / "sitemap.xml").write_text(
-        '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        + "".join(f"  <url>\n    <loc>{u}</loc>\n    <lastmod>{DATA['updated']}</lastmod>\n    <changefreq>monthly</changefreq>\n"
-                  f"    <priority>{pr}</priority>\n  </url>\n" for u, pr in pages)
-        + "</urlset>\n")
-    print("Wrote sitemap.xml")
 
     # ---------- machine-readable exports for agents and other tools ----------
     # Same expansion as assets/core.js: every configuration with its full price in every country.
@@ -550,7 +542,7 @@ if "--check" not in sys.argv:
 
 > List prices of every current Apple product, from the entry configuration to fully loaded, in the {len(CC)} countries that have an Apple online store. Prices are read directly from Apple's own stores and checked monthly. Last checked: {DATA['updated']}. Not affiliated with Apple.
 
-Use the data files below rather than the HTML pages: the pages draw their charts with JavaScript, so their HTML contains no prices.
+For one product, read its page under /prices/ (listed below): every price is written in the HTML. For bulk use, read the data files; the price ranges and world map pages draw their charts with JavaScript, so their HTML contains no prices.
 
 ## Data
 
@@ -577,6 +569,7 @@ Use the data files below rather than the HTML pages: the pages draw their charts
 
 ## Pages
 
+- [By product](https://apple-product-prices.com/prices/): every product with its cheapest and most expensive country, linking to a page per product.
 - [Price ranges](https://apple-product-prices.com/): every product in one country, entry to fully loaded. Link to a view with #<category>-<country>, for example https://apple-product-prices.com/#mac-in
 - [World map](https://apple-product-prices.com/world/): one configuration compared across all countries in one currency. Link format #<category>-<product id>-<configuration number>-<currency country>, for example https://apple-product-prices.com/world/#iphone-18p-0-us
 
@@ -591,3 +584,7 @@ Use the data files below rather than the HTML pages: the pages draw their charts
     for page in (ROOT / "index.html", ROOT / "world" / "index.html"):
         html = page.read_text()
         page.write_text(re.sub(r'"dateModified": "[\d-]+"', f'"dateModified": "{DATA['updated']}"', html))
+
+    # static product pages, sitemap and product links (scripts/build-pages.mjs reads the prices.js written above)
+    import subprocess
+    subprocess.run(["node", str(ROOT / "scripts" / "build-pages.mjs")], check=True)
