@@ -79,6 +79,10 @@ node scripts/scrape.js uk macbook-pro
 
 When Apple launches or retires a product, add or remove its page in `scripts/configs.json` and its row in `scripts/build_prices.py`.
 
+## License
+
+The price data (`data/prices.json`, `data/prices.csv`) is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse it freely with credit to Apple Product Prices (apple-product-prices.com). Apple names and marks belong to Apple.
+
 ## Hosting
 
 The site is static and is served by GitHub Pages from the `main` branch root at [apple-product-prices.com](https://apple-product-prices.com) (DNS on Cloudflare, `CNAME` file in the repo).

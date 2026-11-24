@@ -9,6 +9,10 @@ For one product, read its page under /prices/ (listed below): every price is wri
 - [All prices, JSON](https://apple-product-prices.com/data/prices.json): every product and configuration with its price in each country (local currency and a USD conversion), plus the exchange rates used and each country's tax treatment.
 - [All prices, CSV](https://apple-product-prices.com/data/prices.csv): one row per product, configuration and country. Columns: category, product, configuration, country_code, country, currency, price, price_usd, taxes.
 
+## License
+
+The data files are free to reuse under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): credit "Apple Product Prices (apple-product-prices.com)". Apple names and marks belong to Apple.
+
 ## How to read the prices
 
 - `price` is the full list price in the country's currency, as shown on that country's Apple Store, rounded to a whole unit.
